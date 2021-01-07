@@ -1,0 +1,22 @@
+$RXN
+HMR_9199
+
+zn2[c] -> zn2[g]
+  1  1
+$MOL
+zn2[c]
+vmh 0000013113
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+zn2[g]
+vmh 0000013113
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   2
+M  END
+

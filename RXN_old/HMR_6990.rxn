@@ -1,0 +1,22 @@
+$RXN
+HMR_6990
+
+i[c] -> i[r]
+  1  1
+$MOL
+i[c]
+vmh 0000009517
+InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1  -1
+M  END
+$MOL
+i[r]
+vmh 0000009517
+InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1  -1
+M  END
+

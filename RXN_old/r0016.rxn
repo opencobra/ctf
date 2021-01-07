@@ -1,0 +1,134 @@
+$RXN
+r0016
+      Mrv1913  061720191542
+4 h[e] + 4 fe2[e] + o2[e] -> 2 h2o[e] + 4 fe3[e]
+  9  6
+$MOL
+h[e]
+  Mrv1913 06171915422D          
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+  -12.1982    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+h[e]
+  Mrv1913 06171915422D          
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+  -11.1964    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  2  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+h[e]
+  Mrv1913 06171915422D          
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+  -10.1946    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  3  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+h[e]
+  Mrv1913 06171915422D          
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+   -9.1929    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  4  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+fe2[e]
+  Mrv1913 06171915422D          
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+   -7.9554    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  5  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+fe2[e]
+  Mrv1913 06171915422D          
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+   -6.7179    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  6  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+fe2[e]
+  Mrv1913 06171915422D          
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+   -5.4804    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  7  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+fe2[e]
+  Mrv1913 06171915422D          
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+   -4.2429    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  8  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+o2[e]
+  Mrv1913 06171915422D          
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0            999 V2000
+   -1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  9  0  0
+   -2.4750    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 10  0  0
+  1  2  2  0  0  0  0
+M  END
+$MOL
+h2o[e]
+  Mrv1913 06171915422D          
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+  3  2  0  0  0  0            999 V2000
+    2.5929   -0.2063    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    3.3073    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  9  0  0
+    4.0218   -0.2062    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+$MOL
+h2o[e]
+  Mrv1913 06171915422D          
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+  3  2  0  0  0  0            999 V2000
+    5.7897   -0.2063    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
+    6.5041    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0 10  0  0
+    7.2186   -0.2062    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+$MOL
+fe3[e]
+  Mrv1913 06171915422D          
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    9.6936   -0.0688    0.0000 Fe  0  1  0  0  0  0  0  0  0  5  0  0
+M  CHG  1   1   3
+M  END
+$MOL
+fe3[e]
+  Mrv1913 06171915422D          
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+   10.9311   -0.0688    0.0000 Fe  0  1  0  0  0  0  0  0  0  6  0  0
+M  CHG  1   1   3
+M  END
+$MOL
+fe3[e]
+  Mrv1913 06171915422D          
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+   12.1686   -0.0688    0.0000 Fe  0  1  0  0  0  0  0  0  0  7  0  0
+M  CHG  1   1   3
+M  END
+$MOL
+fe3[e]
+  Mrv1913 06171915422D          
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+   13.4061   -0.0688    0.0000 Fe  0  1  0  0  0  0  0  0  0  8  0  0
+M  CHG  1   1   3
+M  END
+
+

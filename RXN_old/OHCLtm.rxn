@@ -1,0 +1,42 @@
+$RXN
+OHCLtm
+
+oh1[c] + cl[m] -> cl[c] + oh1[m]
+  2  2
+$MOL
+oh1[c]
+vmh 0000010703
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-M
+  2  1  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  1  0  0
+    0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
+  1  2  1  0  0  0  0
+M  CHG  1   1  -1
+M  END
+$MOL
+cl[m]
+vmh 0000007542
+InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  3  0  0
+M  CHG  1   1  -1
+M  END
+$MOL
+cl[c]
+vmh 0000007542
+InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  3  0  0
+M  CHG  1   1  -1
+M  END
+$MOL
+oh1[m]
+vmh 0000010703
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-M
+  2  1  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  1  0  0
+    0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
+  1  2  1  0  0  0  0
+M  CHG  1   1  -1
+M  END
+

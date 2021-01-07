@@ -1,0 +1,83 @@
+$RXN
+THYPX
+      Mrv1913  061720191529
+h2o2[c] + 2 h[c] + 2 i[c] -> 2 h2o[c] + iodine[c]
+  5  3
+$MOL
+h2o2[c]
+  Mrv1913 06171915292D          
+InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
+  4  3  0  0  0  0            999 V2000
+   -6.8946   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+   -7.3071    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+   -8.1321    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0
+   -8.5446    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+$MOL
+h[c]
+  Mrv1913 06171915292D          
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+   -4.6554    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  5  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+h[c]
+  Mrv1913 06171915292D          
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+   -3.6536    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  6  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+i[c]
+  Mrv1913 06171915292D          
+InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+   -2.6518    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  7  0  0
+M  CHG  1   1  -1
+M  END
+$MOL
+i[c]
+  Mrv1913 06171915292D          
+InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+   -1.6500    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  8  0  0
+M  CHG  1   1  -1
+M  END
+$MOL
+h2o[c]
+  Mrv1913 06171915292D          
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+  3  2  0  0  0  0            999 V2000
+    2.5929   -0.2063    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    3.3073    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+    4.0218   -0.2062    0.0000 H   0  0  0  0  0  0  0  0  0  5  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+$MOL
+h2o[c]
+  Mrv1913 06171915292D          
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+  3  2  0  0  0  0            999 V2000
+    5.7897   -0.2063    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
+    6.5041    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0
+    7.2186   -0.2062    0.0000 H   0  0  0  0  0  0  0  0  0  6  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+$MOL
+iodine[c]
+  Mrv1913 06171915292D          
+InChIKey=PNDPGZBMCMUPRI-UHFFFAOYSA-N
+  2  1  0  0  0  0            999 V2000
+    9.8115   -0.0688    0.0000 I   0  0  0  0  0  0  0  0  0  7  0  0
+    8.9865   -0.0688    0.0000 I   0  0  0  0  0  0  0  0  0  8  0  0
+  1  2  1  0  0  0  0
+M  END
+
+

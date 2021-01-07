@@ -1,0 +1,28 @@
+$RXN
+O2Stn
+
+o2s[c] -> o2s[n]
+  1  1
+$MOL
+o2s[c]
+vmh 0000010628
+InChIKey=OUUQCZGPVNCOIJ-UHFFFAOYSA-M
+  2  1  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
+    0.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  2  0  0
+  1  2  1  0  0  0  0
+M  CHG  1   2  -1
+M  RAD  1   1   2
+M  END
+$MOL
+o2s[n]
+vmh 0000010628
+InChIKey=OUUQCZGPVNCOIJ-UHFFFAOYSA-M
+  2  1  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
+    0.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  2  0  0
+  1  2  1  0  0  0  0
+M  CHG  1   2  -1
+M  RAD  1   1   2
+M  END
+

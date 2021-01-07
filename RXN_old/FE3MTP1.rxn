@@ -1,0 +1,22 @@
+$RXN
+FE3MTP1
+
+fe3[c] -> fe3[e]
+  1  1
+$MOL
+fe3[c]
+vmh 0000008481
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Fe  0  1  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   3
+M  END
+$MOL
+fe3[e]
+vmh 0000008481
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Fe  0  1  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   3
+M  END
+
