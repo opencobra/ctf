@@ -1,0 +1,24 @@
+$RXN
+O2t
+
+o2[e] -> o2[c]
+  1  1
+$MOL
+o2[e]
+vmh 0000010625
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+  1  2  2  0  0  0  0
+M  END
+$MOL
+o2[c]
+vmh 0000010625
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+  1  2  2  0  0  0  0
+M  END
+

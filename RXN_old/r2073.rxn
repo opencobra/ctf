@@ -1,0 +1,38 @@
+$RXN
+r2073
+
+h[e] + zn2[e] -> h[c] + zn2[c]
+  2  2
+$MOL
+h[e]
+vmh 0000009172
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+zn2[e]
+vmh 0000013113
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  2  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+h[c]
+vmh 0000009172
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+zn2[c]
+vmh 0000013113
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  2  0  0
+M  CHG  1   1   2
+M  END
+

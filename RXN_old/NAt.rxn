@@ -1,0 +1,22 @@
+$RXN
+NAt
+
+na1[e] -> na1[c]
+  1  1
+$MOL
+na1[e]
+vmh 0000010490
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+na1[c]
+vmh 0000010490
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   1
+M  END
+

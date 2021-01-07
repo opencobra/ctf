@@ -1,0 +1,38 @@
+$RXN
+FE2DMT1
+
+h[e] + fe2[e] -> h[c] + fe2[c]
+  2  2
+$MOL
+h[e]
+vmh 0000009172
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+fe2[e]
+vmh 0000008478
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  2  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+h[c]
+vmh 0000009172
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+fe2[c]
+vmh 0000008478
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  2  0  0
+M  CHG  1   1   2
+M  END
+
