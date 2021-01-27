@@ -1,0 +1,11 @@
+cyan
+COBRA Toolbox v3.0 - explicitH molecule  - 11-Jan-2021 00:19:17
+InChIKey=LELOWRISYMNNSU-UHFFFAOYSA-N
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9940    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+

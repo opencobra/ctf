@@ -1,5 +1,6 @@
-clear 
+%% Prepare data
 
+clear
 dataDir = ['~' filesep 'work' filesep 'sbgCloud' filesep 'data' filesep 'models' filesep 'published' filesep 'Recon3D_301_Thiele_2018' filesep];
 resultsDir = ['~' filesep 'work' filesep 'code' filesep 'ctf' filesep 'MOL' filesep];
 load([dataDir 'Recon3DModel_301.mat'])
@@ -7,47 +8,242 @@ load([dataDir 'Recon3DModel_301.mat'])
 if ismac
     setenv('PATH', [getenv('PATH') ':/usr/local/bin:/usr/bin:/bin:/Applications/MarvinSuite/bin']);
 end
+directories = {'inchi', 'smiles', 'KEGG', 'HMDB', 'PubChem', 'CHEBI'};
 
-% 1.- VMH (http://vmh.life/)
-% 2.- InChI (requires openBabel or Standarizer)
-% 3.- Smiles (requires openBabel or Standarizer)
-% 4.- KEGG (https://www.genome.jp/)
-% 5.- HMDB (https://hmdb.ca/)
-% 6.- PubChem (https://pubchem.ncbi.nlm.nih.gov/)
-% 7.- CHEBI (https://www.ebi.ac.uk/)
+%% Obtain metabolite structures from different sources
 
-% missingMolFiles = obtainMetStructures(Recon3DModel, [resultsDir 'inchi'], false, false,   [0 1 0 0 0 0 0]);
-% missingMolFiles = obtainMetStructures(Recon3DModel, [resultsDir 'smiles'], false, false,  [0 0 1 0 0 0 0]);
-missingMolFiles = obtainMetStructures(Recon3DModel, [resultsDir 'KEGG'], false, false,    [0 0 0 4 0 0 0]);
-missingMolFiles = obtainMetStructures(Recon3DModel, [resultsDir 'HMDB'], false, false,    [0 0 0 0 5 0 0]);
-missingMolFiles = obtainMetStructures(Recon3DModel, [resultsDir 'PubChem'], false, false, [0 0 0 0 0 6 0]);
-missingMolFiles = obtainMetStructures(Recon3DModel, [resultsDir 'CHEBI'], false, false,   [0 0 0 0 0 0 7]);
+% SOURCES
+% 1.- InChI (requires openBabel to obtain MOL file)
+% 2.- Smiles (requires openBabel to obtain MOL file)
+% 3.- KEGG (https://www.genome.jp/)
+% 4.- HMDB (https://hmdb.ca/)
+% 5.- PubChem (https://pubchem.ncbi.nlm.nih.gov/)
+% 6.- CHEBI (https://www.ebi.ac.uk/)
 
-%% Rename and assign in the correct directory
-directories = {'VMH', 'inchi', 'smiles', 'KEGG', 'HMDB', 'PubChem', 'CHEBI'};
-
+source = [0 0 0 0 0 0 0];
 for i = 1:size(directories, 2)
-    if isdir([resultsDir directories{i}])
-        fnames = dir([resultsDir directories{i} filesep 'newMol' filesep '*.mol']);
-        for j = 1:size(fnames, 1)
-            name = fnames(j).name;
-            switch name(end - 5)
-                case c
-                    compartmentDir = [resultsDir directories{i} filesep 'cytoplasm'];
-                    if ~isdir(compartmentDir)
-                        mkdir(compartmentDir)
-                    end
-                    movefile([resultsDir directories{i} filesep 'newMol', filesep name], compartmentDir)
-                    newName = regexprep(name, '\[', '\_\_91\_\_');
-                    newName = regexprep(newName, '\]', '\_\_93\_\_');
-                    movefile([compartmentDir filesep name], [compartmentDir filesep newName])
-                    getMetaboliteMsDistr(newName, compartmentDir, compartmentDir, phs)
-            % compartments = ['c'; 'e'; 'g'; 'l'; 'm'; 'n'; 'r'; 'x';'i']
-            
+    sourceData = source;
+    sourceData(i + 1) = source(i + 1) + i + 1;
+    missingMolFiles = obtainMetStructures(Recon3DModel, [resultsDir directories{i}], false, false, sourceData);
+end
 
+%% Neutralize molecule, get inchis and group them by source
+
+c = 0;
+groupedInchis = table();
+for i = 1:size(directories, 2)
+    
+    % Rename directory
+    if isdir([resultsDir directories{i}])
+        if isdir([resultsDir directories{i} filesep 'newMol'])
+            movefile([resultsDir directories{i} filesep 'newMol'], [resultsDir directories{i} filesep 'original'])
+        end
+        fnames = dir([resultsDir directories{i} filesep 'original' filesep '*.mol']);
+        for j = 1:size(fnames, 1)
             
+            % name of the file
+            name = fnames(j).name;
             
+            % Set dirs
+            originalDir = [resultsDir directories{i} filesep 'original'];
+            neutralDir = [resultsDir directories{i} filesep 'neutral'];
+            if ~isdir(neutralDir)
+                mkdir(neutralDir)
+            end
             
+            % Adjust data
+            command = ['obabel ' originalDir filesep name ' -O ' neutralDir filesep name ' –neutralize'];
+            [status, result] = system(command);
+            
+            % Get inchis of neutral metabolites
+            command = ['obabel -imol ' neutralDir filesep name ' -oinchi ' resultsDir 'inchi'];
+            [status, result] = system(command);
+            result = split(result);
+            
+            % Group inchis in the correct group
+            if any(~cellfun(@isempty, regexp(result, 'InChI=1S')))
+                inchi = result{~cellfun(@isempty, regexp(result, 'InChI=1S'))};
+                if c == 0
+                    c = c + 1;
+                    groupedInchis.metNames{c} = name(1:end-4);
+                elseif ~ismember(name(1:end-4), groupedInchis.metNames) 
+                    c = c + 1;
+                    groupedInchis.metNames{c} = name(1:end-4);
+                end
+                idx = ismember(groupedInchis.metNames, name(1:end-4));
+                eval(sprintf('groupedInchis.%s{find(ismember(groupedInchis.metNames, name(1:end-4)))} = inchi;', directories{i}));
+            end
+        end
+    end
+end
+
+% Save the table
+writetable(groupedInchis, [resultsDir 'groupedInchis'])
+
+%% Comparison
+
+% Comparison and sort results based on prime numbers. The smallest prime
+% number represent the most similar inchis between databases
+inchisArray = table2cell(readtable([resultsDir 'groupedInchis']));
+metNames = inchisArray(:, 1);
+inchisArray(:, [1 2 3]) = [];
+for i = 1:size(inchisArray, 1)
+    
+    [~, ia, ic] = unique(inchisArray(i, 1:end));
+    comparison(i, :) = ia(ic);
+    emptyIdx = cellfun(@isempty, inchisArray(i, 1:end));
+    comparison(i , emptyIdx) = NaN;
+    % Acsending values
+    c = 0;
+    for j = 1:size(inchisArray, 2)
+        uniqueValue = comparison(i, j);
+        if ~isnan(uniqueValue) && c < uniqueValue
+            c = c + 1;
+            comparison(i, find(comparison(i, :) == uniqueValue)) = c;
+        end
+    end
+    
+    % Add the id of the comparison
+    primeProd = 1;
+    for j = 1:size(inchisArray, 2)
+        switch comparison(i, j)
+            case 1
+                primeProd = primeProd * 2;
+            case 2
+                primeProd = primeProd * 3;
+            case 3
+                primeProd = primeProd * 5;
+            case 4
+                primeProd = primeProd * 7;
+            case 5
+                primeProd = primeProd * 11;
+            case 6
+                primeProd = primeProd * 13;
+        end
+    end
+    primeCode(i, 1) = primeProd;
+end
+
+% Create table
+comparisonTable = array2table([comparison primeCode] ,'VariableNames', ...
+    [directories(3:end) 'primeValue']);
+comparisonTable = [table(metNames,'VariableNames', {'metNames'}) comparisonTable];
+
+% Save results
+writetable(comparisonTable, [resultsDir 'comparisonTable.xlsx'])
+
+%% Save VMH files
+
+%%%%%%%%%%%%%%%%  primeProd coding: %%%%%%%%%%%%%%%%%%%
+%                                                     %
+%                    Priority 1                       %
+% 16            - four equal IDS                      %
+% 8             - three equal IDs                     %
+% 4             - two equal IDs                       %
+%                                                     %
+%                    Priority 2                       %
+% 24 & 54       - three equal IDs one different       %
+% 12 & 18       - two equal IDs one different         %
+% 60 & 90 & 150 - two equal IDs and two different IDs %
+%                                                     %
+%                    Priority 3                       %
+% 36            - two pairs of equal IDs (50-50)      %
+%                                                     %
+%                    Priority 4                       %
+% 2             - one id                              %
+% 6             - two different IDs                   %
+% 30            - three different IDs                 %
+% 210           - all different                       %
+%                                                     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+forVMH = [16 8 4];
+for i = 1:size(comparisonTable)
+    
+    file = comparisonTable.metNames{i};
+    
+    % Create a VMH dir if not exist
+    VMHdir = [resultsDir 'VMH' filesep 'neutral' filesep];
+    VMHdirStd = [resultsDir 'VMH' filesep 'neutralStandardized' filesep];
+    if ~isdir(VMHdir)
+        mkdir(VMHdir)
+        mkdir(VMHdirStd)
+    end
+    
+    % Move files if numbers in "forVMH" are present in comparisonTable.primeProd
+    if ismember(comparisonTable.primeValue(i), forVMH)
+        dirToVmh = min(find(comparisonTable{i, 2:5} == mode(comparisonTable{i, 2:5})));
+        switch dirToVmh
+            case 1 % KEGG
+                copyfile([resultsDir 'KEGG' filesep 'neutral' filesep file '.mol'], [VMHdir file '.mol'])
+            case 2 % HMDB
+                copyfile([resultsDir 'HMDB' filesep 'neutral' filesep file '.mol'], [VMHdir file '.mol'])
+            case 3 % PubChem
+                copyfile([resultsDir 'PubChem' filesep 'neutral' filesep file '.mol'], [VMHdir file '.mol'])
+            case 4 % CHEBI
+                copyfile([resultsDir 'CHEBI' filesep 'neutral' filesep file '.mol'], [VMHdir file '.mol'])
+        end
+    end
+end
+
+%% standardize MOL files in VMH
+
+[standardised, nonStandardised, InChIs, SMILES] = standardiseMolDatabase(VMHdir, VMHdirStd, 'explicitH');
+
+%% Adjust pH based on the compartment
+
+load([dataDir 'Recon3DModel_301.mat'])
+metsRecon = Recon3DModel.mets;
+fnames = dir([VMHdirStd filesep 'molFiles' filesep '*.mol']);
+fnames = regexprep({fnames.name}, '.mol', '');
+
+% Create a VMH dir with adjusted pH if not exist
+VMHdirAdpH = [VMHdirStd 'adjustedpH' filesep];
+if ~isdir(VMHdirAdpH)
+    mkdir(VMHdirAdpH)
+end
+
+for i = 1:size(metsRecon, 1)
+    
+    name = regexprep(metsRecon{i}, '(\[\w\])', '');
+    % Sey the correct pH
+    if ismember(name, fnames)
+        switch metsRecon{i}(end-1)
+            case 'c' % Cytoplasm
+                compartmentPH = 7.2;
+            case 'e' % Extra cellular space
+                compartmentPH = 7.4;
+            case 'g' % Golgi apparatus
+                compartmentPH = 6.35;
+            case 'l' % Lysosome
+                compartmentPH = 5.5;
+            case 'm'  % Mitochondria
+                compartmentPH = 8;
+            case 'n'  % Nucleus
+                compartmentPH = 7.2;
+            case 'r' % Ribosome
+                compartmentPH = 7.2;
+            case 'x'  % Peroxisome
+                compartmentPH = 7;
+            case 'i'  % Inner mitochondrial membrane
+                compartmentPH = 7.2;
+        end
+        % adjust pH
+        command = ['obabel ' VMHdirStd 'molFiles' filesep name '.mol -O ' VMHdirAdpH name ' --p ' compartmentPH];
+        [status, result] = system(command);
+        
+    end
+            %           
+
+% compartments = ['c'; 'e'; 'g'; 'l'; 'm'; 'n'; 'r'; 'x';'i']
+% ph = [7.2; 7.4; 6.35; 5.5; 8; 7.2; 7.2; 7; 7.2];
+%             % Adjust pH based on the cellular compartment
+%             switch name(end - 5)
+%                 
+
+
+
+
 % molFileDir = [resultsDir 'dataBase' filesep 'met' filesep 'explicitH', filesep 'molFiles'];
 % outputDir = [resultsDir 'dataBase' filesep 'rxn' filesep];
 % if ~exist(outputDir,'dir')
@@ -57,15 +253,15 @@ for i = 1:size(directories, 2)
 % hMapping = true;
 % maxTime = 1800;
 % standariseRxn = true;
-% 
+%
 % standardisedRxns = obtainAtomMappingsRDT2(model, molFileDir, outputDir, rxnsToAM, hMapping, maxTime, standariseRxn);
-% 
+%
 % mappedRxns = transportRxnAM([outputDir 'rxnFiles'], [outputDir 'atomMapped']);
-% 
+%
 % standardiseDB = false
-% 
+%
 % if standardiseDB
-%     
+%
 %     movefile(molDir, regexprep(molDir, 'nonStandardised',  'newMol'))
 %     molDir = [resultsDir 'dataBase' filesep 'met' filesep 'newMol'];
 %     standardisedDir = [resultsDir 'dataBase' filesep 'met' ...
@@ -73,14 +269,14 @@ for i = 1:size(directories, 2)
 %     [standardised, nonStandardised, InChIs, SMILES] = ...
 %         standardiseMolDatabase(molDir, standardisedDir, ...
 %     standardiseMolFiles)
-% 
+%
 % end
-% 
+%
 % updateDB = true;
 % missingMolFiles = obtainMetStructures(model, outputDir, updateDB, standardiseMolFiles, orderOfPreference);
-% 
+%
 % outputDir = [outputDir filesep 'rxn' filesep];
-% 
+%
 % obtainAtomMappingsRDT2()
-% 
+%
 % clearvars -except model dataDir resultsDir softwareDir
