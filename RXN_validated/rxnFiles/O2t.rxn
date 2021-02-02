@@ -1,0 +1,23 @@
+$RXN
+O2t
+
+o2[e] -> o2[c]
+  1  1
+$MOL
+o2[e]
+COBRA Toolbox v3.0 - Adjusted pH molecule  - 25-Jan-2021 11:08:46
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+M  END
+$MOL
+o2[c]
+COBRA Toolbox v3.0 - Adjusted pH molecule  - 25-Jan-2021 10:58:29
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+M  END

@@ -1,0 +1,10 @@
+co[e]
+COBRA Toolbox v3.0 - Adjusted pH molecule  - 25-Jan-2021 11:00:25
+InChIKey=UGFAIRIUMAVXCW-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+M  CHG  2   1  -1   2   1
+M  END
+

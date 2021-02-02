@@ -1,0 +1,375 @@
+--------------------------------------------------------------
+ 
+XomicsToModel input options:
+ 
+           diaryFilename: '/Users/gpreciat/work/code/ctf/MOL/VMH/allIG_deletModelGenes_transcriptomicsT0_mediaUBRelaxed_limitBounds100k_fastCore_zero_IG/20210111T185533_gpreciat_diary.txt'
+              printLevel: 2
+            setObjective: ''
+     boundPrecisionLimit: 1e-05
+            fluxCCmethod: 'fastcc'
+    tissueSpecificSolver: 'fastCore'
+       curationOverOmics: 1
+    oneRxnsPerActiveGene: 0
+               tresholdT: 0
+          TolMinBoundary: -100000
+          TolMaxBoundary: 100000
+          sinkDMinactive: 1
+     nonCoreSinksDemands: 'closeAll'
+            closeUptakes: 1
+            relaxOptions: [1×1 struct]
+               inputData: '~/work/sbgCloud/programReconstruction/projects/exoMetDN/data/xomics/inputData.xlsx'
+             activeGenes: [251×1 double]
+         activeReactions: {390×1 cell}
+              sinkDemand: [49×8 table]
+               mediaData: [62×14 table]
+                  exoMet: [66×6 table]
+                rxns2add: [15×5 table]
+             coupledRxns: [11×5 table]
+          rxns2constrain: [62×5 table]
+             rxns2remove: [228×6 table]
+           inactiveGenes: [5893×1 double]
+             growthMedia: [62×3 table]
+      transcriptomicData: [1202×2 table]
+               tresholdP: 2
+              uptakeSign: -1
+             fluxEpsilon: 1e-05
+       inactiveReactions: []
+        weightsFromOmics: 0
+
+--------------------------------------------------------------
+Feasible generic input model.
+Replacing reaction name DM_atp_c_ with ATPM, because it is not strictly a demand reaction.
+ATP demand is not present in model
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('XomicsToModel', '/Users/gpreciat/work/code/xomicstomodel/functions/XomicsToModel.m', 199)" style="font-weight:bold">XomicsToModel</a> (<a href="matlab: opentoline('/Users/gpreciat/work/code/xomicstomodel/functions/XomicsToModel.m',199,0)">line 199</a>)
+ATP demand is not present in model
+} 
+% Generate iDopaNeuro model varations
+%
+% Important abveviations:
+%
+% DATATYPE:
+% All - All data collected included
+% noB - No bibliomic data included
+% noC - No cell culture data included
+% noM - No Metabolomic data included
+% noT - No Transcriptomic data included
+
+%% 1. Prepare data to create models
+clear
+
+resultsDir = [pwd filesep];
+
+if ~isfile([resultsDir filesep 'analysis.mat'])
+    
+    resultsDirInfo = dir(resultsDir);
+    resultsDirInfo = resultsDirInfo(resultsDirInfo.isdir);
+    
+    changeCobraSolver('gurobi','LP');
+    changeCobraSolver('gurobi','QP');
+    disp('Generating test models ...');
+    % Set ids
+    dataType = {'All'};
+    
+    metabolomicData = {'allIG'};
+    activeGenesApproach = {'deletModelGenes', 'oneRxnsPerActiveGene'};
+    transcriptomicThreshold = {'transcriptomicsT0', 'transcriptomicsT2'};
+    toRelax = {'mediaUBRelaxed', 'mediaLBRelaxed', 'mediaBBRelaxed'};
+    limitBounds = {'limitBounds100k'};
+    %tissueSpecificSolver = {'fastCore','thermoCore'};
+    tissueSpecificSolver = {'fastCore'};
+    BPLexoMet = {'zero', 'BPL'};
+    inactiveGenesTranscriptomics = [true false];
+    
+    for firstGruoup = 1:length(metabolomicData)
+        for secondGruoup = 1:length(activeGenesApproach)
+            for thirdGruoup = 1:length(transcriptomicThreshold)
+                for fourthGruoup = 1:length(toRelax)
+                    for fifthGruoup = 1:length(limitBounds)
+                        for sixthGroup = 1:length(tissueSpecificSolver)
+                            for seventhGroup = 1:length(BPLexoMet)
+                                for eigthGroup = 1:length(inactiveGenesTranscriptomics)
+                                    % Prepare data for a new directory
+                                    % MetabolomicData
+                                    if firstGruoup ==1
+                                        datainput = [resultsDir 'initialDataXomics_allIG_'];
+                                    else
+                                        datainput = [resultsDir 'initialDataXomics_someIG_'];
+                                    end
+                                    % Active genes approach
+                                    if secondGruoup == 1
+                                        oneRxnsPerActiveGene = 0;
+                                    else
+                                        oneRxnsPerActiveGene = 1;
+                                    end
+                                    % Transcriptomic Threshold
+                                    if thirdGruoup == 1
+                                        datainput = [datainput 'T0.mat'];
+                                        thresholdT = 0;
+                                    else
+                                        datainput = [datainput 'T2.mat'];
+                                        thresholdT = 2;
+                                    end
+                                    % To relax
+                                    if fourthGruoup == 1
+                                        relax = 'UB';
+                                    elseif fourthGruoup == 2
+                                        relax = 'LB';
+                                    else
+                                        relax = '';
+                                    end
+                                    % limitBounds
+                                    if fifthGruoup == 1
+                                        lBounds = 100000;
+                                    end
+                                    if sixthGroup ==1
+                                        TSS = 'fastCore';
+                                    else
+                                        TSS = 'thermoCore';
+                                    end
+                                    if eigthGroup == 1
+                                        IG = 'IG';
+                                    else
+                                        IG = 'NIG';
+                                    end
+                                    
+                                    workingDirectory = [resultsDir metabolomicData{firstGruoup} '_' ...
+                                        activeGenesApproach{secondGruoup} '_' ...
+                                        transcriptomicThreshold{thirdGruoup} '_' ...
+                                        toRelax{fourthGruoup} '_' ...
+                                        limitBounds{fifthGruoup} '_' ...
+                                        tissueSpecificSolver{sixthGroup} '_' ...
+                                        BPLexoMet{seventhGroup} '_' ...
+                                        IG];
+                                    
+                                    if ~exist(workingDirectory,'dir')
+                                        mkdir(workingDirectory)
+                                    end
+                                    
+                                    
+                                    if isunix()
+                                        name = getenv('USER');
+                                    else
+                                        name = getenv('username');
+                                    end
+                                    options.diaryFilename = [workingDirectory filesep datestr(now,30) '_' name '_diary.txt'];
+                                    fprintf('%s\n','Diary written to:');
+                                    fprintf('%s\n',options.diaryFilename);
+                                    % Custom options
+                                    options.printLevel = 2;
+                                    options.setObjective = ''; % No objective function
+                                    feasTol = getCobraSolverParams('LP', 'feasTol');
+                                    options.boundPrecisionLimit = feasTol*10;
+                                    options.fluxCCmethod = 'fastcc';
+                                    options.tissueSpecificSolver = 'fastCore';
+                                    options.curationOverOmics = true;
+                                    options.oneRxnsPerActiveGene = oneRxnsPerActiveGene;
+                                    options.tresholdT = thresholdT;
+                                    options.tissueSpecificSolver = TSS;
+                                    options.TolMinBoundary = -lBounds; %  Minimum lower bound allow
+                                    options.TolMaxBoundary = lBounds; %  Maximum upper bound allow
+                                    options.sinkDMinactive = 1; % Set non-core sinks and demands to inactive
+                                    
+                                    options.nonCoreSinksDemands='closeAll';
+                                    % Cell culture information
+                                    options.closeUptakes = true;
+                                    
+                                    % Relaxation options
+                                    options.relaxOptions.internalRelax = 0;
+                                    options.relaxOptions.steadyStateRelax = 0;
+                                    options.relaxOptions.printLevel = 2;
+                                    options.relaxOptions.bounds = relax;
+                                    
+                                    
+                                    if ~isfile(datainput)
+                                        
+                                        % Load input data
+                                        %/home/rfleming/work/sbgCloud/programReconstruction/projects/exoMetDN/data/xomics
+                                        inputFolder = ['~' filesep 'work' filesep 'sbgCloud' filesep 'programReconstruction' filesep 'projects' filesep 'exoMetDN' filesep 'data' filesep 'xomics'];
+                                        %inputFolder = ['~' filesep 'work' filesep 'sbgCloud' filesep 'programReconstruction' filesep 'projects' filesep 'exoMetDN' filesep 'papers' filesep 'v20' filesep 'SM'];
+                                        if ~isempty(regexp(datainput, 'someIG'))
+                                            inputData = [inputFolder filesep 'inputData_rf_correct.xlsx']
+                                        elseif ~isempty(regexp(datainput, 'allIG'))
+                                            inputData = [inputFolder filesep 'inputData.xlsx'];
+                                        elseif ~isempty(regexp(datainput, 'topPlatforms'))
+                                            inputData = [inputFolder filesep 'inputData_topPlatforms.xlsx'];
+                                        end
+                                        options = preprocessingOmicsModel(inputData,1,1,options);
+                                        
+                                        % Load Recon3D
+                                        if 0
+                                            load([inputFolder filesep 'Recon3DModel_301.mat']);
+                                            model.csense(1:size(model.S, 1), 1) = 'E';
+                                            model = convertOldStyleModel(model);
+                                        else
+                                            model = readCbModel([inputFolder filesep 'Recon3DModel_301_thermo.mat']);
+                                        end
+                                        
+                                        
+                                        % Cell culture data
+                                        % This script use the concentrations (uM/L) and cell culture data to
+                                        % calculate the fluxes of media metabolites
+                                        
+                                        if 0
+                                            % Cell culture data
+                                            cellW =	6.4045E-10; % grams
+                                            interval = 48; % hrs
+                                            volume = 0.004; % L
+                                            uptakeSign= -1;
+                                            noCells	= 963556;%855355
+                                            
+                                            % Calculate uptakes
+                                            % Assign growthMedia data
+                                            options.growthMedia = table(options.mediumRxns, options.mediumConcentrations',options.mediumConcentrations','VariableNames',{'rxnID', 'mediumMaxUptake','mediumConcentrations'});
+                                            for i = 1:length(options.mediumRxns)
+                                                options.growthMedia.mediumMaxUptake(i) = (options.mediumConcentrations(i) * uptakeSign * volume) / (interval * noCells * cellW);
+                                            end
+                                            
+                                            options = rmfield(options, {'mediumRxns', 'mediumConcentrations'});
+                                            clear cellW interval volume uptakeSign noCells mediaRxns2constraint ...
+                                                uptake mediaConstraintDescription rxnID
+                                        else
+                                            %The
+                                            volume = 0.002; %(L)
+                                            interval = 48; %(hr)
+                                            average_protein_concentration = 0.3989;% (g/L)
+                                            assay_volume = 0.00045; %(L)
+                                            protein_fraction = 0.706; %dimensionless
+                                            uptakeSign= -1; %dimensionless
+                                            
+                                            options.growthMedia = table(options.mediaData.rxnID, ...
+                                                options.mediaData.mediumConcentrations, options.mediaData.mediumConcentrations, ...
+                                                'VariableNames', {'rxnID', 'mediumMaxUptake','mediumConcentrations'});
+                                            for i = 1:length(options.mediaData.rxnID)
+                                                % options.mediumConcentrations(i) *
+                                                % (uptakeSign * volume(L) * protein_fraction) /
+                                                % (interval (hr) * average_protein_concentration (gDW/L) * assay_volume(L))
+                                                options.growthMedia.mediumMaxUptake(i) =...
+                                                    options.growthMedia.mediumConcentrations(i) * ...
+                                                    (uptakeSign * volume * protein_fraction) / ...
+                                                    (interval * average_protein_concentration * assay_volume);
+                                            end
+                                        end
+                                        % Transcriptomics
+                                        % To generate a context-specific, flux-consistent, constraint-based model transcriptomic data is used to define which reactions should be included or excluded in the model. Manual curation of reactions and genes makes this selection even more specific. The list of transcripts detected can be either loaded in a list of Entrez ID or a treshold can be applied on them. The optional variables that can be included in the transcriptomics section are:
+                                        transcriptomicAnalysis = [inputFolder filesep 'SM7.tab'];
+                                        if inactiveGenesTranscriptomics(eigthGroup)
+                                            transcriptomicData = expression2model(model, transcriptomicAnalysis, false, [], thresholdT)';
+                                            options.inactiveGenes = [options.inactiveGenes; cellfun(@str2num,transcriptomicData.inactive)];
+                                            transcriptomicData = rmfield(transcriptomicData, 'inactive');
+                                        else
+                                            transcriptomicData = expression2model(model, transcriptomicAnalysis, false, [], thresholdT)';
+                                            transcriptomicData = rmfield(transcriptomicData, 'inactive');
+                                        end
+                                        %%
+                                        T = struct2table(transcriptomicData);
+                                        T.Properties.VariableNames = {'genes', 'expVal'};
+                                        options.transcriptomicData = T;
+                                        
+                                        options.relaxOptions.rxnID = unique([options.exoMet.rxnID; options.growthMedia.rxnID]);
+                                        save(datainput, 'model', 'options')
+                                        
+                                    else
+                                        load(datainput)
+                                    end
+                                    
+                                    %% 2. Generate models
+                                    
+                                    % Set data type
+                                    options_All = options;
+                                    options_noB = rmfield(options, {'rxns2add', 'rxns2constrain', ...
+                                        'activeReactions', 'activeGenes', 'inactiveGenes'});
+                                    options_noC = rmfield(options, {'growthMedia', 'closeUptakes'});
+                                    options_noM = rmfield(options, 'exoMet');
+                                    options_noT = rmfield(options, 'transcriptomicData');
+                                    
+                                    for i = 1:length(dataType)
+                                        try % For unfeasible models
+                                            eval(sprintf('[iDopaNeuro, reportIDN] = XomicsToModel(model, options_%s);', dataType{i}));
+                                            
+                                            fprintf('%s\n','Diary written to:');
+                                            fprintf('%s\n',options.diaryFilename);
+                                            
+                                            % Close ions
+                                            S = full(iDopaNeuro.S);
+                                            exMet = contains(iDopaNeuro.mets, '[e]');
+                                            ions = isstrprop(iDopaNeuro.metFormulas, 'upper');
+                                            ions = cellfun(@(x) sum(x) == 1, ions);
+                                            exIonsIdx = find(and(exMet, ions));
+                                            exIonsIdx(strmatch('O2', iDopaNeuro.metFormulas(exIonsIdx))) = [];
+                                            exIonsIdx(strmatch('X', iDopaNeuro.metFormulas(exIonsIdx))) = [];
+                                            cols = [];
+                                            for j = 1:length(exIonsIdx)
+                                                idx = find(S(exIonsIdx(j), :));
+                                                for k = 1:length(idx)
+                                                    if length(find(S(:, idx(k)))) == 1
+                                                        cols = [cols idx(k)];
+                                                    end
+                                                end
+                                            end
+                                            iDopaNeuro = changeRxnBounds(iDopaNeuro, iDopaNeuro.rxns(cols), 0, 'l');
+                                            iDopaNeuro = changeRxnBounds(iDopaNeuro, iDopaNeuro.rxns(cols), 0, 'u');
+                                            
+                                            
+                                            if isequal(BPLexoMet(seventhGroup), {'BPL'})
+                                                % < boundPresitionLimit == boundPresitionLimit
+                                                exoMetBool = ismember(iDopaNeuro.constraintDescription, 'Metabolomics constraints');
+                                                for j = 1:size(reportIDN.options.exoMet.rxnID, 1)
+                                                    idx = findRxnIDs(iDopaNeuro, reportIDN.options.exoMet.rxnID{j});
+                                                    if idx ~= 0
+                                                        if iDopaNeuro.lb(idx) == 0 && reportIDN.options.exoMet.mean(j) > 0
+                                                            iDopaNeuro.lb(idx) = reportIDN.options.boundPrecisionLimit;
+                                                        elseif iDopaNeuro.lb(idx) == 0 && reportIDN.options.exoMet.mean(j) < 0
+                                                            iDopaNeuro.lb(idx) = - reportIDN.options.boundPrecisionLimit;
+                                                        elseif iDopaNeuro.ub(idx) == 0 && reportIDN.options.exoMet.mean(j) > 0
+                                                            iDopaNeuro.ub(idx) = reportIDN.options.boundPrecisionLimit;
+                                                        elseif iDopaNeuro.ub(idx) == 0 && reportIDN.options.exoMet.mean(j) < 0
+                                                            iDopaNeuro.ub(idx) = - reportIDN.options.boundPrecisionLimit;
+                                                        end
+                                                    end
+                                                end
+                                            end
+                                            
+                                            
+                                            % Save the model with the correct name
+                                            switch dataType{i}
+                                                case 'All'
+                                                    newName = 'allOmicsModel';
+                                                case 'noB'
+                                                    newName = 'noBibliomicsModel';
+                                                case 'noC'
+                                                    newName = 'noCellDataModel';
+                                                case 'noM'
+                                                    newName = 'noMetabolomicsModel';
+                                                case 'noT'
+                                                    newName = 'noTranscriptomicsModel';
+                                            end
+                                            eval(sprintf('%s = iDopaNeuro;', newName));
+                                            save([workingDirectory '/' newName '.mat'], newName, 'reportIDN')
+                                        catch %ME
+%                                              disp(ME.message)
+%                                              rethrow(ME)
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+    disp('The test models have been generated');
+else
+    disp('The test models have been generated');
+end
+
+ > changeCobraSolver: Gurobi interface added to MATLAB path.
+ > The compatibility can only be evaluated on the following mac OS versions: macOS 10.12, macOS 10.13.
+ > The solver compatibility is not tested with MATLAB R2018b.
+
+ > changeCobraSolver: Gurobi interface added to MATLAB path.
+ > The compatibility can only be evaluated on the following mac OS versions: macOS 10.12, macOS 10.13.
+ > The solver compatibility is not tested with MATLAB R2018b.
+Generating test models ...
+Diary written to:
+/Users/gpreciat/work/sbgCloud/programExperimental/projects/xomics/results/iDN2/allIG_deletModelGenes_transcriptomicsT0_mediaUBRelaxed_limitBounds100k_fastCore_zero_IG/20210111T190111_gpreciat_diary.txt

@@ -1,0 +1,21 @@
+$RXN
+HMR_5420
+
+fe2[c] -> fe2[m]
+  1  1
+$MOL
+fe2[c]
+COBRA Toolbox v3.0 - Adjusted pH molecule  - 25-Jan-2021 11:04:18
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+fe2[m]
+COBRA Toolbox v3.0 - Adjusted pH molecule  - 25-Jan-2021 11:04:08
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
