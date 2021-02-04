@@ -5,37 +5,33 @@ h[c] + fe2[c] -> h[m] + fe2[m]
   2  2
 $MOL
 h[c]
- OpenBabel01242115322D
-
+COBRA Toolbox v3.0 - explicitH molecule  - 02-Feb-2021 18:34:16
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
-    0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
 M  CHG  1   1   1
 M  END
-$$$$
 $MOL
 fe2[c]
- OpenBabel01242115312D
-
+COBRA Toolbox v3.0 - explicitH molecule  - 02-Feb-2021 18:06:26
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
-    0.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
 M  CHG  1   1   2
 M  END
-$$$$
 $MOL
 h[m]
- OpenBabel01242115322D
-
+COBRA Toolbox v3.0 - explicitH molecule  - 02-Feb-2021 18:34:16
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
-    0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
 M  CHG  1   1   1
 M  END
-$$$$
 $MOL
 fe2[m]
- OpenBabel01242115312D
-
+COBRA Toolbox v3.0 - explicitH molecule  - 02-Feb-2021 18:06:26
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
-    0.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
 M  CHG  1   1   2
 M  END
-$$$$

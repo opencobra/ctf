@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[O:1]=[O:2].[Fe+2:3].[Fe+2:4].[Fe+2:5].[Fe+2:6].[H+:7].[H+:8].[H+:9].[H+:10]>>[O:1]([H:7])[H:8].[O:2]([H:9])[H:10].[Fe+3:3].[Fe+3:4].[Fe+3:5].[Fe+3:6]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{1=1, 2=2, 3=10, 7=6}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{1=5, 2=4, 3=6, 7=10}
+

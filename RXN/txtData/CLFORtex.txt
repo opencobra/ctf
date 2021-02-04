@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[O-:1][CH:2]=[O:3].[O-:4][CH:5]=[O:6].[Cl-:7]>>[O-:4][CH:5]=[O:6].[O-:1][CH:2]=[O:3].[Cl-:7]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{1=9, 2=6, 3=7, 4=8, 5=5}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{1=9, 2=6, 3=7, 4=8, 5=5}
+

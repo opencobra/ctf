@@ -1,12 +1,12 @@
 
 //
 SELECTED AAM MAPPING
-[H+:1]>>[H+:1]
+[Zn+2:1].[H+:2]>>[Zn+2:1].[H+:2]
 
 
 //
 REACTANT INPUT ATOM INDEX<->AAM ID
-{1=1}
+{1=2, 2=1}
 PRODUCT INPUT ATOM INDEX<->AAM ID
-{1=1}
+{1=2, 2=1}
 

@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[Cl-:1].[Na+:2]>>[Cl-:1].[Na+:2]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{1=2, 2=1}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{1=2, 2=1}
+
