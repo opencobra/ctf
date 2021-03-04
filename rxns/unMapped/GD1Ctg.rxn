@@ -1,0 +1,13 @@
+$RXN
+GD1Ctg
+COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:26
+gd1c_hs[c] -> gd1c_hs[g]
+  1  1
+$MOL
+gd1c_hs[c]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:49:52
+InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
+$MOL
+gd1c_hs[g]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:49:52
+InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M

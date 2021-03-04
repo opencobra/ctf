@@ -1,0 +1,13 @@
+$RXN
+GBSIDEtl
+COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:26
+gbside_hs[c] -> gbside_hs[l]
+  1  1
+$MOL
+gbside_hs[c]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:49:24
+InChIKey=OBQMLSFOUZUIOB-ORJLUFJISA-M
+$MOL
+gbside_hs[l]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:49:24
+InChIKey=OBQMLSFOUZUIOB-ORJLUFJISA-M

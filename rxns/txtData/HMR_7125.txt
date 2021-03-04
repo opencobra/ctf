@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[Cl:1][C:4]([Cl:2])=[CH2:3]>>[Cl:2][C:4]([Cl:1])=[CH2:3]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{}
+

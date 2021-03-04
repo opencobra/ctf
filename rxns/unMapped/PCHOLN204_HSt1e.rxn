@@ -1,0 +1,13 @@
+$RXN
+PCHOLN204_HSt1e
+COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:21
+pcholn204_hs[e] -> pcholn204_hs[c]
+  1  1
+$MOL
+pcholn204_hs[e]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:32:33
+InChIKey=BBNHCUBQEQJHIG-ARVQJMHYSA-O
+$MOL
+pcholn204_hs[c]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:32:33
+InChIKey=BBNHCUBQEQJHIG-ARVQJMHYSA-O

@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[NH4+:1].[Ca+2:2].[Na+:3].[Na+:4].[Na+:5].[Na+:6]>>[NH4+:1].[Ca+2:2].[Na+:3].[Na+:4].[Na+:5].[Na+:6]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{}
+

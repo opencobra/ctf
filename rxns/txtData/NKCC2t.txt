@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[NH4+:1].[Cl-:2].[Cl-:3].[Na+:4]>>[NH4+:1].[Cl-:2].[Cl-:3].[Na+:4]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{}
+

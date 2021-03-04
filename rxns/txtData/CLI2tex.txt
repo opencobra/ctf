@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[I-:1].[I-:2].[Cl-:3]>>[I-:1].[I-:2].[Cl-:3]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{}
+

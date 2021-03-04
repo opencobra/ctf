@@ -1,0 +1,13 @@
+$RXN
+STN_ANTIGENt
+COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:14
+sTn_antigen[g] -> sTn_antigen[e]
+  1  1
+$MOL
+sTn_antigen[g]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:47:02
+InChIKey=JDTUMPKOJBQPKX-GBNDHIKLSA-L
+$MOL
+sTn_antigen[e]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:47:02
+InChIKey=JDTUMPKOJBQPKX-GBNDHIKLSA-L

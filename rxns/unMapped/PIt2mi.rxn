@@ -1,0 +1,57 @@
+$RXN
+PIt2mi
+COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:27
+h[i] + pi[i] -> h[m] + pi[m]
+  2  2
+$MOL
+h[i]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+pi[i]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:52
+InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8400   -1.4850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  CHG  2   1  -1   2  -1
+M  END
+$MOL
+h[m]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+pi[m]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:52
+InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
+  6  5  0  0  0  0  0  0  0  0999 V2000
+    0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8400   -1.4850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  CHG  2   1  -1   2  -1
+M  END
