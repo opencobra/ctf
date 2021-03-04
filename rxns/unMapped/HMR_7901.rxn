@@ -1,0 +1,19 @@
+$RXN
+HMR_7901
+COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:12
+M02050[c] -> M02050[e]
+  1  1
+$MOL
+M02050[c]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:46:32
+InChIKey=ZRALSGWEFCBTJO-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+M  END
+$MOL
+M02050[e]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:46:32
+InChIKey=ZRALSGWEFCBTJO-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+M  END

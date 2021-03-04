@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[I-:1].[Na+:2].[Na+:3]>>[I-:1].[Na+:2].[Na+:3]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{}
+

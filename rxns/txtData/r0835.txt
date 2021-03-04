@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[O:3]=[C:9]([O-:4])[C:5]([H:1])([H:2])[C:6](=[O:7])[O-:8].[O:10]=[S:11](=[O:12])([O-:13])[O-:14]>>[O-:16][C:21](=[O:15])[C:17]([H:2])([H:1])[C:18](=[O:19])[O-:20].[O:22]=[S:23](=[O:24])([O-:25])[O-:26]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{}
+

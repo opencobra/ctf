@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[Ca+2:1].[Li+:2].[Li+:3].[Li+:4].[Li+:5]>>[Ca+2:1].[Li+:2].[Li+:3].[Li+:4].[Li+:5]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{}
+

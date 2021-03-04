@@ -1,0 +1,13 @@
+$RXN
+PCHOLHEP_HSt1e
+COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:21
+pcholhep_hs[e] -> pcholhep_hs[c]
+  1  1
+$MOL
+pcholhep_hs[e]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:31:54
+InChIKey=XUDGAAFUMTTZCO-SAAUORLLSA-O
+$MOL
+pcholhep_hs[c]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:31:54
+InChIKey=XUDGAAFUMTTZCO-SAAUORLLSA-O

@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[cH:1]1[n:2][c:3]([cH:4][n:6]1[CH3:8])[CH2:5][CH2:7][NH3+:9]>>[cH:1]1[n:6]([CH3:8])[cH:4][c:3]([n:2]1)[CH2:5][CH2:7][NH3+:9]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{}
+

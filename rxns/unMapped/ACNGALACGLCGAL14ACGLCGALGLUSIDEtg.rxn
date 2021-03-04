@@ -1,0 +1,13 @@
+$RXN
+ACNGALACGLCGAL14ACGLCGALGLUSIDEtg
+COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:12:58
+acngalacglcgal14acglcgalgluside_hs[g] -> acngalacglcgal14acglcgalgluside_hs[c]
+  1  1
+$MOL
+acngalacglcgal14acglcgalgluside_hs[g]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:07:32
+InChIKey=SQMNIXJSBCSNCI-LUWBGTNYSA-K
+$MOL
+acngalacglcgal14acglcgalgluside_hs[c]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:07:32
+InChIKey=SQMNIXJSBCSNCI-LUWBGTNYSA-K

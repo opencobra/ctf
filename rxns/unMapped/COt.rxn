@@ -1,0 +1,25 @@
+$RXN
+COt
+COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:09
+co[c] -> co[e]
+  1  1
+$MOL
+co[c]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:26:10
+InChIKey=UGFAIRIUMAVXCW-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+M  CHG  2   1  -1   2   1
+M  END
+$MOL
+co[e]
+COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:26:10
+InChIKey=UGFAIRIUMAVXCW-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+M  CHG  2   1  -1   2   1
+M  END
