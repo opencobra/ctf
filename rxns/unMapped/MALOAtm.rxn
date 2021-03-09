@@ -1,11 +1,11 @@
 $RXN
 MALOAtm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:31
 oaa[c] + mal_L[m] -> mal_L[c] + oaa[m]
   2  2
 $MOL
 oaa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:57
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:44
 InChIKey=KHPXUQMNIQBQEV-UHFFFAOYSA-L
  11 10  0  0  0  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33,7 +33,7 @@ M  CHG  2   7  -1   8  -1
 M  END
 $MOL
 mal_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:18:45
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:59:51
 InChIKey=BJEPYKJPYRNKOW-REOHCLBHSA-L
  13 12  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -65,7 +65,7 @@ M  CHG  2   7  -1   9  -1
 M  END
 $MOL
 mal_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:18:45
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:59:51
 InChIKey=BJEPYKJPYRNKOW-REOHCLBHSA-L
  13 12  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -97,7 +97,7 @@ M  CHG  2   7  -1   9  -1
 M  END
 $MOL
 oaa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:57
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:44
 InChIKey=KHPXUQMNIQBQEV-UHFFFAOYSA-L
  11 10  0  0  0  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

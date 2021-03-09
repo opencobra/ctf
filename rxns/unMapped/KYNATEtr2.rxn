@@ -1,11 +1,11 @@
 $RXN
 KYNATEtr2
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:56
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:16
 kynate[e] -> kynate[c]
   1  1
 $MOL
 kynate[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:11:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:52:48
 InChIKey=HCZHHEIFKROPDY-UHFFFAOYSA-M
  20 21  0  0  0  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 kynate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:11:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:52:48
 InChIKey=HCZHHEIFKROPDY-UHFFFAOYSA-M
  20 21  0  0  0  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

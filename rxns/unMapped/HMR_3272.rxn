@@ -1,11 +1,11 @@
 $RXN
 HMR_3272
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:03
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:01
 dd2coa[m] -> HC10695[m]
   1  1
 $MOL
 dd2coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:31:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:11:38
 InChIKey=IRFYVBULXZMEDE-DEEZISNZSA-J
 113115  0  0  1  0  0  0  0  0999 V2000
    16.6551    0.6415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -240,7 +240,7 @@ M  CHG  4  41  -1  45  -1  46  -1  47  -1
 M  END
 $MOL
 HC10695[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:10:54
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:51:37
 InChIKey=RCVJZGBRLGUTKT-HTMDDOFJSA-J
 113115  0  0  1  0  0  0  0  0999 V2000
    11.5725    1.7218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

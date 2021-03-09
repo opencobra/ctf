@@ -1,18 +1,18 @@
 $RXN
 r0249
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:54
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:33
 r5p[r] -> ru5p_D[r]
   1  1
 $MOL
 r5p[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:45:09
-InChIKey=KTVPXOYAKDPRHY-AIHAYLRMSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:25:14
+InChIKey=KTVPXOYAKDPRHY-SOOFDHNKSA-L
  23 23  0  0  1  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5000   -0.8660    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     3.0878   -0.0570    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     4.0388   -0.3660    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    4.0388   -1.3660    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0388   -1.3660    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     2.7788    0.8940    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.8479    0.2218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.8479   -1.9538    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -46,7 +46,7 @@ InChIKey=KTVPXOYAKDPRHY-AIHAYLRMSA-L
   4 19  1  6  0  0  0
   5  8  1  0  0  0  0
   5 13  1  0  0  0  0
-  5 20  1  6  0  0  0
+  5 20  1  0  0  0  0
   6 21  1  0  0  0  0
   7 22  1  0  0  0  0
   8 23  1  0  0  0  0
@@ -58,7 +58,7 @@ M  CHG  2   9  -1  10  -1
 M  END
 $MOL
 ru5p_D[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:46:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:26:43
 InChIKey=FNZLKVNUWIIPSJ-UHNVWZDZSA-L
  23 22  0  0  1  0  0  0  0  0999 V2000
     1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

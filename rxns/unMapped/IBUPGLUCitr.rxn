@@ -1,11 +1,11 @@
 $RXN
 IBUPGLUCitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 ibupgluc[r] -> ibupgluc[c]
   1  1
 $MOL
 ibupgluc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:04:38
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:44:23
 InChIKey=ABOLXXZAJIAUGR-UHFFFAOYSA-M
  52 53  0  0  1  0  0  0  0  0999 V2000
     5.1962   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -117,7 +117,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 ibupgluc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:04:38
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:44:23
 InChIKey=ABOLXXZAJIAUGR-UHFFFAOYSA-M
  52 53  0  0  1  0  0  0  0  0999 V2000
     5.1962   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

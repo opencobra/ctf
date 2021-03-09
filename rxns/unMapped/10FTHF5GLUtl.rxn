@@ -1,11 +1,11 @@
 $RXN
 10FTHF5GLUtl
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:12:39
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:47
 10fthf5glu[c] -> 10fthf5glu[l]
   1  1
 $MOL
 10fthf5glu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:28:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:02:49
 InChIKey=GXESICCVHSUCKV-UHFFFAOYSA-H
 115117  0  0  1  0  0  0  0  0999 V2000
     5.1962   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -244,7 +244,7 @@ M  CHG  6  44  -1  55  -1  57  -1  59  -1  61  -1  62  -1
 M  END
 $MOL
 10fthf5glu[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:28:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:02:49
 InChIKey=GXESICCVHSUCKV-UHFFFAOYSA-H
 115117  0  0  1  0  0  0  0  0999 V2000
     5.1962   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

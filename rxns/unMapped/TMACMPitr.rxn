@@ -1,11 +1,11 @@
 $RXN
 TMACMPitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:22
 tmacmp[r] -> tmacmp[c]
   1  1
 $MOL
 tmacmp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:58:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:38:06
 InChIKey=KNDKLDWGYWQCCJ-UHFFFAOYSA-N
  24 24  0  0  0  0  0  0  0  0999 V2000
     4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=KNDKLDWGYWQCCJ-UHFFFAOYSA-N
 M  END
 $MOL
 tmacmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:58:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:38:06
 InChIKey=KNDKLDWGYWQCCJ-UHFFFAOYSA-N
  24 24  0  0  0  0  0  0  0  0999 V2000
     4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

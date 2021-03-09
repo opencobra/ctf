@@ -1,11 +1,11 @@
 $RXN
 TETPENT6COAtx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:49
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:30
 tetpent6coa[c] -> tetpent6coa[x]
   1  1
 $MOL
 tetpent6coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:55:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:12
 InChIKey=XZYNVQDKYRHKFG-QOJZHLSOSA-J
 141143  0  0  1  0  0  0  0  0999 V2000
   -19.4197   -3.0132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -296,7 +296,7 @@ M  CHG  4  53  -1  57  -1  58  -1  59  -1
 M  END
 $MOL
 tetpent6coa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:55:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:12
 InChIKey=XZYNVQDKYRHKFG-QOJZHLSOSA-J
 141143  0  0  1  0  0  0  0  0999 V2000
   -19.4197   -3.0132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

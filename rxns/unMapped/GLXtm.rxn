@@ -1,11 +1,11 @@
 $RXN
 GLXtm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:28
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:14
 glx[c] -> glx[m]
   1  1
 $MOL
 glx[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:17
 InChIKey=HHLFWLYXYJOTON-UHFFFAOYSA-M
   6  5  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23,7 +23,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 glx[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:17
 InChIKey=HHLFWLYXYJOTON-UHFFFAOYSA-M
   6  5  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

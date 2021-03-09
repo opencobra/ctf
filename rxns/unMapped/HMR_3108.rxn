@@ -1,11 +1,11 @@
 $RXN
 HMR_3108
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:00
 h2o[m] + CE2242[m] -> CE2246[m]
   2  1
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE2242[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:15:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:47:30
 InChIKey=KRTIFNFQCJTGMV-ULDZQISASA-J
 143145  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -311,7 +311,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 CE2246[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:15:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:47:46
 InChIKey=VNJQSRVXTRJVAZ-VFEFGGRMSA-J
 146148  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

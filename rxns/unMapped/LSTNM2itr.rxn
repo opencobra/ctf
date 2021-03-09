@@ -1,11 +1,11 @@
 $RXN
 LSTNM2itr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 lstnm2[c] -> lstnm2[r]
   1  1
 $MOL
 lstnm2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:15:54
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:06
 InChIKey=ZVYVWHZHBOWBOM-UHFFFAOYSA-N
  53 56  0  0  1  0  0  0  0  0999 V2000
    -5.6481    4.6702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  1  28  -1
 M  END
 $MOL
 lstnm2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:15:54
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:06
 InChIKey=ZVYVWHZHBOWBOM-UHFFFAOYSA-N
  53 56  0  0  1  0  0  0  0  0999 V2000
    -5.6481    4.6702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

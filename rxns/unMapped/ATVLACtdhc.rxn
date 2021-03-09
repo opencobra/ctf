@@ -1,11 +1,11 @@
 $RXN
 ATVLACtdhc
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:21
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:19
 atvlac[e] -> atvlac[c]
   1  1
 $MOL
 atvlac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:19:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:38
 InChIKey=OUCSEDFVYPBLLF-UHFFFAOYSA-N
  73 77  0  0  1  0  0  0  0  0999 V2000
    -0.3783    2.0540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -161,7 +161,7 @@ InChIKey=OUCSEDFVYPBLLF-UHFFFAOYSA-N
 M  END
 $MOL
 atvlac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:19:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:38
 InChIKey=OUCSEDFVYPBLLF-UHFFFAOYSA-N
  73 77  0  0  1  0  0  0  0  0999 V2000
    -0.3783    2.0540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

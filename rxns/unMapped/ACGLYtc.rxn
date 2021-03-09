@@ -1,11 +1,11 @@
 $RXN
 ACGLYtc
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
 acgly[m] -> acgly[c]
   1  1
 $MOL
 acgly[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:06:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:46:12
 InChIKey=OKJIRPAQVSHGFK-UHFFFAOYSA-M
  14 13  0  0  0  0  0  0  0  0999 V2000
     4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 acgly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:06:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:46:12
 InChIKey=OKJIRPAQVSHGFK-UHFFFAOYSA-M
  14 13  0  0  0  0  0  0  0  0999 V2000
     4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

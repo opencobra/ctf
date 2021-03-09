@@ -1,11 +1,11 @@
 $RXN
 IBUP_Stdu
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:23
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:19
 ibup_S[e] -> ibup_S[c]
   1  1
 $MOL
 ibup_S[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:04:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:44:14
 InChIKey=HEFNNWSXXWATRW-UHFFFAOYSA-M
  32 32  0  0  1  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -76,7 +76,7 @@ M  CHG  1  15  -1
 M  END
 $MOL
 ibup_S[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:04:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:44:14
 InChIKey=HEFNNWSXXWATRW-UHFFFAOYSA-M
  32 32  0  0  1  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

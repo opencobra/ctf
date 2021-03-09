@@ -1,12 +1,12 @@
 $RXN
 HMR_7185
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:11
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:10
 pail_hs[r] + uacgam[r] -> h[r] + udp[r] + acgpail_hs[r]
   2  3
 $MOL
 pail_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:30:29
-InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:11:12
+
  43 43  0  0  1  0  0  0  0  0999 V2000
    -3.0000    2.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5000    1.5981    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 uacgam[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:01
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:14
 InChIKey=LFTYTUAZOPRMMI-SQUNQTHHSA-L
  64 66  0  0  1  0  0  0  0  0999 V2000
     4.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -235,7 +235,7 @@ M  CHG  2  22  -1  23  -1
 M  END
 $MOL
 h[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -243,7 +243,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 udp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -323,8 +323,8 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 acgpail_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:06:25
-InChIKey=OKJIRPAQVSHGFK-UHFFFAOYSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:46:16
+
  70 71  0  0  1  0  0  0  0  0999 V2000
     1.8660   -0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

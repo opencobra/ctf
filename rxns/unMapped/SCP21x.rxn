@@ -1,11 +1,11 @@
 $RXN
 SCP21x
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:47
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:28
 phytcoa[c] -> phytcoa[x]
   1  1
 $MOL
 phytcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:28
 InChIKey=NRJQGHHZMSOUEN-ZJGVPSKGSA-J
 139141  0  0  1  0  0  0  0  0999 V2000
    20.5787   -1.7260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -292,7 +292,7 @@ M  CHG  4  49  -1  53  -1  54  -1  55  -1
 M  END
 $MOL
 phytcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:28
 InChIKey=NRJQGHHZMSOUEN-ZJGVPSKGSA-J
 139141  0  0  1  0  0  0  0  0999 V2000
    20.5787   -1.7260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

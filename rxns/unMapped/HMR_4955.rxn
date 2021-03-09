@@ -1,11 +1,11 @@
 $RXN
 HMR_4955
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:07
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:05
 dsT_antigen[g] -> dsT_antigen[c]
   1  1
 $MOL
 dsT_antigen[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:39:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:15
 InChIKey=PDWIQYODPROSQH-PYHARJCCSA-N
  19 19  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -49,7 +49,7 @@ InChIKey=PDWIQYODPROSQH-PYHARJCCSA-N
 M  END
 $MOL
 dsT_antigen[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:39:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:15
 InChIKey=PDWIQYODPROSQH-PYHARJCCSA-N
  19 19  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 GGH_6THFl
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:27
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:13
 h2o[l] + 6thf[l] -> 5thf[l] + glu_L[l]
   2  2
 $MOL
 h2o[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 6thf[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:00:49
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:33:08
 InChIKey=FWAQAOUHULVCBP-HCVVFSGQSA-K
 128130  0  0  1  0  0  0  0  0999 V2000
    -5.1312   -4.9375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -281,7 +281,7 @@ M  CHG  3  62  -1  64  -1  67  -1
 M  END
 $MOL
 5thf[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:58:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:31:13
 InChIKey=QSLXQTFZZNUUPV-UHFFFAOYSA-H
 113115  0  0  1  0  0  0  0  0999 V2000
     5.0518    4.8611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -516,7 +516,7 @@ M  CHG  6  49  -1  55  -1  58  -1  60  -1  62  -1  64  -1
 M  END
 $MOL
 glu_L[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:52:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:31:59
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

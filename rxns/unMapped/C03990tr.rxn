@@ -1,11 +1,11 @@
 $RXN
 C03990tr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
 HC02191[r] -> HC02191[c]
   1  1
 $MOL
 HC02191[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:09:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:49:50
 InChIKey=SMEROWZSTRWXGI-HVATVPOCSA-M
  66 69  0  0  1  0  0  0  0  0999 V2000
    -2.8016    3.7046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -147,7 +147,7 @@ M  CHG  1  27  -1
 M  END
 $MOL
 HC02191[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:09:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:49:50
 InChIKey=SMEROWZSTRWXGI-HVATVPOCSA-M
  66 69  0  0  1  0  0  0  0  0999 V2000
    -2.8016    3.7046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

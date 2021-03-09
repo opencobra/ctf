@@ -1,11 +1,11 @@
 $RXN
 MHGLZtev
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:20
 mhglz[c] -> mhglz[e]
   1  1
 $MOL
 mhglz[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:21:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:29
 InChIKey=IHCHVBQHVIUSTM-UHFFFAOYSA-M
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8270   -1.8873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  1  20  -1
 M  END
 $MOL
 mhglz[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:21:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:29
 InChIKey=IHCHVBQHVIUSTM-UHFFFAOYSA-M
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8270   -1.8873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

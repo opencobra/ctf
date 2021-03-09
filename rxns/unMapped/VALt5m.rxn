@@ -1,11 +1,11 @@
 $RXN
 VALt5m
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:52
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
 val_L[c] -> val_L[m]
   1  1
 $MOL
 val_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:06:36
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:46
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -48,7 +48,7 @@ InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
 M  END
 $MOL
 val_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:06:36
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:46
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

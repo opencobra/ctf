@@ -1,11 +1,11 @@
 $RXN
 RE3286C
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:27
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:05
 o2[c] + arachd[c] + fadh2[c] -> h2o[c] + fad[c] + C14768[c]
   3  3
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 arachd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:14:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:36
 InChIKey=YZXBAPSDXZZRGB-DOFZRALJSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 fadh2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:43:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:12
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -310,7 +310,7 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -321,7 +321,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 fad[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:43:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:07
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -501,7 +501,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 C14768[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:06:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:39:06
 InChIKey=VBQNSZQZRAGRIX-LXZCUKJHSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     7.4282    3.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

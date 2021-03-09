@@ -1,12 +1,12 @@
 $RXN
 r1441
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:39
 trdrd[c] -> trdrd[m]
   1  1
 $MOL
 trdrd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:59:38
-InChIKey=JLRGJRBPOGGCBT-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:06
+
  38 37  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
    -4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -86,8 +86,8 @@ InChIKey=JLRGJRBPOGGCBT-UHFFFAOYSA-N
 M  END
 $MOL
 trdrd[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:59:38
-InChIKey=JLRGJRBPOGGCBT-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:06
+
  38 37  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
    -4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 APNNOXte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:01
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:56
 apnnox[e] -> apnnox[c]
   1  1
 $MOL
 apnnox[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:13:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:53:41
 InChIKey=NQFUSWIGRKFAHK-KEMUHUQJSA-N
  27 29  0  0  1  0  0  0  0  0999 V2000
    -0.8900   -1.0991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -67,7 +67,7 @@ InChIKey=NQFUSWIGRKFAHK-KEMUHUQJSA-N
 M  END
 $MOL
 apnnox[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:13:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:53:41
 InChIKey=NQFUSWIGRKFAHK-KEMUHUQJSA-N
  27 29  0  0  1  0  0  0  0  0999 V2000
    -0.8900   -1.0991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

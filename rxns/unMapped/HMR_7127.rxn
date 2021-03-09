@@ -1,11 +1,11 @@
 $RXN
 HMR_7127
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:11
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:09
 M00242[e] -> M00242[c]
   1  1
 $MOL
 M00242[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:18:08
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:58:57
 InChIKey=PAAZPARNPHGIKF-UHFFFAOYSA-N
   8  7  0  0  0  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26,7 +26,7 @@ InChIKey=PAAZPARNPHGIKF-UHFFFAOYSA-N
 M  END
 $MOL
 M00242[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:18:08
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:58:57
 InChIKey=PAAZPARNPHGIKF-UHFFFAOYSA-N
   8  7  0  0  0  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

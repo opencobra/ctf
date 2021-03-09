@@ -1,11 +1,11 @@
 $RXN
 TSTSTERONESte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:50
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:31
 tststerones[c] -> tststerones[e]
   1  1
 $MOL
 tststerones[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:02:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:17
 InChIKey=WAQBISPOEAOCOG-DYKIIFRCSA-M
  52 55  0  0  1  0  0  0  0  0999 V2000
     4.7461    0.8342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -119,7 +119,7 @@ M  CHG  1  21  -1
 M  END
 $MOL
 tststerones[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:02:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:17
 InChIKey=WAQBISPOEAOCOG-DYKIIFRCSA-M
  52 55  0  0  1  0  0  0  0  0999 V2000
     4.7461    0.8342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

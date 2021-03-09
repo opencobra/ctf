@@ -1,11 +1,11 @@
 $RXN
 RE1898C
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:18
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:56
 CE5586[c] -> 13dampp[c] + CE1944[c]
   1  2
 $MOL
 CE5586[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:40:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:16:27
 InChIKey=YAVLYBVKPXLZEQ-UHFFFAOYSA-Q
  30 29  0  0  0  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ M  CHG  3   8   1   9   1  10   1
 M  END
 $MOL
 13dampp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:31:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:04:52
 InChIKey=XFNJVJPLKCPIBV-UHFFFAOYSA-P
  17 16  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -111,7 +111,7 @@ M  CHG  2   4   1   5   1
 M  END
 $MOL
 CE1944[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:11:45
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:44:06
 InChIKey=ZVJHJDDKYZXRJI-UHFFFAOYSA-O
  13 13  0  0  0  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

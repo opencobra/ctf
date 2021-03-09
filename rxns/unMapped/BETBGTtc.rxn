@@ -1,11 +1,11 @@
 $RXN
 BETBGTtc
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:58
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:17
 na1[e] + cl[e] + glyb[e] -> na1[c] + glyb[c] + cl[c]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:09
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 glyb[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:38
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:29
 InChIKey=KWIUHFFTVRNATP-UHFFFAOYSA-O
  20 19  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -67,7 +67,7 @@ M  CHG  1   6   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 glyb[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:38
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:29
 InChIKey=KWIUHFFTVRNATP-UHFFFAOYSA-O
  20 19  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  1   6   1
 M  END
 $MOL
 cl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:09
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 AGTim
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:00
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:54
 ala_L[m] + glx[m] -> pyr[m] + gly[m]
   2  2
 $MOL
 ala_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:10:32
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:50:31
 InChIKey=QNAYBMKLOCPYGJ-REOHCLBHSA-N
  13 12  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36,7 +36,7 @@ InChIKey=QNAYBMKLOCPYGJ-REOHCLBHSA-N
 M  END
 $MOL
 glx[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:17
 InChIKey=HHLFWLYXYJOTON-UHFFFAOYSA-M
   6  5  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 pyr[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:44:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:52
 InChIKey=LCTONWCANYUPML-UHFFFAOYSA-M
   9  8  0  0  0  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -78,7 +78,7 @@ M  CHG  1   5  -1
 M  END
 $MOL
 gly[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:21
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

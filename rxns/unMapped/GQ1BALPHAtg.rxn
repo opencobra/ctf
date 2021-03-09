@@ -1,12 +1,12 @@
 $RXN
 GQ1BALPHAtg
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:29
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:15
 gq1balpha_hs[c] -> gq1balpha_hs[g]
   1  1
 $MOL
 gq1balpha_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:56:23
-InChIKey=RQFCJASXJCIDSX-UUOKFMHZSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:36:09
+
 294301  0  0  1  0  0  0  0  0999 V2000
    -0.4907    2.5497    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.4720    2.5497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -607,8 +607,8 @@ M  CHG  4  85  -1  98  -1 136  -1 143  -1
 M  END
 $MOL
 gq1balpha_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:56:23
-InChIKey=RQFCJASXJCIDSX-UUOKFMHZSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:36:09
+
 294301  0  0  1  0  0  0  0  0999 V2000
    -0.4907    2.5497    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.4720    2.5497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 SEASMETtn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:47
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:28
 seasmet[c] -> seasmet[n]
   1  1
 $MOL
 seasmet[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:47:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:30
 InChIKey=GGJFWMOVUFBSIN-AIRLBKTGSA-O
  50 52  0  0  1  0  0  0  0  0999 V2000
     2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -114,7 +114,7 @@ M  CHG  1  27   1
 M  END
 $MOL
 seasmet[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:47:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:30
 InChIKey=GGJFWMOVUFBSIN-AIRLBKTGSA-O
  50 52  0  0  1  0  0  0  0  0999 V2000
     2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

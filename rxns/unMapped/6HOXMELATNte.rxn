@@ -1,11 +1,11 @@
 $RXN
 6HOXMELATNte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
 6hoxmelatn[c] -> 6hoxmelatn[e]
   1  1
 $MOL
 6hoxmelatn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:59:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:32:11
 InChIKey=OMYMRCXOJJZYKE-UHFFFAOYSA-N
  34 35  0  0  0  0  0  0  0  0999 V2000
     0.9847   -3.4895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -80,7 +80,7 @@ InChIKey=OMYMRCXOJJZYKE-UHFFFAOYSA-N
 M  END
 $MOL
 6hoxmelatn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:59:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:32:11
 InChIKey=OMYMRCXOJJZYKE-UHFFFAOYSA-N
  34 35  0  0  0  0  0  0  0  0999 V2000
     0.9847   -3.4895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

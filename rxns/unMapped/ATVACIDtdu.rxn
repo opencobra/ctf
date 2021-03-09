@@ -1,11 +1,11 @@
 $RXN
 ATVACIDtdu
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:21
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:19
 atvacid[e] -> atvacid[c]
   1  1
 $MOL
 atvacid[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:18:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:25
 InChIKey=XUKUURHRXDUEBC-UHFFFAOYSA-M
  75 78  0  0  1  0  0  0  0  0999 V2000
    -1.1810    1.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ M  CHG  1  40  -1
 M  END
 $MOL
 atvacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:18:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:25
 InChIKey=XUKUURHRXDUEBC-UHFFFAOYSA-M
  75 78  0  0  1  0  0  0  0  0999 V2000
    -1.1810    1.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 LVSTtu
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:20
 lvst[e] -> lvst[c]
   1  1
 $MOL
 lvst[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:16:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:35
 InChIKey=PCZOHLXUXFIOCF-BXMDZJJMSA-N
  65 67  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -143,7 +143,7 @@ InChIKey=PCZOHLXUXFIOCF-BXMDZJJMSA-N
 M  END
 $MOL
 lvst[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:16:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:35
 InChIKey=PCZOHLXUXFIOCF-BXMDZJJMSA-N
  65 67  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

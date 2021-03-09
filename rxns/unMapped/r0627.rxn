@@ -1,11 +1,11 @@
 $RXN
 r0627
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:56
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:35
 h2o[e] + HC01444[e] -> gal[e] + glyc[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 HC01444[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:01:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:42:29
 InChIKey=NHJUPBDCSOGIKX-NTXXKDEISA-N
  35 35  0  0  1  0  0  0  0  0999 V2000
    -2.5981    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -92,7 +92,7 @@ InChIKey=NHJUPBDCSOGIKX-NTXXKDEISA-N
 M  END
 $MOL
 gal[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:47:34
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:27:24
 InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
 M  END
 $MOL
 glyc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:33
 InChIKey=PEDCQBHIVMGVHV-UHFFFAOYSA-N
  14 13  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

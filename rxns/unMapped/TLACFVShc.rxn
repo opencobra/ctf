@@ -1,11 +1,11 @@
 $RXN
 TLACFVShc
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:20
 fvsgluc[r] -> glcur[r] + tlacfvs[r]
   1  2
 $MOL
 fvsgluc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:46:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:26:36
 InChIKey=QCUBOMYCHFTVHD-CALJPSDSSA-L
  75 77  0  0  1  0  0  0  0  0999 V2000
     8.3006   -7.0812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -164,7 +164,7 @@ M  CHG  3  35  -1  40  -1  43   1
 M  END
 $MOL
 glcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:51:08
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:31:04
 InChIKey=AEMOLEFTQBMNLQ-AQKNRBDQSA-M
  22 22  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -215,7 +215,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 tlacfvs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:58:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:38:02
 InChIKey=HKPPSOBFDLMRPW-CALJPSDSSA-N
  53 55  0  0  1  0  0  0  0  0999 V2000
     4.3093   -6.7433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

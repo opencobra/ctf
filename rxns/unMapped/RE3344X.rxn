@@ -1,11 +1,11 @@
 $RXN
 RE3344X
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:28
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:06
 h2o[x] + CE5341[x] -> CE5329[x]
   2  1
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE5341[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:37:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:12:57
 InChIKey=SCEIHBUXWIZVRQ-PSBMFCTASA-J
 131133  0  0  1  0  0  0  0  0999 V2000
    21.7377   -0.4389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -287,7 +287,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 CE5329[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:37:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:12:35
 InChIKey=MTOULHSNAKRXGD-SWUWZMOTSA-J
 134136  0  0  1  0  0  0  0  0999 V2000
    19.5967    6.1503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

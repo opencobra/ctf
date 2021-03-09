@@ -1,11 +1,11 @@
 $RXN
 AHANDROSTANGLCtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:00
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:54
 ahandrostanglc[c] -> ahandrostanglc[r]
   1  1
 $MOL
 ahandrostanglc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:09:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:49:28
 InChIKey=VFUIRAVTUVCQTF-SDHZCXLISA-N
  71 75  0  0  1  0  0  0  0  0999 V2000
     1.6638    1.9749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -157,7 +157,7 @@ InChIKey=VFUIRAVTUVCQTF-SDHZCXLISA-N
 M  END
 $MOL
 ahandrostanglc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:09:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:49:28
 InChIKey=VFUIRAVTUVCQTF-SDHZCXLISA-N
  71 75  0  0  1  0  0  0  0  0999 V2000
     1.6638    1.9749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

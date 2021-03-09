@@ -1,11 +1,11 @@
 $RXN
 6HLVSTitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 6hlvst[r] -> 6hlvst[c]
   1  1
 $MOL
 6hlvst[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:59:35
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:31:54
 InChIKey=FUCXPWLYQFERRA-UHFFFAOYSA-N
  66 68  0  0  1  0  0  0  0  0999 V2000
    -1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -145,7 +145,7 @@ InChIKey=FUCXPWLYQFERRA-UHFFFAOYSA-N
 M  END
 $MOL
 6hlvst[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:59:35
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:31:54
 InChIKey=FUCXPWLYQFERRA-UHFFFAOYSA-N
  66 68  0  0  1  0  0  0  0  0999 V2000
    -1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

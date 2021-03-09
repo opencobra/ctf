@@ -1,11 +1,11 @@
 $RXN
 HMR_6996
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:09
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:08
 h2o[c] + M01378[c] -> M01377[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 M01378[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:39:57
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:20:03
 InChIKey=OLLMQFHYRYHKTD-UHFFFAOYSA-N
  33 38  0  0  1  0  0  0  0  0999 V2000
     5.6074   -3.1967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ InChIKey=OLLMQFHYRYHKTD-UHFFFAOYSA-N
 M  END
 $MOL
 M01377[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:39:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:19:59
 InChIKey=YDXRLMMGARHIIC-UHFFFAOYSA-N
  36 40  0  0  1  0  0  0  0  0999 V2000
    -2.2623   -1.2835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

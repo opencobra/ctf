@@ -1,11 +1,11 @@
 $RXN
 r2537
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:53
 lnlncgcoa[c] -> lnlncgcoa[r]
   1  1
 $MOL
 lnlncgcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:15:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:56:26
 InChIKey=XZQYPTBYQYZGRU-FHDVEODPSA-J
 127129  0  0  1  0  0  0  0  0999 V2000
    13.8019   -0.2856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -268,7 +268,7 @@ M  CHG  4  47  -1  51  -1  52  -1  53  -1
 M  END
 $MOL
 lnlncgcoa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:15:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:56:26
 InChIKey=XZQYPTBYQYZGRU-FHDVEODPSA-J
 127129  0  0  1  0  0  0  0  0999 V2000
    13.8019   -0.2856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 ATPtx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:03
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:57
 atp[c] -> atp[x]
   1  1
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:18:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:21
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 atp[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:18:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:21
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

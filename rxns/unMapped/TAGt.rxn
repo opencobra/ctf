@@ -1,12 +1,12 @@
 $RXN
 TAGt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:49
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:30
 tag_hs[e] -> tag_hs[c]
   1  1
 $MOL
 tag_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:53:05
-InChIKey=ZKLLSNQJRLJIGT-LFRDXLMFSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:00
+
  20 19  0  0  0  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    4.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,8 +50,8 @@ InChIKey=ZKLLSNQJRLJIGT-LFRDXLMFSA-L
 M  END
 $MOL
 tag_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:53:05
-InChIKey=ZKLLSNQJRLJIGT-LFRDXLMFSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:00
+
  20 19  0  0  0  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    4.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

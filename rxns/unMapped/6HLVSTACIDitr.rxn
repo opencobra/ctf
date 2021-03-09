@@ -1,11 +1,11 @@
 $RXN
 6HLVSTACIDitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 6hlvstacid[r] -> 6hlvstacid[c]
   1  1
 $MOL
 6hlvstacid[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:59:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:31:58
 InChIKey=ULAAPVRVEVCSJH-UHFFFAOYSA-M
  68 69  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -149,7 +149,7 @@ M  CHG  1  28  -1
 M  END
 $MOL
 6hlvstacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:59:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:31:58
 InChIKey=ULAAPVRVEVCSJH-UHFFFAOYSA-M
  68 69  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

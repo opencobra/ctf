@@ -1,11 +1,11 @@
 $RXN
 SUCCTD
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:51
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:14
 succ[x] -> succ[c]
   1  1
 $MOL
 succ[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:52:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:32:19
 InChIKey=KDYFGRWQOYBRFD-UHFFFAOYSA-L
  12 11  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35,7 +35,7 @@ M  CHG  2   6  -1   8  -1
 M  END
 $MOL
 succ[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:52:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:32:19
 InChIKey=KDYFGRWQOYBRFD-UHFFFAOYSA-L
  12 11  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

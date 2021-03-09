@@ -1,6 +1,6 @@
 CE5528
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:39:06
-InChIKey=ZJQRAPFDSKMILQ-CLOOOTJHSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:14:45
+
  56 56  0  0  1  0  0  0  0  0999 V2000
     1.3660    2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.5000    1.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +58,7 @@ InChIKey=ZJQRAPFDSKMILQ-CLOOOTJHSA-M
     4.8908    4.3310    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.8301    6.4360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     5.7567    5.9010    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  2  3  0  0  0
+  1  2  2  0  0  0  0
   1 11  1  0  0  0  0
   1 24  1  0  0  0  0
   2  3  1  0  0  0  0

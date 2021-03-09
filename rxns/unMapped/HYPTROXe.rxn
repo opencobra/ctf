@@ -1,11 +1,11 @@
 $RXN
 HYPTROXe
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:53
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:16
 o2[e] + 2 hyptaur[e] -> 2 taur[e]
   3  2
 $MOL
 o2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 hyptaur[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:04:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:43:58
 InChIKey=VVIUBCNYACGLLV-UHFFFAOYSA-N
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ InChIKey=VVIUBCNYACGLLV-UHFFFAOYSA-N
 M  END
 $MOL
 hyptaur[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:04:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:43:58
 InChIKey=VVIUBCNYACGLLV-UHFFFAOYSA-N
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -76,7 +76,7 @@ InChIKey=VVIUBCNYACGLLV-UHFFFAOYSA-N
 M  END
 $MOL
 taur[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:53:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:09
 InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
  14 13  0  0  0  0  0  0  0  0999 V2000
     1.5000    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,7 +109,7 @@ InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
 M  END
 $MOL
 taur[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:53:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:09
 InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
  14 13  0  0  0  0  0  0  0  0999 V2000
     1.5000    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

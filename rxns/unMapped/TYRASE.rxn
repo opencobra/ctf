@@ -1,11 +1,11 @@
 $RXN
 TYRASE
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:50
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:31
 56dihindlcrbxlt[c] -> melanin[c]
   1  1
 $MOL
 56dihindlcrbxlt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:55:59
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:28:21
 InChIKey=YFTGOBNOJKXZJC-UHFFFAOYSA-M
  20 21  0  0  0  0  0  0  0  0999 V2000
    -2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 melanin[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:19:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:00:47
 InChIKey=XUMBMVFBXHLACL-UHFFFAOYSA-N
  34 38  0  0  0  0  0  0  0  0999 V2000
     4.5671   -0.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

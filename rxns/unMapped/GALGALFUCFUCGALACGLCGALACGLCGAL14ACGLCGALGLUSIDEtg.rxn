@@ -1,12 +1,12 @@
 $RXN
 GALGALFUCFUCGALACGLCGALACGLCGAL14ACGLCGALGLUSIDEtg
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:13
 galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[g] -> galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[c]
   1  1
 $MOL
 galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:48:45
-InChIKey=MSWZFWKMSRAUBD-GASJEMHNSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:35
+
 328339  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -678,8 +678,8 @@ InChIKey=MSWZFWKMSRAUBD-GASJEMHNSA-N
 M  END
 $MOL
 galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:48:45
-InChIKey=MSWZFWKMSRAUBD-GASJEMHNSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:35
+
 328339  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 ABTArm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:12:55
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:51
 akg[m] + 4abut[m] -> glu_L[m] + sucsal[m]
   2  2
 $MOL
 akg[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:10:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:50:13
 InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  14 13  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  2   8  -1   9  -1
 M  END
 $MOL
 4abut[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:53:20
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:25:43
 InChIKey=BTCSSZJGUNDROE-UHFFFAOYSA-N
  16 15  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -76,7 +76,7 @@ InChIKey=BTCSSZJGUNDROE-UHFFFAOYSA-N
 M  END
 $MOL
 glu_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:52:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:31:59
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -118,7 +118,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 sucsal[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:52:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:32:32
 InChIKey=UIUJIQZEACWQSV-UHFFFAOYSA-M
  12 11  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

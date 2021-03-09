@@ -1,11 +1,11 @@
 $RXN
 GCCam
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:13
 h[m] + gly[m] + lpro[m] -> co2[m] + alpro[m]
   3  2
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 gly[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:21
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,8 +38,8 @@ InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
 M  END
 $MOL
 lpro[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:15:31
-InChIKey=FCCDDURTIIUXBY-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:56:44
+
  27 27  0  0  1  0  0  0  0  0999 V2000
     3.4071    5.0878    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     3.4071    6.0878    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ InChIKey=FCCDDURTIIUXBY-UHFFFAOYSA-N
 M  END
 $MOL
 co2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:26:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:00
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,8 +109,8 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 alpro[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:11:37
-InChIKey=KALYVIJGKPJBQV-UHFFFAOYSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:51:35
+
  34 33  0  0  1  0  0  0  0  0999 V2000
     6.0622   -1.5000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
     6.0622   -0.5000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0

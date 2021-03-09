@@ -1,11 +1,11 @@
 $RXN
 HMR_6446
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:07
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
 CE7072[c] -> CE7072[m]
   1  1
 $MOL
 CE7072[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:55:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:36:15
 InChIKey=UJMZKOBSLDXUHY-YQHRJHOASA-M
  71 72  0  0  1  0  0  0  0  0999 V2000
    -6.8510    0.5860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -155,7 +155,7 @@ M  CHG  1  29  -1
 M  END
 $MOL
 CE7072[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:55:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:36:15
 InChIKey=UJMZKOBSLDXUHY-YQHRJHOASA-M
  71 72  0  0  1  0  0  0  0  0999 V2000
    -6.8510    0.5860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_9727
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:16
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:14
 udpg[c] -> udp[c] + M03161[c]
   1  2
 $MOL
 udpg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:27
 InChIKey=HSCJRCZFDFQWRP-JZMIEXBBSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,7 +130,7 @@ M  CHG  2  19  -1  26  -1
 M  END
 $MOL
 udp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -210,8 +210,8 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 M03161[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:01:30
-InChIKey=BUFJIHPUGZHTHL-NKFFZRIASA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:41:16
+
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
 M  END

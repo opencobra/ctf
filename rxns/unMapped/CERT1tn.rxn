@@ -1,12 +1,12 @@
 $RXN
 CERT1tn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:44
 crm_hs[c] -> crm_hs[n]
   1  1
 $MOL
 crm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:27:17
-InChIKey=YMVFYTNFKBBPSY-UHFFFAOYSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:58
+
  60 59  0  0  1  0  0  0  0  0999 V2000
    12.9904   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    13.8564   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,8 +130,8 @@ InChIKey=YMVFYTNFKBBPSY-UHFFFAOYSA-L
 M  END
 $MOL
 crm_hs[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:27:17
-InChIKey=YMVFYTNFKBBPSY-UHFFFAOYSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:58
+
  60 59  0  0  1  0  0  0  0  0999 V2000
    12.9904   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    13.8564   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

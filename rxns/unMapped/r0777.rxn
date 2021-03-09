@@ -1,11 +1,11 @@
 $RXN
 r0777
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:58
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:36
 HC01652[c] -> HC01710[c]
   1  1
 $MOL
 HC01652[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:03:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:44:29
 InChIKey=XJTZVMSDKZULCB-UMMCILCDSA-K
  45 46  0  0  1  0  0  0  0  0999 V2000
     2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -103,7 +103,7 @@ M  CHG  4  12  -1  17  -1  19  -1  20  -1
 M  END
 $MOL
 HC01710[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:04:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:44:46
 InChIKey=URZVHITUWXJPQD-UHFFFAOYSA-K
  45 45  0  0  1  0  0  0  0  0999 V2000
    -4.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

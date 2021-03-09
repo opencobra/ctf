@@ -1,11 +1,11 @@
 $RXN
 SCP22x
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:47
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:28
 dmnoncoa[c] -> dmnoncoa[x]
   1  1
 $MOL
 dmnoncoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:36:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:16:34
 InChIKey=YGNKJFPEXQCWDB-ANHZDMDASA-J
 112114  0  0  1  0  0  0  0  0999 V2000
   -17.7005   -2.4680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -238,7 +238,7 @@ M  CHG  4  40  -1  44  -1  45  -1  46  -1
 M  END
 $MOL
 dmnoncoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:36:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:16:34
 InChIKey=YGNKJFPEXQCWDB-ANHZDMDASA-J
 112114  0  0  1  0  0  0  0  0999 V2000
   -17.7005   -2.4680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 ACLYSt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
 aclys[c] -> aclys[e]
   1  1
 $MOL
 aclys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:06:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:46:38
 InChIKey=VEYYWZRYIYDQJM-UHFFFAOYSA-N
  29 28  0  0  1  0  0  0  0  0999 V2000
     1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -68,7 +68,7 @@ InChIKey=VEYYWZRYIYDQJM-UHFFFAOYSA-N
 M  END
 $MOL
 aclys[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:06:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:46:38
 InChIKey=VEYYWZRYIYDQJM-UHFFFAOYSA-N
  29 28  0  0  1  0  0  0  0  0999 V2000
     1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

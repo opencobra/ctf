@@ -1,11 +1,11 @@
 $RXN
 HCYSte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:32
 hcys_L[e] -> hcys_L[c]
   1  1
 $MOL
 hcys_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:50
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:53
 InChIKey=FFFHZYDWPBMWHY-VKHMYHEASA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -44,7 +44,7 @@ InChIKey=FFFHZYDWPBMWHY-VKHMYHEASA-N
 M  END
 $MOL
 hcys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:50
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:53
 InChIKey=FFFHZYDWPBMWHY-VKHMYHEASA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

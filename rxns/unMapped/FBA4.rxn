@@ -1,11 +1,11 @@
 $RXN
 FBA4
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:21
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:10
 xu1p_D[c] -> dhap[c] + gcald[c]
   1  2
 $MOL
 xu1p_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:10:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:25
 InChIKey=NBOCCPQHBPGYCX-NQXXGFSBSA-L
  23 22  0  0  1  0  0  0  0  0999 V2000
     1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ M  CHG  2  10  -1  11  -1
 M  END
 $MOL
 dhap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:34:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:04
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  2   6  -1   7  -1
 M  END
 $MOL
 gcald[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:49:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:29:17
 InChIKey=WGCNASOHLSPBMP-UHFFFAOYSA-N
   8  7  0  0  0  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

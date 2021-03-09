@@ -1,11 +1,11 @@
 $RXN
 LEUKTRF4t
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:32
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:19
 leuktrF4[e] -> leuktrF4[c]
   1  1
 $MOL
 leuktrF4[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:13:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:54:21
 InChIKey=PYSODLWHFWCFLV-MVZIKBKVSA-L
  81 80  0  0  1  0  0  0  0  0999 V2000
   -10.3923   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -173,7 +173,7 @@ M  CHG  2  32  -1  34  -1
 M  END
 $MOL
 leuktrF4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:13:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:54:21
 InChIKey=PYSODLWHFWCFLV-MVZIKBKVSA-L
  81 80  0  0  1  0  0  0  0  0999 V2000
   -10.3923   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

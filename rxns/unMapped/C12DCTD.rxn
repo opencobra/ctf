@@ -1,11 +1,11 @@
 $RXN
 C12DCTD
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:32
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:10
 dodecanac[x] -> dodecanac[c]
   1  1
 $MOL
 dodecanac[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:37:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:17:49
 InChIKey=TVIDDXQYHWJXFK-UHFFFAOYSA-L
  36 35  0  0  0  0  0  0  0  0999 V2000
     3.4641    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  2  14  -1  16  -1
 M  END
 $MOL
 dodecanac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:37:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:17:49
 InChIKey=TVIDDXQYHWJXFK-UHFFFAOYSA-L
  36 35  0  0  0  0  0  0  0  0999 V2000
     3.4641    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

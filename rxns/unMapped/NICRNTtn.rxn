@@ -1,11 +1,11 @@
 $RXN
 NICRNTtn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:37
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:22
 nicrnt[c] -> nicrnt[n]
   1  1
 $MOL
 nicrnt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:25:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:22
 InChIKey=JOUIQRNQJGXQDC-ZYUZMQFOSA-L
  34 35  0  0  1  0  0  0  0  0999 V2000
     5.8916   -0.0636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -81,7 +81,7 @@ M  CHG  4  12   1  16  -1  17  -1  18  -1
 M  END
 $MOL
 nicrnt[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:25:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:22
 InChIKey=JOUIQRNQJGXQDC-ZYUZMQFOSA-L
  34 35  0  0  1  0  0  0  0  0999 V2000
     5.8916   -0.0636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

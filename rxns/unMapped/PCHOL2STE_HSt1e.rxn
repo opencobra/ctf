@@ -1,11 +1,11 @@
 $RXN
 PCHOL2STE_HSt1e
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:21
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:39
 pchol2ste_hs[e] -> pchol2ste_hs[c]
   1  1
 $MOL
 pchol2ste_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:31:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:04
 InChIKey=ARQYPVZFUYHQFR-UHFFFAOYSA-N
  90 89  0  0  1  0  0  0  0  0999 V2000
   -15.5000  -10.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -191,7 +191,7 @@ M  RAD  1  27   2
 M  END
 $MOL
 pchol2ste_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:31:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:04
 InChIKey=ARQYPVZFUYHQFR-UHFFFAOYSA-N
  90 89  0  0  1  0  0  0  0  0999 V2000
   -15.5000  -10.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

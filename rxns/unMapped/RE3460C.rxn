@@ -1,11 +1,11 @@
 $RXN
 RE3460C
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:30
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:07
 o2[c] + ascb_L[c] + CE5537[c] -> C01041[c] + CE5533[c]
   3  2
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 ascb_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:17:02
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:39
 InChIKey=CIWBSHSKHKDKBQ-JLAZNSOCSA-M
  19 19  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 CE5537[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:39:38
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:15:33
 InChIKey=PCGWZQXAGFGRTQ-RLZWZWKOSA-L
  54 53  0  0  1  0  0  0  0  0999 V2000
     4.3301    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -173,7 +173,7 @@ M  CHG  2  22  -1  23  -1
 M  END
 $MOL
 C01041[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:01:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:34:08
 InChIKey=LHFJOBMTAJJOTB-JLAZNSOCSA-M
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -217,7 +217,7 @@ M  CHG  1  10  -1
 M  END
 $MOL
 CE5533[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:39:20
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:15:07
 InChIKey=SGUKUZOVHSFKPH-BZZUCWCESA-M
  57 58  0  0  1  0  0  0  0  0999 V2000
    -4.4045    0.8476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

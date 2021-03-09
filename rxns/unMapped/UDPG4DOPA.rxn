@@ -1,11 +1,11 @@
 $RXN
 UDPG4DOPA
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:43
 dopa[c] + udpglcur[c] -> h[c] + udp[c] + dopa4glcur[c]
   2  3
 $MOL
 dopa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:38:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:18:40
 InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-O
  23 23  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +58,7 @@ M  CHG  1   9   1
 M  END
 $MOL
 udpglcur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:36
 InChIKey=HDYANYHVCAPMJV-LXQIFKJMSA-K
  56 58  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -179,7 +179,7 @@ M  CHG  3  18  -1  25  -1  27  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -187,7 +187,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 udp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -267,7 +267,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 dopa4glcur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:38:51
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:18:49
 InChIKey=CQASRCDNLNMIJY-BYNIDDHOSA-N
  42 43  0  0  1  0  0  0  0  0999 V2000
     3.4641   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

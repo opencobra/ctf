@@ -1,12 +1,12 @@
 $RXN
 HMR_9492
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:12
 M02709[c] -> M02710[c]
   1  1
 $MOL
 M02709[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:54:30
-InChIKey=RXUATCUKICAIOA-ZMHDXICWSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:34:17
+
  20 20  0  0  1  0  0  0  0  0999 V2000
     1.6750    2.0878    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     1.6750    3.0878    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,8 +51,8 @@ InChIKey=RXUATCUKICAIOA-ZMHDXICWSA-J
 M  END
 $MOL
 M02710[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:54:34
-InChIKey=RXUATCUKICAIOA-ZMHDXICWSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:34:21
+
  20 20  0  0  1  0  0  0  0  0999 V2000
     1.6750    2.0878    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     1.6750    3.0878    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0

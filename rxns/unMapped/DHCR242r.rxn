@@ -1,11 +1,11 @@
 $RXN
 DHCR242r
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:14
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:05
 fadh2[r] + chlstol[r] -> fad[r] + lthstrl[r]
   2  2
 $MOL
 fadh2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:43:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:12
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -189,8 +189,8 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 chlstol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:24:14
-InChIKey=PKEPPDGGTSZLBL-SKCNUYALSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:57
+InChIKey=PKEPPDGGTSZLBL-FZAJRYLSSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.5325    5.6891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -216,7 +216,7 @@ InChIKey=PKEPPDGGTSZLBL-SKCNUYALSA-N
    -1.6876   -0.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.3758    1.9471    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -2.5316    0.4864    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -0.8440    0.4869    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8440    0.4869    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -2.5319    1.4602    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     2.5529   -1.4736    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -306,6 +306,7 @@ InChIKey=PKEPPDGGTSZLBL-SKCNUYALSA-N
  13 56  1  0  0  0  0
  13 57  1  0  0  0  0
  14 16  1  0  0  0  0
+ 14 25  1  0  0  0  0
  14 58  1  0  0  0  0
  14 59  1  0  0  0  0
  15 26  1  0  0  0  0
@@ -333,16 +334,15 @@ InChIKey=PKEPPDGGTSZLBL-SKCNUYALSA-N
  24 12  1  0  0  0  0
  24 27  1  0  0  0  0
  24 70  1  1  0  0  0
- 25 14  1  0  0  0  0
  25 26  1  0  0  0  0
- 25 71  1  1  0  0  0
+ 25 71  1  0  0  0  0
  26  4  1  6  0  0  0
  27  5  1  6  0  0  0
  28 72  1  0  0  0  0
 M  END
 $MOL
 fad[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:43:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:07
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -522,7 +522,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 lthstrl[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:16:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:25
 InChIKey=IZVFFXVYBHFIHY-SKCNUYALSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

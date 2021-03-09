@@ -1,11 +1,11 @@
 $RXN
 RE2040C
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:18
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:57
 CE1661[c] -> 5oxpro[c] + C02356[c]
   1  2
 $MOL
 CE1661[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:10:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:43:00
 InChIKey=FUZOZPRKGAXGOB-PHDIDXHHSA-M
  31 30  0  0  1  0  0  0  0  0999 V2000
     1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ M  CHG  1  12  -1
 M  END
 $MOL
 5oxpro[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:58:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:30:58
 InChIKey=ODHCTXKNWHHXJC-VKHMYHEASA-M
  15 15  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -110,7 +110,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 C02356[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:02:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:34:49
 InChIKey=QWCKQJZIFLGMSD-VKHMYHEASA-N
  16 15  0  0  1  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

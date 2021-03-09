@@ -1,11 +1,11 @@
 $RXN
 HMR_1267
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:46
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:52
 CE5969[c] -> CE5969[m]
   1  1
 $MOL
 CE5969[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:48:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:28:08
 InChIKey=ZYYSFSZTRFQEDO-JHEHLVRRSA-J
 135137  0  0  1  0  0  0  0  0999 V2000
    22.2729   -2.0861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -284,7 +284,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 CE5969[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:48:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:28:08
 InChIKey=ZYYSFSZTRFQEDO-JHEHLVRRSA-J
 135137  0  0  1  0  0  0  0  0999 V2000
    22.2729   -2.0861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

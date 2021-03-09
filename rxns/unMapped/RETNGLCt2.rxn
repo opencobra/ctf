@@ -1,11 +1,11 @@
 $RXN
 RETNGLCt2
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:45
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:27
 13_cis_retnglc[c] -> 13_cis_retnglc[e]
   1  1
 $MOL
 13_cis_retnglc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:31:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:04:47
 InChIKey=MTGFYEHKPMOVNE-JZXLACIESA-M
  69 70  0  0  1  0  0  0  0  0999 V2000
     6.0622    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -151,7 +151,7 @@ M  CHG  1  32  -1
 M  END
 $MOL
 13_cis_retnglc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:31:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:04:47
 InChIKey=MTGFYEHKPMOVNE-JZXLACIESA-M
  69 70  0  0  1  0  0  0  0  0999 V2000
     6.0622    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

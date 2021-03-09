@@ -1,11 +1,11 @@
 $RXN
 DDECE1CRNe
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:33
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:11
 ddece1crn[c] -> ddece1crn[e]
   1  1
 $MOL
 ddece1crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:32:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:12:11
 InChIKey=ZBZBZKZOFHGNRD-KHPPLWFESA-N
  59 58  0  0  1  0  0  0  0  0999 V2000
     6.0622   -7.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -129,7 +129,7 @@ M  CHG  2  20   1  22  -1
 M  END
 $MOL
 ddece1crn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:32:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:12:11
 InChIKey=ZBZBZKZOFHGNRD-KHPPLWFESA-N
  59 58  0  0  1  0  0  0  0  0999 V2000
     6.0622   -7.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

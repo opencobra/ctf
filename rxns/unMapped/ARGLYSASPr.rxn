@@ -1,11 +1,11 @@
 $RXN
 ARGLYSASPr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:09
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:27
 2 h2o[c] + arglysasp[c] -> asp_L[c] + lys_L[c] + arg_L[c]
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 arglysasp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:16:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:55:58
 InChIKey=MJINRRBEMOLJAK-AXFHLTTASA-O
  61 60  0  0  1  0  0  0  0  0999 V2000
     3.4641   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -155,7 +155,7 @@ M  CHG  1  17   1
 M  END
 $MOL
 asp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:17:49
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:57:25
 InChIKey=CKLJMWTZIZZHCS-REOHCLBHSA-M
  15 14  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -191,7 +191,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 lys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:16:35
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:49
 InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -247,7 +247,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 arg_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:15:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:58
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

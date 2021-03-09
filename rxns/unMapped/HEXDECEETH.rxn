@@ -1,11 +1,11 @@
 $RXN
 HEXDECEETH
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:04
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:21
 h2o[e] + pe161_hs[e] -> pa_hs[e] + hexdeceeth[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pe161_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:25
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:11
 InChIKey=DSOWUEHXZJUNID-BQYQJAHWSA-N
  72 71  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,8 +165,8 @@ InChIKey=DSOWUEHXZJUNID-BQYQJAHWSA-N
 M  END
 $MOL
 pa_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:29:38
-InChIKey=HXNFUBHNUDHIGC-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:10:23
+
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -3.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5000   -3.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -213,7 +213,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 hexdeceeth[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:00:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:03
 InChIKey=HXYVTAGFYLMHSO-UHFFFAOYSA-N
  58 57  0  0  0  0  0  0  0  0999 V2000
    12.1244   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

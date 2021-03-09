@@ -1,11 +1,11 @@
 $RXN
 RE3567C
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:31
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:09
 HC02207[c] -> HC02205[c]
   1  1
 $MOL
 HC02207[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:10:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:50:56
 InChIKey=CMBOTAQMTNMTBD-KLASNZEFSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -6.8292    4.3568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -118,7 +118,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 HC02205[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:10:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:50:47
 InChIKey=PRFXRIUZNKLRHM-HKVRTXJWSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -6.8292    4.3568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

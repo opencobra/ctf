@@ -1,11 +1,11 @@
 $RXN
 PHELEUHISr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:10
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:28
 2 h2o[c] + pheleuhis[c] -> his_L[c] + leu_L[c] + phe_L[c]
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pheleuhis[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:37:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:47
 InChIKey=METZZBCMDXHFMK-BZSNNMDCSA-N
  59 60  0  0  1  0  0  0  0  0999 V2000
     1.7796   -4.9067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -152,7 +152,7 @@ InChIKey=METZZBCMDXHFMK-BZSNNMDCSA-N
 M  END
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:00:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:52
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -198,7 +198,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:12:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:27
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -247,7 +247,7 @@ InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:36:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:12
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

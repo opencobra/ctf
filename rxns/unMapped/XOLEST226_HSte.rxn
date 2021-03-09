@@ -1,11 +1,11 @@
 $RXN
 XOLEST226_HSte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:30
 xolest226_hs[e] -> xolest226_hs[c]
   1  1
 $MOL
 xolest226_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:09:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:36
 InChIKey=VOEVEGPMRIYYKC-LFHFTWSPSA-N
 127130  0  0  1  0  0  0  0  0999 V2000
    13.1645   12.4934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -268,7 +268,7 @@ InChIKey=VOEVEGPMRIYYKC-LFHFTWSPSA-N
 M  END
 $MOL
 xolest226_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:09:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:36
 InChIKey=VOEVEGPMRIYYKC-LFHFTWSPSA-N
 127130  0  0  1  0  0  0  0  0999 V2000
    13.1645   12.4934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 FAOXC164x
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:41
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:12
 3hexdtetcoa[x] -> 2hexdtetcoa[x]
   1  1
 $MOL
 3hexdtetcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:47:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:19:35
 InChIKey=RDUFPHXVOIEKMV-YIKMFAKMSA-J
 119121  0  0  1  0  0  0  0  0999 V2000
    20.4902   -6.3077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -252,7 +252,7 @@ M  CHG  4  45  -1  49  -1  50  -1  51  -1
 M  END
 $MOL
 2hexdtetcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:41:45
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:11:56
 InChIKey=GIKPDPXCUAJUFG-AZKNSBQASA-J
 119121  0  0  1  0  0  0  0  0999 V2000
    -9.2545   -0.8525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

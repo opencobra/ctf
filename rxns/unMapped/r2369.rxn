@@ -1,11 +1,11 @@
 $RXN
 r2369
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:50
 prostgi2[e] -> prostgi2[c]
   1  1
 $MOL
 prostgi2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:42:32
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:22:58
 InChIKey=KAQKFAOMNZTLHT-OZUDYXHBSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
    -1.7354   -5.0498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 prostgi2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:42:32
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:22:58
 InChIKey=KAQKFAOMNZTLHT-OZUDYXHBSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
    -1.7354   -5.0498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

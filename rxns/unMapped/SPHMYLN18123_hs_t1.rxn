@@ -1,11 +1,11 @@
 $RXN
 SPHMYLN18123_hs_t1
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:22
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:40
 sphmyln18123_hs[e] -> sphmyln18123_hs[c]
   1  1
 $MOL
 sphmyln18123_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:50:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:30:42
 InChIKey=SXZWBNWTCVLZJN-NHFVQZBWSA-O
 149148  0  0  1  0  0  0  0  0999 V2000
    18.2679    2.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -309,7 +309,7 @@ M  CHG  1  48   1
 M  END
 $MOL
 sphmyln18123_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:50:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:30:42
 InChIKey=SXZWBNWTCVLZJN-NHFVQZBWSA-O
 149148  0  0  1  0  0  0  0  0999 V2000
    18.2679    2.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

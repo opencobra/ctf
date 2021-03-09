@@ -1,11 +1,11 @@
 $RXN
 C10164te
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
 C10164[c] -> C10164[e]
   1  1
 $MOL
 C10164[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:06:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:38:43
 InChIKey=SIOXPEMLGUPBBT-UHFFFAOYSA-M
  13 13  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,7 +38,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 C10164[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:06:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:38:43
 InChIKey=SIOXPEMLGUPBBT-UHFFFAOYSA-M
  13 13  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 CGLYt3_2_
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:05
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:00
 2 h[e] + cgly[e] -> 2 h[c] + cgly[c]
   3  3
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cgly[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:23:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:37
 InChIKey=ZUKPVRWZDMRIEO-VKHMYHEASA-N
  21 20  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -68,7 +68,7 @@ InChIKey=ZUKPVRWZDMRIEO-VKHMYHEASA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -76,7 +76,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -84,7 +84,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cgly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:23:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:37
 InChIKey=ZUKPVRWZDMRIEO-VKHMYHEASA-N
  21 20  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

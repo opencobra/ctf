@@ -1,11 +1,11 @@
 $RXN
 HMR_9746
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:16
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:14
 tetpent6[l] -> tetpent6[c]
   1  1
 $MOL
 tetpent6[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:55:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:08
 InChIKey=VENRYLMOFDSSDJ-RIOSQWMDSA-M
  63 62  0  0  0  0  0  0  0  0999 V2000
    16.4545   -4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ M  CHG  1  26  -1
 M  END
 $MOL
 tetpent6[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:55:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:08
 InChIKey=VENRYLMOFDSSDJ-RIOSQWMDSA-M
  63 62  0  0  0  0  0  0  0  0999 V2000
    16.4545   -4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

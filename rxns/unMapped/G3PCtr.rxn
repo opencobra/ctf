@@ -1,11 +1,11 @@
 $RXN
 G3PCtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:56
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:17
 g3pc[e] -> g3pc[c]
   1  1
 $MOL
 g3pc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:47:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:27:05
 InChIKey=SUHOQUVVVLNYQR-MRVPVSSYSA-O
  37 36  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ M  CHG  1   9   1
 M  END
 $MOL
 g3pc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:47:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:27:05
 InChIKey=SUHOQUVVVLNYQR-MRVPVSSYSA-O
  37 36  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

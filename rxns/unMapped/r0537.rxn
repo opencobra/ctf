@@ -1,11 +1,11 @@
 $RXN
 r0537
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:55
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:35
 ethamp[c] + hxdcal[c] -> sph1p[c]
   2  1
 $MOL
 ethamp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:42:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:34
 InChIKey=SUHOOTKUPISOBE-UHFFFAOYSA-M
  15 14  0  0  0  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 hxdcal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:04:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:43:49
 InChIKey=NIOYUNMRJMEDGI-UHFFFAOYSA-N
  49 48  0  0  0  0  0  0  0  0999 V2000
    12.9904   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -144,7 +144,7 @@ InChIKey=NIOYUNMRJMEDGI-UHFFFAOYSA-N
 M  END
 $MOL
 sph1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:49:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:29
 InChIKey=YHEDRJPUIRMZMP-ZWKOTPCHSA-M
  64 63  0  0  1  0  0  0  0  0999 V2000
    11.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

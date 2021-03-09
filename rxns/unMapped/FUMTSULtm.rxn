@@ -1,11 +1,11 @@
 $RXN
 FUMTSULtm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:11
 fum[c] + tsul[m] -> fum[m] + tsul[c]
   2  2
 $MOL
 fum[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:46:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:26:23
 InChIKey=VZCYOOQTPOCHFL-OWOJBTEDSA-L
  10  9  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31,7 +31,7 @@ M  CHG  2   6  -1   8  -1
 M  END
 $MOL
 tsul[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:03:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:21
 InChIKey=DHCDFWKWKRSZHF-UHFFFAOYSA-L
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 fum[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:46:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:26:23
 InChIKey=VZCYOOQTPOCHFL-OWOJBTEDSA-L
  10  9  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ M  CHG  2   6  -1   8  -1
 M  END
 $MOL
 tsul[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:03:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:21
 InChIKey=DHCDFWKWKRSZHF-UHFFFAOYSA-L
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0

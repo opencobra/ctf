@@ -1,11 +1,11 @@
 $RXN
 r1030
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:00
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:38
 C02470[c] -> C02470[e]
   1  1
 $MOL
 C02470[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:02:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:35:03
 InChIKey=FBZONXHGGPHHIY-UHFFFAOYSA-M
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -55,7 +55,7 @@ M  CHG  1  12  -1
 M  END
 $MOL
 C02470[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:02:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:35:03
 InChIKey=FBZONXHGGPHHIY-UHFFFAOYSA-M
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

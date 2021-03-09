@@ -1,11 +1,11 @@
 $RXN
 HMR_1034
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:35
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:51
 o2[x] + arachd[x] -> 12HPET[x]
   2  1
 $MOL
 o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 arachd[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:14:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:36
 InChIKey=YZXBAPSDXZZRGB-DOFZRALJSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 12HPET[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:29:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:03:50
 InChIKey=ZIOZYRSDNLNNNJ-APFHZBIOSA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
     5.1962    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

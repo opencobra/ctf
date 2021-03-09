@@ -1,11 +1,11 @@
 $RXN
 C226COAtx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:04
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:59
 c226coa[c] -> c226coa[x]
   1  1
 $MOL
 c226coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:21:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:00:45
 InChIKey=MENFZXMQSYYVRK-CRCGJGBYSA-J
 133135  0  0  1  0  0  0  0  0999 V2000
    20.3132  -15.4712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -280,7 +280,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 c226coa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:21:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:00:45
 InChIKey=MENFZXMQSYYVRK-CRCGJGBYSA-J
 133135  0  0  1  0  0  0  0  0999 V2000
    20.3132  -15.4712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

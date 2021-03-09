@@ -1,11 +1,11 @@
 $RXN
 r2091
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:10
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:47
 2hb[c] + but[e] -> 2hb[e] + but[c]
   2  2
 $MOL
 2hb[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:41:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:11:51
 InChIKey=AFENDNXGAFYKQO-VKHMYHEASA-M
  14 13  0  0  1  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 but[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:20:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:57
 InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 2hb[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:41:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:11:51
 InChIKey=AFENDNXGAFYKQO-VKHMYHEASA-M
  14 13  0  0  1  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -105,7 +105,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 but[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:20:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:57
 InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

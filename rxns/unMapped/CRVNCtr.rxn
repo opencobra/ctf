@@ -1,11 +1,11 @@
 $RXN
 CRVNCtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:10
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:03
 crvnc[e] -> crvnc[c]
   1  1
 $MOL
 crvnc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:27:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:25
 InChIKey=MBMBGCFOFBJSGT-KXRQTMKUSA-M
  55 54  0  0  0  0  0  0  0  0999 V2000
    -3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 crvnc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:27:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:25
 InChIKey=MBMBGCFOFBJSGT-KXRQTMKUSA-M
  55 54  0  0  0  0  0  0  0  0999 V2000
    -3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

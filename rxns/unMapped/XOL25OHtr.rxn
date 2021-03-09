@@ -1,11 +1,11 @@
 $RXN
 XOL25OHtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
 xol25oh[r] -> xol25oh[c]
   1  1
 $MOL
 xol25oh[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:08:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:47:29
 InChIKey=INBGSXNNRGWLJU-ZHHJOTBYSA-N
  75 78  0  0  1  0  0  0  0  0999 V2000
    -2.8066    3.7112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -164,7 +164,7 @@ InChIKey=INBGSXNNRGWLJU-ZHHJOTBYSA-N
 M  END
 $MOL
 xol25oh[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:08:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:47:29
 InChIKey=INBGSXNNRGWLJU-ZHHJOTBYSA-N
  75 78  0  0  1  0  0  0  0  0999 V2000
    -2.8066    3.7112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

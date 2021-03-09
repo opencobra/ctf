@@ -1,11 +1,11 @@
 $RXN
 r1163
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:01
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:38
 na1[e] + gchola[e] -> na1[c] + gchola[c]
   2  2
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 gchola[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:49:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:29:21
 InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
  75 78  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -173,7 +173,7 @@ M  CHG  1  31  -1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -181,7 +181,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 gchola[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:49:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:29:21
 InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
  75 78  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

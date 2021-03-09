@@ -1,11 +1,11 @@
 $RXN
 HMR_1745
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:51
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:53
 M01080[c] -> M01080[m]
   1  1
 $MOL
 M01080[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:35:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:16:00
 InChIKey=VDKSIHRRZLCAGD-QSPFNZPBSA-N
  78 81  0  0  1  0  0  0  0  0999 V2000
    -5.5866    2.9223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -170,7 +170,7 @@ InChIKey=VDKSIHRRZLCAGD-QSPFNZPBSA-N
 M  END
 $MOL
 M01080[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:35:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:16:00
 InChIKey=VDKSIHRRZLCAGD-QSPFNZPBSA-N
  78 81  0  0  1  0  0  0  0  0999 V2000
    -5.5866    2.9223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

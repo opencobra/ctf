@@ -1,11 +1,11 @@
 $RXN
 r0892
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:59
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:37
 utp[c] -> utp[e]
   1  1
 $MOL
 utp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:06:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:28
 InChIKey=PGAVKCOVUIYSFO-XVFCMESISA-J
  40 41  0  0  1  0  0  0  0  0999 V2000
    -7.7105   -0.2138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  4  12  -1  16  -1  17  -1  19  -1
 M  END
 $MOL
 utp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:06:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:28
 InChIKey=PGAVKCOVUIYSFO-XVFCMESISA-J
  40 41  0  0  1  0  0  0  0  0999 V2000
    -7.7105   -0.2138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

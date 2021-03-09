@@ -1,11 +1,11 @@
 $RXN
 ORETNtn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:39
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:22
 oretn[c] -> oretn[n]
   1  1
 $MOL
 oretn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:28:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:40
 InChIKey=GGCUJPCCTQNTJF-FRCNGJHJSA-M
  48 48  0  0  0  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -108,7 +108,7 @@ M  CHG  1  23  -1
 M  END
 $MOL
 oretn[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:28:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:40
 InChIKey=GGCUJPCCTQNTJF-FRCNGJHJSA-M
  48 48  0  0  0  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

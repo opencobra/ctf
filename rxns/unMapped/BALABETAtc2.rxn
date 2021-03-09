@@ -1,11 +1,11 @@
 $RXN
 BALABETAtc2
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:56
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:16
 h[e] + cala[e] -> h[c] + cala[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cala[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:22:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:14
 InChIKey=JSJWCHRYRHKBBW-UHFFFAOYSA-M
  16 15  0  0  0  0  0  0  0  0999 V2000
    -1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cala[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:22:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:14
 InChIKey=JSJWCHRYRHKBBW-UHFFFAOYSA-M
  16 15  0  0  0  0  0  0  0  0999 V2000
    -1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

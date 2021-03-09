@@ -1,11 +1,11 @@
 $RXN
 HMR_7043
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:10
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:09
 M01407[c] -> M00974[c]
   1  1
 $MOL
 M01407[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:40:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:20:31
 InChIKey=FVTNDWDQRAAPCD-UHFFFAOYSA-N
  13 14  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,7 +38,7 @@ InChIKey=FVTNDWDQRAAPCD-UHFFFAOYSA-N
 M  END
 $MOL
 M00974[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:34:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:14:30
 InChIKey=GZFGOTFRPZRKDS-UHFFFAOYSA-N
  13 13  0  0  0  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

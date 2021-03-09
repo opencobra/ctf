@@ -1,11 +1,11 @@
 $RXN
 PELPALM_HSt1e
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:22
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:39
 pepalm_hs[e] -> pepalm_hs[c]
   1  1
 $MOL
 pepalm_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:35:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:16:27
 InChIKey=YVYMBNSKXOXSKW-UHFFFAOYSA-N
  74 73  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -158,7 +158,7 @@ InChIKey=YVYMBNSKXOXSKW-UHFFFAOYSA-N
 M  END
 $MOL
 pepalm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:35:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:16:27
 InChIKey=YVYMBNSKXOXSKW-UHFFFAOYSA-N
  74 73  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

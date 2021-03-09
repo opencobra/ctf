@@ -1,11 +1,11 @@
 $RXN
 NFDtd
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:20
 nfd[e] -> nfd[c]
   1  1
 $MOL
 nfd[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:25:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:06
 InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
  43 44  0  0  1  0  0  0  0  0999 V2000
    -0.7764    2.2414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
 M  END
 $MOL
 nfd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:25:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:06
 InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
  43 44  0  0  1  0  0  0  0  0999 V2000
    -0.7764    2.2414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

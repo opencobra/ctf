@@ -1,11 +1,11 @@
 $RXN
 UGT1A9r
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:51
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
 5adtststerone[r] + udpglcur[r] -> 5adtststeroneglc[r] + udp[r]
   2  2
 $MOL
 5adtststerone[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:28:48
 InChIKey=NVKAWKQGWWIWPM-ABEVXSGRSA-N
  51 54  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -116,7 +116,7 @@ InChIKey=NVKAWKQGWWIWPM-ABEVXSGRSA-N
 M  END
 $MOL
 udpglcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:36
 InChIKey=HDYANYHVCAPMJV-LXQIFKJMSA-K
  56 58  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -237,7 +237,7 @@ M  CHG  3  18  -1  25  -1  27  -1
 M  END
 $MOL
 5adtststeroneglc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:28:53
 InChIKey=CLQMBSSRTBUNDV-CPKOJWPQSA-N
  71 75  0  0  1  0  0  0  0  0999 V2000
     1.6632    1.9747    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -389,7 +389,7 @@ InChIKey=CLQMBSSRTBUNDV-CPKOJWPQSA-N
 M  END
 $MOL
 udp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

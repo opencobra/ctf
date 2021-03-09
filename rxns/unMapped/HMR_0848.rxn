@@ -1,11 +1,11 @@
 $RXN
 HMR_0848
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:32
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:50
 cmpacna[c] + gt1b_hs[c] -> h[c] + cmp[c] + gq1balpha_hs[c]
   2  3
 $MOL
 cmpacna[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:41
 InChIKey=TXCIAUNLDRJGJZ-BILDWYJOSA-L
  70 72  0  0  1  0  0  0  0  0999 V2000
     3.3155   -3.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -154,8 +154,8 @@ M  CHG  2  26  -1  33  -1
 M  END
 $MOL
 gt1b_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:57:17
-InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:37:16
+
 258264  0  0  1  0  0  0  0  0999 V2000
    -3.4390    1.9855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5792    1.4891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -683,7 +683,7 @@ M  CHG  3 102  -1 112  -1 123  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -691,7 +691,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:32
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -765,8 +765,8 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 gq1balpha_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:56:23
-InChIKey=RQFCJASXJCIDSX-UUOKFMHZSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:36:09
+
 294301  0  0  1  0  0  0  0  0999 V2000
    -0.4907    2.5497    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.4720    2.5497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

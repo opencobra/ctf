@@ -1,11 +1,11 @@
 $RXN
 C06439t
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
 lac_L[e] + HC02213[c] -> lac_L[c] + HC02213[e]
   2  2
 $MOL
 lac_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:11:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:05
 InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M
  11 10  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33,7 +33,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 HC02213[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:10:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:51:09
 InChIKey=CBOMORHDRONZRN-QLOYDKTKSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
    -3.2507    6.4598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -148,7 +148,7 @@ M  CHG  1  25  -1
 M  END
 $MOL
 lac_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:11:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:05
 InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M
  11 10  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -176,7 +176,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 HC02213[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:10:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:51:09
 InChIKey=CBOMORHDRONZRN-QLOYDKTKSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
    -3.2507    6.4598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 CYSCYSr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:09
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:27
 h2o[c] + cyscys[c] -> 2 cys_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cyscys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:29:25
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:09:10
 InChIKey=OABOXRPGTFRBFZ-IUYQGCFVSA-N
  25 24  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ InChIKey=OABOXRPGTFRBFZ-IUYQGCFVSA-N
 M  END
 $MOL
 cys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:29:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:08:48
 InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -104,7 +104,7 @@ InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
 M  END
 $MOL
 cys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:29:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:08:48
 InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

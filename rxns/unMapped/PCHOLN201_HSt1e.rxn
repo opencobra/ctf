@@ -1,11 +1,11 @@
 $RXN
 PCHOLN201_HSt1e
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:21
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:39
 pcholn201_hs[e] -> pcholn201_hs[c]
   1  1
 $MOL
 pcholn201_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:32:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:13:04
 InChIKey=YYSFWGQAKJTHRE-QSRYBZNWSA-O
  94 93  0  0  1  0  0  0  0  0999 V2000
   -17.0000  -11.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -199,7 +199,7 @@ M  CHG  1  29   1
 M  END
 $MOL
 pcholn201_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:32:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:13:04
 InChIKey=YYSFWGQAKJTHRE-QSRYBZNWSA-O
  94 93  0  0  1  0  0  0  0  0999 V2000
   -17.0000  -11.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

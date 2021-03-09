@@ -1,11 +1,11 @@
 $RXN
 DCSPTN1t
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:04
 dcsptn1[e] -> dcsptn1[c]
   1  1
 $MOL
 dcsptn1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:31:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:11:15
 InChIKey=AVKOENOBFIYBSA-WMPRHZDHSA-M
  57 56  0  0  0  0  0  0  0  0999 V2000
    -3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 dcsptn1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:31:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:11:15
 InChIKey=AVKOENOBFIYBSA-WMPRHZDHSA-M
  57 56  0  0  0  0  0  0  0  0999 V2000
    -3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

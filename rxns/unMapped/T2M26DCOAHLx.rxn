@@ -1,11 +1,11 @@
 $RXN
 T2M26DCOAHLx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:49
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:30
 h2o[x] + t2m26dcoa[x] -> 3h26dm5coa[x]
   2  1
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 t2m26dcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:52:51
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:32:43
 InChIKey=MPYXOYHSKAAPLW-AVJOVGNRSA-J
 105107  0  0  1  0  0  0  0  0999 V2000
   -15.1997   -6.2055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -235,7 +235,7 @@ M  CHG  4  39  -1  42  -1  44  -1  45  -1
 M  END
 $MOL
 3h26dm5coa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:46:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:18:29
 InChIKey=LQMGDAUBYDSVAK-VEQIRKQXSA-J
 108110  0  0  1  0  0  0  0  0999 V2000
    16.3587   -4.9184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

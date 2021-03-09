@@ -1,11 +1,11 @@
 $RXN
 DHCR243r
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:14
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:05
 fadh2[r] + dsmsterol[r] -> chsterol[r] + fad[r]
   2  2
 $MOL
 fadh2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:43:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:12
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -189,7 +189,7 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 dsmsterol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:39:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:20
 InChIKey=AVSXSVCZWQODGV-DPAQBDIFSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -342,7 +342,7 @@ InChIKey=AVSXSVCZWQODGV-DPAQBDIFSA-N
 M  END
 $MOL
 chsterol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:24:57
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:41
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -499,7 +499,7 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 fad[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:43:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:07
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMGCOAtx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:30
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:16
 hmgcoa[c] -> hmgcoa[x]
   1  1
 $MOL
 hmgcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:02:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:42:35
 InChIKey=CABVTRNMFUVUDM-VRHQGPGLSA-I
  97 99  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -208,7 +208,7 @@ M  CHG  5  35  -1  37  -1  41  -1  43  -1  44  -1
 M  END
 $MOL
 hmgcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:02:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:42:35
 InChIKey=CABVTRNMFUVUDM-VRHQGPGLSA-I
  97 99  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

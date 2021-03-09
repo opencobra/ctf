@@ -1,6 +1,6 @@
 HC00342
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:58:32
-InChIKey=GTZCVFVGUGFEME-IWQZZHSRSA-K
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:39:21
+InChIKey=GTZCVFVGUGFEME-UHFFFAOYSA-K
  15 14  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -17,7 +17,7 @@ InChIKey=GTZCVFVGUGFEME-IWQZZHSRSA-K
     0.0000    3.0320    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    3.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.6588    2.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1  3  2  0  0  0  0
+  1  3  2  3  0  0  0
   1  4  1  0  0  0  0
   1 13  1  0  0  0  0
   2  3  1  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 TSACMGLUCitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:22
 tsacmgluc[c] -> tsacmgluc[r]
   1  1
 $MOL
 tsacmgluc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:02:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:00
 InChIKey=RCMQDOZTCCNSAY-UHFFFAOYSA-M
  44 45  0  0  1  0  0  0  0  0999 V2000
     5.1962   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -101,7 +101,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 tsacmgluc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:02:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:00
 InChIKey=RCMQDOZTCCNSAY-UHFFFAOYSA-M
  44 45  0  0  1  0  0  0  0  0999 V2000
     5.1962   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 RE2992X
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:23
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:01
 CE2442[x] -> CE2433[x]
   1  1
 $MOL
 CE2442[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:17:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:50:13
 InChIKey=ZNIIDPYHPPJCFQ-UPURPSNISA-J
 121123  0  0  1  0  0  0  0  0999 V2000
   -16.8781   -6.2109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -256,7 +256,7 @@ M  CHG  4  45  -1  49  -1  50  -1  51  -1
 M  END
 $MOL
 CE2433[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:17:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:49:38
 InChIKey=WJHWJZSGWIEAAU-MKELHTCUSA-J
 121123  0  0  1  0  0  0  0  0999 V2000
   -14.6954  -12.7436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

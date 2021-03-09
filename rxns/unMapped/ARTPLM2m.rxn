@@ -1,12 +1,12 @@
 $RXN
 ARTPLM2m
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:57
 Rtotal2coa[m] -> pmtcoa[m]
   1  1
 $MOL
 Rtotal2coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:02:58
-InChIKey=MVAWJSIDNICKHF-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:42:42
+
  82 84  0  0  1  0  0  0  0  0999 V2000
    -2.5000    1.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -3.0000    0.7321    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -178,7 +178,7 @@ M  CHG  4  24  -1  28  -1  50  -1  51  -1
 M  END
 $MOL
 pmtcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:39:01
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:42
 InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J
 127129  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

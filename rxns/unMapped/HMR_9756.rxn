@@ -1,11 +1,11 @@
 $RXN
 HMR_9756
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:16
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:15
 M00341[l] -> M00341[c]
   1  1
 $MOL
 M00341[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:20:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:00:56
 InChIKey=WBBQTNCISCKUMU-IUQGRGSQSA-M
  61 60  0  0  0  0  0  0  0  0999 V2000
    17.3205   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +133,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 M00341[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:20:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:00:56
 InChIKey=WBBQTNCISCKUMU-IUQGRGSQSA-M
  61 60  0  0  0  0  0  0  0  0999 V2000
    17.3205   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

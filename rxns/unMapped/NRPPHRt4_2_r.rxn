@@ -1,11 +1,11 @@
 $RXN
 NRPPHRt4_2_r
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:37
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:22
 2 na1[e] + nrpphr[e] -> 2 na1[c] + nrpphr[c]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nrpphr[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:04
 InChIKey=SFLSHLFXELFNJZ-QMMMGPOBSA-O
  24 24  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -76,7 +76,7 @@ M  CHG  1   9   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -84,7 +84,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -92,7 +92,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nrpphr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:04
 InChIKey=SFLSHLFXELFNJZ-QMMMGPOBSA-O
  24 24  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

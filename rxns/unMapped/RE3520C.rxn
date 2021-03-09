@@ -1,11 +1,11 @@
 $RXN
 RE3520C
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:30
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:08
 12HPET[c] -> C04849[c]
   1  1
 $MOL
 12HPET[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:29:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:03:50
 InChIKey=ZIOZYRSDNLNNNJ-APFHZBIOSA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
     5.1962    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 C04849[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:04:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:36:25
 InChIKey=SGTUOBURCVMACZ-CIQDQOFUSA-M
  55 55  0  0  1  0  0  0  0  0999 V2000
     0.5000    6.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

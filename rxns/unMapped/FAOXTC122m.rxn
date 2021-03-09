@@ -1,11 +1,11 @@
 $RXN
 FAOXTC122m
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:50
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:13
 tddedicoa[m] -> tddedi2coa[m]
   1  1
 $MOL
 tddedicoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:53:57
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:56
 InChIKey=KEPSPLQXVPROMK-ASJCJLDXSA-J
 111113  0  0  1  0  0  0  0  0999 V2000
   -14.3038   -3.8930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -236,7 +236,7 @@ M  CHG  4  41  -1  45  -1  46  -1  47  -1
 M  END
 $MOL
 tddedi2coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:53:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:52
 InChIKey=BNPQDIKRZDRREL-ASTVXOCUSA-J
 111113  0  0  1  0  0  0  0  0999 V2000
    16.6551    0.6415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

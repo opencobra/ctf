@@ -1,11 +1,11 @@
 $RXN
 PROHISt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:08
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:26
 h[e] + prohis[e] -> h[c] + prohis[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 prohis[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:41:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:22:01
 InChIKey=BEPSGCXDIVACBU-GKAPJAKFSA-N
  34 35  0  0  1  0  0  0  0  0999 V2000
     1.4013   -0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -88,7 +88,7 @@ InChIKey=BEPSGCXDIVACBU-GKAPJAKFSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -96,7 +96,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 prohis[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:41:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:22:01
 InChIKey=BEPSGCXDIVACBU-GKAPJAKFSA-N
  34 35  0  0  1  0  0  0  0  0999 V2000
     1.4013   -0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

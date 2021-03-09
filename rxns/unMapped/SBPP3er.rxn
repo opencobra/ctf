@@ -1,11 +1,11 @@
 $RXN
 SBPP3er
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:47
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:28
 h2o[r] + sphs1p[r] -> pi[r] + sphings[r]
   2  2
 $MOL
 h2o[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 sphs1p[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:51:07
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:31:01
 InChIKey=DUYSYHSSBDVJSM-KRWOKUGFSA-M
  62 61  0  0  1  0  0  0  0  0999 V2000
    11.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ M  CHG  1  21  -1
 M  END
 $MOL
 pi[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -164,7 +164,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 sphings[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:49:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:38
 InChIKey=WWUZIQQURGPMPG-KRWOKUGFSA-O
  59 58  0  0  1  0  0  0  0  0999 V2000
    12.1244   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

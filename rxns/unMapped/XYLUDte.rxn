@@ -1,11 +1,11 @@
 $RXN
 XYLUDte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
 xylu_D[c] -> xylu_D[e]
   1  1
 $MOL
 xylu_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:11:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:46
 InChIKey=ZAQJHHRNXZUBTE-WUJLRWPWSA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
     1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ InChIKey=ZAQJHHRNXZUBTE-WUJLRWPWSA-N
 M  END
 $MOL
 xylu_D[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:11:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:46
 InChIKey=ZAQJHHRNXZUBTE-WUJLRWPWSA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
     1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 BVITEt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:04
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:58
 bvite[e] -> bvite[c]
   1  1
 $MOL
 bvite[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:20:35
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:00:02
 InChIKey=WGVKWNUPNGFDFJ-DQCZWYHMSA-N
  78 79  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -168,7 +168,7 @@ InChIKey=WGVKWNUPNGFDFJ-DQCZWYHMSA-N
 M  END
 $MOL
 bvite[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:20:35
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:00:02
 InChIKey=WGVKWNUPNGFDFJ-DQCZWYHMSA-N
  78 79  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
