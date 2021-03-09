@@ -1,11 +1,11 @@
 $RXN
 TDPGDH
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:18
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:36
 dtdpglu[c] -> h2o[c] + dtdp4d6dg[c]
   1  2
 $MOL
 dtdpglu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:39:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:38
 InChIKey=YSYKRGRSMLTJNL-KFQCIAAJSA-L
  60 62  0  0  1  0  0  0  0  0999 V2000
    -2.4526    3.6476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -134,7 +134,7 @@ M  CHG  2  24  -1  26  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -145,7 +145,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dtdp4d6dg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:39:32
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:29
 InChIKey=PSXWNITXWWECNY-GEOJQADCSA-L
  57 59  0  0  1  0  0  0  0  0999 V2000
    -2.4526    3.6476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

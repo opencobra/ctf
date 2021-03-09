@@ -1,11 +1,11 @@
 $RXN
 METHSUCCOAc
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
 ethmalcoa[c] -> methsuccoa[c]
   1  1
 $MOL
 ethmalcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:42:42
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:42
 InChIKey=VUGZQVCBBBEZQE-UQCJFRAESA-I
  93 95  0  0  1  0  0  0  0  0999 V2000
    13.2773   -6.6042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -200,7 +200,7 @@ M  CHG  5  34  -1  37  -1  39  -1  41  -1  42  -1
 M  END
 $MOL
 methsuccoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:21:01
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:03
 InChIKey=OUFHQHVVFSERRI-VKBDFPRVSA-I
  93 95  0  0  1  0  0  0  0  0999 V2000
    11.1876   -8.4198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

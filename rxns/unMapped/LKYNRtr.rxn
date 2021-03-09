@@ -1,11 +1,11 @@
 $RXN
 LKYNRtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:56
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:16
 Lkynr[e] -> Lkynr[c]
   1  1
 $MOL
 Lkynr[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:11:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:32
 InChIKey=YGPSJZOEDVAXAB-QMMMGPOBSA-N
  27 27  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -65,7 +65,7 @@ InChIKey=YGPSJZOEDVAXAB-QMMMGPOBSA-N
 M  END
 $MOL
 Lkynr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:11:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:32
 InChIKey=YGPSJZOEDVAXAB-QMMMGPOBSA-N
  27 27  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

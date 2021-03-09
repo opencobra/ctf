@@ -1,6 +1,6 @@
 amet
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:13:05
-InChIKey=MEFKEPWMEQBLKI-AIRLBKTGSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:52:50
+InChIKey=MEFKEPWMEQBLKI-XCPQSEKJSA-O
  50 52  0  0  1  0  0  0  0  0999 V2000
     2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.2891   -0.9659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -8,7 +8,7 @@ InChIKey=MEFKEPWMEQBLKI-AIRLBKTGSA-O
     1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.9941   -1.0477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7916    2.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.9582   -1.7091    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.9582   -1.7091    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.9945    0.1045    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -2.9941    0.9523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.2024    1.0827    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -74,7 +74,7 @@ InChIKey=MEFKEPWMEQBLKI-AIRLBKTGSA-O
   6 38  1  0  0  0  0
   7 15  1  0  0  0  0
   7 16  1  0  0  0  0
-  7 39  1  1  0  0  0
+  7 39  1  6  0  0  0
   8  4  1  0  0  0  0
   8 10  1  0  0  0  0
   8 26  1  0  0  0  0

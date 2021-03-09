@@ -1,11 +1,11 @@
 $RXN
 RE2080C
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:18
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:57
 C05957[c] -> h2o[c] + CE4877[c]
   1  2
 $MOL
 C05957[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:05:07
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:37:29
 InChIKey=UQOQENZZLBSFKO-POPPZSFYSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -0.9230   -6.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -118,7 +118,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -129,7 +129,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE4877[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:29:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:03:03
 InChIKey=VHRUMKCAEVRUBK-GODQJPCRSA-M
  50 50  0  0  1  0  0  0  0  0999 V2000
    -7.0506    0.3810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 6MELVSTthep
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:18
 6melvst[e] -> 6melvst[c]
   1  1
 $MOL
 6melvst[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:00:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:32:35
 InChIKey=CUFUDDFNKHOQEC-UHFFFAOYSA-N
  63 65  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -139,7 +139,7 @@ InChIKey=CUFUDDFNKHOQEC-UHFFFAOYSA-N
 M  END
 $MOL
 6melvst[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:00:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:32:35
 InChIKey=CUFUDDFNKHOQEC-UHFFFAOYSA-N
  63 65  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

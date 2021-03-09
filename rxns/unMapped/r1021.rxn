@@ -1,11 +1,11 @@
 $RXN
 r1021
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:00
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:37
 dhcholoylcoa[m] -> dhcholoylcoa[c]
   1  1
 $MOL
 dhcholoylcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:34:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:22
 InChIKey=SEBZZAWTQNNGPK-RDYMGNODSA-J
 152158  0  0  1  0  0  0  0  0999 V2000
    -1.7530   -5.4348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -322,7 +322,7 @@ M  CHG  4  58  -1  61  -1  63  -1  64  -1
 M  END
 $MOL
 dhcholoylcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:34:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:22
 InChIKey=SEBZZAWTQNNGPK-RDYMGNODSA-J
 152158  0  0  1  0  0  0  0  0999 V2000
    -1.7530   -5.4348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

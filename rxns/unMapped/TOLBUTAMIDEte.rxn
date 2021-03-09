@@ -1,11 +1,11 @@
 $RXN
 TOLBUTAMIDEte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:50
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:31
 tolbutamide[e] -> tolbutamide[c]
   1  1
 $MOL
 tolbutamide[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:59:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:38:57
 InChIKey=JLRGJRBPOGGCBT-UHFFFAOYSA-N
  36 36  0  0  0  0  0  0  0  0999 V2000
     3.4641    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ InChIKey=JLRGJRBPOGGCBT-UHFFFAOYSA-N
 M  END
 $MOL
 tolbutamide[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:59:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:38:57
 InChIKey=JLRGJRBPOGGCBT-UHFFFAOYSA-N
  36 36  0  0  0  0  0  0  0  0999 V2000
     3.4641    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

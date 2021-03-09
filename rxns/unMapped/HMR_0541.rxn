@@ -1,11 +1,11 @@
 $RXN
 HMR_0541
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:30
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:47
 dcsptn1coa[c] + glyc3p[c] -> coa[c] + M00451[c]
   2  2
 $MOL
 dcsptn1coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:31:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:11:19
 InChIKey=QKBTYZDPVNTERQ-UWVCYPHHSA-J
 135137  0  0  1  0  0  0  0  0999 V2000
    13.8904    4.2962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -284,7 +284,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 glyc3p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:41
 InChIKey=AWUCVROLDVIAJX-GSVOUGTGSA-L
  17 16  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -324,7 +324,7 @@ M  CHG  2   6  -1   7  -1
 M  END
 $MOL
 coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:26:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:04
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -493,7 +493,7 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 M00451[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:23:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:03:46
 InChIKey=BAJTXVWXVJSULG-JGUSGSGWSA-L
  72 71  0  0  1  0  0  0  0  0999 V2000
    17.5000  -11.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

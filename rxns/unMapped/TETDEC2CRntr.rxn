@@ -1,11 +1,11 @@
 $RXN
 TETDEC2CRntr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:31
 tetdec2crn[e] -> tetdec2crn[c]
   1  1
 $MOL
 tetdec2crn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:54:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:34:19
 InChIKey=IXOHTRSFILEKHO-FSALDASDSA-N
  63 62  0  0  1  0  0  0  0  0999 V2000
    11.5000   -4.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ M  CHG  2  22   1  24  -1
 M  END
 $MOL
 tetdec2crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:54:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:34:19
 InChIKey=IXOHTRSFILEKHO-FSALDASDSA-N
  63 62  0  0  1  0  0  0  0  0999 V2000
    11.5000   -4.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

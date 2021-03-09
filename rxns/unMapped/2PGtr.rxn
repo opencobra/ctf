@@ -1,11 +1,11 @@
 $RXN
 2PGtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:56
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:17
 2pg[e] -> 2pg[c]
   1  1
 $MOL
 2pg[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:43:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:15:52
 InChIKey=GXIURPTVHJPJLF-UWTATZPHSA-K
  15 14  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ M  CHG  3   6  -1   7  -1   8  -1
 M  END
 $MOL
 2pg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:43:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:15:52
 InChIKey=GXIURPTVHJPJLF-UWTATZPHSA-K
  15 14  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

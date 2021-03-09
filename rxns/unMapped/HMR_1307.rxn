@@ -1,11 +1,11 @@
 $RXN
 HMR_1307
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:47
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:52
 2 h[r] + HC02217[r] -> h2o[r] + prostgh2[r]
   3  2
 $MOL
 h[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 h[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 HC02217[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:10:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:51:24
 InChIKey=SGUKUZOVHSFKPH-YNNPMVKQSA-M
  57 58  0  0  1  0  0  0  0  0999 V2000
    -4.4045    0.8476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -143,7 +143,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 h2o[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -154,7 +154,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 prostgh2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:42:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:22:53
 InChIKey=YIBNHAJFJUQSRA-YNNPMVKQSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
     3.3878    0.9780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

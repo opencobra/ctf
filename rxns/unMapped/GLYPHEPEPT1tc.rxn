@@ -1,11 +1,11 @@
 $RXN
 GLYPHEPEPT1tc
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:51
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:15
 h[e] + glyphe[e] -> h[c] + glyphe[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 glyphe[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:54:35
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:23
 InChIKey=JBCLFWXMTIKCCB-UHFFFAOYSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,7 +79,7 @@ InChIKey=JBCLFWXMTIKCCB-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -87,7 +87,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 glyphe[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:54:35
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:23
 InChIKey=JBCLFWXMTIKCCB-UHFFFAOYSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

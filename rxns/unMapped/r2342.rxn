@@ -1,11 +1,11 @@
 $RXN
 r2342
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:50
 estrones[e] -> estrones[c]
   1  1
 $MOL
 estrones[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:42:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:25
 InChIKey=JKKFKPJIXZFSSB-CBZIJGRNSA-M
  45 48  0  0  1  0  0  0  0  0999 V2000
    -6.3312   -0.0984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -105,7 +105,7 @@ M  CHG  1  20  -1
 M  END
 $MOL
 estrones[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:42:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:25
 InChIKey=JKKFKPJIXZFSSB-CBZIJGRNSA-M
  45 48  0  0  1  0  0  0  0  0999 V2000
    -6.3312   -0.0984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

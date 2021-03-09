@@ -1,11 +1,11 @@
 $RXN
 ENO
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:15
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:33
 2pg[c] -> h2o[c] + pep[c]
   1  2
 $MOL
 2pg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:43:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:15:52
 InChIKey=GXIURPTVHJPJLF-UWTATZPHSA-K
  15 14  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ M  CHG  3   6  -1   7  -1   8  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -52,7 +52,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pep[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:35:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:16:23
 InChIKey=DTBNBXWJWCWCIK-UHFFFAOYSA-K
  12 11  0  0  0  0  0  0  0  0999 V2000
     1.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

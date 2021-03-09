@@ -1,11 +1,11 @@
 $RXN
 r2496
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:52
 hco3[e] + dopa[c] + HC02201[e] -> hco3[c] + dopa[e] + HC02201[c]
   3  3
 $MOL
 hco3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:44
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 dopa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:38:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:18:40
 InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-O
  23 23  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -74,7 +74,7 @@ M  CHG  1   9   1
 M  END
 $MOL
 HC02201[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:09:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:50:30
 InChIKey=BIJQYNCUDQBFTN-KBPBESRZSA-L
  63 63  0  0  1  0  0  0  0  0999 V2000
     4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -207,7 +207,7 @@ M  CHG  2  29  -1  31  -1
 M  END
 $MOL
 hco3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:44
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -223,7 +223,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 dopa[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:38:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:18:40
 InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-O
  23 23  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -276,7 +276,7 @@ M  CHG  1   9   1
 M  END
 $MOL
 HC02201[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:09:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:50:30
 InChIKey=BIJQYNCUDQBFTN-KBPBESRZSA-L
  63 63  0  0  1  0  0  0  0  0999 V2000
     4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

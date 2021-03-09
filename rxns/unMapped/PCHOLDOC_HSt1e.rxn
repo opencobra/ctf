@@ -1,11 +1,11 @@
 $RXN
 PCHOLDOC_HSt1e
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:21
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:39
 pcholdoc_hs[e] -> pcholdoc_hs[c]
   1  1
 $MOL
 pcholdoc_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:31:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:17
 InChIKey=GIGKZZCXYJVNSX-UMVCUSMKSA-O
 102101  0  0  1  0  0  0  0  0999 V2000
   -21.5000  -14.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -215,7 +215,7 @@ M  CHG  1  35   1
 M  END
 $MOL
 pcholdoc_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:31:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:17
 InChIKey=GIGKZZCXYJVNSX-UMVCUSMKSA-O
 102101  0  0  1  0  0  0  0  0999 V2000
   -21.5000  -14.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

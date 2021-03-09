@@ -1,11 +1,11 @@
 $RXN
 NS26T2g
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:38
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:22
 cmpacna[g] + sT_antigen[g] -> h[g] + cmp[g] + dsT_antigen[g]
   2  3
 $MOL
 cmpacna[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:41
 InChIKey=TXCIAUNLDRJGJZ-BILDWYJOSA-L
  70 72  0  0  1  0  0  0  0  0999 V2000
     3.3155   -3.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -154,8 +154,8 @@ M  CHG  2  26  -1  33  -1
 M  END
 $MOL
 sT_antigen[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:46:58
-InChIKey=JDTUMPKOJBQPKX-GBNDHIKLSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:00
+
  86 88  0  0  1  0  0  0  0  0999 V2000
     2.0000   -3.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -335,7 +335,7 @@ M  CHG  1  38  -1
 M  END
 $MOL
 h[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -343,7 +343,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cmp[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:32
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -417,7 +417,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 dsT_antigen[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:39:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:15
 InChIKey=PDWIQYODPROSQH-PYHARJCCSA-N
  19 19  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 r2539
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:14
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:53
 L2aadp[m] + L2aadp6sa[c] -> L2aadp[c] + L2aadp6sa[m]
   2  2
 $MOL
 L2aadp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:11:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:00
 InChIKey=OYIFNHCXNCRBQI-BYPYZUCNSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
    -2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,14 +53,14 @@ M  CHG  1   9  -1
 M  END
 $MOL
 L2aadp6sa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:11:22
-InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:05
+InChIKey=GFXYTQPNNXGICT-UHFFFAOYSA-N
  21 20  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7321    0.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     4.3301    3.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N
     3.5248   -0.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981   -0.5700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.5704    3.5160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    2.6588   -0.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7321    1.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.8488   -1.5100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.6154   -1.5100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8115    0.4685    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N
   4 17  1  0  0  0  0
   5  6  1  0  0  0  0
   5  7  1  0  0  0  0
-  5 18  1  1  0  0  0
+  5 18  1  0  0  0  0
   6  9  2  0  0  0  0
   6 10  1  0  0  0  0
   7 19  1  0  0  0  0
@@ -100,7 +100,7 @@ InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N
 M  END
 $MOL
 L2aadp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:11:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:00
 InChIKey=OYIFNHCXNCRBQI-BYPYZUCNSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
    -2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -148,14 +148,14 @@ M  CHG  1   9  -1
 M  END
 $MOL
 L2aadp6sa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:11:22
-InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:05
+InChIKey=GFXYTQPNNXGICT-UHFFFAOYSA-N
  21 20  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7321    0.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     4.3301    3.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -168,7 +168,7 @@ InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N
     3.5248   -0.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981   -0.5700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.5704    3.5160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    2.6588   -0.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7321    1.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.8488   -1.5100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.6154   -1.5100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8115    0.4685    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -186,7 +186,7 @@ InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N
   4 17  1  0  0  0  0
   5  6  1  0  0  0  0
   5  7  1  0  0  0  0
-  5 18  1  1  0  0  0
+  5 18  1  0  0  0  0
   6  9  2  0  0  0  0
   6 10  1  0  0  0  0
   7 19  1  0  0  0  0

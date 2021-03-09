@@ -1,11 +1,11 @@
 $RXN
 HMR_9792
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:17
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:15
 ocdca[l] -> ocdca[c]
   1  1
 $MOL
 ocdca[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:27:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:08:05
 InChIKey=QIQXTHQIDYTFRH-UHFFFAOYSA-M
  55 54  0  0  0  0  0  0  0  0999 V2000
    13.8564    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  1  20  -1
 M  END
 $MOL
 ocdca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:27:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:08:05
 InChIKey=QIQXTHQIDYTFRH-UHFFFAOYSA-M
  55 54  0  0  0  0  0  0  0  0999 V2000
    13.8564    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

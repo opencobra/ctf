@@ -1,12 +1,12 @@
 $RXN
 ABO1g
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:12:55
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:51
 fucgalacglcgalgluside_hs[g] + udpacgal[g] -> h[g] + udp[g] + acgalfucgalacglcgalgluside_hs[g]
   2  3
 $MOL
 fucgalacglcgalgluside_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:46:19
-InChIKey=FYESHYJKKINHMB-LLXKOZIISA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:26:09
+
 170174  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -355,7 +355,7 @@ InChIKey=FYESHYJKKINHMB-LLXKOZIISA-L
 M  END
 $MOL
 udpacgal[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:22
 InChIKey=LFTYTUAZOPRMMI-CANYFDIJSA-L
  64 66  0  0  1  0  0  0  0  0999 V2000
     4.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -492,7 +492,7 @@ M  CHG  2  22  -1  23  -1
 M  END
 $MOL
 h[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -500,7 +500,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 udp[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -580,8 +580,8 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 acgalfucgalacglcgalgluside_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:05:37
-InChIKey=FZLJPEPAYPUMMR-KEWYIRBNSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:45:24
+
 197202  0  0  1  0  0  0  0  0999 V2000
    -1.7149   -1.9802    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8575   -1.4851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 PE203_HSt1e
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:22
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:39
 pe203_hs[e] -> pe203_hs[c]
   1  1
 $MOL
 pe203_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:34
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:21
 InChIKey=UEONHLLDVDPRRN-VKZRBKSOSA-N
  80 79  0  0  1  0  0  0  0  0999 V2000
    16.0000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -170,7 +170,7 @@ InChIKey=UEONHLLDVDPRRN-VKZRBKSOSA-N
 M  END
 $MOL
 pe203_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:34
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:21
 InChIKey=UEONHLLDVDPRRN-VKZRBKSOSA-N
  80 79  0  0  1  0  0  0  0  0999 V2000
    16.0000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

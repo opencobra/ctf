@@ -1,11 +1,11 @@
 $RXN
 LVSTACIDhep
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:23
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:20
 h2o[c] + lvst[c] -> h[c] + lvstacid[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 lvst[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:16:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:35
 InChIKey=PCZOHLXUXFIOCF-BXMDZJJMSA-N
  65 67  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -154,7 +154,7 @@ InChIKey=PCZOHLXUXFIOCF-BXMDZJJMSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 lvstacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:16:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:39
 InChIKey=HVNPYUAENVOWDV-UHFFFAOYSA-N
  68 69  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

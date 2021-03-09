@@ -1,11 +1,11 @@
 $RXN
 PPOR
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:44
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:25
 o2[c] + phpyr[c] -> co2[c] + 2hyoxplac[c]
   2  2
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 phpyr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:01
 InChIKey=BTNMPGBKDVTSJY-UHFFFAOYSA-M
  19 19  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:26:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:00
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -70,7 +70,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 2hyoxplac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:42:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:12:39
 InChIKey=CCVYRRGZDBSHFU-UHFFFAOYSA-M
  18 18  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

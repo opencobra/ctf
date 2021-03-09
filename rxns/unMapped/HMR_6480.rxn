@@ -1,11 +1,11 @@
 $RXN
 HMR_6480
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:07
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
 CE5843[r] -> CE5843[c]
   1  1
 $MOL
 CE5843[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:44:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:23:25
 InChIKey=NJIUWSABAIXPGI-AXTKCOKSSA-M
  80 81  0  0  1  0  0  0  0  0999 V2000
     5.6263    1.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -173,7 +173,7 @@ M  CHG  1  30  -1
 M  END
 $MOL
 CE5843[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:44:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:23:25
 InChIKey=NJIUWSABAIXPGI-AXTKCOKSSA-M
  80 81  0  0  1  0  0  0  0  0999 V2000
     5.6263    1.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

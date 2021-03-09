@@ -1,11 +1,11 @@
 $RXN
 DMGtm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:15
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:05
 dmgly[c] -> dmgly[m]
   1  1
 $MOL
 dmgly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:36:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:16:11
 InChIKey=FFDGPVCHZBVARC-UHFFFAOYSA-N
  16 15  0  0  0  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42,7 +42,7 @@ InChIKey=FFDGPVCHZBVARC-UHFFFAOYSA-N
 M  END
 $MOL
 dmgly[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:36:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:16:11
 InChIKey=FFDGPVCHZBVARC-UHFFFAOYSA-N
  16 15  0  0  0  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 C05769te2
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
 C05769[c] -> C05769[e]
   1  1
 $MOL
 C05769[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:04:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:37:19
 InChIKey=VORBHEGMEBOMMB-JRHDEHKPSA-J
  82 86  0  0  0  0  0  0  0  0999 V2000
     4.2443   -0.2163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -180,7 +180,7 @@ M  CHG  4  42  -1  44  -1  46  -1  48  -1
 M  END
 $MOL
 C05769[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:04:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:37:19
 InChIKey=VORBHEGMEBOMMB-JRHDEHKPSA-J
  82 86  0  0  0  0  0  0  0  0999 V2000
     4.2443   -0.2163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

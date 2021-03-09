@@ -1,11 +1,11 @@
 $RXN
 CBPPer
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:05
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:00
 h[r] + glc_D[r] + cbp[r] -> co2[r] + nh4[r] + g6p[r]
   3  3
 $MOL
 h[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 glc_D[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:50:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:51
 InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -67,7 +67,7 @@ InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
 M  END
 $MOL
 cbp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:23:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:10
 InChIKey=FFQKYPRQEYGKAF-UHFFFAOYSA-L
  10  9  0  0  0  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  2   3  -1   4  -1
 M  END
 $MOL
 co2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:26:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:00
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -104,7 +104,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 nh4[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:14
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -120,7 +120,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 g6p[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:47:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:27:10
 InChIKey=NBSCHQHZLSJFNQ-GASJEMHNSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

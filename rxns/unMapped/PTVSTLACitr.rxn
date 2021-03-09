@@ -1,11 +1,11 @@
 $RXN
 PTVSTLACitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 ptvstlac[r] -> ptvstlac[c]
   1  1
 $MOL
 ptvstlac[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:43:51
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:03
 InChIKey=GZYFSJPUZAFFCS-YHPRVSEPSA-N
 105112  0  0  1  0  0  0  0  0999 V2000
     9.1603   -2.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -229,7 +229,7 @@ M  CHG  1  61   2
 M  END
 $MOL
 ptvstlac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:43:51
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:03
 InChIKey=GZYFSJPUZAFFCS-YHPRVSEPSA-N
 105112  0  0  1  0  0  0  0  0999 V2000
     9.1603   -2.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

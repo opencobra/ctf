@@ -1,12 +1,12 @@
 $RXN
 HMR_7660
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:10
 apoC_Lys[c] -> apoC_Lys[e]
   1  1
 $MOL
 apoC_Lys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:14:02
-InChIKey=NQFUSWIGRKFAHK-KEMUHUQJSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:53:46
+
  27 26  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -64,8 +64,8 @@ InChIKey=NQFUSWIGRKFAHK-KEMUHUQJSA-N
 M  END
 $MOL
 apoC_Lys[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:14:02
-InChIKey=NQFUSWIGRKFAHK-KEMUHUQJSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:53:46
+
  27 26  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

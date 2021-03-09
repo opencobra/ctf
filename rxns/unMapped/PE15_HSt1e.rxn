@@ -1,11 +1,11 @@
 $RXN
 PE15_HSt1e
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:22
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:39
 pe15_hs[e] -> pe15_hs[c]
   1  1
 $MOL
 pe15_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:20
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:06
 InChIKey=GIUNBNKDUHWVHI-IBGZPJMESA-N
  71 70  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -152,7 +152,7 @@ InChIKey=GIUNBNKDUHWVHI-IBGZPJMESA-N
 M  END
 $MOL
 pe15_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:20
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:06
 InChIKey=GIUNBNKDUHWVHI-IBGZPJMESA-N
  71 70  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 DEOXFVSitx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 deoxfvs[c] -> deoxfvs[x]
   1  1
 $MOL
 deoxfvs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:33:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:13:23
 InChIKey=CJAJTFFUKCPXGH-UHFFFAOYSA-M
  48 49  0  0  0  0  0  0  0  0999 V2000
     5.2207   -5.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,7 +109,7 @@ M  CHG  2  26  -1  27   1
 M  END
 $MOL
 deoxfvs[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:33:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:13:23
 InChIKey=CJAJTFFUKCPXGH-UHFFFAOYSA-M
  48 49  0  0  0  0  0  0  0  0999 V2000
     5.2207   -5.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

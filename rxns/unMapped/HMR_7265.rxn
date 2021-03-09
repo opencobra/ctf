@@ -1,11 +1,11 @@
 $RXN
 HMR_7265
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:11
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:10
 uacgam[c] + naglc2p_L[c] -> udp[c] + chito2pdol_L[c]
   2  2
 $MOL
 uacgam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:01
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:14
 InChIKey=LFTYTUAZOPRMMI-SQUNQTHHSA-L
  64 66  0  0  1  0  0  0  0  0999 V2000
     4.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -142,7 +142,7 @@ M  CHG  2  22  -1  23  -1
 M  END
 $MOL
 naglc2p_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:40
 InChIKey=NSVKTXNITHYTDN-QQFUYBAXSA-L
 105105  0  0  1  0  0  0  0  0999 V2000
    -7.7942   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -359,7 +359,7 @@ M  CHG  2  36  -1  39  -1
 M  END
 $MOL
 udp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -439,7 +439,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 chito2pdol_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:24:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:47
 InChIKey=QBRZRKKUHJLMCY-HRUJLXCPSA-L
 132133  0  0  1  0  0  0  0  0999 V2000
     0.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

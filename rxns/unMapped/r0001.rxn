@@ -1,11 +1,11 @@
 $RXN
 r0001
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:52
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:33
 ametam[c] -> 5mta[c] + HC02119[c]
   1  2
 $MOL
 ametam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:13:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:52:54
 InChIKey=ZUNBITIXDCPNSD-LSRJEVITSA-O
  48 50  0  0  1  0  0  0  0  0999 V2000
    -2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -110,7 +110,7 @@ M  CHG  2  15   1  24   1
 M  END
 $MOL
 5mta[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:58:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:30:35
 InChIKey=WUUGFSXJNOTRMR-IOSLPCCCSA-N
  35 37  0  0  1  0  0  0  0  0999 V2000
    -2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -188,7 +188,7 @@ InChIKey=WUUGFSXJNOTRMR-IOSLPCCCSA-N
 M  END
 $MOL
 HC02119[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:08:34
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:49:18
 InChIKey=ZUNBITIXDCPNSD-LSRJEVITSA-N
  47 49  0  0  1  0  0  0  0  0999 V2000
    -2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 MMMm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:36
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:21
 mmcoa_R[m] -> succoa[m]
   1  1
 $MOL
 mmcoa_R[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:22:54
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:50
 InChIKey=MZFOKIKEPGUZEN-AGCMQPJKSA-I
  90 92  0  0  1  0  0  0  0  0999 V2000
    13.4853   -5.6261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -194,7 +194,7 @@ M  CHG  5  33  -1  36  -1  38  -1  40  -1  41  -1
 M  END
 $MOL
 succoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:52:34
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:32:23
 InChIKey=VNOYUJKHFWYWIR-ITIYDSSPSA-I
  90 92  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

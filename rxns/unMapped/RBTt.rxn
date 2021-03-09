@@ -1,11 +1,11 @@
 $RXN
 RBTt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:45
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:26
 rbt[c] -> rbt[e]
   1  1
 $MOL
 rbt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:45:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:25:22
 InChIKey=HEBKCHPVOIAQTA-ZXFHETKHSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
     1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ InChIKey=HEBKCHPVOIAQTA-ZXFHETKHSA-N
 M  END
 $MOL
 rbt[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:45:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:25:22
 InChIKey=HEBKCHPVOIAQTA-ZXFHETKHSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
     1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

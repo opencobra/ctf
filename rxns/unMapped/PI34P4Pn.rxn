@@ -1,11 +1,11 @@
 $RXN
 PI34P4Pn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:42
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:25
 h2o[n] + pail34p_hs[n] -> pi[n] + pail3p_hs[n]
   2  2
 $MOL
 h2o[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,8 +16,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pail34p_hs[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:30:01
-InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:10:45
+
  49 49  0  0  1  0  0  0  0  0999 V2000
    -1.0000    2.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5000    1.5981    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  5   9  -1  10  -1  15  -1  16  -1  23  -1
 M  END
 $MOL
 pi[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -139,8 +139,8 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 pail3p_hs[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:30:10
-InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:10:54
+
  46 46  0  0  1  0  0  0  0  0999 V2000
    -1.0000    2.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5000    1.5981    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

@@ -1,12 +1,12 @@
 $RXN
 PHCRMtg
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:44
 phcrm_hs[c] -> phcrm_hs[g]
   1  1
 $MOL
 phcrm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:36:23
-InChIKey=UTYVDVLMYQPLQB-UHFFFAOYSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:08
+
  63 62  0  0  1  0  0  0  0  0999 V2000
     6.9282   -9.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     7.7942   -8.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -136,8 +136,8 @@ InChIKey=UTYVDVLMYQPLQB-UHFFFAOYSA-M
 M  END
 $MOL
 phcrm_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:36:23
-InChIKey=UTYVDVLMYQPLQB-UHFFFAOYSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:08
+
  63 62  0  0  1  0  0  0  0  0999 V2000
     6.9282   -9.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     7.7942   -8.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

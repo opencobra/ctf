@@ -1,11 +1,11 @@
 $RXN
 RE2888E
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:22
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:00
 h2o2[e] + urate[e] -> 2 h[e] + urea[e] + CE0074[e]
   2  4
 $MOL
 h2o2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:27
 InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18,7 +18,7 @@ InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
 M  END
 $MOL
 urate[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:07
 InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
 M  END
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -65,7 +65,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 urea[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:06:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:15
 InChIKey=XSQUKJJJFZCRTK-UHFFFAOYSA-N
   8  7  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -94,7 +94,7 @@ InChIKey=XSQUKJJJFZCRTK-UHFFFAOYSA-N
 M  END
 $MOL
 CE0074[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:07:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:39:42
 InChIKey=HIMXGTXNXJYFGB-UHFFFAOYSA-L
  10 10  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

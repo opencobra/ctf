@@ -1,11 +1,11 @@
 $RXN
 ECOAH1m
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:18
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:07
 3hbcoa[m] -> h2o[m] + b2coa[m]
   1  2
 $MOL
 3hbcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:46:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:18:52
 InChIKey=QHHKKMYHDBRONY-VKBDFPRVSA-J
  92 94  0  0  1  0  0  0  0  0999 V2000
    14.9715   -6.9643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -198,7 +198,7 @@ M  CHG  4  34  -1  38  -1  39  -1  40  -1
 M  END
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -209,7 +209,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 b2coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:19:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:57
 InChIKey=KFWWCMJSYSSPSK-MIZOYAPFSA-J
  89 91  0  0  1  0  0  0  0  0999 V2000
    14.9715   -6.9643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 RE0935E
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:15
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:54
 h2o[e] + malthx[e] -> glc_D[e] + maltpt[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 malthx[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:19:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:00:08
 InChIKey=OCIBBXPLUVYKCH-LIGGPISVSA-N
 129134  0  0  1  0  0  0  0  0999 V2000
    -4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -285,7 +285,7 @@ InChIKey=OCIBBXPLUVYKCH-LIGGPISVSA-N
 M  END
 $MOL
 glc_D[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:50:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:51
 InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -339,7 +339,7 @@ InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
 M  END
 $MOL
 maltpt[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:19:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:00:13
 InChIKey=FTNIPWXXIGNQQF-DWTFCAFKSA-N
 108112  0  0  1  0  0  0  0  0999 V2000
     0.8660   -4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

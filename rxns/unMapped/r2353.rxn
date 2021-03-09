@@ -1,11 +1,11 @@
 $RXN
 r2353
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:50
 bilglcur[e] -> bilglcur[c]
   1  1
 $MOL
 bilglcur[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:19:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:26
 InChIKey=ARBDURHEPGRPSR-LCNKTQGVSA-L
  97101  0  0  1  0  0  0  0  0999 V2000
     5.2946    6.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -210,7 +210,7 @@ M  CHG  2  45  -1  50  -1
 M  END
 $MOL
 bilglcur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:19:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:26
 InChIKey=ARBDURHEPGRPSR-LCNKTQGVSA-L
  97101  0  0  1  0  0  0  0  0999 V2000
     5.2946    6.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

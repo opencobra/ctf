@@ -1,11 +1,11 @@
 $RXN
 PRISTCOAtx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:44
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:26
 pristcoa[x] -> pristcoa[c]
   1  1
 $MOL
 pristcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:40:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:08
 InChIKey=XYJPSQPVCBNZHT-TUKYSRJDSA-J
 136138  0  0  1  0  0  0  0  0999 V2000
   -21.3528  -10.5804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -286,7 +286,7 @@ M  CHG  4  48  -1  51  -1  53  -1  54  -1
 M  END
 $MOL
 pristcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:40:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:08
 InChIKey=XYJPSQPVCBNZHT-TUKYSRJDSA-J
 136138  0  0  1  0  0  0  0  0999 V2000
   -21.3528  -10.5804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

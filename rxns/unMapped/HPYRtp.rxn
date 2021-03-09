@@ -1,11 +1,11 @@
 $RXN
 HPYRtp
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:30
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:16
 hpyr[c] -> hpyr[x]
   1  1
 $MOL
 hpyr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:03:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:43:14
 InChIKey=HHDDCCUIIUWNGJ-UHFFFAOYSA-M
  10  9  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31,7 +31,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 hpyr[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:03:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:43:14
 InChIKey=HHDDCCUIIUWNGJ-UHFFFAOYSA-M
  10  9  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

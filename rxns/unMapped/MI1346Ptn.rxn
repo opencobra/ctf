@@ -1,11 +1,11 @@
 $RXN
 MI1346Ptn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:34
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:20
 mi1346p[c] -> mi1346p[n]
   1  1
 $MOL
 mi1346p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:21:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:47
 InChIKey=ZAWIXNGTTZTBKV-JMVOWJSSSA-F
  36 36  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -84,7 +84,7 @@ M  CHG  8   9  -1  10  -1  12  -1  13  -1  15  -1  16  -1  18  -1  19  -1
 M  END
 $MOL
 mi1346p[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:21:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:47
 InChIKey=ZAWIXNGTTZTBKV-JMVOWJSSSA-F
  36 36  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

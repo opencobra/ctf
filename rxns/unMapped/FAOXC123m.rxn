@@ -1,11 +1,11 @@
 $RXN
 FAOXC123m
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:33
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:11
 3dodtricoa[m] -> 2dodtricoa[m]
   1  1
 $MOL
 3dodtricoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:45:54
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:18:05
 InChIKey=YCCKLKCLFHVHRH-HJGRVULYSA-J
 109111  0  0  1  0  0  0  0  0999 V2000
   -10.7717  -10.3761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -232,7 +232,7 @@ M  CHG  4  41  -1  45  -1  46  -1  47  -1
 M  END
 $MOL
 2dodtricoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:40:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:10:11
 InChIKey=XGHIPSZYSVQIHM-JHHAAFDISA-J
 109111  0  0  1  0  0  0  0  0999 V2000
   -17.1018   -5.5875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

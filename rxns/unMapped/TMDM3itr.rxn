@@ -1,11 +1,11 @@
 $RXN
 TMDM3itr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:22
 tmdm3[c] -> tmdm3[r]
   1  1
 $MOL
 tmdm3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:58:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:38:19
 InChIKey=DGBFHYRKYWDDOO-UHFFFAOYSA-M
  44 45  0  0  0  0  0  0  0  0999 V2000
     2.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -101,7 +101,7 @@ M  CHG  1  18  -1
 M  END
 $MOL
 tmdm3[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:58:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:38:19
 InChIKey=DGBFHYRKYWDDOO-UHFFFAOYSA-M
  44 45  0  0  0  0  0  0  0  0999 V2000
     2.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

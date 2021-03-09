@@ -1,11 +1,11 @@
 $RXN
 HMR_8492
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:11
 dgmp[c] -> dgmp[l]
   1  1
 $MOL
 dgmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:33:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:13:46
 InChIKey=LTFMZDNNPPEQNG-KVQBGUIXSA-L
  35 37  0  0  1  0  0  0  0  0999 V2000
     4.0388    0.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -84,7 +84,7 @@ M  CHG  2  17  -1  18  -1
 M  END
 $MOL
 dgmp[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:33:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:13:46
 InChIKey=LTFMZDNNPPEQNG-KVQBGUIXSA-L
  35 37  0  0  1  0  0  0  0  0999 V2000
     4.0388    0.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

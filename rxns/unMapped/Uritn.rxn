@@ -1,11 +1,11 @@
 $RXN
 Uritn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:51
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
 uri[c] -> uri[n]
   1  1
 $MOL
 uri[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:06:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:19
 InChIKey=DRTQHJPVMGBUCF-XVFCMESISA-N
  29 30  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -70,7 +70,7 @@ InChIKey=DRTQHJPVMGBUCF-XVFCMESISA-N
 M  END
 $MOL
 uri[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:06:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:19
 InChIKey=DRTQHJPVMGBUCF-XVFCMESISA-N
  29 30  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

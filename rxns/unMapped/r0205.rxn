@@ -1,11 +1,11 @@
 $RXN
 r0205
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:54
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:33
 q10[m] + glyc3p[c] -> dhap[c] + q10h2[m]
   2  2
 $MOL
 q10[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:44:51
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:56
 InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 153153  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -317,7 +317,7 @@ InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 M  END
 $MOL
 glyc3p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:41
 InChIKey=AWUCVROLDVIAJX-GSVOUGTGSA-L
  17 16  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -357,7 +357,7 @@ M  CHG  2   6  -1   7  -1
 M  END
 $MOL
 dhap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:34:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:04
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -393,7 +393,7 @@ M  CHG  2   6  -1   7  -1
 M  END
 $MOL
 q10h2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:44:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:25:01
 InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 155155  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

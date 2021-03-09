@@ -1,11 +1,11 @@
 $RXN
 XOLEST182tl
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:31
 xolest182_hs[c] -> xolest182_hs[l]
   1  1
 $MOL
 xolest182_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:09:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:18
 InChIKey=NAACPBBQTFFYQB-DOMLJQEXSA-N
 123126  0  0  1  0  0  0  0  0999 V2000
   -11.3837   -1.4318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -260,7 +260,7 @@ InChIKey=NAACPBBQTFFYQB-DOMLJQEXSA-N
 M  END
 $MOL
 xolest182_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:09:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:18
 InChIKey=NAACPBBQTFFYQB-DOMLJQEXSA-N
 123126  0  0  1  0  0  0  0  0999 V2000
   -11.3837   -1.4318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

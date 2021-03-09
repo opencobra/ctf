@@ -1,11 +1,11 @@
 $RXN
 r1302
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:01
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:39
 ocdcea[l] -> ocdcea[c]
   1  1
 $MOL
 ocdcea[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:27:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:08:14
 InChIKey=ZQPPMHVWECSIRJ-KTKRTIGZSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
    11.2583    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -117,7 +117,7 @@ M  CHG  1  20  -1
 M  END
 $MOL
 ocdcea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:27:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:08:14
 InChIKey=ZQPPMHVWECSIRJ-KTKRTIGZSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
    11.2583    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

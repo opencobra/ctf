@@ -1,11 +1,11 @@
 $RXN
 UGT1A1r
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:51
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:31
 estrone[r] + udpglcur[r] -> estroneglc[r] + udp[r]
   2  2
 $MOL
 estrone[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:42:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:16
 InChIKey=DNXHEGUUPJUMQT-CBZIJGRNSA-N
  42 45  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ InChIKey=DNXHEGUUPJUMQT-CBZIJGRNSA-N
 M  END
 $MOL
 udpglcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:36
 InChIKey=HDYANYHVCAPMJV-LXQIFKJMSA-K
  56 58  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -219,7 +219,7 @@ M  CHG  3  18  -1  25  -1  27  -1
 M  END
 $MOL
 estroneglc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:42:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:21
 InChIKey=FJAZVHYPASAQKM-JBAURARKSA-N
  62 66  0  0  1  0  0  0  0  0999 V2000
    -0.8784    0.5073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -353,7 +353,7 @@ InChIKey=FJAZVHYPASAQKM-JBAURARKSA-N
 M  END
 $MOL
 udp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HKYNRtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:56
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:16
 trp_L[c] + hLkynr[e] -> hLkynr[c] + trp_L[e]
   2  2
 $MOL
 trp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:00:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:36
 InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
  27 28  0  0  1  0  0  0  0  0999 V2000
     2.6831   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
 M  END
 $MOL
 hLkynr[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:31
 InChIKey=VCKPUUFAIGNJHC-LURJTMIESA-N
  28 28  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -128,7 +128,7 @@ InChIKey=VCKPUUFAIGNJHC-LURJTMIESA-N
 M  END
 $MOL
 hLkynr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:31
 InChIKey=VCKPUUFAIGNJHC-LURJTMIESA-N
  28 28  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -190,7 +190,7 @@ InChIKey=VCKPUUFAIGNJHC-LURJTMIESA-N
 M  END
 $MOL
 trp_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:00:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:36
 InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
  27 28  0  0  1  0  0  0  0  0999 V2000
     2.6831   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

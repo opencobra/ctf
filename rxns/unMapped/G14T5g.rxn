@@ -1,11 +1,11 @@
 $RXN
 G14T5g
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:12
 udpgal[g] + ksii_core2_pre9[g] -> h[g] + udp[g] + ksii_core2_pre10[g]
   2  3
 $MOL
 udpgal[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:31
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,9 +130,9 @@ M  CHG  2  19  -1  26  -1
 M  END
 $MOL
 ksii_core2_pre9[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:09:28
-InChIKey=KPKMFODNYGVFTP-VOPYSBAJSA-E
-269278  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:50:48
+InChIKey=KPKMFODNYGVFTP-VOPYSBAJSA-F
+270279  0  0  1  0  0  0  0  0999 V2000
    10.8595   12.0481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    22.4464    5.8196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    18.3123    4.3029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -253,7 +253,7 @@ InChIKey=KPKMFODNYGVFTP-VOPYSBAJSA-E
    24.1675    9.7944    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    12.9800   15.2598    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    14.7012   15.2598    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -0.9937   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.9937   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    0.9937    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9937    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     6.8846    0.9937    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -402,6 +402,7 @@ InChIKey=KPKMFODNYGVFTP-VOPYSBAJSA-E
    16.4428   10.2794    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    12.3620    0.8811    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     6.0035    0.4850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4787    0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1 19  1  0  0  0  0
   1150  1  0  0  0  0
   1151  1  0  0  0  0
@@ -673,6 +674,7 @@ InChIKey=KPKMFODNYGVFTP-VOPYSBAJSA-E
 115268  1  0  0  0  0
 116269  1  0  0  0  0
 121148  1  0  0  0  0
+121270  1  0  0  0  0
 122148  2  0  0  0  0
 123148  2  0  0  0  0
 124149  2  0  0  0  0
@@ -681,11 +683,10 @@ InChIKey=KPKMFODNYGVFTP-VOPYSBAJSA-E
 146149  1  0  0  0  0
 147149  1  0  0  0  0
 M  CHG  8  96  -1  97  -1  98  -1  99  -1 100  -1 101  -1 118  -1 120  -1
-M  CHG  1 121  -1
 M  END
 $MOL
 h[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -693,7 +694,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 udp[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -773,9 +774,9 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 ksii_core2_pre10[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:08:05
-InChIKey=VPRJHCSXUUAPDJ-OVXGWCBSSA-F
-290300  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:49:23
+InChIKey=OCGVBOWATRVKRL-OVXGWCBSSA-F
+291301  0  0  1  0  0  0  0  0999 V2000
   -11.1629  -14.3219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
   -22.6876   -8.1268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
   -18.5757   -6.6183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -893,7 +894,7 @@ InChIKey=VPRJHCSXUUAPDJ-OVXGWCBSSA-F
    -9.1862   -2.3385    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -2.9651    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9884    3.4238    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  -14.1280   -9.1862    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  -14.1280   -9.1862    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
   -17.5518  -14.0571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
   -11.1629   -4.0504    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -3.4238   -0.9884    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1058,6 +1059,7 @@ InChIKey=VPRJHCSXUUAPDJ-OVXGWCBSSA-F
    -8.7012   -1.4985    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -3.9351    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.4734    4.2639    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.1580   -9.1862    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   -17.5518  -15.0271    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   -10.1929   -4.0504    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5838   -1.4734    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1350,14 +1352,15 @@ InChIKey=VPRJHCSXUUAPDJ-OVXGWCBSSA-F
 115280  1  0  0  0  0
 116281  1  0  0  0  0
 117282  1  0  0  0  0
-119283  1  0  0  0  0
-120284  1  0  0  0  0
-121285  1  0  0  0  0
-122286  1  0  0  0  0
-123287  1  0  0  0  0
-124288  1  0  0  0  0
-125289  1  0  0  0  0
-126290  1  0  0  0  0
+118283  1  0  0  0  0
+119284  1  0  0  0  0
+120285  1  0  0  0  0
+121286  1  0  0  0  0
+122287  1  0  0  0  0
+123288  1  0  0  0  0
+124289  1  0  0  0  0
+125290  1  0  0  0  0
+126291  1  0  0  0  0
 131159  2  0  0  0  0
 132159  2  0  0  0  0
 133160  2  0  0  0  0
@@ -1366,6 +1369,5 @@ InChIKey=VPRJHCSXUUAPDJ-OVXGWCBSSA-F
 156160  1  0  0  0  0
 157159  1  0  0  0  0
 158160  1  0  0  0  0
-M  CHG  8 103  -1 104  -1 105  -1 106  -1 107  -1 108  -1 118  -1 128  -1
-M  CHG  1 130  -1
+M  CHG  8 103  -1 104  -1 105  -1 106  -1 107  -1 108  -1 128  -1 130  -1
 M  END

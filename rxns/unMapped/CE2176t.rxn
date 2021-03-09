@@ -1,11 +1,11 @@
 $RXN
 CE2176t
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:03
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:21
 leu_L[c] + CE2176[e] -> leu_L[e] + CE2176[c]
   2  2
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:12:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:27
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
 M  END
 $MOL
 CE2176[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:13:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:46:18
 InChIKey=PFDUUKDQEHURQC-UHFFFAOYSA-N
  28 28  0  0  1  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -116,7 +116,7 @@ InChIKey=PFDUUKDQEHURQC-UHFFFAOYSA-N
 M  END
 $MOL
 leu_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:12:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:27
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
 M  END
 $MOL
 CE2176[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:13:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:46:18
 InChIKey=PFDUUKDQEHURQC-UHFFFAOYSA-N
  28 28  0  0  1  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

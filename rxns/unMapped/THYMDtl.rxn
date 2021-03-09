@@ -1,11 +1,11 @@
 $RXN
 THYMDtl
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:49
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:30
 thymd[l] -> thymd[c]
   1  1
 $MOL
 thymd[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:58:01
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:37:45
 InChIKey=IQFYYKKMVGJFEH-XLPZGREQSA-N
  31 32  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -74,7 +74,7 @@ InChIKey=IQFYYKKMVGJFEH-XLPZGREQSA-N
 M  END
 $MOL
 thymd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:58:01
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:37:45
 InChIKey=IQFYYKKMVGJFEH-XLPZGREQSA-N
  31 32  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

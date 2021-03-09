@@ -1,11 +1,11 @@
 $RXN
 4HMDGLUCtev
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:18
 4hmdgluc[c] -> 4hmdgluc[e]
   1  1
 $MOL
 4hmdgluc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:54:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:26:50
 InChIKey=MPHAZAPYEZYBRV-UHFFFAOYSA-M
  56 60  0  0  1  0  0  0  0  0999 V2000
    -5.9554    0.6012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -128,7 +128,7 @@ M  CHG  1  34  -1
 M  END
 $MOL
 4hmdgluc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:54:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:26:50
 InChIKey=MPHAZAPYEZYBRV-UHFFFAOYSA-M
  56 60  0  0  1  0  0  0  0  0999 V2000
    -5.9554    0.6012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

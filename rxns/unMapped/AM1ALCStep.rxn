@@ -1,11 +1,11 @@
 $RXN
 AM1ALCStep
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:21
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:18
 am1alcs[c] -> am1alcs[e]
   1  1
 $MOL
 am1alcs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:12:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:52:01
 InChIKey=KTQPLXVOMJQJPR-OCEACIFDSA-N
 195195  0  0  1  0  0  0  0  0999 V2000
    -5.2145   -1.3203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -401,7 +401,7 @@ InChIKey=KTQPLXVOMJQJPR-OCEACIFDSA-N
 M  END
 $MOL
 am1alcs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:12:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:52:01
 InChIKey=KTQPLXVOMJQJPR-OCEACIFDSA-N
 195195  0  0  1  0  0  0  0  0999 V2000
    -5.2145   -1.3203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

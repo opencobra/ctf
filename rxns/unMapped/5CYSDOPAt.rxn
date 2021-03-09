@@ -1,11 +1,11 @@
 $RXN
 5CYSDOPAt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:43
 5cysdopa[c] -> 5cysdopa[e]
   1  1
 $MOL
 5cysdopa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:29:11
 InChIKey=BZYHBWCVRKSWDB-ZETCQYMHSA-O
  35 35  0  0  1  0  0  0  0  0999 V2000
     0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -82,7 +82,7 @@ M  CHG  1  12   1
 M  END
 $MOL
 5cysdopa[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:29:11
 InChIKey=BZYHBWCVRKSWDB-ZETCQYMHSA-O
  35 35  0  0  1  0  0  0  0  0999 V2000
     0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

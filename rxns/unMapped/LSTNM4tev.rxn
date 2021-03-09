@@ -1,11 +1,11 @@
 $RXN
 LSTNM4tev
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:23
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:20
 lstnm4[c] -> lstnm4[e]
   1  1
 $MOL
 lstnm4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:15:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:11
 InChIKey=DJLRILXQOYOKRK-UHFFFAOYSA-L
  70 74  0  0  1  0  0  0  0  0999 V2000
    -5.9596    3.8205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -156,7 +156,7 @@ M  CHG  2  40  -1  42  -1
 M  END
 $MOL
 lstnm4[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:15:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:11
 InChIKey=DJLRILXQOYOKRK-UHFFFAOYSA-L
  70 74  0  0  1  0  0  0  0  0999 V2000
    -5.9596    3.8205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

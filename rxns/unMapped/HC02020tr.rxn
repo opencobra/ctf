@@ -1,11 +1,11 @@
 $RXN
 HC02020tr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
 HC02020[r] -> HC02020[c]
   1  1
 $MOL
 HC02020[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:04:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:45:13
 InChIKey=BBJQPKLGPMQWBU-JADYGXMDSA-N
 121124  0  0  1  0  0  0  0  0999 V2000
    10.3923    9.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -256,7 +256,7 @@ InChIKey=BBJQPKLGPMQWBU-JADYGXMDSA-N
 M  END
 $MOL
 HC02020[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:04:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:45:13
 InChIKey=BBJQPKLGPMQWBU-JADYGXMDSA-N
 121124  0  0  1  0  0  0  0  0999 V2000
    10.3923    9.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 r0750
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:57
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:36
 nadp[c] + xoltriol[c] -> h[c] + nadph[c] + xoldioloneh[c]
   2  3
 $MOL
 nadp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:37
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:31
 InChIKey=XJLXINKUBYWONI-NNYOXOHSSA-K
  73 77  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ M  CHG  5  27   1  32  -1  34  -1  35  -1  39  -1
 M  END
 $MOL
 xoltriol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:10:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:09
 InChIKey=RIVQQZVHIVNQFH-XJZYBRFWSA-N
  78 81  0  0  1  0  0  0  0  0999 V2000
    -1.8185    4.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -327,7 +327,7 @@ InChIKey=RIVQQZVHIVNQFH-XJZYBRFWSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -335,7 +335,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nadph[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:42
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:35
 InChIKey=ACFIXJIJDZMPPO-NNYOXOHSSA-J
  74 78  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -494,7 +494,7 @@ M  CHG  4  32  -1  33  -1  34  -1  36  -1
 M  END
 $MOL
 xoldioloneh[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:09:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:08
 InChIKey=HHVQPBXBALLUDF-QORHGLQKSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -1.8185    4.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

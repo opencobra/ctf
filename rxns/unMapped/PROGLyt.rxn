@@ -1,11 +1,11 @@
 $RXN
 PROGLyt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:05
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:23
 progly[c] -> progly[e]
   1  1
 $MOL
 progly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:41:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:57
 InChIKey=RNKSNIBMTUYWSH-YFKPBYRVSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=RNKSNIBMTUYWSH-YFKPBYRVSA-N
 M  END
 $MOL
 progly[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:41:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:57
 InChIKey=RNKSNIBMTUYWSH-YFKPBYRVSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

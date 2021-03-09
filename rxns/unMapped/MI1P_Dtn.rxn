@@ -1,11 +1,11 @@
 $RXN
 MI1P_Dtn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:35
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:20
 mi1p_D[c] -> mi1p_D[n]
   1  1
 $MOL
 mi1p_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:22:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:12
 InChIKey=INAPMGSXUVUWAF-PTQMNWPWSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     2.5000    2.5981    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ M  CHG  2  12  -1  13  -1
 M  END
 $MOL
 mi1p_D[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:22:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:12
 InChIKey=INAPMGSXUVUWAF-PTQMNWPWSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     2.5000    2.5981    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

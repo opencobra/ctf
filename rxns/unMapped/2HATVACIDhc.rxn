@@ -1,11 +1,11 @@
 $RXN
 2HATVACIDhc
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:19
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:17
 h2o[c] + 2hatvlac[c] -> h[c] + 2hatvacid[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 2hatvlac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:41:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:11:40
 InChIKey=MNECBMZJZFGTIK-UHFFFAOYSA-N
  74 78  0  0  1  0  0  0  0  0999 V2000
     0.3783   -2.0540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -174,7 +174,7 @@ InChIKey=MNECBMZJZFGTIK-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -182,7 +182,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 2hatvacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:41:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:11:23
 InChIKey=CZBPKFICAYVHHM-UHFFFAOYSA-M
  76 79  0  0  1  0  0  0  0  0999 V2000
    -1.1810    1.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 FAOXC163x
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:34
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:12
 3hexdtricoa[x] -> 2hexdtricoa[x]
   1  1
 $MOL
 3hexdtricoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:47:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:19:40
 InChIKey=ZNIIDPYHPPJCFQ-VPNBAAGLSA-J
 121123  0  0  1  0  0  0  0  0999 V2000
   -16.8781   -6.2109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -256,7 +256,7 @@ M  CHG  4  45  -1  49  -1  50  -1  51  -1
 M  END
 $MOL
 2hexdtricoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:41:50
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:12:01
 InChIKey=WJHWJZSGWIEAAU-YLEUZIDYSA-J
 121123  0  0  1  0  0  0  0  0999 V2000
   -14.6954  -12.7436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

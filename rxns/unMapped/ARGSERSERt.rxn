@@ -1,11 +1,11 @@
 $RXN
 ARGSERSERt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:06
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:23
 h[e] + argserser[e] -> h[c] + argserser[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 argserser[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:16:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:16
 InChIKey=FRBAHXABMQXSJQ-RNJXMRFFSA-O
  49 48  0  0  1  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -117,7 +117,7 @@ M  CHG  1  13   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 argserser[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:16:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:16
 InChIKey=FRBAHXABMQXSJQ-RNJXMRFFSA-O
  49 48  0  0  1  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

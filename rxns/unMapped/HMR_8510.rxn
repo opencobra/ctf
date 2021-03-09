@@ -1,11 +1,11 @@
 $RXN
 HMR_8510
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:11
 lgt_S[c] -> lgt_S[m]
   1  1
 $MOL
 lgt_S[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:14:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:55:17
 InChIKey=VDYDCVUWILIYQF-CSMHCCOUSA-M
  45 44  0  0  1  0  0  0  0  0999 V2000
     2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -101,7 +101,7 @@ M  CHG  1  18  -1
 M  END
 $MOL
 lgt_S[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:14:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:55:17
 InChIKey=VDYDCVUWILIYQF-CSMHCCOUSA-M
  45 44  0  0  1  0  0  0  0  0999 V2000
     2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

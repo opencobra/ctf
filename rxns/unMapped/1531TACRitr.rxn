@@ -1,11 +1,11 @@
 $RXN
 1531TACRitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 1531tacr[r] -> 1531tacr[c]
   1  1
 $MOL
 1531tacr[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:32:45
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:05:16
 InChIKey=SQPNWJSCMPVMSP-XMKWMFEPSA-N
 120123  0  0  1  0  0  0  0  0999 V2000
     3.7603   -8.0555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -254,7 +254,7 @@ InChIKey=SQPNWJSCMPVMSP-XMKWMFEPSA-N
 M  END
 $MOL
 1531tacr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:32:45
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:05:16
 InChIKey=SQPNWJSCMPVMSP-XMKWMFEPSA-N
 120123  0  0  1  0  0  0  0  0999 V2000
     3.7603   -8.0555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

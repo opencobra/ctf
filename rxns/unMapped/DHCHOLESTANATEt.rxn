@@ -1,11 +1,11 @@
 $RXN
 DHCHOLESTANATEt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:14
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:32
 na1[c] + dhcholestanate[c] -> na1[e] + dhcholestanate[e]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 dhcholestanate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:34:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:13
 InChIKey=ITZYGDKGRKKBSN-SQZYAAIWSA-M
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8471    3.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -175,7 +175,7 @@ M  CHG  1  31  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -183,7 +183,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 dhcholestanate[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:34:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:13
 InChIKey=ITZYGDKGRKKBSN-SQZYAAIWSA-M
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8471    3.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

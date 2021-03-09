@@ -1,11 +1,11 @@
 $RXN
 THBPTt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:05
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:23
 thbpt[c] -> thbpt[e]
   1  1
 $MOL
 thbpt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:55:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:34
 InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -76,7 +76,7 @@ InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
 M  END
 $MOL
 thbpt[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:55:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:34
 InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

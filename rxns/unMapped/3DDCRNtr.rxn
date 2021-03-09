@@ -1,11 +1,11 @@
 $RXN
 3DDCRNtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:30
 3ddcrn[e] -> 3ddcrn[c]
   1  1
 $MOL
 3ddcrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:45:25
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:17:35
 InChIKey=ULWDPUHFMOBGFJ-UHFFFAOYSA-N
  62 61  0  0  1  0  0  0  0  0999 V2000
    10.0000   -3.4641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -135,7 +135,7 @@ M  CHG  2  20   1  23  -1
 M  END
 $MOL
 3ddcrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:45:25
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:17:35
 InChIKey=ULWDPUHFMOBGFJ-UHFFFAOYSA-N
  62 61  0  0  1  0  0  0  0  0999 V2000
    10.0000   -3.4641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

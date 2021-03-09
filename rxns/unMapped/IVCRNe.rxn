@@ -1,11 +1,11 @@
 $RXN
 IVCRNe
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:51
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:14
 ivcrn[c] -> ivcrn[e]
   1  1
 $MOL
 ivcrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:07:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:48:11
 InChIKey=IGQBPDJNUXPEMT-UHFFFAOYSA-N
  40 39  0  0  1  0  0  0  0  0999 V2000
     4.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ M  CHG  2  13   1  15  -1
 M  END
 $MOL
 ivcrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:07:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:48:11
 InChIKey=IGQBPDJNUXPEMT-UHFFFAOYSA-N
  40 39  0  0  1  0  0  0  0  0999 V2000
     4.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

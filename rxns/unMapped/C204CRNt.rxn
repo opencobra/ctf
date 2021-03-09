@@ -1,11 +1,11 @@
 $RXN
 C204CRNt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:04
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:59
 arachdcrn[c] -> arachdcrn[m]
   1  1
 $MOL
 arachdcrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:15:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:45
 InChIKey=HIVCWXCOIPSVAX-VNJAOWETSA-O
  90 89  0  0  1  0  0  0  0  0999 V2000
    -0.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -191,7 +191,7 @@ M  CHG  1  32   1
 M  END
 $MOL
 arachdcrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:15:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:45
 InChIKey=HIVCWXCOIPSVAX-VNJAOWETSA-O
  90 89  0  0  1  0  0  0  0  0999 V2000
    -0.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

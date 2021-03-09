@@ -1,11 +1,11 @@
 $RXN
 MMAt2e
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:23
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:40
 mma[c] -> mma[e]
   1  1
 $MOL
 mma[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:22:49
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:46
 InChIKey=BAVYZALUXZFZLV-UHFFFAOYSA-O
   8  7  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ M  CHG  1   2   1
 M  END
 $MOL
 mma[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:22:49
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:46
 InChIKey=BAVYZALUXZFZLV-UHFFFAOYSA-O
   8  7  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

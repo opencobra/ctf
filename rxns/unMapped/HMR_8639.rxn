@@ -1,12 +1,12 @@
 $RXN
 HMR_8639
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:11
 dna[c] -> dna[n]
   1  1
 $MOL
 dna[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:36:47
-InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:16:47
+
  58 60  0  0  1  0  0  0  0  0999 V2000
     0.5647   -4.1418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.7726   -3.1637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -129,8 +129,8 @@ InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K
 M  END
 $MOL
 dna[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:36:47
-InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:16:47
+
  58 60  0  0  1  0  0  0  0  0999 V2000
     0.5647   -4.1418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.7726   -3.1637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_0166
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:27
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:45
 M02694[c] -> M02694[m]
   1  1
 $MOL
 M02694[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:53:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:33:30
 InChIKey=RXUATCUKICAIOA-ZMHDXICWSA-J
  94 96  0  0  1  0  0  0  0  0999 V2000
    16.8737   -6.3463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -202,7 +202,7 @@ M  CHG  4  34  -1  38  -1  39  -1  40  -1
 M  END
 $MOL
 M02694[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:53:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:33:30
 InChIKey=RXUATCUKICAIOA-ZMHDXICWSA-J
  94 96  0  0  1  0  0  0  0  0999 V2000
    16.8737   -6.3463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

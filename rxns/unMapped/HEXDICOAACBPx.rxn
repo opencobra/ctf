@@ -1,11 +1,11 @@
 $RXN
 HEXDICOAACBPx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:50
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:13
 hexdicoa[r] -> hexdicoa[x]
   1  1
 $MOL
 hexdicoa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:00:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:16
 InChIKey=GTCSHNMTNCXODY-VUNKUNIZSA-I
 126128  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -266,7 +266,7 @@ M  CHG  5  45  -1  47  -1  51  -1  52  -1  53  -1
 M  END
 $MOL
 hexdicoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:00:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:16
 InChIKey=GTCSHNMTNCXODY-VUNKUNIZSA-I
 126128  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

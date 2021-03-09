@@ -1,11 +1,11 @@
 $RXN
 r0942
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:59
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:37
 creat[c] -> creat[e]
   1  1
 $MOL
 creat[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:27:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:49
 InChIKey=CVSVTCORWBXHQV-UHFFFAOYSA-N
  18 17  0  0  0  0  0  0  0  0999 V2000
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -46,7 +46,7 @@ InChIKey=CVSVTCORWBXHQV-UHFFFAOYSA-N
 M  END
 $MOL
 creat[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:27:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:49
 InChIKey=CVSVTCORWBXHQV-UHFFFAOYSA-N
  18 17  0  0  0  0  0  0  0  0999 V2000
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 7DHFtl
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:12:54
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:51
 7dhf[c] -> 7dhf[l]
   1  1
 $MOL
 7dhf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:01:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:33:30
 InChIKey=HVILXQVTEKAXCU-PJXNWPMESA-F
 141143  0  0  1  0  0  0  0  0999 V2000
    -5.0807   -4.8889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -296,7 +296,7 @@ M  CHG  8  61  -1  70  -1  72  -1  74  -1  76  -1  78  -1  80  -1  82  -1
 M  END
 $MOL
 7dhf[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:01:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:33:30
 InChIKey=HVILXQVTEKAXCU-PJXNWPMESA-F
 141143  0  0  1  0  0  0  0  0999 V2000
    -5.0807   -4.8889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

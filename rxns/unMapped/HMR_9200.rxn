@@ -1,11 +1,11 @@
 $RXN
 HMR_9200
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:11
 zn2[c] -> zn2[r]
   1  1
 $MOL
 zn2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:11:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:58
 InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   2
 M  END
 $MOL
 zn2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:11:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:58
 InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 r1011
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:00
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:37
 dhcholestanate[c] -> dhcholestanate[r]
   1  1
 $MOL
 dhcholestanate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:34:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:13
 InChIKey=ITZYGDKGRKKBSN-SQZYAAIWSA-M
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8471    3.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -167,7 +167,7 @@ M  CHG  1  31  -1
 M  END
 $MOL
 dhcholestanate[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:34:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:13
 InChIKey=ITZYGDKGRKKBSN-SQZYAAIWSA-M
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8471    3.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

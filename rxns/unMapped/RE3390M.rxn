@@ -1,11 +1,11 @@
 $RXN
 RE3390M
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:28
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:06
 h2o[m] + CE5312[m] -> CE5305[m]
   2  1
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE5312[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:36:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:10:39
 InChIKey=VQWQOPHSYMUQTK-OWXLQUNNSA-M
  40 39  0  0  1  0  0  0  0  0999 V2000
     8.6603    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -102,7 +102,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 CE5305[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:35:54
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:09:59
 InChIKey=OUPAWBIIPPCTBK-BAGCDHRJSA-M
  43 42  0  0  1  0  0  0  0  0999 V2000
     8.6603    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

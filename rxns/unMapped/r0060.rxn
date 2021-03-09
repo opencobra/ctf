@@ -1,11 +1,11 @@
 $RXN
 r0060
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:16
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:35
 ser_L[c] -> nh4[c] + pyr[c]
   1  2
 $MOL
 ser_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:48:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:28:19
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,7 +38,7 @@ InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:14
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 pyr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:44:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:52
 InChIKey=LCTONWCANYUPML-UHFFFAOYSA-M
   9  8  0  0  0  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

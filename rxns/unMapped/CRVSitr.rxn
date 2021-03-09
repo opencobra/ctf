@@ -1,11 +1,11 @@
 $RXN
 CRVSitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 crvs[c] -> crvs[r]
   1  1
 $MOL
 crvs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:27:49
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:29
 InChIKey=SEERZIQQUAZTOL-ANMDKAQQSA-N
  67 68  0  0  1  0  0  0  0  0999 V2000
     1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ InChIKey=SEERZIQQUAZTOL-ANMDKAQQSA-N
 M  END
 $MOL
 crvs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:27:49
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:29
 InChIKey=SEERZIQQUAZTOL-ANMDKAQQSA-N
  67 68  0  0  1  0  0  0  0  0999 V2000
     1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

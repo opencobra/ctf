@@ -1,11 +1,11 @@
 $RXN
 5AOPtm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:12:52
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:50
 5aop[c] -> 5aop[m]
   1  1
 $MOL
 5aop[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:29:06
 InChIKey=ZGXJTSGNIOSYLO-UHFFFAOYSA-N
  18 17  0  0  0  0  0  0  0  0999 V2000
     0.8660    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -46,7 +46,7 @@ InChIKey=ZGXJTSGNIOSYLO-UHFFFAOYSA-N
 M  END
 $MOL
 5aop[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:29:06
 InChIKey=ZGXJTSGNIOSYLO-UHFFFAOYSA-N
  18 17  0  0  0  0  0  0  0  0999 V2000
     0.8660    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

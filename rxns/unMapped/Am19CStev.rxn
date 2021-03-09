@@ -1,11 +1,11 @@
 $RXN
 Am19CStev
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:21
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:19
 am19cs[c] -> am19cs[e]
   1  1
 $MOL
 am19cs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:11:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:51:40
 InChIKey=YMPNOLFGGSKTGJ-OCOZRVBESA-N
 198198  0  0  1  0  0  0  0  0999 V2000
     1.5669   -5.1458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -407,7 +407,7 @@ InChIKey=YMPNOLFGGSKTGJ-OCOZRVBESA-N
 M  END
 $MOL
 am19cs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:11:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:51:40
 InChIKey=YMPNOLFGGSKTGJ-OCOZRVBESA-N
 198198  0  0  1  0  0  0  0  0999 V2000
     1.5669   -5.1458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

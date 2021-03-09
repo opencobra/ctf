@@ -1,11 +1,11 @@
 $RXN
 HMR_3653
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:05
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:04
 chsterol[r] + docoscoa[r] -> coa[r] + M01491[r]
   2  2
 $MOL
 chsterol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:24:57
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:41
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 docoscoa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:37:34
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:17:35
 InChIKey=NDDZLVOCGALPLR-JEAMVCTESA-J
 145147  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -461,7 +461,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 coa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:26:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:04
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -630,7 +630,7 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 M01491[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:42:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:22:03
 InChIKey=WBOQXYUYHINMOC-PLTNPMELSA-N
 139142  0  0  1  0  0  0  0  0999 V2000
    13.1645   12.4934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

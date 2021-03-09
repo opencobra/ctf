@@ -1,11 +1,11 @@
 $RXN
 TTDCEAt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:05
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:22
 ttdcea[c] -> ttdcea[e]
   1  1
 $MOL
 ttdcea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:03:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:39
 InChIKey=YWWVWXASSLXJHU-WAYWQWQTSA-M
  41 40  0  0  0  0  0  0  0  0999 V2000
     7.7942    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 ttdcea[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:03:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:39
 InChIKey=YWWVWXASSLXJHU-WAYWQWQTSA-M
  41 40  0  0  0  0  0  0  0  0999 V2000
     7.7942    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

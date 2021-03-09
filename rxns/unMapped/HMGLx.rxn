@@ -1,11 +1,11 @@
 $RXN
 HMGLx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:30
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:16
 hmgcoa[x] -> accoa[x] + acac[x]
   1  2
 $MOL
 hmgcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:02:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:42:35
 InChIKey=CABVTRNMFUVUDM-VRHQGPGLSA-I
  97 99  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -208,7 +208,7 @@ M  CHG  5  35  -1  37  -1  41  -1  43  -1  44  -1
 M  END
 $MOL
 accoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:04:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:44:16
 InChIKey=ZSLZBFCDCINBPY-ZSJPKINUSA-J
  85 87  0  0  1  0  0  0  0  0999 V2000
    14.4363   -5.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -387,7 +387,7 @@ M  CHG  4  32  -1  35  -1  36  -1  37  -1
 M  END
 $MOL
 acac[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:04:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:44:08
 InChIKey=WDJHALXBUFZDSR-UHFFFAOYSA-M
  12 11  0  0  0  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

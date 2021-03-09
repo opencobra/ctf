@@ -1,12 +1,12 @@
 $RXN
 NTMELYStner
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:38
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:22
 Ntmelys[n] -> Ntmelys[r]
   1  1
 $MOL
 Ntmelys[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:02:35
-InChIKey=MVAWJSIDNICKHF-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:42:20
+
  37 36  0  0  1  0  0  0  0  0999 V2000
    -4.0000   -4.4641    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -4.5000   -5.3301    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,8 +85,8 @@ M  CHG  1  14   1
 M  END
 $MOL
 Ntmelys[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:02:35
-InChIKey=MVAWJSIDNICKHF-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:42:20
+
  37 36  0  0  1  0  0  0  0  0999 V2000
    -4.0000   -4.4641    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -4.5000   -5.3301    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0

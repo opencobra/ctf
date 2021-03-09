@@ -1,11 +1,11 @@
 $RXN
 PAILPALM_HSSECt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:38
 pailpalm_hs[c] -> pailpalm_hs[e]
   1  1
 $MOL
 pailpalm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:30:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:11:22
 InChIKey=UOXRPRZMAROFPH-OAOCPRPWSA-M
  86 86  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -184,7 +184,7 @@ M  CHG  1  33  -1
 M  END
 $MOL
 pailpalm_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:30:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:11:22
 InChIKey=UOXRPRZMAROFPH-OAOCPRPWSA-M
  86 86  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

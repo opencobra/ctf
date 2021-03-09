@@ -1,11 +1,11 @@
 $RXN
 MI14Ptn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:35
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:20
 mi14p[c] -> mi14p[n]
   1  1
 $MOL
 mi14p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:22:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:08
 InChIKey=PELZSPZCXGTUMR-ADOSBGCESA-J
  30 30  0  0  1  0  0  0  0  0999 V2000
     1.0000    1.7321    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -72,7 +72,7 @@ M  CHG  4  11  -1  12  -1  14  -1  15  -1
 M  END
 $MOL
 mi14p[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:22:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:08
 InChIKey=PELZSPZCXGTUMR-ADOSBGCESA-J
  30 30  0  0  1  0  0  0  0  0999 V2000
     1.0000    1.7321    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

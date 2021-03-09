@@ -1,11 +1,11 @@
 $RXN
 C14769td1
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
 C14769[c] -> C14769[e]
   1  1
 $MOL
 C14769[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:06:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:39:11
 InChIKey=DBWQSCSXHFNTMO-TYAUOURKSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     7.4282   -0.1340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -120,7 +120,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 C14769[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:06:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:39:11
 InChIKey=DBWQSCSXHFNTMO-TYAUOURKSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     7.4282   -0.1340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

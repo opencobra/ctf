@@ -1,11 +1,11 @@
 $RXN
 PROSTGE2t
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:44
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:26
 hco3[c] + prostge2[e] -> hco3[e] + prostge2[c]
   2  2
 $MOL
 hco3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:44
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 prostge2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:42:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:22:44
 InChIKey=XEYBRNLFEZDVAW-ARSRFYASSA-M
  56 56  0  0  1  0  0  0  0  0999 V2000
     7.5858    2.0282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -140,7 +140,7 @@ M  CHG  1  25  -1
 M  END
 $MOL
 hco3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:44
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -156,7 +156,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 prostge2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:42:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:22:44
 InChIKey=XEYBRNLFEZDVAW-ARSRFYASSA-M
  56 56  0  0  1  0  0  0  0  0999 V2000
     7.5858    2.0282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

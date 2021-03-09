@@ -1,11 +1,11 @@
 $RXN
 XYLtly
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:52
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:33
 xyl_D[l] -> xyl_D[c]
   1  1
 $MOL
 xyl_D[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:10:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:34
 InChIKey=PYMYPHUHKUWMLA-VPENINKCSA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
     1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ InChIKey=PYMYPHUHKUWMLA-VPENINKCSA-N
 M  END
 $MOL
 xyl_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:10:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:34
 InChIKey=PYMYPHUHKUWMLA-VPENINKCSA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
     1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

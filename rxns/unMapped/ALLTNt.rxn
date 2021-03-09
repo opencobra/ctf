@@ -1,11 +1,11 @@
 $RXN
 ALLTNt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
 alltn[c] -> alltn[e]
   1  1
 $MOL
 alltn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:11:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:51:18
 InChIKey=POJWUDADGALRAB-UHFFFAOYSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000    1.5388    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ InChIKey=POJWUDADGALRAB-UHFFFAOYSA-N
 M  END
 $MOL
 alltn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:11:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:51:18
 InChIKey=POJWUDADGALRAB-UHFFFAOYSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000    1.5388    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0

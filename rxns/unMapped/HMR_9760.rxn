@@ -1,11 +1,11 @@
 $RXN
 HMR_9760
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:16
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:15
 M01238[l] -> M01238[c]
   1  1
 $MOL
 M01238[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:38:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:18:20
 InChIKey=QSBYPNXLFMSGKH-CMDGGOBGSA-M
  50 49  0  0  0  0  0  0  0  0999 V2000
    13.8564   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -111,7 +111,7 @@ M  CHG  1  19  -1
 M  END
 $MOL
 M01238[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:38:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:18:20
 InChIKey=QSBYPNXLFMSGKH-CMDGGOBGSA-M
  50 49  0  0  0  0  0  0  0  0999 V2000
    13.8564   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

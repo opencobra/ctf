@@ -1,11 +1,11 @@
 $RXN
 CCA_D3tm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:05
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:00
 cca_d3[m] -> cca_d3[c]
   1  1
 $MOL
 cca_d3[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:23:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:14
 InChIKey=CHNOGDFCSAPBGJ-HEZXVCCISA-M
  59 61  0  0  1  0  0  0  0  0999 V2000
    -2.3904    1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -132,7 +132,7 @@ M  CHG  1  26  -1
 M  END
 $MOL
 cca_d3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:23:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:14
 InChIKey=CHNOGDFCSAPBGJ-HEZXVCCISA-M
  59 61  0  0  1  0  0  0  0  0999 V2000
    -2.3904    1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

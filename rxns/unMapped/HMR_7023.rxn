@@ -1,11 +1,11 @@
 $RXN
 HMR_7023
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:09
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:08
 h2o[c] + eaflatoxin[c] -> M01295[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 eaflatoxin[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:40:34
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:20:32
 InChIKey=KHBXRZGALJGBPA-IRWJRLHMSA-N
  36 41  0  0  1  0  0  0  0  0999 V2000
     5.1032   -2.0280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,7 +99,7 @@ InChIKey=KHBXRZGALJGBPA-IRWJRLHMSA-N
 M  END
 $MOL
 M01295[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:38:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:18:51
 InChIKey=JRZBEIPOZPNWID-KFZJALRRSA-N
  39 43  0  0  1  0  0  0  0  0999 V2000
     5.0814   -2.0608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

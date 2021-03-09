@@ -1,11 +1,11 @@
 $RXN
 HMR_7115
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:11
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:09
 M03044[e] -> M03044[c]
   1  1
 $MOL
 M03044[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:58:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:38:40
 InChIKey=XSTXAVWGXDQKEL-UHFFFAOYSA-N
   6  5  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22,7 +22,7 @@ InChIKey=XSTXAVWGXDQKEL-UHFFFAOYSA-N
 M  END
 $MOL
 M03044[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:58:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:38:40
 InChIKey=XSTXAVWGXDQKEL-UHFFFAOYSA-N
   6  5  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

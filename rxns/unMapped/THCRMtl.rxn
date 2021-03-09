@@ -1,12 +1,12 @@
 $RXN
 THCRMtl
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:44
 thcrm_hs[c] -> thcrm_hs[l]
   1  1
 $MOL
 thcrm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:56:03
-InChIKey=CNWPIIOQKZNXBB-WBYPBBSPSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:56
+
 123125  0  0  1  0  0  0  0  0999 V2000
    -2.5981    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -259,8 +259,8 @@ InChIKey=CNWPIIOQKZNXBB-WBYPBBSPSA-M
 M  END
 $MOL
 thcrm_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:56:03
-InChIKey=CNWPIIOQKZNXBB-WBYPBBSPSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:56
+
 123125  0  0  1  0  0  0  0  0999 V2000
    -2.5981    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

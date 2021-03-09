@@ -1,11 +1,11 @@
 $RXN
 HMR_1516
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:50
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:53
 o2[c] + h[c] + nadph[c] + chlstol[c] -> 2 h2o[c] + nadp[c] + ddsmsterol[c]
   4  4
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -22,7 +22,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nadph[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:42
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:35
 InChIKey=ACFIXJIJDZMPPO-NNYOXOHSSA-J
  74 78  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -181,8 +181,8 @@ M  CHG  4  32  -1  33  -1  34  -1  36  -1
 M  END
 $MOL
 chlstol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:24:14
-InChIKey=PKEPPDGGTSZLBL-SKCNUYALSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:57
+InChIKey=PKEPPDGGTSZLBL-FZAJRYLSSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.5325    5.6891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -208,7 +208,7 @@ InChIKey=PKEPPDGGTSZLBL-SKCNUYALSA-N
    -1.6876   -0.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.3758    1.9471    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -2.5316    0.4864    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -0.8440    0.4869    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8440    0.4869    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -2.5319    1.4602    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     2.5529   -1.4736    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -298,6 +298,7 @@ InChIKey=PKEPPDGGTSZLBL-SKCNUYALSA-N
  13 56  1  0  0  0  0
  13 57  1  0  0  0  0
  14 16  1  0  0  0  0
+ 14 25  1  0  0  0  0
  14 58  1  0  0  0  0
  14 59  1  0  0  0  0
  15 26  1  0  0  0  0
@@ -325,16 +326,15 @@ InChIKey=PKEPPDGGTSZLBL-SKCNUYALSA-N
  24 12  1  0  0  0  0
  24 27  1  0  0  0  0
  24 70  1  1  0  0  0
- 25 14  1  0  0  0  0
  25 26  1  0  0  0  0
- 25 71  1  1  0  0  0
+ 25 71  1  0  0  0  0
  26  4  1  6  0  0  0
  27  5  1  6  0  0  0
  28 72  1  0  0  0  0
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -345,7 +345,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -356,7 +356,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 nadp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:37
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:31
 InChIKey=XJLXINKUBYWONI-NNYOXOHSSA-K
  73 77  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -513,7 +513,7 @@ M  CHG  5  27   1  32  -1  34  -1  35  -1  39  -1
 M  END
 $MOL
 ddsmsterol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:32:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:12:15
 InChIKey=RUSSPKPUXDSHNC-DDPQNLDTSA-N
  70 73  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

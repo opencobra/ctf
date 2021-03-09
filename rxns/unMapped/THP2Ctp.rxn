@@ -1,11 +1,11 @@
 $RXN
 THP2Ctp
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:49
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:30
 thp2c[c] -> thp2c[x]
   1  1
 $MOL
 thp2c[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:56:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:36:35
 InChIKey=CSDPVAKVEWETFG-YFKPBYRVSA-M
  17 17  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -46,7 +46,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 thp2c[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:56:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:36:35
 InChIKey=CSDPVAKVEWETFG-YFKPBYRVSA-M
  17 17  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

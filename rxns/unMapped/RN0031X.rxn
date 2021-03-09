@@ -1,11 +1,11 @@
 $RXN
 RN0031X
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:32
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:09
 h2o[x] + CN0017[x] -> CN0018[x]
   2  1
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CN0017[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:57:57
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:38:46
 InChIKey=JQVOOYGHXVJTHM-UHFFFAOYSA-N
  39 45  0  0  1  0  0  0  0  0999 V2000
     5.4574    0.4633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -106,7 +106,7 @@ InChIKey=JQVOOYGHXVJTHM-UHFFFAOYSA-N
 M  END
 $MOL
 CN0018[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:58:02
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:38:51
 InChIKey=WRVXSEQFNZZEJV-HYBUGGRVSA-N
  42 47  0  0  1  0  0  0  0  0999 V2000
     0.0294    2.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

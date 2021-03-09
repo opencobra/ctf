@@ -1,11 +1,11 @@
 $RXN
 DURIPP
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:14
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:33
 pi[c] + duri[c] -> 2dr1p[c] + ura[c]
   2  2
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -23,7 +23,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 duri[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:40:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:20:14
 InChIKey=MXHRCPNRJAMMIM-SHYZEUOFSA-N
  28 29  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -86,7 +86,7 @@ InChIKey=MXHRCPNRJAMMIM-SHYZEUOFSA-N
 M  END
 $MOL
 2dr1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:41:02
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:11:06
 InChIKey=KBDKAJNTYKVSEK-PYHARJCCSA-L
  22 22  0  0  1  0  0  0  0  0999 V2000
     1.0933    1.7796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ M  CHG  2   8  -1   9  -1
 M  END
 $MOL
 ura[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:51
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:03
 InChIKey=ISAKRJDGNUQOIC-UHFFFAOYSA-N
  12 12  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

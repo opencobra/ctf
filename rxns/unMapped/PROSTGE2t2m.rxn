@@ -1,11 +1,11 @@
 $RXN
 PROSTGE2t2m
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:14
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:32
 prostge2[m] -> prostge2[c]
   1  1
 $MOL
 prostge2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:42:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:22:44
 InChIKey=XEYBRNLFEZDVAW-ARSRFYASSA-M
  56 56  0  0  1  0  0  0  0  0999 V2000
     7.5858    2.0282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -124,7 +124,7 @@ M  CHG  1  25  -1
 M  END
 $MOL
 prostge2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:42:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:22:44
 InChIKey=XEYBRNLFEZDVAW-ARSRFYASSA-M
  56 56  0  0  1  0  0  0  0  0999 V2000
     7.5858    2.0282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

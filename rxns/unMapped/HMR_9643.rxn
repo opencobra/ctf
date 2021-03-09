@@ -1,12 +1,12 @@
 $RXN
 HMR_9643
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:16
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:14
 fucgalfucgalacglcgalgluside_hs[c] -> fucgalfucgalacglcgalgluside_hs[e]
   1  1
 $MOL
 fucgalfucgalacglcgalgluside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:46:28
-InChIKey=FYESHYJKKINHMB-LLXKOZIISA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:26:17
+
 211217  0  0  1  0  0  0  0  0999 V2000
     1.7162    1.9817    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8581    1.4862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -439,8 +439,8 @@ InChIKey=FYESHYJKKINHMB-LLXKOZIISA-L
 M  END
 $MOL
 fucgalfucgalacglcgalgluside_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:46:28
-InChIKey=FYESHYJKKINHMB-LLXKOZIISA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:26:17
+
 211217  0  0  1  0  0  0  0  0999 V2000
     1.7162    1.9817    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8581    1.4862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

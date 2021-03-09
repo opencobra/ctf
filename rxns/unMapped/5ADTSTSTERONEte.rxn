@@ -1,11 +1,11 @@
 $RXN
 5ADTSTSTERONEte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:12:50
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:50
 5adtststerone[e] -> 5adtststerone[c]
   1  1
 $MOL
 5adtststerone[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:28:48
 InChIKey=NVKAWKQGWWIWPM-ABEVXSGRSA-N
  51 54  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -116,7 +116,7 @@ InChIKey=NVKAWKQGWWIWPM-ABEVXSGRSA-N
 M  END
 $MOL
 5adtststerone[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:28:48
 InChIKey=NVKAWKQGWWIWPM-ABEVXSGRSA-N
  51 54  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

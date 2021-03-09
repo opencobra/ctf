@@ -1,11 +1,11 @@
 $RXN
 GCHOLAtx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:13
 gchola[x] -> gchola[c]
   1  1
 $MOL
 gchola[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:49:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:29:21
 InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
  75 78  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ M  CHG  1  31  -1
 M  END
 $MOL
 gchola[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:49:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:29:21
 InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
  75 78  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

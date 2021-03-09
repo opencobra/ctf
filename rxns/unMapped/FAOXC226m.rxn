@@ -1,11 +1,11 @@
 $RXN
 FAOXC226m
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:47
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:12
 docosahexcoa[m] -> 2docohexecoa[m]
   1  1
 $MOL
 docosahexcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:37:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:17:30
 InChIKey=SMXVAIMPVOMQLT-JFYHQLIUSA-J
 133135  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -280,7 +280,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 2docohexecoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:40:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:09:57
 InChIKey=HGVXUTAEZALTIG-XHTFRJCKSA-J
 133135  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

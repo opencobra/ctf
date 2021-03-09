@@ -1,11 +1,11 @@
 $RXN
 THCHOLSTOICtm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:49
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:30
 thcholstoic[m] -> thcholstoic[x]
   1  1
 $MOL
 thcholstoic[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:55:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:52
 InChIKey=CNWPIIOQKZNXBB-WBYPBBSPSA-M
  77 80  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ M  CHG  1  32  -1
 M  END
 $MOL
 thcholstoic[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:55:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:52
 InChIKey=CNWPIIOQKZNXBB-WBYPBBSPSA-M
  77 80  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 r1080
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:01
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:38
 tyr_L[l] -> tyr_L[c]
   1  1
 $MOL
 tyr_L[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:03:54
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:43:09
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
 M  END
 $MOL
 tyr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:03:54
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:43:09
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

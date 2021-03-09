@@ -1,11 +1,11 @@
 $RXN
 PTDCACRNt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:44
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:26
 ptdcacrn[c] -> ptdcacrn[m]
   1  1
 $MOL
 ptdcacrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:43:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:23:41
 InChIKey=MDDWQHVKSHTZTD-FQEVSTJZSA-N
  70 69  0  0  1  0  0  0  0  0999 V2000
    13.5000    6.0622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -151,7 +151,7 @@ M  CHG  2  23   1  25  -1
 M  END
 $MOL
 ptdcacrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:43:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:23:41
 InChIKey=MDDWQHVKSHTZTD-FQEVSTJZSA-N
  70 69  0  0  1  0  0  0  0  0999 V2000
    13.5000    6.0622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

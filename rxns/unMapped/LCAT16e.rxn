@@ -1,11 +1,11 @@
 $RXN
 LCAT16e
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:00
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:18
 chsterol[e] + pe_hs[e] -> xolest2_hs[e] + peste_hs[e]
   2  2
 $MOL
 chsterol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:24:57
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:41
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,8 +162,8 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 pe_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:49
-InChIKey=SVRBKLJIDJHADS-DRIBPHMRSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:34
+
  31 30  0  0  1  0  0  0  0  0999 V2000
    -1.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5000   -1.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -229,8 +229,8 @@ InChIKey=SVRBKLJIDJHADS-DRIBPHMRSA-N
 M  END
 $MOL
 xolest2_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:09:56
-InChIKey=VOEVEGPMRIYYKC-LFHFTWSPSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:41
+
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8469    0.4886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.6934   -0.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -390,7 +390,7 @@ InChIKey=VOEVEGPMRIYYKC-LFHFTWSPSA-N
 M  END
 $MOL
 peste_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:36:01
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:16:45
 InChIKey=BBYWOYAFBUOUFP-QFIPXVFZSA-N
  80 79  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 ACMPitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 acmp[c] -> acmp[r]
   1  1
 $MOL
 acmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:07:00
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:46:51
 InChIKey=RZVAJINKPMORJF-UHFFFAOYSA-N
  20 20  0  0  0  0  0  0  0  0999 V2000
    -4.3301   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ InChIKey=RZVAJINKPMORJF-UHFFFAOYSA-N
 M  END
 $MOL
 acmp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:07:00
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:46:51
 InChIKey=RZVAJINKPMORJF-UHFFFAOYSA-N
  20 20  0  0  0  0  0  0  0  0999 V2000
    -4.3301   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

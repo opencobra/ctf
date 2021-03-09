@@ -1,11 +1,11 @@
 $RXN
 MAGLINL_HSe
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:01
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:19
 h2o[e] + dag_hs[e] -> h[e] + Rtotal[e] + maglinl_hs[e]
   2  3
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dag_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:30:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:14
 InChIKey=XIAZEYRSKHAPND-UHFFFAOYSA-N
 120119  0  0  1  0  0  0  0  0999 V2000
    -9.5263  -17.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -261,7 +261,7 @@ InChIKey=XIAZEYRSKHAPND-UHFFFAOYSA-N
 M  END
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -269,8 +269,8 @@ M  CHG  1   1   1
 M  END
 $MOL
 Rtotal[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:02:49
-InChIKey=MVAWJSIDNICKHF-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:42:34
+
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -283,7 +283,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 maglinl_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:18:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:59:29
 InChIKey=WECGLUPZRHILCT-GSNKCQISSA-N
  63 62  0  0  1  0  0  0  0  0999 V2000
    10.3923   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

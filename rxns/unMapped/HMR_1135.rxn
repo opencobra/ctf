@@ -1,11 +1,11 @@
 $RXN
 HMR_1135
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:43
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:51
 leuktrB4wcooh[c] -> leuktrB4wcooh[x]
   1  1
 $MOL
 leuktrB4wcooh[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:12:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:58
 InChIKey=SXWGPVJGNOLNHT-BJQSAUPESA-L
  54 53  0  0  1  0  0  0  0  0999 V2000
     6.9282   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -119,7 +119,7 @@ M  CHG  2  24  -1  26  -1
 M  END
 $MOL
 leuktrB4wcooh[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:12:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:58
 InChIKey=SXWGPVJGNOLNHT-BJQSAUPESA-L
  54 53  0  0  1  0  0  0  0  0999 V2000
     6.9282   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

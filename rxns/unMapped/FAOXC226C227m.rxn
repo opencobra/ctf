@@ -1,11 +1,11 @@
 $RXN
 FAOXC226C227m
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:47
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:12
 fad[m] + c226coa[m] -> fadh2[m] + docohepcoa[m]
   2  2
 $MOL
 fad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:43:09
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:07
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -185,7 +185,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 c226coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:21:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:00:45
 InChIKey=MENFZXMQSYYVRK-CRCGJGBYSA-J
 133135  0  0  1  0  0  0  0  0999 V2000
    20.3132  -15.4712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -460,7 +460,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 fadh2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:43:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:12
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -644,7 +644,7 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 docohepcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:37:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:17:11
 InChIKey=HTSMCTDWAPSBNO-FFIXSAFPSA-J
 131133  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

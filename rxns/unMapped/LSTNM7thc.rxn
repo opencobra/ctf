@@ -1,11 +1,11 @@
 $RXN
 LSTNM7thc
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:23
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:20
 cl[c] + lstnm7[e] -> cl[e] + lstnm7[c]
   2  2
 $MOL
 cl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:09
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 lstnm7[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:16:07
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:20
 InChIKey=NGFMQMUIOUSHGR-UHFFFAOYSA-M
  72 76  0  0  1  0  0  0  0  0999 V2000
    -8.4629    0.2051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -168,7 +168,7 @@ M  CHG  1  41  -1
 M  END
 $MOL
 cl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:09
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
@@ -176,7 +176,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 lstnm7[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:16:07
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:20
 InChIKey=NGFMQMUIOUSHGR-UHFFFAOYSA-M
  72 76  0  0  1  0  0  0  0  0999 V2000
    -8.4629    0.2051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
