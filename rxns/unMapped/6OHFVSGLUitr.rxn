@@ -1,11 +1,11 @@
 $RXN
 6OHFVSGLUitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 6ohfvsglu[c] -> 6ohfvsglu[r]
   1  1
 $MOL
 6ohfvsglu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:00:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:32:48
 InChIKey=RHNCSRTVMKSGBK-UHFFFAOYSA-L
  76 78  0  0  1  0  0  0  0  0999 V2000
     4.4479   -2.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -166,7 +166,7 @@ M  CHG  3  36  -1  41  -1  44   1
 M  END
 $MOL
 6ohfvsglu[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:00:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:32:48
 InChIKey=RHNCSRTVMKSGBK-UHFFFAOYSA-L
  76 78  0  0  1  0  0  0  0  0999 V2000
     4.4479   -2.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

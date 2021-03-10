@@ -1,11 +1,11 @@
 $RXN
 SBTle
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:52
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:15
 sbt_D[e] -> sbt_D[c]
   1  1
 $MOL
 sbt_D[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:47:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:21
 InChIKey=FBPFZTCFMRRESA-JGWLITMVSA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     0.0000   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -62,7 +62,7 @@ InChIKey=FBPFZTCFMRRESA-JGWLITMVSA-N
 M  END
 $MOL
 sbt_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:47:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:21
 InChIKey=FBPFZTCFMRRESA-JGWLITMVSA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     0.0000   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

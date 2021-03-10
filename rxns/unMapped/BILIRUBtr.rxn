@@ -1,11 +1,11 @@
 $RXN
 BILIRUBtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:04
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:58
 bilirub[c] -> bilirub[r]
   1  1
 $MOL
 bilirub[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:20:02
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:31
 InChIKey=BPYKTIZUTYGOLE-IFADSCNNSA-L
  77 80  0  0  0  0  0  0  0  0999 V2000
     7.4541   -5.7433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ M  CHG  2  39  -1  41  -1
 M  END
 $MOL
 bilirub[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:20:02
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:31
 InChIKey=BPYKTIZUTYGOLE-IFADSCNNSA-L
  77 80  0  0  0  0  0  0  0  0999 V2000
     7.4541   -5.7433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 GLUTCONtm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:19
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
 glutcon[m] -> glutcon[c]
   1  1
 $MOL
 glutcon[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:08
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:00
 InChIKey=XVOUMQNXTGKGMA-OWOJBTEDSA-L
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37,7 +37,7 @@ M  CHG  2   7  -1   9  -1
 M  END
 $MOL
 glutcon[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:08
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:00
 InChIKey=XVOUMQNXTGKGMA-OWOJBTEDSA-L
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

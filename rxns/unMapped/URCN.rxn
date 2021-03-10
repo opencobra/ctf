@@ -1,11 +1,11 @@
 $RXN
 URCN
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:18
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:36
 h2o[c] + urcan[c] -> 4izp[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 urcan[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:06:00
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:11
 InChIKey=LOIYMIARKYCTBW-OWOJBTEDSA-M
  15 15  0  0  0  0  0  0  0  0999 V2000
    -1.2601   -1.2601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1  10  -1
 M  END
 $MOL
 4izp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:54:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:27:07
 InChIKey=MYNHYKDPSRPBNZ-UHFFFAOYSA-N
  18 18  0  0  0  0  0  0  0  0999 V2000
     0.5000   -2.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

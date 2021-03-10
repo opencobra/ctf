@@ -1,11 +1,11 @@
 $RXN
 C6DCe
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:33
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:10
 c6dc[c] -> c6dc[e]
   1  1
 $MOL
 c6dc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:22:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:01:35
 InChIKey=BSVHAXJKBCWVDA-SNVBAGLBSA-M
  42 41  0  0  1  0  0  0  0  0999 V2000
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ M  CHG  3  14   1  16  -1  18  -1
 M  END
 $MOL
 c6dc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:22:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:01:35
 InChIKey=BSVHAXJKBCWVDA-SNVBAGLBSA-M
  42 41  0  0  1  0  0  0  0  0999 V2000
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

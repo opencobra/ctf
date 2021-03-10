@@ -1,11 +1,11 @@
 $RXN
 ARGPHEARGr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:09
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:27
 2 h2o[c] + argphearg[c] -> 2 arg_L[c] + phe_L[c]
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 argphearg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:16:26
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:03
 InChIKey=INXWADWANGLMPJ-HRCADAONSA-P
  71 71  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -176,7 +176,7 @@ M  CHG  2  22   1  23   1
 M  END
 $MOL
 arg_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:15:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:58
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -236,7 +236,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 arg_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:15:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:58
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -296,7 +296,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:36:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:12
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

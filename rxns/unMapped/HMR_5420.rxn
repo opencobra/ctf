@@ -1,11 +1,11 @@
 $RXN
 HMR_5420
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:07
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
 fe2[c] -> fe2[m]
   1  1
 $MOL
 fe2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:43:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:24
 InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   2
 M  END
 $MOL
 fe2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:43:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:24
 InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0

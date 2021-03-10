@@ -1,12 +1,12 @@
 $RXN
 PEHSFABPe
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:52
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:15
 2 pe_hs[c] -> 2 pe_hs[r]
   2  2
 $MOL
 pe_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:49
-InChIKey=SVRBKLJIDJHADS-DRIBPHMRSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:34
+
  31 30  0  0  1  0  0  0  0  0999 V2000
    -1.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5000   -1.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -72,8 +72,8 @@ InChIKey=SVRBKLJIDJHADS-DRIBPHMRSA-N
 M  END
 $MOL
 pe_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:49
-InChIKey=SVRBKLJIDJHADS-DRIBPHMRSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:34
+
  31 30  0  0  1  0  0  0  0  0999 V2000
    -1.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5000   -1.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -139,8 +139,8 @@ InChIKey=SVRBKLJIDJHADS-DRIBPHMRSA-N
 M  END
 $MOL
 pe_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:49
-InChIKey=SVRBKLJIDJHADS-DRIBPHMRSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:34
+
  31 30  0  0  1  0  0  0  0  0999 V2000
    -1.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5000   -1.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -206,8 +206,8 @@ InChIKey=SVRBKLJIDJHADS-DRIBPHMRSA-N
 M  END
 $MOL
 pe_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:49
-InChIKey=SVRBKLJIDJHADS-DRIBPHMRSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:34
+
  31 30  0  0  1  0  0  0  0  0999 V2000
    -1.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5000   -1.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

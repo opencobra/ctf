@@ -1,11 +1,11 @@
 $RXN
 HMR_2127
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:54
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:55
 1a25dhvitd3[c] -> 1a25dhvitd3[m]
   1  1
 $MOL
 1a25dhvitd3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:34:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:06:29
 InChIKey=GMRQFYUYWCNGIN-NKMMMXOESA-N
  74 76  0  0  1  0  0  0  0  0999 V2000
    -2.3904    1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -161,7 +161,7 @@ InChIKey=GMRQFYUYWCNGIN-NKMMMXOESA-N
 M  END
 $MOL
 1a25dhvitd3[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:34:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:06:29
 InChIKey=GMRQFYUYWCNGIN-NKMMMXOESA-N
  74 76  0  0  1  0  0  0  0  0999 V2000
    -2.3904    1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

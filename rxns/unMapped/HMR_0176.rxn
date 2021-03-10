@@ -1,11 +1,11 @@
 $RXN
 HMR_0176
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:27
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:45
 C01601[e] -> C01601[c]
   1  1
 $MOL
 C01601[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:02:11
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:34:30
 InChIKey=FBUKVWPVBMHYJY-UHFFFAOYSA-M
  28 27  0  0  0  0  0  0  0  0999 V2000
     6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -67,7 +67,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 C01601[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:02:11
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:34:30
 InChIKey=FBUKVWPVBMHYJY-UHFFFAOYSA-M
  28 27  0  0  0  0  0  0  0  0999 V2000
     6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

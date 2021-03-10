@@ -1,11 +1,11 @@
 $RXN
 RE1521M
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:16
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:54
 h2o[m] + CE2432[m] -> CE2417[m]
   2  1
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE2432[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:17:02
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:49:33
 InChIKey=JSDPYDDAJCNOIE-ZIFDZGMNSA-J
 115117  0  0  1  0  0  0  0  0999 V2000
     7.5603   -0.4924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -255,7 +255,7 @@ M  CHG  4  43  -1  47  -1  48  -1  49  -1
 M  END
 $MOL
 CE2417[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:16:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:49:03
 InChIKey=TUMMXOLSCVKROK-IGNRKQBUSA-J
 118120  0  0  1  0  0  0  0  0999 V2000
    10.3923    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

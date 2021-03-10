@@ -1,11 +1,11 @@
 $RXN
 DTDPtn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:17
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:07
 dtdp[c] -> dtdp[n]
   1  1
 $MOL
 dtdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:39:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:24
 InChIKey=UJLXYODCHAELLY-XLPZGREQSA-K
  38 39  0  0  1  0  0  0  0  0999 V2000
    -5.4478   -6.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ M  CHG  3  14  -1  16  -1  17  -1
 M  END
 $MOL
 dtdp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:39:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:24
 InChIKey=UJLXYODCHAELLY-XLPZGREQSA-K
  38 39  0  0  1  0  0  0  0  0999 V2000
    -5.4478   -6.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

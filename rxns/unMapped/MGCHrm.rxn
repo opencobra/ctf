@@ -1,11 +1,11 @@
 $RXN
 MGCHrm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:34
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:20
 h2o[m] + 3mgcoa[m] -> hmgcoa[m]
   2  1
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 3mgcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:49:37
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:21:51
 InChIKey=GXKSHRDAHFLWPN-RKYLSHMCSA-I
  94 96  0  0  1  0  0  0  0  0999 V2000
    12.5544   -6.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -213,7 +213,7 @@ M  CHG  5  35  -1  37  -1  41  -1  42  -1  43  -1
 M  END
 $MOL
 hmgcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:02:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:42:35
 InChIKey=CABVTRNMFUVUDM-VRHQGPGLSA-I
  97 99  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

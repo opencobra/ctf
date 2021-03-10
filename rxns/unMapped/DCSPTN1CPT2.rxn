@@ -1,11 +1,11 @@
 $RXN
 DCSPTN1CPT2
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:04
 coa[m] + dcsptn1crn[m] -> crn[m] + dcsptn1coa[m]
   2  2
 $MOL
 coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:26:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:04
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -174,7 +174,7 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 dcsptn1crn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:31:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:11:24
 InChIKey=KRXOUZZWQXTUIB-IDERWEGCSA-N
  81 80  0  0  1  0  0  0  0  0999 V2000
    17.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -342,7 +342,7 @@ M  CHG  2  30   1  32  -1
 M  END
 $MOL
 crn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:27:27
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:07
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -400,7 +400,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 dcsptn1coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:31:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:11:19
 InChIKey=QKBTYZDPVNTERQ-UWVCYPHHSA-J
 135137  0  0  1  0  0  0  0  0999 V2000
    13.8904    4.2962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

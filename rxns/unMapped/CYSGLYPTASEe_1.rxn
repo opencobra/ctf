@@ -1,11 +1,11 @@
 $RXN
 CYSGLYPTASEe_1
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:43
 h2o[e] + 5cysgly34dhphe[e] -> gly[e] + CE1261[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 5cysgly34dhphe[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:54
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:29:15
 InChIKey=BEKGUNWQTPPXTG-JAMMHHFISA-N
  44 44  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -110,7 +110,7 @@ InChIKey=BEKGUNWQTPPXTG-JAMMHHFISA-N
 M  END
 $MOL
 gly[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:53:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:21
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -135,7 +135,7 @@ InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
 M  END
 $MOL
 CE1261[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:08:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:41:14
 InChIKey=SXISMOAILJWTID-BQBZGAKWSA-N
  37 37  0  0  1  0  0  0  0  0999 V2000
     2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

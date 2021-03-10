@@ -1,11 +1,11 @@
 $RXN
 r0403
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:54
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:34
 o2[c] + thbpt[c] + trp_L[c] -> h2o[c] + 5htrp[c] + dhbpt[c]
   3  3
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 thbpt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:55:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:34
 InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
 M  END
 $MOL
 trp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:00:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:36
 InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
  27 28  0  0  1  0  0  0  0  0999 V2000
     2.6831   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -157,8 +157,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 5htrp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:57:50
-InChIKey=LDCYZAJDBXYCGN-VIFPVBQESA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:30:09
+InChIKey=LDCYZAJDBXYCGN-UHFFFAOYSA-N
  28 29  0  0  1  0  0  0  0  0999 V2000
    -2.6831   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.8171    0.1910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -168,7 +168,7 @@ InChIKey=LDCYZAJDBXYCGN-VIFPVBQESA-N
    -0.0000   -1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.6831   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9511   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2872   -2.7770    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2872   -2.7770    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
    -0.9511   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.5962   -3.7281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.9563   -2.0339    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -182,7 +182,7 @@ InChIKey=LDCYZAJDBXYCGN-VIFPVBQESA-N
     0.6397   -3.5867    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.8171   -2.8410    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.6198   -0.8090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    0.9565   -1.7594    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5712   -3.5722    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.9540   -2.2460    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.6411   -1.0638    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.3042    0.9363    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -208,7 +208,7 @@ InChIKey=LDCYZAJDBXYCGN-VIFPVBQESA-N
   8 10  2  0  0  0  0
   9 11  1  0  0  0  0
   9 12  1  0  0  0  0
-  9 23  1  1  0  0  0
+  9 23  1  0  0  0  0
  10 13  1  0  0  0  0
  11 15  2  0  0  0  0
  11 16  1  0  0  0  0
@@ -220,7 +220,7 @@ InChIKey=LDCYZAJDBXYCGN-VIFPVBQESA-N
 M  END
 $MOL
 dhbpt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:34:08
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:09
 InChIKey=ZHQJVZLJDXWFFX-RPDRRWSUSA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

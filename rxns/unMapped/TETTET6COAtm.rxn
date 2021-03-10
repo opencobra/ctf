@@ -1,11 +1,11 @@
 $RXN
 TETTET6COAtm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:44
 tettet6coa[c] -> tettet6coa[m]
   1  1
 $MOL
 tettet6coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:55:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:25
 InChIKey=OKOXEYTYHDPTEW-NWVLGCTBSA-J
 143145  0  0  1  0  0  0  0  0999 V2000
     8.2726    7.0238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -300,7 +300,7 @@ M  CHG  4  53  -1  57  -1  58  -1  59  -1
 M  END
 $MOL
 tettet6coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:55:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:25
 InChIKey=OKOXEYTYHDPTEW-NWVLGCTBSA-J
 143145  0  0  1  0  0  0  0  0999 V2000
     8.2726    7.0238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

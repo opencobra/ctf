@@ -1,11 +1,11 @@
 $RXN
 XANtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:56
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:17
 xan[e] -> xan[c]
   1  1
 $MOL
 xan[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:08:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:47:16
 InChIKey=LRFVTYWOQMYALW-UHFFFAOYSA-N
  15 16  0  0  0  0  0  0  0  0999 V2000
     3.2709    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42,7 +42,7 @@ InChIKey=LRFVTYWOQMYALW-UHFFFAOYSA-N
 M  END
 $MOL
 xan[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:08:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:47:16
 InChIKey=LRFVTYWOQMYALW-UHFFFAOYSA-N
  15 16  0  0  0  0  0  0  0  0999 V2000
     3.2709    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

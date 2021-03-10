@@ -1,11 +1,11 @@
 $RXN
 UDPGALt2g
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:50
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:31
 udpgal[c] -> udpgal[g]
   1  1
 $MOL
 udpgal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:31
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,7 +130,7 @@ M  CHG  2  19  -1  26  -1
 M  END
 $MOL
 udpgal[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:31
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

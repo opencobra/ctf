@@ -1,11 +1,11 @@
 $RXN
 56EPPVStev
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:18
 56eppvs[c] -> 56eppvs[e]
   1  1
 $MOL
 56eppvs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:28:33
 InChIKey=LUUVNPNYODTZKG-UHFFFAOYSA-M
  67 68  0  0  1  0  0  0  0  0999 V2000
     8.2942   -4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -147,7 +147,7 @@ M  CHG  2  28  -1  32   1
 M  END
 $MOL
 56eppvs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:28:33
 InChIKey=LUUVNPNYODTZKG-UHFFFAOYSA-M
  67 68  0  0  1  0  0  0  0  0999 V2000
     8.2942   -4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

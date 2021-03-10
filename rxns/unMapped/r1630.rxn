@@ -1,11 +1,11 @@
 $RXN
 r1630
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:04
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:41
 asn_L[c] + tyr_L[e] -> asn_L[e] + tyr_L[c]
   2  2
 $MOL
 asn_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:17:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:43
 InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -44,7 +44,7 @@ InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N
 M  END
 $MOL
 tyr_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:03:54
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:43:09
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
 M  END
 $MOL
 asn_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:17:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:43
 InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N
 M  END
 $MOL
 tyr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:03:54
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:43:09
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

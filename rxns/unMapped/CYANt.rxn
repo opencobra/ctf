@@ -1,11 +1,11 @@
 $RXN
 CYANt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:10
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:03
 cyan[e] -> cyan[c]
   1  1
 $MOL
 cyan[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:28:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:08:39
 InChIKey=LELOWRISYMNNSU-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=LELOWRISYMNNSU-UHFFFAOYSA-N
 M  END
 $MOL
 cyan[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:28:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:08:39
 InChIKey=LELOWRISYMNNSU-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

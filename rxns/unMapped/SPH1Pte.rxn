@@ -1,11 +1,11 @@
 $RXN
 SPH1Pte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:48
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:29
 sph1p[c] -> sph1p[e]
   1  1
 $MOL
 sph1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:49:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:29
 InChIKey=YHEDRJPUIRMZMP-ZWKOTPCHSA-M
  64 63  0  0  1  0  0  0  0  0999 V2000
    11.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -139,7 +139,7 @@ M  CHG  1  21  -1
 M  END
 $MOL
 sph1p[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:49:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:29
 InChIKey=YHEDRJPUIRMZMP-ZWKOTPCHSA-M
  64 63  0  0  1  0  0  0  0  0999 V2000
    11.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

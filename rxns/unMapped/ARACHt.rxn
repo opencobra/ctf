@@ -1,11 +1,11 @@
 $RXN
 ARACHt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:56
 arach[e] -> arach[c]
   1  1
 $MOL
 arach[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:14:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:23
 InChIKey=VKOBVWXKNCXXDE-UHFFFAOYSA-M
  61 60  0  0  0  0  0  0  0  0999 V2000
    15.5885   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +133,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 arach[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:14:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:23
 InChIKey=VKOBVWXKNCXXDE-UHFFFAOYSA-M
  61 60  0  0  0  0  0  0  0  0999 V2000
    15.5885   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

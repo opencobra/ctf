@@ -1,11 +1,11 @@
 $RXN
 RE2426C
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:59
 h2o[c] + melatn[c] -> 2 h[c] + 6hoxmelatn[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 melatn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:19:50
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:00:51
 InChIKey=DRLFMBDRBRZALE-UHFFFAOYSA-N
  33 34  0  0  0  0  0  0  0  0999 V2000
     1.6984    4.7985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ InChIKey=DRLFMBDRBRZALE-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -97,7 +97,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -105,7 +105,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 6hoxmelatn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:59:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:32:11
 InChIKey=OMYMRCXOJJZYKE-UHFFFAOYSA-N
  34 35  0  0  0  0  0  0  0  0999 V2000
     0.9847   -3.4895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 XOLDIOLONEt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:52
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
 xoldiolone[c] -> xoldiolone[r]
   1  1
 $MOL
 xoldiolone[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:09:07
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:04
 InChIKey=UQPYXHJTHPHOMM-NIBOIBLTSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -1.8185    4.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ InChIKey=UQPYXHJTHPHOMM-NIBOIBLTSA-N
 M  END
 $MOL
 xoldiolone[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:09:07
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:04
 InChIKey=UQPYXHJTHPHOMM-NIBOIBLTSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -1.8185    4.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

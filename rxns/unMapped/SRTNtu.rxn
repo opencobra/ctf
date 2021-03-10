@@ -1,11 +1,11 @@
 $RXN
 SRTNtu
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:48
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:29
 srtn[e] -> srtn[c]
   1  1
 $MOL
 srtn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:51:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:31:22
 InChIKey=QZAYGJVTTNCVMB-UHFFFAOYSA-O
  26 27  0  0  0  0  0  0  0  0999 V2000
     2.6831    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -65,7 +65,7 @@ M  CHG  1  11   1
 M  END
 $MOL
 srtn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:51:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:31:22
 InChIKey=QZAYGJVTTNCVMB-UHFFFAOYSA-O
  26 27  0  0  0  0  0  0  0  0999 V2000
     2.6831    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

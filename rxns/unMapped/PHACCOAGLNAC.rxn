@@ -1,11 +1,11 @@
 $RXN
 PHACCOAGLNAC
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:42
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:25
 gln_L[c] + phaccoa[c] -> coa[c] + pheacgln[c]
   2  2
 $MOL
 gln_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:51:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:31:12
 InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
 M  END
 $MOL
 phaccoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:36:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:16:59
 InChIKey=ZIGIFDRJFZYEEQ-CECATXLMSA-J
  95 98  0  0  1  0  0  0  0  0999 V2000
    -4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -250,7 +250,7 @@ M  CHG  4  37  -1  41  -1  42  -1  43  -1
 M  END
 $MOL
 coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:26:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:04
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -419,7 +419,7 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 pheacgln[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:36:32
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:16
 InChIKey=JFLIEFSWGNOPJJ-JTQLQIEISA-N
  35 35  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

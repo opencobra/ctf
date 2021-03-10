@@ -1,11 +1,11 @@
 $RXN
 HMR_3921
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:06
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:04
 cyst_L[c] -> cyst_L[m]
   1  1
 $MOL
 cyst_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:29:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:09:40
 InChIKey=ILRYLPWNYFXEMH-WHFBIAKZSA-N
  28 27  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ InChIKey=ILRYLPWNYFXEMH-WHFBIAKZSA-N
 M  END
 $MOL
 cyst_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:29:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:09:40
 InChIKey=ILRYLPWNYFXEMH-WHFBIAKZSA-N
  28 27  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

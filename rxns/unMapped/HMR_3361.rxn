@@ -1,11 +1,11 @@
 $RXN
 HMR_3361
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:04
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:02
 h2o[x] + M03024[x] -> M00170[x]
   2  1
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 M03024[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:58:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:38:14
 InChIKey=OPMPWWFMNYWBGF-SHWONZDGSA-J
 129131  0  0  1  0  0  0  0  0999 V2000
    15.0494    5.5833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -283,7 +283,7 @@ M  CHG  4  47  -1  51  -1  52  -1  53  -1
 M  END
 $MOL
 M00170[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:15:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:56:02
 InChIKey=SCDXBWNPJAGEEK-KBOAXVDLSA-J
 132134  0  0  1  0  0  0  0  0999 V2000
    15.0494    5.5833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

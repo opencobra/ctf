@@ -1,11 +1,11 @@
 $RXN
 RE3447M
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:30
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:07
 h2o[m] + CE5970[m] -> CE5971[m]
   2  1
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE5970[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:48:51
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:28:13
 InChIKey=AYYISPCMVSHNTF-LKHKBAEFSA-J
 133135  0  0  1  0  0  0  0  0999 V2000
    22.2729   -2.0861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -291,7 +291,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 CE5971[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:48:57
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:28:22
 InChIKey=QRICRRFWADTSRS-GRPBHSQZSA-J
 136138  0  0  1  0  0  0  0  0999 V2000
    22.2729   -2.0861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

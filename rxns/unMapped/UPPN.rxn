@@ -1,11 +1,11 @@
 $RXN
 UPPN
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:51
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
 h2o[c] + 2 h[c] + cala[c] -> nh4[c] + co2[c] + ala_B[c]
   4  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -24,7 +24,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -32,7 +32,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cala[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:22:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:14
 InChIKey=JSJWCHRYRHKBBW-UHFFFAOYSA-M
  16 15  0  0  0  0  0  0  0  0999 V2000
    -1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -70,7 +70,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:14
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -86,7 +86,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:26:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:00
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -97,7 +97,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 ala_B[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:10:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:50:21
 InChIKey=UCMIRNVEIXFBKS-UHFFFAOYSA-N
  13 12  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

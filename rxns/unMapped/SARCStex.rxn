@@ -1,11 +1,11 @@
 $RXN
 SARCStex
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:46
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:28
 sarcs[e] -> sarcs[c]
   1  1
 $MOL
 sarcs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:47:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:13
 InChIKey=FSYKKLYZXJSNPZ-UHFFFAOYSA-N
  13 12  0  0  0  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36,7 +36,7 @@ InChIKey=FSYKKLYZXJSNPZ-UHFFFAOYSA-N
 M  END
 $MOL
 sarcs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:47:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:13
 InChIKey=FSYKKLYZXJSNPZ-UHFFFAOYSA-N
  13 12  0  0  0  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

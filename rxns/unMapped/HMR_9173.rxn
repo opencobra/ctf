@@ -1,11 +1,11 @@
 $RXN
 HMR_9173
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:11
 xtp[c] -> xtp[e]
   1  1
 $MOL
 xtp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:10:35
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:17
 InChIKey=CAEFEWVYEZABLA-UUOKFMHZSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
     2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  17  -1  18  -1  19  -1  20  -1
 M  END
 $MOL
 xtp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:10:35
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:17
 InChIKey=CAEFEWVYEZABLA-UUOKFMHZSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
     2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

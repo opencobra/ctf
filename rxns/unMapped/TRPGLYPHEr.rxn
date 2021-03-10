@@ -1,11 +1,11 @@
 $RXN
 TRPGLYPHEr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:11
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:29
 trp_L[c] + glyphe[c] -> h2o[c] + trpglyphe[c]
   2  2
 $MOL
 trp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:00:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:36
 InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
  27 28  0  0  1  0  0  0  0  0999 V2000
     2.6831   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
 M  END
 $MOL
 glyphe[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:54:35
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:23
 InChIKey=JBCLFWXMTIKCCB-UHFFFAOYSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -132,7 +132,7 @@ InChIKey=JBCLFWXMTIKCCB-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -143,7 +143,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 trpglyphe[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:01:00
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:40:23
 InChIKey=NOFFAYIYPAUNRM-HKUYNNGSSA-N
  54 56  0  0  1  0  0  0  0  0999 V2000
    -8.5454    0.1071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

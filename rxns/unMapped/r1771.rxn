@@ -1,11 +1,11 @@
 $RXN
 r1771
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:06
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:43
 na1[e] + phe_L[e] + pro_L[c] -> na1[c] + phe_L[c] + pro_L[e]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 phe_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:36:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:12
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -65,7 +65,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
 M  END
 $MOL
 pro_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:40:36
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:18
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -105,7 +105,7 @@ InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -113,7 +113,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:36:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:12
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
 M  END
 $MOL
 pro_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:40:36
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:18
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

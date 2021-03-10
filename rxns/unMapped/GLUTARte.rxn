@@ -1,11 +1,11 @@
 $RXN
 GLUTARte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:22
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:40
 glutar[c] -> glutar[e]
   1  1
 $MOL
 glutar[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:52:59
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:32:51
 InChIKey=JFCQEDHGNNZCLN-UHFFFAOYSA-L
  15 14  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ M  CHG  2   7  -1   9  -1
 M  END
 $MOL
 glutar[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:52:59
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:32:51
 InChIKey=JFCQEDHGNNZCLN-UHFFFAOYSA-L
  15 14  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

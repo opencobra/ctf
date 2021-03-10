@@ -1,11 +1,11 @@
 $RXN
 It
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:32
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:18
 i[e] -> i[c]
   1  1
 $MOL
 i[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:04:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:44:02
 InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 i[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:04:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:44:02
 InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  0  0  0

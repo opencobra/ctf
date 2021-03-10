@@ -1,11 +1,11 @@
 $RXN
 C14826td
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:03
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
 C14826[c] -> C14826[e]
   1  1
 $MOL
 C14826[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:07:02
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:39:29
 InChIKey=CCPPLLJZDQAOHD-BEBBCNLGSA-M
  52 52  0  0  1  0  0  0  0  0999 V2000
     1.3660    4.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -116,7 +116,7 @@ M  CHG  1  20  -1
 M  END
 $MOL
 C14826[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:07:02
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:39:29
 InChIKey=CCPPLLJZDQAOHD-BEBBCNLGSA-M
  52 52  0  0  1  0  0  0  0  0999 V2000
     1.3660    4.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

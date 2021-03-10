@@ -1,12 +1,12 @@
 $RXN
 HMR_7596
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:18
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:15
 akgp_hs[c] -> akgp_hs[x]
   1  1
 $MOL
 akgp_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:10:19
-InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:50:17
+
  15 14  0  0  0  0  0  0  0  0999 V2000
    -3.0000    0.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.0000    0.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,8 +41,8 @@ M  CHG  2  10  -1  11  -1
 M  END
 $MOL
 akgp_hs[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:10:19
-InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:50:17
+
  15 14  0  0  0  0  0  0  0  0999 V2000
    -3.0000    0.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.0000    0.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

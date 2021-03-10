@@ -1,11 +1,11 @@
 $RXN
 HMR_4672
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:06
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:05
 h2o[c] + h[c] + dctp[c] -> nh4[c] + dutp[c]
   3  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -24,7 +24,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 dctp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:31:32
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:11:29
 InChIKey=RGWHQCVHVJXOKC-SHYZEUOFSA-J
  40 41  0  0  1  0  0  0  0  0999 V2000
    -4.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -112,7 +112,7 @@ M  CHG  4  14  -1  15  -1  16  -1  18  -1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:14
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -128,7 +128,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 dutp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:40:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:20:19
 InChIKey=AHCYMLUZIRLXAA-SHYZEUOFSA-J
  39 40  0  0  1  0  0  0  0  0999 V2000
    -4.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

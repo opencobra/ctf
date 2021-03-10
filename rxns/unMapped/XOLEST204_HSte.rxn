@@ -1,11 +1,11 @@
 $RXN
 XOLEST204_HSte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:30
 xolest204_hs[e] -> xolest204_hs[c]
   1  1
 $MOL
 xolest204_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:09:37
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:27
 InChIKey=IMXSFYNMSOULQS-ZSHIVWLMSA-N
 125128  0  0  1  0  0  0  0  0999 V2000
    16.2851   -8.1347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -264,7 +264,7 @@ InChIKey=IMXSFYNMSOULQS-ZSHIVWLMSA-N
 M  END
 $MOL
 xolest204_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:09:37
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:27
 InChIKey=IMXSFYNMSOULQS-ZSHIVWLMSA-N
 125128  0  0  1  0  0  0  0  0999 V2000
    16.2851   -8.1347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

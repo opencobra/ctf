@@ -1,11 +1,11 @@
 $RXN
 PE224_HSte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:30
 pe224_hs[e] -> pe224_hs[c]
   1  1
 $MOL
 pe224_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:25
 InChIKey=NJHKGJJIKOCCMZ-OQYUTBBQSA-N
  84 83  0  0  1  0  0  0  0  0999 V2000
    17.5000  -11.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -178,7 +178,7 @@ InChIKey=NJHKGJJIKOCCMZ-OQYUTBBQSA-N
 M  END
 $MOL
 pe224_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:34:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:25
 InChIKey=NJHKGJJIKOCCMZ-OQYUTBBQSA-N
  84 83  0  0  1  0  0  0  0  0999 V2000
    17.5000  -11.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

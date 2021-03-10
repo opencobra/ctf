@@ -1,11 +1,11 @@
 $RXN
 12HPETUPKt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
 12HPET[e] -> 12HPET[c]
   1  1
 $MOL
 12HPET[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:29:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:03:50
 InChIKey=ZIOZYRSDNLNNNJ-APFHZBIOSA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
     5.1962    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 12HPET[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:29:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:03:50
 InChIKey=ZIOZYRSDNLNNNJ-APFHZBIOSA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
     5.1962    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_9676
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:16
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:14
 ind3ac[m] -> ind3ac[c]
   1  1
 $MOL
 ind3ac[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:05:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:45:45
 InChIKey=SEOVTRFCIGRIMH-UHFFFAOYSA-M
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -55,7 +55,7 @@ M  CHG  1  13  -1
 M  END
 $MOL
 ind3ac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:05:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:45:45
 InChIKey=SEOVTRFCIGRIMH-UHFFFAOYSA-M
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 CH4Ste
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
 ch4s[c] -> ch4s[e]
   1  1
 $MOL
 ch4s[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:24:00
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:41
 InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N
   6  5  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22,7 +22,7 @@ InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N
 M  END
 $MOL
 ch4s[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:24:00
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:41
 InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N
   6  5  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

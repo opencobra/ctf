@@ -1,11 +1,11 @@
 $RXN
 RE3295C
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:27
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:05
 CE7101[c] -> CE6219[c]
   1  1
 $MOL
 CE7101[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:56:38
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:37:24
 InChIKey=CSHBKBJSGSRKLB-MPPVQRIUSA-N
  79 80  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -170,7 +170,7 @@ InChIKey=CSHBKBJSGSRKLB-MPPVQRIUSA-N
 M  END
 $MOL
 CE6219[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:50:57
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:31:39
 InChIKey=XEXGHDCZBILZDD-VPYPWEPUSA-N
  79 79  0  0  1  0  0  0  0  0999 V2000
    -4.3301  -11.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

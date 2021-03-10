@@ -1,11 +1,11 @@
 $RXN
 r0717
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:57
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:35
 hdd2coa[x] + h2o[x] -> HC01397[x]
   2  1
 $MOL
 hdd2coa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:59:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:39:14
 InChIKey=JUPAQFRKPHPXLD-MSHHSVQMSA-J
 125127  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -264,7 +264,7 @@ M  CHG  4  45  -1  49  -1  50  -1  51  -1
 M  END
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -275,7 +275,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 HC01397[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:00:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:41:39
 InChIKey=DEHLMTDDPWDRDR-BCIKBWLNSA-J
 128130  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

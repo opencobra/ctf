@@ -1,11 +1,11 @@
 $RXN
 GLYPROt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:05
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:23
 glypro[c] -> glypro[e]
   1  1
 $MOL
 glypro[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:54:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:27
 InChIKey=KZNQNBZMBZJQJO-YFKPBYRVSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=KZNQNBZMBZJQJO-YFKPBYRVSA-N
 M  END
 $MOL
 glypro[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:54:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:27
 InChIKey=KZNQNBZMBZJQJO-YFKPBYRVSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

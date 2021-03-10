@@ -1,11 +1,11 @@
 $RXN
 HMR_9790
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:17
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:15
 ptdca[l] -> ptdca[c]
   1  1
 $MOL
 ptdca[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:43:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:23:32
 InChIKey=WQEPLUUGTLDZJY-UHFFFAOYSA-M
  46 45  0  0  0  0  0  0  0  0999 V2000
    12.1244   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -103,7 +103,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 ptdca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:43:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:23:32
 InChIKey=WQEPLUUGTLDZJY-UHFFFAOYSA-M
  46 45  0  0  0  0  0  0  0  0999 V2000
    12.1244   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

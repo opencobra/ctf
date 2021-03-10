@@ -1,11 +1,11 @@
 $RXN
 MK10t
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:32
 mqn10[c] -> mqn10[e]
   1  1
 $MOL
 mqn10[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:23:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:04:13
 InChIKey=OCQQATZYCNAKQB-UQUNHUMXSA-N
 151152  0  0  0  0  0  0  0  0999 V2000
   -25.1147   15.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -314,7 +314,7 @@ InChIKey=OCQQATZYCNAKQB-UQUNHUMXSA-N
 M  END
 $MOL
 mqn10[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:23:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:04:13
 InChIKey=OCQQATZYCNAKQB-UQUNHUMXSA-N
 151152  0  0  0  0  0  0  0  0999 V2000
   -25.1147   15.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 RE3582X
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:31
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:09
 CE6227[x] -> CE6225[x]
   1  1
 $MOL
 CE6227[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:51:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:31:54
 InChIKey=ANLFIWCXIHNIAL-CAIMCJOESA-I
 137139  0  0  1  0  0  0  0  0999 V2000
    -4.9564   -1.5320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -288,7 +288,7 @@ M  CHG  5  52  -1  54  -1  58  -1  60  -1  61  -1
 M  END
 $MOL
 CE6225[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:51:02
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:31:44
 InChIKey=UNMYUSONOSUPAJ-WCKJHTGZSA-I
 137139  0  0  1  0  0  0  0  0999 V2000
    -4.9564   -1.5320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

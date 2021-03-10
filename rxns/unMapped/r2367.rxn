@@ -1,11 +1,11 @@
 $RXN
 r2367
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:50
 HC02217[e] -> HC02217[c]
   1  1
 $MOL
 HC02217[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:10:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:51:24
 InChIKey=SGUKUZOVHSFKPH-YNNPMVKQSA-M
  57 58  0  0  1  0  0  0  0  0999 V2000
    -4.4045    0.8476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -127,7 +127,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 HC02217[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:10:40
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:51:24
 InChIKey=SGUKUZOVHSFKPH-YNNPMVKQSA-M
  57 58  0  0  1  0  0  0  0  0999 V2000
    -4.4045    0.8476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

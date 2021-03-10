@@ -1,11 +1,11 @@
 $RXN
 MI145PKn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:35
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:20
 atp[n] + mi145p[n] -> h[n] + adp[n] + mi1345p[n]
   2  3
 $MOL
 atp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:18:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:21
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 mi145p[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:22:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:03
 InChIKey=MMWCIQZXVOZEGG-HOZKJCLWSA-H
  33 33  0  0  1  0  0  0  0  0999 V2000
     1.0000    1.7321    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -173,7 +173,7 @@ M  CHG  6  10  -1  11  -1  13  -1  14  -1  16  -1  17  -1
 M  END
 $MOL
 h[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -181,7 +181,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 adp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:08:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:48:16
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -268,7 +268,7 @@ M  CHG  3  18  -1  19  -1  21  -1
 M  END
 $MOL
 mi1345p[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:21:42
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:42
 InChIKey=CIPFCGZLFXVXBG-CNWJWELYSA-F
  36 36  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.7321    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

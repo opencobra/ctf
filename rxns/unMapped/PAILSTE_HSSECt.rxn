@@ -1,11 +1,11 @@
 $RXN
 PAILSTE_HSSECt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:38
 pailste_hs[c] -> pailste_hs[e]
   1  1
 $MOL
 pailste_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:30:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:11:27
 InChIKey=MXAFDFDAIFZFET-CZDOQZASSA-M
  92 92  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -196,7 +196,7 @@ M  CHG  1  35  -1
 M  END
 $MOL
 pailste_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:30:44
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:11:27
 InChIKey=MXAFDFDAIFZFET-CZDOQZASSA-M
  92 92  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

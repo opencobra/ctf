@@ -1,11 +1,11 @@
 $RXN
 NH4tp
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:37
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:22
 nh4[c] -> nh4[x]
   1  1
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:14
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nh4[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:14
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0

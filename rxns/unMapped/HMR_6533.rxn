@@ -1,11 +1,11 @@
 $RXN
 HMR_6533
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:08
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:07
 2 cl[e] + oh1[c] -> 2 cl[c] + oh1[e]
   3  3
 $MOL
 cl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:09
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 cl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:09
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 oh1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:28:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:14
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-M
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -31,7 +31,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 cl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:09
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 cl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:09
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 oh1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:28:31
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:14
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-M
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0

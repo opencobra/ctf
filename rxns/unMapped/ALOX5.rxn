@@ -1,11 +1,11 @@
 $RXN
 ALOX5
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:01
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:56
 o2[c] + arachd[c] -> 5HPET[c]
   2  1
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:26:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 arachd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:14:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:36
 InChIKey=YZXBAPSDXZZRGB-DOFZRALJSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 5HPET[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:56:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:28:38
 InChIKey=JNUUNUQHXIOFDA-DHORPKIASA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

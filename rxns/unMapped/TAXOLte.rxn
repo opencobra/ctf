@@ -1,11 +1,11 @@
 $RXN
 TAXOLte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:49
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:30
 taxol[e] -> taxol[c]
   1  1
 $MOL
 taxol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:53:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:18
 InChIKey=RCINICONZNJXQF-MZXODVADSA-N
 113119  0  0  1  0  0  0  0  0999 V2000
    -3.1154    0.5581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -243,7 +243,7 @@ InChIKey=RCINICONZNJXQF-MZXODVADSA-N
 M  END
 $MOL
 taxol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:53:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:18
 InChIKey=RCINICONZNJXQF-MZXODVADSA-N
 113119  0  0  1  0  0  0  0  0999 V2000
    -3.1154    0.5581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HEXCCOAtx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:30
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:16
 hexccoa[c] -> hexccoa[x]
   1  1
 $MOL
 hexccoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:59:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:39:45
 InChIKey=FHLYYFPJDVYWQH-GHTQTPJDSA-J
 157159  0  0  1  0  0  0  0  0999 V2000
    24.7679    9.6516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -328,7 +328,7 @@ M  CHG  4  55  -1  59  -1  60  -1  61  -1
 M  END
 $MOL
 hexccoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:59:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:39:45
 InChIKey=FHLYYFPJDVYWQH-GHTQTPJDSA-J
 157159  0  0  1  0  0  0  0  0999 V2000
    24.7679    9.6516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

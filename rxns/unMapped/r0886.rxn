@@ -1,11 +1,11 @@
 $RXN
 r0886
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:59
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:37
 cmp[c] -> cmp[r]
   1  1
 $MOL
 cmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:32
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,7 +79,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 cmp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:32
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

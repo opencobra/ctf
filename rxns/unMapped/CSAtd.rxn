@@ -1,11 +1,11 @@
 $RXN
 CSAtd
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:22
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:19
 csa[e] -> csa[c]
   1  1
 $MOL
 csa[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:28:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:08:01
 InChIKey=PMATZTZNYRCHOR-CGLBZJNRSA-N
 196196  0  0  1  0  0  0  0  0999 V2000
    -4.5951    1.6026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -403,7 +403,7 @@ InChIKey=PMATZTZNYRCHOR-CGLBZJNRSA-N
 M  END
 $MOL
 csa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:28:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:08:01
 InChIKey=PMATZTZNYRCHOR-CGLBZJNRSA-N
 196196  0  0  1  0  0  0  0  0999 V2000
    -4.5951    1.6026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

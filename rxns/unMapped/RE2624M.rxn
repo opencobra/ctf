@@ -1,11 +1,11 @@
 $RXN
 RE2624M
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:59
 CE5166[m] -> cholcoar[m]
   1  1
 $MOL
 CE5166[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:34:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:08:06
 InChIKey=MNYDLIUNNOCPHG-TUTZYBGQSA-J
 155161  0  0  1  0  0  0  0  0999 V2000
    -1.7692   -5.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -328,7 +328,7 @@ M  CHG  4  59  -1  62  -1  64  -1  65  -1
 M  END
 $MOL
 cholcoar[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:24:42
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:26
 InChIKey=MNYDLIUNNOCPHG-FJWDCHQMSA-J
 155161  0  0  1  0  0  0  0  0999 V2000
    -1.7692   -5.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

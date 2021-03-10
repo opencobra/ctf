@@ -1,11 +1,11 @@
 $RXN
 ESTRIOLtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:18
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:08
 estriol[r] -> estriol[c]
   1  1
 $MOL
 estriol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:42:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:07
 InChIKey=PROQIPRRNZUXQM-ZXXIGWHRSA-N
  45 48  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -104,7 +104,7 @@ InChIKey=PROQIPRRNZUXQM-ZXXIGWHRSA-N
 M  END
 $MOL
 estriol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:42:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:07
 InChIKey=PROQIPRRNZUXQM-ZXXIGWHRSA-N
  45 48  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

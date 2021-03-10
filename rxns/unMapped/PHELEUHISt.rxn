@@ -1,11 +1,11 @@
 $RXN
 PHELEUHISt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:08
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:25
 h[e] + pheleuhis[e] -> h[c] + pheleuhis[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 pheleuhis[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:37:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:47
 InChIKey=METZZBCMDXHFMK-BZSNNMDCSA-N
  59 60  0  0  1  0  0  0  0  0999 V2000
     1.7796   -4.9067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -138,7 +138,7 @@ InChIKey=METZZBCMDXHFMK-BZSNNMDCSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 pheleuhis[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:37:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:47
 InChIKey=METZZBCMDXHFMK-BZSNNMDCSA-N
  59 60  0  0  1  0  0  0  0  0999 V2000
     1.7796   -4.9067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

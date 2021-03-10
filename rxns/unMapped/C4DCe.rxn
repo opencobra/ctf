@@ -1,11 +1,11 @@
 $RXN
 C4DCe
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:32
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:10
 c4dc[c] -> c4dc[e]
   1  1
 $MOL
 c4dc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:21:45
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:01:12
 InChIKey=HAEVNYBCYZZDFL-UHFFFAOYSA-M
  36 35  0  0  1  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  3  12   1  14  -1  16  -1
 M  END
 $MOL
 c4dc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:21:45
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:01:12
 InChIKey=HAEVNYBCYZZDFL-UHFFFAOYSA-M
  36 35  0  0  1  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

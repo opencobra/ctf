@@ -1,11 +1,11 @@
 $RXN
 r1375
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:39
 HC00822[e] -> HC00822[l]
   1  1
 $MOL
 HC00822[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:59:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:40:01
 InChIKey=CDOJPCSDOXYJJF-CBTAGEKQSA-N
  57 58  0  0  1  0  0  0  0  0999 V2000
     3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ InChIKey=CDOJPCSDOXYJJF-CBTAGEKQSA-N
 M  END
 $MOL
 HC00822[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:59:13
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:40:01
 InChIKey=CDOJPCSDOXYJJF-CBTAGEKQSA-N
  57 58  0  0  1  0  0  0  0  0999 V2000
     3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

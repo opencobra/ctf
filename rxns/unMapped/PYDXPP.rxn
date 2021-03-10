@@ -1,11 +1,11 @@
 $RXN
 PYDXPP
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:45
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:26
 h2o[c] + pydx5p[c] -> pi[c] + pydx[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pydx5p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:44:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:39
 InChIKey=NGVDGCNFYWLIFO-UHFFFAOYSA-L
  24 24  0  0  0  0  0  0  0  0999 V2000
     5.5000    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ M  CHG  2  11  -1  12  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 pydx[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:44:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:35
 InChIKey=RADKZDMFGJYCBB-UHFFFAOYSA-N
  21 21  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 RE2591C
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:59
 urate[c] -> h[c] + CE6252[c]
   1  2
 $MOL
 urate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:07
 InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -44,7 +44,7 @@ InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -52,7 +52,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 CE6252[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:52:35
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:33:18
 InChIKey=RKXSGLUFSIPOGU-UHFFFAOYSA-N
  15 16  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

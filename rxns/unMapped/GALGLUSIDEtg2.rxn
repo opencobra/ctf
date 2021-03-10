@@ -1,11 +1,11 @@
 $RXN
 GALGLUSIDEtg2
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:43
 galgluside_hs[e] -> galgluside_hs[g]
   1  1
 $MOL
 galgluside_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:48:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:46
 InChIKey=POQRWMRXUOPCLD-HIIAJUEOSA-N
 150150  0  0  1  0  0  0  0  0999 V2000
    12.9904   20.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -311,7 +311,7 @@ InChIKey=POQRWMRXUOPCLD-HIIAJUEOSA-N
 M  END
 $MOL
 galgluside_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:48:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:46
 InChIKey=POQRWMRXUOPCLD-HIIAJUEOSA-N
 150150  0  0  1  0  0  0  0  0999 V2000
    12.9904   20.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

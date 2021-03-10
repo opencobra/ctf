@@ -1,11 +1,11 @@
 $RXN
 PCHOL2PALM_HSte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:29
 pchol2palm_hs[e] -> pchol2palm_hs[c]
   1  1
 $MOL
 pchol2palm_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:31:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:11:59
 InChIKey=AGHWJZIEMKQLQP-JOCHJYFZSA-N
  80 79  0  0  1  0  0  0  0  0999 V2000
   -14.0000   -9.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -171,7 +171,7 @@ M  CHG  2  24   1  28  -1
 M  END
 $MOL
 pchol2palm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:31:21
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:11:59
 InChIKey=AGHWJZIEMKQLQP-JOCHJYFZSA-N
  80 79  0  0  1  0  0  0  0  0999 V2000
   -14.0000   -9.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

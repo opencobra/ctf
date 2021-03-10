@@ -1,12 +1,12 @@
 $RXN
 PA_HSter
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:40
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:23
 pa_hs[c] -> pa_hs[r]
   1  1
 $MOL
 pa_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:29:38
-InChIKey=HXNFUBHNUDHIGC-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:10:23
+
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -3.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5000   -3.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,8 +53,8 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 pa_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:29:38
-InChIKey=HXNFUBHNUDHIGC-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:10:23
+
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -3.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5000   -3.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

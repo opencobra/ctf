@@ -1,11 +1,11 @@
 $RXN
 FAOXC184m
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:46
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:12
 3octdectecoa[m] -> 2octdectecoa[m]
   1  1
 $MOL
 3octdectecoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:50:55
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:23:14
 InChIKey=WCELJRJTALYIIW-HKPSJFIHSA-J
 125127  0  0  1  0  0  0  0  0999 V2000
     4.5302  -10.5829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -264,7 +264,7 @@ M  CHG  4  47  -1  51  -1  52  -1  53  -1
 M  END
 $MOL
 2octdectecoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:43:32
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:15:37
 InChIKey=ARCCYNRJAHXWRR-BLHYBTKNSA-J
 125127  0  0  1  0  0  0  0  0999 V2000
    13.8019   -0.2856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

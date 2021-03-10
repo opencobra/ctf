@@ -1,11 +1,11 @@
 $RXN
 HMR_1144
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:44
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:51
 CE5178[c] -> CE5178[x]
   1  1
 $MOL
 CE5178[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:34:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:08:22
 InChIKey=MLZJFLKEKVDNAZ-ZQVKGQNISA-M
  53 52  0  0  1  0  0  0  0  0999 V2000
   -13.8564   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -117,7 +117,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 CE5178[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:34:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:08:22
 InChIKey=MLZJFLKEKVDNAZ-ZQVKGQNISA-M
  53 52  0  0  1  0  0  0  0  0999 V2000
   -13.8564   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

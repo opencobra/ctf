@@ -1,11 +1,11 @@
 $RXN
 UGT1A4r
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:51
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
 tststerone[r] + udpglcur[r] -> udp[r] + tststeroneglc[r]
   2  2
 $MOL
 tststerone[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:02:49
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:09
 InChIKey=MUMGGOZAMZWBJJ-DYKIIFRCSA-N
  49 52  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -112,7 +112,7 @@ InChIKey=MUMGGOZAMZWBJJ-DYKIIFRCSA-N
 M  END
 $MOL
 udpglcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:24
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:36
 InChIKey=HDYANYHVCAPMJV-LXQIFKJMSA-K
  56 58  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -233,7 +233,7 @@ M  CHG  3  18  -1  25  -1  27  -1
 M  END
 $MOL
 udp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -313,7 +313,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 tststeroneglc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:02:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:13
 InChIKey=NIKZPECGCSUSBV-HMAFJQTKSA-N
  69 73  0  0  1  0  0  0  0  0999 V2000
     1.6632    1.9747    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

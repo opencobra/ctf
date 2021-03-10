@@ -1,11 +1,11 @@
 $RXN
 CE1297td
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:03
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:21
 CE1297[c] -> CE1297[e]
   1  1
 $MOL
 CE1297[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:09:42
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:42:10
 InChIKey=VUKORTMHZDZZFR-BXAZICILSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -158,7 +158,7 @@ InChIKey=VUKORTMHZDZZFR-BXAZICILSA-N
 M  END
 $MOL
 CE1297[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:09:42
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:42:10
 InChIKey=VUKORTMHZDZZFR-BXAZICILSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 C2tcx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:32
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:10
 acrn[x] -> acrn[c]
   1  1
 $MOL
 acrn[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:07:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:47:38
 InChIKey=RDHQFKQIGNGIED-MRVPVSSYSA-O
  32 31  0  0  1  0  0  0  0  0999 V2000
     2.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ M  CHG  1  10   1
 M  END
 $MOL
 acrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:07:39
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:47:38
 InChIKey=RDHQFKQIGNGIED-MRVPVSSYSA-O
  32 31  0  0  1  0  0  0  0  0999 V2000
     2.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

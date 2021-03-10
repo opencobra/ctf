@@ -1,11 +1,11 @@
 $RXN
 FAOXC164GC163m
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:36
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:12
 h[m] + nadph[m] + hexdectecoa[m] -> nadp[m] + 3hexdtricoa[m]
   3  2
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nadph[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:42
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:35
 InChIKey=ACFIXJIJDZMPPO-NNYOXOHSSA-J
  74 78  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -172,7 +172,7 @@ M  CHG  4  32  -1  33  -1  34  -1  36  -1
 M  END
 $MOL
 hexdectecoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:00:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:07
 InChIKey=DNBBSGAGPHVPCV-NDRFOXSTSA-J
 119121  0  0  1  0  0  0  0  0999 V2000
   -17.0133  -10.1692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -419,7 +419,7 @@ M  CHG  4  45  -1  49  -1  50  -1  51  -1
 M  END
 $MOL
 nadp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:37
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:31
 InChIKey=XJLXINKUBYWONI-NNYOXOHSSA-K
  73 77  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -576,7 +576,7 @@ M  CHG  5  27   1  32  -1  34  -1  35  -1  39  -1
 M  END
 $MOL
 3hexdtricoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:47:29
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:19:40
 InChIKey=ZNIIDPYHPPJCFQ-VPNBAAGLSA-J
 121123  0  0  1  0  0  0  0  0999 V2000
   -16.8781   -6.2109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

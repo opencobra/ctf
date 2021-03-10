@@ -1,11 +1,11 @@
 $RXN
 3ITYR_Lte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
 na1[e] + 3ityr_L[c] -> na1[c] + 3ityr_L[e]
   2  2
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 3ityr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:49:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:21:28
 InChIKey=UQTZMGFTRHFAAM-ZETCQYMHSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -67,7 +67,7 @@ InChIKey=UQTZMGFTRHFAAM-ZETCQYMHSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 3ityr_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:49:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:21:28
 InChIKey=UQTZMGFTRHFAAM-ZETCQYMHSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

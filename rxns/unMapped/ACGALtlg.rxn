@@ -1,11 +1,11 @@
 $RXN
 ACGALtlg
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:12:57
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:52
 acgal[g] -> acgal[c]
   1  1
 $MOL
 acgal[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:04:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:44:38
 InChIKey=OVRNDRQMDRJTHS-KEWYIRBNSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ InChIKey=OVRNDRQMDRJTHS-KEWYIRBNSA-N
 M  END
 $MOL
 acgal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:04:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:44:38
 InChIKey=OVRNDRQMDRJTHS-KEWYIRBNSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

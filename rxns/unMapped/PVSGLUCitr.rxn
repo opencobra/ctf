@@ -1,11 +1,11 @@
 $RXN
 PVSGLUCitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 pvsgluc[r] -> pvsgluc[c]
   1  1
 $MOL
 pvsgluc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:44:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:22
 InChIKey=KUNYPVHUKCGNQF-UHFFFAOYSA-L
  85 86  0  0  1  0  0  0  0  0999 V2000
     9.1603   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -183,7 +183,7 @@ M  CHG  3  33  -1  38  -1  43   1
 M  END
 $MOL
 pvsgluc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:44:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:22
 InChIKey=KUNYPVHUKCGNQF-UHFFFAOYSA-L
  85 86  0  0  1  0  0  0  0  0999 V2000
     9.1603   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

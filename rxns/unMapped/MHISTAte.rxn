@@ -1,11 +1,11 @@
 $RXN
 MHISTAte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:23
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:40
 mhista[c] -> mhista[e]
   1  1
 $MOL
 mhista[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:21:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:33
 InChIKey=FHQDWPCFSJMNCT-UHFFFAOYSA-O
  21 21  0  0  0  0  0  0  0  0999 V2000
     2.5691    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 mhista[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:21:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:33
 InChIKey=FHQDWPCFSJMNCT-UHFFFAOYSA-O
  21 21  0  0  0  0  0  0  0  0999 V2000
     2.5691    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

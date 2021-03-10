@@ -1,11 +1,11 @@
 $RXN
 PUNP3
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:16
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:34
 pi[c] + gsn[c] -> gua[c] + r1p[c]
   2  2
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -23,7 +23,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 gsn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:56:37
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:36:37
 InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
  33 35  0  0  1  0  0  0  0  0999 V2000
     5.5237    0.0909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -97,7 +97,7 @@ InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
 M  END
 $MOL
 gua[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:57:51
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:37:59
 InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N
  16 17  0  0  0  0  0  0  0  0999 V2000
     3.2709    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -136,7 +136,7 @@ InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N
 M  END
 $MOL
 r1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:45:05
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:25:10
 InChIKey=YXJDFQJKERBOBM-TXICZTDVSA-L
  23 23  0  0  1  0  0  0  0  0999 V2000
     3.4432   -1.7319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

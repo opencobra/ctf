@@ -1,11 +1,11 @@
 $RXN
 r2053
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:09
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:47
 thr_L[c] + his_L[e] -> thr_L[e] + his_L[c]
   2  2
 $MOL
 thr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:56:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:36:40
 InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -44,7 +44,7 @@ InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
 M  END
 $MOL
 his_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:00:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:52
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -90,7 +90,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 thr_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:56:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:36:40
 InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -129,7 +129,7 @@ InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
 M  END
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:00:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:52
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

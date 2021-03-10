@@ -1,12 +1,12 @@
 $RXN
 GP1CALPHAte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:29
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:15
 gp1calpha_hs[c] -> gp1calpha_hs[e]
   1  1
 $MOL
 gp1calpha_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:55:43
-InChIKey=RQFCJASXJCIDSX-UUOKFMHZSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:35:29
+
 298305  0  0  1  0  0  0  0  0999 V2000
     2.1660    0.1560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.1846    0.1560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -614,8 +614,8 @@ InChIKey=RQFCJASXJCIDSX-UUOKFMHZSA-L
 M  END
 $MOL
 gp1calpha_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:55:43
-InChIKey=RQFCJASXJCIDSX-UUOKFMHZSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:35:29
+
 298305  0  0  1  0  0  0  0  0999 V2000
     2.1660    0.1560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.1846    0.1560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

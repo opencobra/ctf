@@ -1,11 +1,11 @@
 $RXN
 FVSTETitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 fvstet[c] -> fvstet[r]
   1  1
 $MOL
 fvstet[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:46:51
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:26:40
 InChIKey=PAHZGPLSHOVXBS-UHFFFAOYSA-M
  35 36  0  0  0  0  0  0  0  0999 V2000
     6.1648   -0.9343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  2  21  -1  22   1
 M  END
 $MOL
 fvstet[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:46:51
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:26:40
 InChIKey=PAHZGPLSHOVXBS-UHFFFAOYSA-M
  35 36  0  0  0  0  0  0  0  0999 V2000
     6.1648   -0.9343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

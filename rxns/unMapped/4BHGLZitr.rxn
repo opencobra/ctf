@@ -1,11 +1,11 @@
 $RXN
 4BHGLZitr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:25
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
 4bhglz[r] -> 4bhglz[c]
   1  1
 $MOL
 4bhglz[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:53:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:25:56
 InChIKey=PNUJBQSMGXXTDT-UHFFFAOYSA-L
  62 65  0  0  1  0  0  0  0  0999 V2000
     4.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -139,7 +139,7 @@ M  CHG  2  22  -1  29  -1
 M  END
 $MOL
 4bhglz[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 00:53:33
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:25:56
 InChIKey=PNUJBQSMGXXTDT-UHFFFAOYSA-L
  62 65  0  0  1  0  0  0  0  0999 V2000
     4.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

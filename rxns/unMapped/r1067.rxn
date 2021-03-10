@@ -1,11 +1,11 @@
 $RXN
 r1067
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:00
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:38
 his_L[l] -> his_L[c]
   1  1
 $MOL
 his_L[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:00:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:52
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:00:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:52
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

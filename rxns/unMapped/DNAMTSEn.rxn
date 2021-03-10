@@ -1,12 +1,12 @@
 $RXN
 DNAMTSEn
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:15
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:05
 dna[n] + seasmet[n] -> h[n] + dna5mtc[n] + seahcys[n]
   2  3
 $MOL
 dna[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:36:47
-InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:16:47
+
  58 60  0  0  1  0  0  0  0  0999 V2000
     0.5647   -4.1418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.7726   -3.1637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -129,7 +129,7 @@ InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K
 M  END
 $MOL
 seasmet[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:47:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:30
 InChIKey=GGJFWMOVUFBSIN-AIRLBKTGSA-O
  50 52  0  0  1  0  0  0  0  0999 V2000
     2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -238,7 +238,7 @@ M  CHG  1  27   1
 M  END
 $MOL
 h[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -246,8 +246,8 @@ M  CHG  1   1   1
 M  END
 $MOL
 dna5mtc[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:36:52
-InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:16:52
+
  77 80  0  0  1  0  0  0  0  0999 V2000
     2.0934    0.6637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.8366   -0.0055    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -409,7 +409,7 @@ InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K
 M  END
 $MOL
 seahcys[n]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:47:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:26
 InChIKey=UVSMMLABJBJNGH-WFMPWKQPSA-N
  46 48  0  0  1  0  0  0  0  0999 V2000
    -3.9290    0.7283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 RE3248X
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:05
 h2o[x] + cholcoads[x] -> CE5168[x]
   2  1
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cholcoads[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:24:32
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:15
 InChIKey=QVDPWQVOSKJUES-JMOYVIBVSA-J
 153159  0  0  1  0  0  0  0  0999 V2000
    -1.7692   -5.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -335,7 +335,7 @@ M  CHG  4  59  -1  62  -1  64  -1  65  -1
 M  END
 $MOL
 CE5168[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:34:19
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:08:11
 InChIKey=PXHZOQNODUPJKC-WYPPBEQDSA-J
 156162  0  0  1  0  0  0  0  0999 V2000
    -1.7783   -5.3398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 CLPNDCOAtx
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:08
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:01
 clpndcoa[c] -> clpndcoa[x]
   1  1
 $MOL
 clpndcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:37
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:22
 InChIKey=NDRVWKXEWNMEEO-DYKQVNSOSA-J
 135137  0  0  1  0  0  0  0  0999 V2000
    13.6249   -9.4490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -284,7 +284,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 clpndcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:25:37
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:22
 InChIKey=NDRVWKXEWNMEEO-DYKQVNSOSA-J
 135137  0  0  1  0  0  0  0  0999 V2000
    13.6249   -9.4490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

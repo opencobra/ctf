@@ -1,11 +1,11 @@
 $RXN
 DCIm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:13
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:04
 dd2coa[m] -> dd3coa[m]
   1  1
 $MOL
 dd2coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:31:41
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:11:38
 InChIKey=IRFYVBULXZMEDE-DEEZISNZSA-J
 113115  0  0  1  0  0  0  0  0999 V2000
    16.6551    0.6415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -240,7 +240,7 @@ M  CHG  4  41  -1  45  -1  46  -1  47  -1
 M  END
 $MOL
 dd3coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:31:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:11:43
 InChIKey=XEMIVMKTVGRFTD-YPWFGKPMSA-J
 113115  0  0  1  0  0  0  0  0999 V2000
     9.8783    2.0819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

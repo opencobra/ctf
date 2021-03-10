@@ -1,11 +1,11 @@
 $RXN
 C81CRNtr
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:30
 c81crn[e] -> c81crn[c]
   1  1
 $MOL
 c81crn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:22:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:01:46
 InChIKey=YMIVWYONPRZBEJ-LXKVQUBZSA-N
  47 46  0  0  1  0  0  0  0  0999 V2000
    -6.0622   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -105,7 +105,7 @@ M  CHG  2  16   1  18  -1
 M  END
 $MOL
 c81crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:22:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:01:46
 InChIKey=YMIVWYONPRZBEJ-LXKVQUBZSA-N
  47 46  0  0  1  0  0  0  0  0999 V2000
    -6.0622   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

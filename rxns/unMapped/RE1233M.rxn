@@ -1,11 +1,11 @@
 $RXN
 RE1233M
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:15
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:54
 akg[m] + Lkynr[m] -> h2o[m] + glu_L[m] + kynate[m]
   2  3
 $MOL
 akg[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:10:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:50:13
 InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  14 13  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  2   8  -1   9  -1
 M  END
 $MOL
 Lkynr[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:11:48
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:32
 InChIKey=YGPSJZOEDVAXAB-QMMMGPOBSA-N
  27 27  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,7 +99,7 @@ InChIKey=YGPSJZOEDVAXAB-QMMMGPOBSA-N
 M  END
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -110,7 +110,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 glu_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:52:06
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:31:59
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -152,7 +152,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 kynate[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:11:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:52:48
 InChIKey=HCZHHEIFKROPDY-UHFFFAOYSA-M
  20 21  0  0  0  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

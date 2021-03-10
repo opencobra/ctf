@@ -1,11 +1,11 @@
 $RXN
 HMR_2114
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:54
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:55
 7dhchsterol[c] -> vitd3[c]
   1  1
 $MOL
 7dhchsterol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:01:04
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:33:22
 InChIKey=UCTLRSWJYQTBFZ-DDPQNLDTSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -158,7 +158,7 @@ InChIKey=UCTLRSWJYQTBFZ-DDPQNLDTSA-N
 M  END
 $MOL
 vitd3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:07:43
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:46:51
 InChIKey=QYSXJUFSXHHAJI-YRZJJWOYSA-N
  72 74  0  0  1  0  0  0  0  0999 V2000
    -5.3249    0.5806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 C05767te
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
 C05767[c] -> C05767[e]
   1  1
 $MOL
 C05767[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:04:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:37:15
 InChIKey=DAFUFNRZWDWXJP-JRHDEHKPSA-F
  90 94  0  0  0  0  0  0  0  0999 V2000
     4.4373   -0.2605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -196,7 +196,7 @@ M  CHG  8  46  -1  48  -1  50  -1  52  -1  54  -1  56  -1  58  -1  60  -1
 M  END
 $MOL
 C05767[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:04:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:37:15
 InChIKey=DAFUFNRZWDWXJP-JRHDEHKPSA-F
  90 94  0  0  0  0  0  0  0  0999 V2000
     4.4373   -0.2605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

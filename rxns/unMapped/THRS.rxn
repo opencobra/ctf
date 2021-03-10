@@ -1,11 +1,11 @@
 $RXN
 THRS
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:16
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:35
 h2o[c] + phom[c] -> pi[c] + thr_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 phom[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:14
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:18:56
 InChIKey=FXDNYOANAXWZHG-VKHMYHEASA-L
  20 19  0  0  1  0  0  0  0  0999 V2000
     2.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -62,7 +62,7 @@ M  CHG  2   7  -1   8  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:38:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -80,7 +80,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 thr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:56:47
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:36:40
 InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

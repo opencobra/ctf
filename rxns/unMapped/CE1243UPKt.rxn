@@ -1,11 +1,11 @@
 $RXN
 CE1243UPKt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:38
 CE1243[e] -> CE1243[c]
   1  1
 $MOL
 CE1243[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:08:38
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:41:09
 InChIKey=SRXHUEDHCZMBHJ-UHFFFAOYSA-N
  46 45  0  0  0  0  0  0  0  0999 V2000
    13.8564   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -102,7 +102,7 @@ InChIKey=SRXHUEDHCZMBHJ-UHFFFAOYSA-N
 M  END
 $MOL
 CE1243[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:08:38
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:41:09
 InChIKey=SRXHUEDHCZMBHJ-UHFFFAOYSA-N
  46 45  0  0  0  0  0  0  0  0999 V2000
    13.8564   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

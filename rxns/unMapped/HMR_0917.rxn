@@ -1,11 +1,11 @@
 $RXN
 HMR_0917
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:33
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:50
 ump[c] -> ump[g]
   1  1
 $MOL
 ump[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:38
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:49
 InChIKey=DJJCXFVJDGTHFX-XVFCMESISA-L
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -77,7 +77,7 @@ M  CHG  2  12  -1  16  -1
 M  END
 $MOL
 ump[g]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 05:05:38
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:49
 InChIKey=DJJCXFVJDGTHFX-XVFCMESISA-L
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 PROtm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:44
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:26
 pro_L[c] -> pro_L[m]
   1  1
 $MOL
 pro_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:40:36
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:18
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
 M  END
 $MOL
 pro_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:40:36
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:18
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

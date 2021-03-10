@@ -1,11 +1,11 @@
 $RXN
 GULNter
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:29
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:16
 guln[r] -> guln[c]
   1  1
 $MOL
 guln[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:11
 InChIKey=RGHNJXZEOKUKBD-QTBDOELSSA-M
  24 23  0  0  1  0  0  0  0  0999 V2000
     4.3301   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ M  CHG  1  13  -1
 M  END
 $MOL
 guln[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:03
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:11
 InChIKey=RGHNJXZEOKUKBD-QTBDOELSSA-M
  24 23  0  0  1  0  0  0  0  0999 V2000
     4.3301   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

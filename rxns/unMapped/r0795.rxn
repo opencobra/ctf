@@ -1,11 +1,11 @@
 $RXN
 r0795
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:59
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:36
 h2o[c] + HC01501[c] -> 2 h[c] + so4[c] + HC00250[c]
   2  4
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 HC01501[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:02:02
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:42:46
 InChIKey=DHCDFWKWKRSZHF-UHFFFAOYSA-M
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -34,7 +34,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -42,7 +42,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 so4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:49:22
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:21
 InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 HC00250[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:58:23
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:39:13
 InChIKey=RWSOTUBLDIXVET-UHFFFAOYSA-M
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0

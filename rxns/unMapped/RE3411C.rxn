@@ -1,11 +1,11 @@
 $RXN
 RE3411C
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:29
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:07
 h2o[c] + h[c] + C04717[c] -> CE2576[c] + C01601[c]
   3  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -24,7 +24,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 C04717[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:03:50
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:36:12
 InChIKey=JDSRHVWSAMTSSN-IRQZEAMPSA-L
  52 51  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -134,7 +134,7 @@ M  CHG  2  20  -1  21  -1
 M  END
 $MOL
 CE2576[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:18:38
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:51:15
 InChIKey=TVNYLRYVAZWBEH-FNORWQNLSA-N
  28 27  0  0  1  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -195,7 +195,7 @@ InChIKey=TVNYLRYVAZWBEH-FNORWQNLSA-N
 M  END
 $MOL
 C01601[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:02:11
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:34:30
 InChIKey=FBUKVWPVBMHYJY-UHFFFAOYSA-M
  28 27  0  0  0  0  0  0  0  0999 V2000
     6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

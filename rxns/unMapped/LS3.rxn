@@ -1,11 +1,11 @@
 $RXN
 LS3
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:33
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:19
 pd3[c] -> lum3[c]
   1  1
 $MOL
 pd3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:33:58
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:14:44
 InChIKey=YUGCAAVRZWBXEQ-WHTXLNIXSA-N
  72 74  0  0  1  0  0  0  0  0999 V2000
    -3.1653   -4.3212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -157,7 +157,7 @@ InChIKey=YUGCAAVRZWBXEQ-WHTXLNIXSA-N
 M  END
 $MOL
 lum3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:16:16
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:30
 InChIKey=UCTLRSWJYQTBFZ-XMVWLVNMSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_0432
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:29
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:46
 M00021[e] -> M00021[c]
   1  1
 $MOL
 M00021[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:12:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:53:35
 InChIKey=HVGRZDASOHMCSK-HZJYTTRNSA-M
  63 62  0  0  0  0  0  0  0  0999 V2000
    12.1244   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 M00021[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 02:12:52
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:53:35
 InChIKey=HVGRZDASOHMCSK-HZJYTTRNSA-M
  63 62  0  0  0  0  0  0  0  0999 V2000
    12.1244   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

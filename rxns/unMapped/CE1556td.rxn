@@ -1,11 +1,11 @@
 $RXN
 CE1556td
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:03
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:21
 CE1556[c] -> CE1556[e]
   1  1
 $MOL
 CE1556[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:10:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:42:41
 InChIKey=HXFOXFJUNFFYMO-BYPYZUCNSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
    -0.8660    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 CE1556[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:10:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:42:41
 InChIKey=HXFOXFJUNFFYMO-BYPYZUCNSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
    -0.8660    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

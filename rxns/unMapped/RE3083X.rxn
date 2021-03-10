@@ -1,11 +1,11 @@
 $RXN
 RE3083X
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:14:24
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:02
 CE5935[x] -> CE5936[x]
   1  1
 $MOL
 CE5935[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:47:25
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:26:51
 InChIKey=QCNISQOYPUIJJO-GUQQFEKDSA-J
 121123  0  0  1  0  0  0  0  0999 V2000
   -19.3478   -3.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -256,7 +256,7 @@ M  CHG  4  43  -1  46  -1  48  -1  49  -1
 M  END
 $MOL
 CE5936[x]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:47:30
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:26:56
 InChIKey=QCNISQOYPUIJJO-JDIHXJMWSA-J
 121123  0  0  1  0  0  0  0  0999 V2000
   -19.3478   -3.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

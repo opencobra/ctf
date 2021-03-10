@@ -1,11 +1,11 @@
 $RXN
 C14771UPKt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:20
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:38
 C14771[e] -> C14771[c]
   1  1
 $MOL
 C14771[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:06:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:39:20
 InChIKey=JBSCUHKPLGKXKH-GDWIHFMBSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     1.3660   -4.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -120,7 +120,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 C14771[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 01:06:53
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:39:20
 InChIKey=JBSCUHKPLGKXKH-GDWIHFMBSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     1.3660   -4.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

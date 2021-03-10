@@ -1,12 +1,12 @@
 $RXN
 HMR_5255
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:07
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
 lpchol_hs[l] -> lpchol_hs[r]
   1  1
 $MOL
 lpchol_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:15:27
-InChIKey=FCCDDURTIIUXBY-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:56:40
+
  38 37  0  0  1  0  0  0  0  0999 V2000
     1.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.8660   -2.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -87,8 +87,8 @@ M  CHG  2  12  -1  16   1
 M  END
 $MOL
 lpchol_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:15:27
-InChIKey=FCCDDURTIIUXBY-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:56:40
+
  38 37  0  0  1  0  0  0  0  0999 V2000
     1.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.8660   -2.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0

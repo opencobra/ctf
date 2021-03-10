@@ -1,11 +1,11 @@
 $RXN
 HMR_6797
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:16:08
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:08
 triodthy[c] -> triodthy[r]
   1  1
 $MOL
 triodthy[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:59:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:23
 InChIKey=AUYYCJSJGJYCDS-LBPRGKRZSA-N
  35 36  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -82,7 +82,7 @@ InChIKey=AUYYCJSJGJYCDS-LBPRGKRZSA-N
 M  END
 $MOL
 triodthy[r]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:59:56
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:23
 InChIKey=AUYYCJSJGJYCDS-LBPRGKRZSA-N
  35 36  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

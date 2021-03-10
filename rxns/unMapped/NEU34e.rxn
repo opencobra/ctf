@@ -1,11 +1,11 @@
 $RXN
 NEU34e
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:26
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:43
 h2o[e] + gt1b_hs[e] -> acnam[e] + gd1b_hs[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:18
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,8 +16,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 gt1b_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:57:17
-InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:37:16
+
 258264  0  0  1  0  0  0  0  0999 V2000
    -3.4390    1.9855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5792    1.4891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -545,7 +545,7 @@ M  CHG  3 102  -1 112  -1 123  -1
 M  END
 $MOL
 acnam[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:07:17
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:47:09
 InChIKey=SQVRNKJHWKZAKO-PFQGKNLYSA-M
  39 39  0  0  1  0  0  0  0  0999 V2000
    -0.8660    3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -630,8 +630,8 @@ M  CHG  1  14  -1
 M  END
 $MOL
 gd1b_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:49:47
-InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:29:36
+
 222227  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

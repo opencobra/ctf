@@ -1,11 +1,11 @@
 $RXN
 LNLCCRNNAt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:02
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
 na1[c] + lnlccrn[c] -> na1[e] + lnlccrn[e]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 lnlccrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:14:50
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:56:03
 InChIKey=MJLXQSQYKZWZCB-DQFWFXSYSA-N
  75 74  0  0  1  0  0  0  0  0999 V2000
    13.0000    3.4641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ M  CHG  2  26   1  28  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:24:15
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -177,7 +177,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 lnlccrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:14:50
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:56:03
 InChIKey=MJLXQSQYKZWZCB-DQFWFXSYSA-N
  75 74  0  0  1  0  0  0  0  0999 V2000
    13.0000    3.4641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 PHEACGLNt
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:42
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:25
 pheacgln[c] -> pheacgln[e]
   1  1
 $MOL
 pheacgln[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:36:32
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:16
 InChIKey=JFLIEFSWGNOPJJ-JTQLQIEISA-N
  35 35  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -81,7 +81,7 @@ InChIKey=JFLIEFSWGNOPJJ-JTQLQIEISA-N
 M  END
 $MOL
 pheacgln[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:36:32
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:16
 InChIKey=JFLIEFSWGNOPJJ-JTQLQIEISA-N
  35 35  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

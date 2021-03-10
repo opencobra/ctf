@@ -1,11 +1,11 @@
 $RXN
 FCLTm
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:13:21
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:10
 fe2[m] + ppp9[m] -> 2 h[m] + pheme[m]
   2  3
 $MOL
 fe2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:43:28
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:24
 InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   2
 M  END
 $MOL
 ppp9[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:39:46
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:27
 InChIKey=KSFOVUSSGSKXFI-UJJXFSCMSA-L
  74 78  0  0  0  0  0  0  0  0999 V2000
     4.2696   -2.0790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -172,7 +172,7 @@ M  CHG  2  40  -1  42  -1
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -180,7 +180,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 03:58:10
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
 InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -188,9 +188,9 @@ M  CHG  1   1   1
 M  END
 $MOL
 pheme[m]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:37:17
-InChIKey=KABFMIBPWCXCRK-RGGAHWMASA-J
- 73 76  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:18:01
+InChIKey=KABFMIBPWCXCRK-RGGAHWMASA-L
+ 75 78  0  0  0  0  0  0  0  0999 V2000
     7.8977   -7.1017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.2863   -8.6025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.7084   -5.2307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -226,13 +226,13 @@ InChIKey=KABFMIBPWCXCRK-RGGAHWMASA-J
     4.7183   -0.9753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0903   -2.8224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.5559   -5.5386    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
-    4.3343   -6.2447    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+    4.3343   -6.2447    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     4.8497   -4.3167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     3.6281   -5.0227    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     5.1554   -0.3903    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.9931   -0.8893    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.6196   -2.3196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.3903   -2.6155    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.3903   -2.6155    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     8.6782   -0.3903    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
     8.0328   -8.1248    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     8.7162   -6.4731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -264,6 +264,8 @@ InChIKey=KABFMIBPWCXCRK-RGGAHWMASA-J
     6.0729   -7.8429    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.0302   -6.7617    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     3.1112   -2.7185    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5886   -5.2936    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1710   -1.7045    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  7  2  0  0  0  0
   1 44  1  0  0  0  0
   1 45  1  0  0  0  0
@@ -340,5 +342,7 @@ InChIKey=KABFMIBPWCXCRK-RGGAHWMASA-J
  33 40  1  0  0  0  0
  34 41  2  0  0  0  0
  34 42  1  0  0  0  0
-M  CHG  5  35  -1  36  -1  40  -1  42  -1  43   2
+ 36 74  1  0  0  0  0
+ 42 75  1  0  0  0  0
+M  CHG  3  35  -1  40  -1  43   2
 M  END

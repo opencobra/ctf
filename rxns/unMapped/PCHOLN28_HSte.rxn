@@ -1,11 +1,11 @@
 $RXN
 PCHOLN28_HSte
-COBRA Toolbox v3.0 - MDL RXN - 03-Mar-2021 05:15:12
+COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:30
 pcholn28_hs[e] -> pcholn28_hs[c]
   1  1
 $MOL
 pcholn28_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:33:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:13:55
 InChIKey=VPAMUPUPKCTFGJ-DHUJRADRSA-O
 120119  0  0  1  0  0  0  0  0999 V2000
   -23.0000  -15.1244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -251,7 +251,7 @@ M  CHG  1  37   1
 M  END
 $MOL
 pcholn28_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 03-Mar-2021 04:33:12
+COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:13:55
 InChIKey=VPAMUPUPKCTFGJ-DHUJRADRSA-O
 120119  0  0  1  0  0  0  0  0999 V2000
   -23.0000  -15.1244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
