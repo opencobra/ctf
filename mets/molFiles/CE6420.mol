@@ -1,6 +1,6 @@
 CE6420
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:33:36
-InChIKey=JYWFAQGZPPWWNO-WAPUOTHPSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:55:15
+InChIKey=JYWFAQGZPPWWNO-VCQSLHRMSA-L
  56 55  0  0  0  0  0  0  0  0999 V2000
     6.9282   10.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.0622   10.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -88,7 +88,7 @@ InChIKey=JYWFAQGZPPWWNO-WAPUOTHPSA-L
  11 43  1  0  0  0  0
  12 15  2  0  0  0  0
  12 44  1  0  0  0  0
- 13 14  2  3  0  0  0
+ 13 14  2  0  0  0  0
  13 16  1  0  0  0  0
  13 45  1  0  0  0  0
  14 17  1  0  0  0  0

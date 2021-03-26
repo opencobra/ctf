@@ -1,6 +1,6 @@
 M00446
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:03:23
-InChIKey=UXYLIEZFFBAJAG-HBRDYDSTSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:26:40
+InChIKey=UXYLIEZFFBAJAG-XMMPIXPASA-L
  80 79  0  0  1  0  0  0  0  0999 V2000
    17.5000  -11.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    18.0000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -107,7 +107,7 @@ InChIKey=UXYLIEZFFBAJAG-HBRDYDSTSA-L
   8  9  1  0  0  0  0
   8 49  1  0  0  0  0
   8 50  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 51  1  0  0  0  0
  10 11  1  0  0  0  0
  10 52  1  0  0  0  0

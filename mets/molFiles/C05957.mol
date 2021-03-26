@@ -1,6 +1,6 @@
 C05957
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:37:29
-InChIKey=UQOQENZZLBSFKO-POPPZSFYSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:06:11
+InChIKey=UQOQENZZLBSFKO-LDYIIYSOSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -0.9230   -6.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7891   -6.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -90,7 +90,7 @@ InChIKey=UQOQENZZLBSFKO-POPPZSFYSA-M
  12 15  2  0  0  0  0
  12 16  1  0  0  0  0
  12 46  1  0  0  0  0
- 13 14  2  0  0  0  0
+ 13 14  2  3  0  0  0
  13 17  1  0  0  0  0
  13 47  1  0  0  0  0
  14 48  1  0  0  0  0

@@ -1,6 +1,6 @@
 HC02213
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:51:09
-InChIKey=CBOMORHDRONZRN-QLOYDKTKSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:13:08
+InChIKey=CBOMORHDRONZRN-BNPQBDGKSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
    -3.2507    6.4598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.0428    5.4817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -86,7 +86,7 @@ InChIKey=CBOMORHDRONZRN-QLOYDKTKSA-M
  11 20  1  0  0  0  0
  11 43  1  0  0  0  0
  11 44  1  0  0  0  0
- 12 13  2  0  0  0  0
+ 12 13  2  3  0  0  0
  12 15  1  0  0  0  0
  12 45  1  0  0  0  0
  13 46  1  0  0  0  0

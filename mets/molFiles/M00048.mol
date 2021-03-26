@@ -1,6 +1,6 @@
 M00048
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:54:22
-InChIKey=PWHBHJPLLWGXPL-YSSUZGETSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:16:25
+InChIKey=PWHBHJPLLWGXPL-SVHODSNWSA-J
  98100  0  0  1  0  0  0  0  0999 V2000
   -16.4134   -3.6269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.9564    1.5320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ InChIKey=PWHBHJPLLWGXPL-YSSUZGETSA-J
   6  7  1  0  0  0  0
   6 70  1  0  0  0  0
   6 71  1  0  0  0  0
-  7  8  2  0  0  0  0
+  7  8  2  3  0  0  0
   7 72  1  0  0  0  0
   8 19  1  0  0  0  0
   8 73  1  0  0  0  0

@@ -1,6 +1,6 @@
 hpdececoa
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:43:09
-InChIKey=BUFWYEICGKLDLP-FOCLMDBBSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 10:28:09
+InChIKey=BUFWYEICGKLDLP-UHFFFAOYSA-J
 122124  0  0  1  0  0  0  0  0999 V2000
    23.6707   -8.0061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ InChIKey=BUFWYEICGKLDLP-FOCLMDBBSA-J
  14 15  1  0  0  0  0
  14 94  1  0  0  0  0
  14 95  1  0  0  0  0
- 15 16  2  0  0  0  0
+ 15 16  2  3  0  0  0
  15 96  1  0  0  0  0
  16 27  1  0  0  0  0
  16 97  1  0  0  0  0

@@ -1,6 +1,6 @@
 M00715
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:09:45
-InChIKey=WAMXYKIMRKFSFS-YFIWGTITSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:33:27
+InChIKey=WAMXYKIMRKFSFS-CPIGOPAHSA-J
 156158  0  0  1  0  0  0  0  0999 V2000
    24.7679    9.6516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -250,7 +250,7 @@ InChIKey=WAMXYKIMRKFSFS-YFIWGTITSA-J
  29 76  1  0  0  0  0
  29136  1  0  0  0  0
  29137  1  0  0  0  0
- 30 35  2  0  0  0  0
+ 30 35  2  3  0  0  0
  30 38  1  0  0  0  0
  30138  1  0  0  0  0
  31 68  1  0  0  0  0

@@ -1,6 +1,6 @@
 docohepcoa
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:17:11
-InChIKey=HTSMCTDWAPSBNO-FFIXSAFPSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 09:42:31
+InChIKey=HTSMCTDWAPSBNO-IUIXFKJLSA-J
 131133  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ InChIKey=HTSMCTDWAPSBNO-FFIXSAFPSA-J
  13 14  1  0  0  0  0
  13 93  1  0  0  0  0
  13 94  1  0  0  0  0
- 14 15  2  3  0  0  0
+ 14 15  2  0  0  0  0
  14 95  1  0  0  0  0
  15 16  1  0  0  0  0
  15 96  1  0  0  0  0

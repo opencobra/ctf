@@ -1,6 +1,6 @@
 CE7122
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:38:00
-InChIKey=LALWPXWRMGORIU-KTWAZNHYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:59:47
+InChIKey=LALWPXWRMGORIU-UHFFFAOYSA-N
  74 75  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
   -10.9736   -1.4152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -125,12 +125,12 @@ InChIKey=LALWPXWRMGORIU-KTWAZNHYSA-N
  13 21  1  0  0  0  0
  13 63  1  0  0  0  0
  13 64  1  0  0  0  0
- 14 21  2  0  0  0  0
+ 14 21  2  3  0  0  0
  14 65  1  0  0  0  0
  15 22  1  0  0  0  0
  15 66  1  0  0  0  0
  15 67  1  0  0  0  0
- 16 22  2  0  0  0  0
+ 16 22  2  3  0  0  0
  16 68  1  0  0  0  0
  17 19  1  0  0  0  0
  17 26  1  0  0  0  0

@@ -1,6 +1,6 @@
 CE5139
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:06:43
-InChIKey=SBSLZLBZGOASJL-QWSDKYSWSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:34:18
+InChIKey=SBSLZLBZGOASJL-NZXMSVEXSA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
     6.9282   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     7.7942   -3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ InChIKey=SBSLZLBZGOASJL-QWSDKYSWSA-M
   5 33  1  0  0  0  0
   6 11  1  0  0  0  0
   6 34  1  0  0  0  0
-  7 12  2  3  0  0  0
+  7 12  2  0  0  0  0
   7 35  1  0  0  0  0
   8 13  2  0  0  0  0
   8 36  1  0  0  0  0

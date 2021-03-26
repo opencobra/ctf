@@ -1,6 +1,6 @@
 CE6447
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:34:12
-InChIKey=QMVMCSYNPSQOII-FNLAZEKKSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:55:52
+InChIKey=QMVMCSYNPSQOII-JPMCSUSJSA-M
  59 60  0  0  1  0  0  0  0  0999 V2000
     5.0615    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.0614    0.9741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -68,7 +68,7 @@ InChIKey=QMVMCSYNPSQOII-FNLAZEKKSA-M
   2  3  1  0  0  0  0
   2 32  1  0  0  0  0
   2 33  1  0  0  0  0
-  3  8  2  0  0  0  0
+  3  8  2  3  0  0  0
   3 34  1  0  0  0  0
   4  5  1  0  0  0  0
   4  6  1  0  0  0  0

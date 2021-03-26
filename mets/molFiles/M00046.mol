@@ -1,6 +1,6 @@
 M00046
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:54:17
-InChIKey=YDHQUKOTPYJJSE-WSFAOELFSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:16:20
+InChIKey=YDHQUKOTPYJJSE-DUPKZGIXSA-J
 128130  0  0  1  0  0  0  0  0999 V2000
   -24.6498   -6.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.9564    1.5320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -181,7 +181,7 @@ InChIKey=YDHQUKOTPYJJSE-WSFAOELFSA-J
  16 17  1  0  0  0  0
  16100  1  0  0  0  0
  16101  1  0  0  0  0
- 17 18  2  0  0  0  0
+ 17 18  2  3  0  0  0
  17102  1  0  0  0  0
  18 29  1  0  0  0  0
  18103  1  0  0  0  0

@@ -1,6 +1,6 @@
 CE5157
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:07:41
-InChIKey=SOQFCYAWKYIIHN-CPMSOIFOSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:35:22
+InChIKey=SOQFCYAWKYIIHN-RNATUXINSA-J
 150152  0  0  1  0  0  0  0  0999 V2000
    23.6089    8.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -185,7 +185,7 @@ InChIKey=SOQFCYAWKYIIHN-CPMSOIFOSA-J
  10 11  1  0  0  0  0
  10 96  1  0  0  0  0
  10 97  1  0  0  0  0
- 11 12  2  0  0  0  0
+ 11 12  2  3  0  0  0
  11 98  1  0  0  0  0
  12 13  1  0  0  0  0
  12 99  1  0  0  0  0

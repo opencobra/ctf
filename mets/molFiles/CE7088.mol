@@ -1,6 +1,6 @@
 CE7088
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:37:01
-InChIKey=PVTQTOGPOPGQGE-SQJQFECVSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:58:46
+InChIKey=PVTQTOGPOPGQGE-WOGKHOCRSA-M
  54 55  0  0  1  0  0  0  0  0999 V2000
     3.3878    0.9780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.3878   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ InChIKey=PVTQTOGPOPGQGE-SQJQFECVSA-M
   3  6  2  0  0  0  0
   3 31  1  0  0  0  0
   4  5  1  0  0  0  0
-  4  7  2  0  0  0  0
+  4  7  2  3  0  0  0
   4 32  1  0  0  0  0
   5  8  1  0  0  0  0
   5 33  1  0  0  0  0
@@ -86,7 +86,7 @@ InChIKey=PVTQTOGPOPGQGE-SQJQFECVSA-M
  11 20  1  0  0  0  0
  11 43  1  0  0  0  0
  11 44  1  0  0  0  0
- 12 13  2  0  0  0  0
+ 12 13  2  3  0  0  0
  12 15  1  0  0  0  0
  12 45  1  0  0  0  0
  13 46  1  0  0  0  0

@@ -1,6 +1,6 @@
 5HPET
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:28:38
-InChIKey=JNUUNUQHXIOFDA-DHORPKIASA-M
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 06:57:46
+InChIKey=JNUUNUQHXIOFDA-JGKLHWIESA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5981   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ InChIKey=JNUUNUQHXIOFDA-DHORPKIASA-M
  12 44  1  0  0  0  0
  13 14  1  0  0  0  0
  13 45  1  0  0  0  0
- 14 16  2  3  0  0  0
+ 14 16  2  0  0  0  0
  14 46  1  0  0  0  0
  15 17  1  0  0  0  0
  15 18  1  0  0  0  0

@@ -1,6 +1,6 @@
 pcholn281_hs
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:13:50
-InChIKey=VCXKVGMRVJRCIV-CYYJNZCTSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 11:03:24
+InChIKey=VCXKVGMRVJRCIV-UHFFFAOYSA-O
 118117  0  0  1  0  0  0  0  0999 V2000
   -23.0000  -15.1244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -199,7 +199,7 @@ InChIKey=VCXKVGMRVJRCIV-CYYJNZCTSA-O
  25 26  1  0  0  0  0
  25 98  1  0  0  0  0
  25 99  1  0  0  0  0
- 26 27  2  0  0  0  0
+ 26 27  2  3  0  0  0
  26100  1  0  0  0  0
  27 28  1  0  0  0  0
  27101  1  0  0  0  0

@@ -1,6 +1,6 @@
 CE6193
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:31:03
-InChIKey=OXCSBZDIZXLXRX-VUUAMBQASA-L
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:52:35
+InChIKey=OXCSBZDIZXLXRX-FDICEFKNSA-L
  59 58  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -69,7 +69,7 @@ InChIKey=OXCSBZDIZXLXRX-VUUAMBQASA-L
   3  5  1  0  0  0  0
   3 33  1  0  0  0  0
   3 34  1  0  0  0  0
-  4  6  2  0  0  0  0
+  4  6  2  3  0  0  0
   4 35  1  0  0  0  0
   5  7  2  0  0  0  0
   5 36  1  0  0  0  0

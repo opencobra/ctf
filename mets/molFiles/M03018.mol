@@ -1,6 +1,6 @@
 M03018
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:37:59
-InChIKey=VCGWYAHHVOPZFZ-VUGQBNTFSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 09:03:12
+InChIKey=VCGWYAHHVOPZFZ-IBYUJNRCSA-J
 135137  0  0  1  0  0  0  0  0999 V2000
    21.2910    5.7901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -176,7 +176,7 @@ InChIKey=VCGWYAHHVOPZFZ-VUGQBNTFSA-J
  12 13  1  0  0  0  0
  12 95  1  0  0  0  0
  12 96  1  0  0  0  0
- 13 14  2  0  0  0  0
+ 13 14  2  3  0  0  0
  13 97  1  0  0  0  0
  14 15  1  0  0  0  0
  14 98  1  0  0  0  0
@@ -195,7 +195,7 @@ InChIKey=VCGWYAHHVOPZFZ-VUGQBNTFSA-J
  19 20  1  0  0  0  0
  19107  1  0  0  0  0
  19108  1  0  0  0  0
- 20 21  2  0  0  0  0
+ 20 21  2  3  0  0  0
  20109  1  0  0  0  0
  21 32  1  0  0  0  0
  21110  1  0  0  0  0

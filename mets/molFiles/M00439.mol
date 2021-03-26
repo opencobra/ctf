@@ -1,6 +1,6 @@
 M00439
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:02:50
-InChIKey=DMZXKNSNIJKINA-LXLZSIJESA-L
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:26:06
+InChIKey=DMZXKNSNIJKINA-QFIPXVFZSA-L
  70 69  0  0  1  0  0  0  0  0999 V2000
    16.0000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    16.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,21 +79,21 @@ InChIKey=DMZXKNSNIJKINA-LXLZSIJESA-L
   2  3  1  0  0  0  0
   2 35  1  0  0  0  0
   2 36  1  0  0  0  0
-  3  4  2  0  0  0  0
+  3  4  2  3  0  0  0
   3 37  1  0  0  0  0
   4  5  1  0  0  0  0
   4 38  1  0  0  0  0
   5  6  1  0  0  0  0
   5 39  1  0  0  0  0
   5 40  1  0  0  0  0
-  6  7  2  0  0  0  0
+  6  7  2  3  0  0  0
   6 41  1  0  0  0  0
   7  8  1  0  0  0  0
   7 42  1  0  0  0  0
   8  9  1  0  0  0  0
   8 43  1  0  0  0  0
   8 44  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 45  1  0  0  0  0
  10 11  1  0  0  0  0
  10 46  1  0  0  0  0

@@ -1,6 +1,6 @@
 pelinl_hs
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:16:05
-InChIKey=DBHKHNGBVGWQJE-AVQMFFATSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 11:06:17
+InChIKey=DBHKHNGBVGWQJE-UHFFFAOYSA-N
  76 75  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    15.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -94,14 +94,14 @@ InChIKey=DBHKHNGBVGWQJE-AVQMFFATSA-N
   5  6  1  0  0  0  0
   5 42  1  0  0  0  0
   5 43  1  0  0  0  0
-  6  7  2  0  0  0  0
+  6  7  2  3  0  0  0
   6 44  1  0  0  0  0
   7  8  1  0  0  0  0
   7 45  1  0  0  0  0
   8  9  1  0  0  0  0
   8 46  1  0  0  0  0
   8 47  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 48  1  0  0  0  0
  10 11  1  0  0  0  0
  10 49  1  0  0  0  0

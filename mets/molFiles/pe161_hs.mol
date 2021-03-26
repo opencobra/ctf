@@ -1,6 +1,6 @@
 pe161_hs
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:11
-InChIKey=DSOWUEHXZJUNID-BQYQJAHWSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 11:05:01
+InChIKey=DSOWUEHXZJUNID-UHFFFAOYSA-N
  72 71  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    13.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ InChIKey=DSOWUEHXZJUNID-BQYQJAHWSA-N
   6  7  1  0  0  0  0
   6 42  1  0  0  0  0
   6 43  1  0  0  0  0
-  7  8  2  0  0  0  0
+  7  8  2  3  0  0  0
   7 44  1  0  0  0  0
   8  9  1  0  0  0  0
   8 45  1  0  0  0  0
