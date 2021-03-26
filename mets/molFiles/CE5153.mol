@@ -1,6 +1,6 @@
 CE5153
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:07:22
-InChIKey=FIPHCVZAQUEADL-PPPYEPNTSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:35:01
+InChIKey=FIPHCVZAQUEADL-CBHKYYIOSA-J
 144146  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -179,7 +179,7 @@ InChIKey=FIPHCVZAQUEADL-PPPYEPNTSA-J
  10 11  1  0  0  0  0
  10 94  1  0  0  0  0
  10 95  1  0  0  0  0
- 11 12  2  0  0  0  0
+ 11 12  2  3  0  0  0
  11 96  1  0  0  0  0
  12 13  1  0  0  0  0
  12 97  1  0  0  0  0

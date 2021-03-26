@@ -1,6 +1,6 @@
 M00885
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:12:28
-InChIKey=KADPWMJVUVWQNK-MCZZQJTKSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:36:26
+InChIKey=KADPWMJVUVWQNK-QSGBVPJFSA-J
 118120  0  0  1  0  0  0  0  0999 V2000
    17.8140    1.9286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -153,7 +153,7 @@ InChIKey=KADPWMJVUVWQNK-MCZZQJTKSA-J
  10 11  1  0  0  0  0
  10 86  1  0  0  0  0
  10 87  1  0  0  0  0
- 11 12  2  0  0  0  0
+ 11 12  2  3  0  0  0
  11 88  1  0  0  0  0
  12 13  1  0  0  0  0
  12 89  1  0  0  0  0

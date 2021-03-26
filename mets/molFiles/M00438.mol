@@ -1,6 +1,6 @@
 M00438
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:02:45
-InChIKey=VCCMYKUIJIFAOQ-UCFODXPJSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:26:01
+InChIKey=VCCMYKUIJIFAOQ-IBGZPJMESA-L
  65 64  0  0  1  0  0  0  0  0999 V2000
    16.5000    7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    16.0000    8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -86,7 +86,7 @@ InChIKey=VCCMYKUIJIFAOQ-UCFODXPJSA-L
   6  7  1  0  0  0  0
   6 40  1  0  0  0  0
   6 41  1  0  0  0  0
-  7  8  2  0  0  0  0
+  7  8  2  3  0  0  0
   7 42  1  0  0  0  0
   8  9  1  0  0  0  0
   8 43  1  0  0  0  0

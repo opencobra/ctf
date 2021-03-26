@@ -1,6 +1,6 @@
 CE6451
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:34:31
-InChIKey=YPAIJQRSSHCPIA-KABLMVHISA-M
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:56:12
+InChIKey=YPAIJQRSSHCPIA-YPLHIKBESA-M
  59 60  0  0  1  0  0  0  0  0999 V2000
     2.5467    0.4901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.6978    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,7 +79,7 @@ InChIKey=YPAIJQRSSHCPIA-KABLMVHISA-M
   6  8  1  0  0  0  0
   6 38  1  0  0  0  0
   6 39  1  0  0  0  0
-  7  9  2  3  0  0  0
+  7  9  2  0  0  0  0
   7 40  1  0  0  0  0
   8 10  2  0  0  0  0
   8 41  1  0  0  0  0

@@ -1,6 +1,6 @@
 15kprostgf2
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:05:33
-InChIKey=LOLJEILMPWPILA-AMFHKTBMSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 06:39:19
+InChIKey=LOLJEILMPWPILA-DOKGLVEFSA-M
  56 56  0  0  1  0  0  0  0  0999 V2000
     7.5858    2.0282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.8427    1.3591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18,7 +18,7 @@ InChIKey=LOLJEILMPWPILA-AMFHKTBMSA-M
    -0.8090    0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4543    0.6389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.5000    1.5388    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    0.8090    0.5878    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8090    0.5878    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.5000    1.5388    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -3.1160    5.4021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -105,7 +105,7 @@ InChIKey=LOLJEILMPWPILA-AMFHKTBMSA-M
  16 51  1  1  0  0  0
  17 13  1  0  0  0  0
  17 19  1  0  0  0  0
- 17 52  1  6  0  0  0
+ 17 52  1  1  0  0  0
  18 22  1  0  0  0  0
  18 53  1  1  0  0  0
  19 23  1  0  0  0  0

@@ -1,6 +1,6 @@
 M00449
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:03:36
-InChIKey=LUOJYKBTQKAEPP-OGJPMFGRSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:26:54
+InChIKey=LUOJYKBTQKAEPP-SANMLTNESA-L
  86 85  0  0  1  0  0  0  0  0999 V2000
    19.0000  -12.1244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    19.5000  -11.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -113,7 +113,7 @@ InChIKey=LUOJYKBTQKAEPP-OGJPMFGRSA-L
   8  9  1  0  0  0  0
   8 51  1  0  0  0  0
   8 52  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 53  1  0  0  0  0
  10 11  1  0  0  0  0
  10 54  1  0  0  0  0

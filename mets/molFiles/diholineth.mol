@@ -1,6 +1,6 @@
 diholineth
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:15:32
-InChIKey=ULQWKETUACYZLI-YHTMAJSVSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 09:40:45
+InChIKey=ULQWKETUACYZLI-UHFFFAOYSA-N
  64 63  0  0  0  0  0  0  0  0999 V2000
    15.5885   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    15.5885    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -82,21 +82,21 @@ InChIKey=ULQWKETUACYZLI-YHTMAJSVSA-N
   5  6  1  0  0  0  0
   5 35  1  0  0  0  0
   5 36  1  0  0  0  0
-  6  7  2  0  0  0  0
+  6  7  2  3  0  0  0
   6 37  1  0  0  0  0
   7  8  1  0  0  0  0
   7 38  1  0  0  0  0
   8  9  1  0  0  0  0
   8 39  1  0  0  0  0
   8 40  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 41  1  0  0  0  0
  10 11  1  0  0  0  0
  10 42  1  0  0  0  0
  11 12  1  0  0  0  0
  11 43  1  0  0  0  0
  11 44  1  0  0  0  0
- 12 13  2  0  0  0  0
+ 12 13  2  3  0  0  0
  12 45  1  0  0  0  0
  13 14  1  0  0  0  0
  13 46  1  0  0  0  0

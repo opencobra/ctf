@@ -1,6 +1,6 @@
 CE2245
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:47:41
-InChIKey=UVJKZCSQLMWPMV-BWKDRKIHSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:16:19
+InChIKey=UVJKZCSQLMWPMV-NYAKNKMBSA-J
 149151  0  0  1  0  0  0  0  0999 V2000
    23.6089    8.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -223,7 +223,7 @@ InChIKey=UVJKZCSQLMWPMV-BWKDRKIHSA-J
  23 24  1  0  0  0  0
  23121  1  0  0  0  0
  23122  1  0  0  0  0
- 24 25  2  0  0  0  0
+ 24 25  2  3  0  0  0
  24123  1  0  0  0  0
  25 36  1  0  0  0  0
  25124  1  0  0  0  0

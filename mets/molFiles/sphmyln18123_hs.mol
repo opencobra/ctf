@@ -1,6 +1,6 @@
 sphmyln18123_hs
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:30:42
-InChIKey=SXZWBNWTCVLZJN-NHFVQZBWSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 11:24:19
+InChIKey=SXZWBNWTCVLZJN-UHFFFAOYSA-O
 149148  0  0  1  0  0  0  0  0999 V2000
    18.2679    2.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
   -11.7321  -11.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -264,7 +264,7 @@ InChIKey=SXZWBNWTCVLZJN-NHFVQZBWSA-O
  36 38  1  0  0  0  0
  36131  1  0  0  0  0
  36132  1  0  0  0  0
- 37 39  2  0  0  0  0
+ 37 39  2  3  0  0  0
  37133  1  0  0  0  0
  38 40  1  0  0  0  0
  38134  1  0  0  0  0

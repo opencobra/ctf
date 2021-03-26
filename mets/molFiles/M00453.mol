@@ -1,6 +1,6 @@
 M00453
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:03:55
-InChIKey=GSDLIEVAGUEBCL-WLWXPVBDSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:27:12
+InChIKey=GSDLIEVAGUEBCL-QFIPXVFZSA-L
  70 69  0  0  1  0  0  0  0  0999 V2000
    16.0000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    16.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -97,21 +97,21 @@ InChIKey=GSDLIEVAGUEBCL-WLWXPVBDSA-L
   8  9  1  0  0  0  0
   8 47  1  0  0  0  0
   8 48  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 49  1  0  0  0  0
  10 11  1  0  0  0  0
  10 50  1  0  0  0  0
  11 12  1  0  0  0  0
  11 51  1  0  0  0  0
  11 52  1  0  0  0  0
- 12 13  2  0  0  0  0
+ 12 13  2  3  0  0  0
  12 53  1  0  0  0  0
  13 14  1  0  0  0  0
  13 54  1  0  0  0  0
  14 15  1  0  0  0  0
  14 55  1  0  0  0  0
  14 56  1  0  0  0  0
- 15 16  2  0  0  0  0
+ 15 16  2  3  0  0  0
  15 57  1  0  0  0  0
  16 17  1  0  0  0  0
  16 58  1  0  0  0  0

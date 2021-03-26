@@ -1,6 +1,6 @@
 pcholn1836_hs
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:50
-InChIKey=MRTUWVDDQVMUCR-YTVFJXBYSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 11:02:07
+InChIKey=MRTUWVDDQVMUCR-VWLOTQADSA-O
  84 83  0  0  1  0  0  0  0  0999 V2000
   -15.5000  -10.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -114,21 +114,21 @@ InChIKey=MRTUWVDDQVMUCR-YTVFJXBYSA-O
   8  9  1  0  0  0  0
   8 54  1  0  0  0  0
   8 55  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 56  1  0  0  0  0
  10 11  1  0  0  0  0
  10 57  1  0  0  0  0
  11 12  1  0  0  0  0
  11 58  1  0  0  0  0
  11 59  1  0  0  0  0
- 12 13  2  0  0  0  0
+ 12 13  2  3  0  0  0
  12 60  1  0  0  0  0
  13 14  1  0  0  0  0
  13 61  1  0  0  0  0
  14 15  1  0  0  0  0
  14 62  1  0  0  0  0
  14 63  1  0  0  0  0
- 15 16  2  0  0  0  0
+ 15 16  2  3  0  0  0
  15 64  1  0  0  0  0
  16 17  1  0  0  0  0
  16 65  1  0  0  0  0

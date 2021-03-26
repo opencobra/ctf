@@ -1,6 +1,6 @@
 M00071
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:54:59
-InChIKey=CAVMKINPGRCURL-PHHHIDLGSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:17:04
+InChIKey=CAVMKINPGRCURL-GRBGHKMPSA-J
 110112  0  0  1  0  0  0  0  0999 V2000
    20.2823   -7.2859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -145,7 +145,7 @@ InChIKey=CAVMKINPGRCURL-PHHHIDLGSA-J
  10 11  1  0  0  0  0
  10 82  1  0  0  0  0
  10 83  1  0  0  0  0
- 11 12  2  0  0  0  0
+ 11 12  2  3  0  0  0
  11 84  1  0  0  0  0
  12 23  1  0  0  0  0
  12 85  1  0  0  0  0

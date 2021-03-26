@@ -1,6 +1,6 @@
 M00056
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:54:36
-InChIKey=HBLOTZDYPZAZLE-OWQWVSLFSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:16:40
+InChIKey=HBLOTZDYPZAZLE-FUEUKBNZSA-J
 104106  0  0  1  0  0  0  0  0999 V2000
    18.5881   -6.9258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +133,7 @@ InChIKey=HBLOTZDYPZAZLE-OWQWVSLFSA-J
   8  9  1  0  0  0  0
   8 76  1  0  0  0  0
   8 77  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 78  1  0  0  0  0
  10 21  1  0  0  0  0
  10 79  1  0  0  0  0

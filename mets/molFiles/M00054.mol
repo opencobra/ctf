@@ -1,6 +1,6 @@
 M00054
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:54:31
-InChIKey=MAXBSQRWQJPHLZ-DJSYUPERSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:16:35
+InChIKey=MAXBSQRWQJPHLZ-LMBIMJGHSA-J
 134136  0  0  1  0  0  0  0  0999 V2000
    27.0591   -8.7263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -193,7 +193,7 @@ InChIKey=MAXBSQRWQJPHLZ-DJSYUPERSA-J
  18 19  1  0  0  0  0
  18106  1  0  0  0  0
  18107  1  0  0  0  0
- 19 20  2  0  0  0  0
+ 19 20  2  3  0  0  0
  19108  1  0  0  0  0
  20 31  1  0  0  0  0
  20109  1  0  0  0  0

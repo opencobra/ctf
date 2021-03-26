@@ -1,6 +1,6 @@
 CE5932
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:26:42
-InChIKey=HQOAEUUDHIWDFP-HYGPETPISA-N
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:49:19
+InChIKey=HQOAEUUDHIWDFP-BUJXIGDUSA-N
  52 53  0  0  1  0  0  0  0  0999 V2000
    -0.0000    5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -81,12 +81,12 @@ InChIKey=HQOAEUUDHIWDFP-HYGPETPISA-N
   7 12  1  0  0  0  0
   7 39  1  0  0  0  0
   7 40  1  0  0  0  0
-  8 15  2  0  0  0  0
+  8 15  2  3  0  0  0
   8 41  1  0  0  0  0
   9 16  1  0  0  0  0
   9 42  1  0  0  0  0
   9 43  1  0  0  0  0
- 10 11  2  3  0  0  0
+ 10 11  2  0  0  0  0
  10 15  1  0  0  0  0
  10 44  1  0  0  0  0
  11 17  1  0  0  0  0

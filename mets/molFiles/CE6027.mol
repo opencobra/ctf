@@ -1,6 +1,6 @@
 CE6027
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:28:58
-InChIKey=AOVGFTJYESGAEA-CJEYCIBDSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:51:27
+InChIKey=AOVGFTJYESGAEA-VZEJBDIDSA-N
  60 62  0  0  1  0  0  0  0  0999 V2000
    -2.3904    1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -80,7 +80,7 @@ InChIKey=AOVGFTJYESGAEA-CJEYCIBDSA-N
   5 37  1  0  0  0  0
   5 38  1  0  0  0  0
   6  7  1  0  0  0  0
-  6 17  2  0  0  0  0
+  6 17  2  3  0  0  0
   6 39  1  0  0  0  0
   7 18  2  0  0  0  0
   7 40  1  0  0  0  0

@@ -1,9 +1,9 @@
 glyc_R
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:45
-InChIKey=RBNPOMFGQQGHHO-REOHCLBHSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 10:11:41
+InChIKey=RBNPOMFGQQGHHO-UWTATZPHSA-M
  12 11  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.7321   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7321   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.4641    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -20,7 +20,7 @@ InChIKey=RBNPOMFGQQGHHO-REOHCLBHSA-M
   1  9  1  0  0  0  0
   2  3  1  0  0  0  0
   2  5  1  0  0  0  0
-  2 10  1  1  0  0  0
+  2 10  1  6  0  0  0
   3  6  2  0  0  0  0
   3  7  1  0  0  0  0
   4 11  1  0  0  0  0

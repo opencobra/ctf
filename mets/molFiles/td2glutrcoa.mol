@@ -1,6 +1,6 @@
 td2glutrcoa
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:33
-InChIKey=URTLOTISFJPPOU-HWKANZROSA-I
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 11:27:26
+InChIKey=URTLOTISFJPPOU-UHFFFAOYSA-I
  91 93  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4143   -5.0970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -102,7 +102,7 @@ InChIKey=URTLOTISFJPPOU-HWKANZROSA-I
   2 61  1  0  0  0  0
   2 62  1  0  0  0  0
   3  4  1  0  0  0  0
-  3  5  2  0  0  0  0
+  3  5  2  3  0  0  0
   3 63  1  0  0  0  0
   4 16  1  0  0  0  0
   4 64  1  0  0  0  0

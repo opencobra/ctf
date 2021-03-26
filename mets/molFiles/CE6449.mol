@@ -1,6 +1,6 @@
 CE6449
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:34:21
-InChIKey=MEVBPAJZOYZPMH-BTXLTSGLSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:56:03
+InChIKey=MEVBPAJZOYZPMH-PXFASYKZSA-M
  59 60  0  0  1  0  0  0  0  0999 V2000
    -2.8043   -4.4809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.8043   -4.4809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -67,7 +67,7 @@ InChIKey=MEVBPAJZOYZPMH-BTXLTSGLSA-M
   1 31  1  0  0  0  0
   2 32  1  0  0  0  0
   2 33  1  0  0  0  0
-  3  4  2  3  0  0  0
+  3  4  2  0  0  0  0
   3  5  1  0  0  0  0
   3 34  1  0  0  0  0
   4  6  1  0  0  0  0
@@ -94,7 +94,7 @@ InChIKey=MEVBPAJZOYZPMH-BTXLTSGLSA-M
  13 22  1  0  0  0  0
  13 48  1  0  0  0  0
  13 49  1  0  0  0  0
- 14 15  2  0  0  0  0
+ 14 15  2  3  0  0  0
  14 17  1  0  0  0  0
  14 50  1  0  0  0  0
  15 51  1  0  0  0  0

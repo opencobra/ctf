@@ -1,6 +1,6 @@
 CE2053
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:44:57
-InChIKey=LVLQYGYNBVIONY-NMDIHKAGSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 07:13:36
+InChIKey=LVLQYGYNBVIONY-HKQYOTMESA-M
  54 53  0  0  1  0  0  0  0  0999 V2000
     6.9282    9.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.9282    8.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -75,9 +75,9 @@ InChIKey=LVLQYGYNBVIONY-NMDIHKAGSA-M
   6 34  1  0  0  0  0
   7 12  1  0  0  0  0
   7 35  1  0  0  0  0
-  8 13  2  0  0  0  0
+  8 13  2  3  0  0  0
   8 36  1  0  0  0  0
-  9 14  2  0  0  0  0
+  9 14  2  3  0  0  0
   9 37  1  0  0  0  0
  10 17  1  0  0  0  0
  10 38  1  0  0  0  0
