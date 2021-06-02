@@ -1,11 +1,11 @@
 $RXN
 MICITDr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:36
+
 h2o[c] + 2mcacn[c] -> micit[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 2mcacn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:14:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:25:37
 InChIKey=NUZLRKBHOBPTQV-ARJAWSKDSA-K
  18 17  0  0  0  0  0  0  0  0999 V2000
     0.0000   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +58,7 @@ M  CHG  3   9  -1  11  -1  13  -1
 M  END
 $MOL
 micit[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:33
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:00:50
 InChIKey=HHKPKXCSHMJWCF-WVBDSBKLSA-K
  21 20  0  0  1  0  0  0  0  0999 V2000
     1.3660   -0.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,44 +1,48 @@
 $RXN
 RE3453C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:07
+
 4 h[c] + CE5926[c] -> h2o[c] + CE5929[c]
   5  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 CE5926[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:26:16
-InChIKey=IWMASUQIBFLUFD-HHDBOTMESA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:31:17
+InChIKey=IWMASUQIBFLUFD-ILOBSCSKSA-M
  57 58  0  0  1  0  0  0  0  0999 V2000
    -0.7955   -5.7782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.2045   -5.7782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -159,7 +163,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -170,7 +174,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE5929[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:26:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:31:26
 InChIKey=MZYZWZXTHYCVHQ-HHDBOTMESA-M
  58 58  0  0  1  0  0  0  0  0999 V2000
    -3.1928    3.2435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 CE4970tm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 CE4970[m] -> CE4970[c]
   1  1
 $MOL
 CE4970[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:03:48
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:14:11
 InChIKey=HOACIBQKYRHBOW-UHFFFAOYSA-M
  23 22  0  0  1  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ M  CHG  1  10  -1
 M  END
 $MOL
 CE4970[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:03:48
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:14:11
 InChIKey=HOACIBQKYRHBOW-UHFFFAOYSA-M
  23 22  0  0  1  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

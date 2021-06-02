@@ -1,12 +1,12 @@
 $RXN
 HYOCHOLtr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:16
+
 hyochol[c] -> hyochol[r]
   1  1
 $MOL
 hyochol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:43:53
-InChIKey=DKPMWHFRUGMUKF-KWXDGCAGSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:12:33
+InChIKey=DKPMWHFRUGMUKF-FVCCXMCMSA-M
  68 71  0  0  1  0  0  0  0  0999 V2000
    -1.2012    4.7339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8440    3.4415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -151,8 +151,8 @@ M  CHG  1  27  -1
 M  END
 $MOL
 hyochol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:43:53
-InChIKey=DKPMWHFRUGMUKF-KWXDGCAGSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:12:33
+InChIKey=DKPMWHFRUGMUKF-FVCCXMCMSA-M
  68 71  0  0  1  0  0  0  0  0999 V2000
    -1.2012    4.7339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8440    3.4415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

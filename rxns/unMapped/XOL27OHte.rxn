@@ -1,11 +1,11 @@
 $RXN
 XOL27OHte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
+
 xol27oh[c] -> xol27oh[e]
   1  1
 $MOL
 xol27oh[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:47:33
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:55:06
 InChIKey=FYHRJWMENCALJY-YSQMORBQSA-N
  75 78  0  0  1  0  0  0  0  0999 V2000
    -3.9961    6.3807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -164,7 +164,7 @@ InChIKey=FYHRJWMENCALJY-YSQMORBQSA-N
 M  END
 $MOL
 xol27oh[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:47:33
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:55:06
 InChIKey=FYHRJWMENCALJY-YSQMORBQSA-N
  75 78  0  0  1  0  0  0  0  0999 V2000
    -3.9961    6.3807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

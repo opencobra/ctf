@@ -1,6 +1,6 @@
 HC02180
-COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:11:38
-InChIKey=XNRNNGPBEPRNAR-JQBLCGNGSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:59:36
+InChIKey=XNRNNGPBEPRNAR-YLQJXANPSA-M
  59 59  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.9282   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -72,7 +72,7 @@ InChIKey=XNRNNGPBEPRNAR-JQBLCGNGSA-M
   3 32  1  0  0  0  0
   3 33  1  0  0  0  0
   4  5  1  0  0  0  0
-  4  7  2  0  0  0  0
+  4  7  2  3  0  0  0
   4 34  1  0  0  0  0
   5  8  1  0  0  0  0
   5 35  1  0  0  0  0
@@ -93,7 +93,7 @@ InChIKey=XNRNNGPBEPRNAR-JQBLCGNGSA-M
  11 19  1  0  0  0  0
  11 46  1  0  0  0  0
  11 47  1  0  0  0  0
- 12 13  2  0  0  0  0
+ 12 13  2  3  0  0  0
  12 15  1  0  0  0  0
  12 48  1  0  0  0  0
  13 49  1  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 ONPTHLte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:22
+
 onpthl[e] -> onpthl[c]
   1  1
 $MOL
 onpthl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:08:56
 InChIKey=XQIJIALOJPIKGX-VHSXEESVSA-N
  19 21  0  0  1  0  0  0  0  0999 V2000
     3.4641    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ InChIKey=XQIJIALOJPIKGX-VHSXEESVSA-N
 M  END
 $MOL
 onpthl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:08:56
 InChIKey=XQIJIALOJPIKGX-VHSXEESVSA-N
  19 21  0  0  1  0  0  0  0  0999 V2000
     3.4641    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

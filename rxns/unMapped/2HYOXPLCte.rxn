@@ -1,19 +1,20 @@
 $RXN
 2HYOXPLCte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:40
+
 h[c] + 2hyoxplac[c] -> h[e] + 2hyoxplac[e]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 2hyoxplac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:12:39
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:24:56
 InChIKey=CCVYRRGZDBSHFU-UHFFFAOYSA-M
  18 18  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -56,15 +57,16 @@ M  CHG  1   9  -1
 M  END
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 2hyoxplac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:12:39
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:24:56
 InChIKey=CCVYRRGZDBSHFU-UHFFFAOYSA-M
  18 18  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

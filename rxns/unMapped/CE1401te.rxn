@@ -1,11 +1,11 @@
 $RXN
 CE1401te
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
+
 CE1401[c] -> CE1401[e]
   1  1
 $MOL
 CE1401[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:42:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:53:15
 InChIKey=KIWQWJKWBHZMDT-VKHMYHEASA-O
  15 15  0  0  1  0  0  0  0  0999 V2000
     1.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42,7 +42,7 @@ M  CHG  1   5   1
 M  END
 $MOL
 CE1401[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:42:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:53:15
 InChIKey=KIWQWJKWBHZMDT-VKHMYHEASA-O
  15 15  0  0  1  0  0  0  0  0999 V2000
     1.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

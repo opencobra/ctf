@@ -1,11 +1,11 @@
 $RXN
 OMHDEACIDTD
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:14
+
 omhdecacid[r] -> omhdecacid[c]
   1  1
 $MOL
 omhdecacid[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:08:45
 InChIKey=YJCJVMMDTBEITC-UHFFFAOYSA-M
  32 31  0  0  0  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ M  CHG  1  13  -1
 M  END
 $MOL
 omhdecacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:08:45
 InChIKey=YJCJVMMDTBEITC-UHFFFAOYSA-M
  32 31  0  0  0  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 2HATVLACGLUCitr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 2hatvlacgluc[r] -> 2hatvlacgluc[c]
   1  1
 $MOL
 2hatvlacgluc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:11:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:24:08
 InChIKey=UQYKEINTTVQWJT-UHFFFAOYSA-M
  93 98  0  0  1  0  0  0  0  0999 V2000
    -2.7405   -0.1454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -203,7 +203,7 @@ M  CHG  1  43  -1
 M  END
 $MOL
 2hatvlacgluc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:11:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:24:08
 InChIKey=UQYKEINTTVQWJT-UHFFFAOYSA-M
  93 98  0  0  1  0  0  0  0  0999 V2000
    -2.7405   -0.1454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

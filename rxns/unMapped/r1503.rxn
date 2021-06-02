@@ -1,11 +1,11 @@
 $RXN
 r1503
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:40
+
 2 na1[e] + HC02220[e] -> 2 na1[c] + HC02220[c]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -21,8 +21,8 @@ M  CHG  1   1   1
 M  END
 $MOL
 HC02220[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:51:28
-InChIKey=WHMOBEGYTDWMIG-HEGLNSLBSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:01:47
+InChIKey=WHMOBEGYTDWMIG-KOQGLQFUSA-L
  70 73  0  0  1  0  0  0  0  0999 V2000
    -7.0416   -0.7439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.5442   -0.8325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -171,7 +171,7 @@ M  CHG  2  27  -1  28  -1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -179,7 +179,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -187,8 +187,8 @@ M  CHG  1   1   1
 M  END
 $MOL
 HC02220[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:51:28
-InChIKey=WHMOBEGYTDWMIG-HEGLNSLBSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:01:47
+InChIKey=WHMOBEGYTDWMIG-KOQGLQFUSA-L
  70 73  0  0  1  0  0  0  0  0999 V2000
    -7.0416   -0.7439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.5442   -0.8325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 NTD6l
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:22
+
 h2o[l] + damp[l] -> pi[l] + dad_2[l]
   2  2
 $MOL
 h2o[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 damp[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:24
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:45
 InChIKey=KHWCHTKSEGGWEX-RRKCRQDMSA-L
  34 36  0  0  1  0  0  0  0  0999 V2000
     4.0388    0.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  2  17  -1  18  -1
 M  END
 $MOL
 pi[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -111,7 +111,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 dad_2[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:09:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:20
 InChIKey=OLXZPDWKRNYJJZ-RRKCRQDMSA-N
  31 33  0  0  1  0  0  0  0  0999 V2000
     1.3849    1.1215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

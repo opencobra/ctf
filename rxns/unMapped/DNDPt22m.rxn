@@ -1,11 +1,11 @@
 $RXN
 DNDPt22m
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:06
+
 dtdp[c] + dudp[m] -> dtdp[m] + dudp[c]
   2  2
 $MOL
 dtdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:24
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:43:35
 InChIKey=UJLXYODCHAELLY-XLPZGREQSA-K
  38 39  0  0  1  0  0  0  0  0999 V2000
    -5.4478   -6.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ M  CHG  3  14  -1  16  -1  17  -1
 M  END
 $MOL
 dudp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:20:05
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:44:19
 InChIKey=QHWZTVCCBMIIKE-SHYZEUOFSA-K
  35 36  0  0  1  0  0  0  0  0999 V2000
    -6.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -167,7 +167,7 @@ M  CHG  3  13  -1  15  -1  16  -1
 M  END
 $MOL
 dtdp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:24
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:43:35
 InChIKey=UJLXYODCHAELLY-XLPZGREQSA-K
  38 39  0  0  1  0  0  0  0  0999 V2000
    -5.4478   -6.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -251,7 +251,7 @@ M  CHG  3  14  -1  16  -1  17  -1
 M  END
 $MOL
 dudp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:20:05
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:44:19
 InChIKey=QHWZTVCCBMIIKE-SHYZEUOFSA-K
  35 36  0  0  1  0  0  0  0  0999 V2000
    -6.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

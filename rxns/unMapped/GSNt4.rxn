@@ -1,11 +1,11 @@
 $RXN
 GSNt4
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:15
+
 na1[e] + gsn[e] -> na1[c] + gsn[c]
   2  2
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 gsn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:36:37
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:02:58
 InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
  33 35  0  0  1  0  0  0  0  0999 V2000
     5.5237    0.0909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -87,7 +87,7 @@ InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 gsn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:36:37
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:02:58
 InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
  33 35  0  0  1  0  0  0  0  0999 V2000
     5.5237    0.0909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

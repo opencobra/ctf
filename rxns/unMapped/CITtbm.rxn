@@ -1,11 +1,11 @@
 $RXN
 CITtbm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:01
+
 cit[c] + pep[m] -> pep[c] + cit[m]
   2  2
 $MOL
 cit[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:01
 InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
  18 17  0  0  0  0  0  0  0  0999 V2000
     1.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ M  CHG  3   8  -1  10  -1  12  -1
 M  END
 $MOL
 pep[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:16:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:17:20
 InChIKey=DTBNBXWJWCWCIK-UHFFFAOYSA-K
  12 11  0  0  0  0  0  0  0  0999 V2000
     1.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -77,7 +77,7 @@ M  CHG  3   5  -1   6  -1   7  -1
 M  END
 $MOL
 pep[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:16:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:17:20
 InChIKey=DTBNBXWJWCWCIK-UHFFFAOYSA-K
  12 11  0  0  0  0  0  0  0  0999 V2000
     1.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -107,7 +107,7 @@ M  CHG  3   5  -1   6  -1   7  -1
 M  END
 $MOL
 cit[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:01
 InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
  18 17  0  0  0  0  0  0  0  0999 V2000
     1.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

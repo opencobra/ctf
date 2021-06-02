@@ -1,11 +1,11 @@
 $RXN
 HMR_7119
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:09
+
 CN0020[e] -> CN0020[c]
   1  1
 $MOL
 CN0020[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:38:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:44:23
 InChIKey=ARSRBNBHOADGJU-UHFFFAOYSA-N
  36 39  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -86,7 +86,7 @@ InChIKey=ARSRBNBHOADGJU-UHFFFAOYSA-N
 M  END
 $MOL
 CN0020[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:38:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:44:23
 InChIKey=ARSRBNBHOADGJU-UHFFFAOYSA-N
  36 39  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

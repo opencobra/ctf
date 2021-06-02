@@ -1,12 +1,12 @@
 $RXN
 TXASr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:31
+
 prostgh2[r] -> txa2[r]
   1  1
 $MOL
 prostgh2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:22:53
-InChIKey=YIBNHAJFJUQSRA-YNNPMVKQSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:24:54
+InChIKey=YIBNHAJFJUQSRA-RVEIBMIBSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
     3.3878    0.9780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.3878   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ M  CHG  1  23  -1
 M  END
 $MOL
 txa2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:49:19
 InChIKey=DSNBHJFQCNUKMA-UJIKMVLPSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
     3.4829    1.0054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

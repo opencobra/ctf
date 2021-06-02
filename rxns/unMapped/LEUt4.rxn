@@ -1,11 +1,11 @@
 $RXN
 LEUt4
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:19
+
 na1[e] + leu_L[e] -> na1[c] + leu_L[c]
   2  2
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 leu_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:48:19
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -62,7 +62,7 @@ InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -70,7 +70,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:48:19
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

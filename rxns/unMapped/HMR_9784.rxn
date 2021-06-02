@@ -1,11 +1,11 @@
 $RXN
 HMR_9784
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:15
+
 nrvnc[l] -> nrvnc[c]
   1  1
 $MOL
 nrvnc[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:06
 InChIKey=GWHCXVQVJPWHRF-KTKRTIGZSA-M
  71 70  0  0  0  0  0  0  0  0999 V2000
    13.8564    9.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -153,7 +153,7 @@ M  CHG  1  26  -1
 M  END
 $MOL
 nrvnc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:06
 InChIKey=GWHCXVQVJPWHRF-KTKRTIGZSA-M
  71 70  0  0  0  0  0  0  0  0999 V2000
    13.8564    9.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 CARVEOLte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:00
+
 carveol[e] -> carveol[c]
   1  1
 $MOL
 carveol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:44
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:25:48
 InChIKey=BAVONGHXFVOKBV-ZJUUUORDSA-N
  27 27  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -65,7 +65,7 @@ InChIKey=BAVONGHXFVOKBV-ZJUUUORDSA-N
 M  END
 $MOL
 carveol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:44
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:25:48
 InChIKey=BAVONGHXFVOKBV-ZJUUUORDSA-N
  27 27  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

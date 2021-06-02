@@ -1,11 +1,11 @@
 $RXN
 HMR_1252
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:52
+
 CE6182[c] -> CE6182[r]
   1  1
 $MOL
 CE6182[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:29:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:34:01
 InChIKey=WLWKYZHFLKRKEU-WCOJVGLOSA-I
 132134  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -278,7 +278,7 @@ M  CHG  5  51  -1  53  -1  57  -1  58  -1  59  -1
 M  END
 $MOL
 CE6182[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:29:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:34:01
 InChIKey=WLWKYZHFLKRKEU-WCOJVGLOSA-I
 132134  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[Zn+2:1].[K+:2].[H+:3]>>[Zn+2:1].[K+:2].[H+:3]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{}
+

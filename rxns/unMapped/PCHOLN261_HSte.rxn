@@ -1,12 +1,12 @@
 $RXN
 PCHOLN261_HSte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:30
+
 pcholn261_hs[e] -> pcholn261_hs[c]
   1  1
 $MOL
 pcholn261_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:13:46
-InChIKey=HHNUOPXCCKOIPL-OCOZRVBESA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:10
+InChIKey=HHNUOPXCCKOIPL-UHFFFAOYSA-O
 112111  0  0  1  0  0  0  0  0999 V2000
   -21.5000  -14.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -193,7 +193,7 @@ InChIKey=HHNUOPXCCKOIPL-OCOZRVBESA-O
  23 24  1  0  0  0  0
  23 92  1  0  0  0  0
  23 93  1  0  0  0  0
- 24 25  2  0  0  0  0
+ 24 25  2  3  0  0  0
  24 94  1  0  0  0  0
  25 26  1  0  0  0  0
  25 95  1  0  0  0  0
@@ -235,8 +235,8 @@ M  CHG  1  35   1
 M  END
 $MOL
 pcholn261_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:13:46
-InChIKey=HHNUOPXCCKOIPL-OCOZRVBESA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:10
+InChIKey=HHNUOPXCCKOIPL-UHFFFAOYSA-O
 112111  0  0  1  0  0  0  0  0999 V2000
   -21.5000  -14.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -423,7 +423,7 @@ InChIKey=HHNUOPXCCKOIPL-OCOZRVBESA-O
  23 24  1  0  0  0  0
  23 92  1  0  0  0  0
  23 93  1  0  0  0  0
- 24 25  2  0  0  0  0
+ 24 25  2  3  0  0  0
  24 94  1  0  0  0  0
  25 26  1  0  0  0  0
  25 95  1  0  0  0  0

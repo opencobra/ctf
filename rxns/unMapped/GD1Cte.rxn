@@ -1,11 +1,11 @@
 $RXN
 GD1Cte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:13
+
 gd1c_hs[c] -> gd1c_hs[e]
   1  1
 $MOL
 gd1c_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:29:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:54:38
 
 224229  0  0  1  0  0  0  0  0999 V2000
     4.7007    2.4768    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -464,7 +464,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:29:46
 M  END
 $MOL
 gd1c_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:29:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:54:38
 
 224229  0  0  1  0  0  0  0  0999 V2000
     4.7007    2.4768    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

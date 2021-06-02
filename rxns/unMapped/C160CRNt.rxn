@@ -1,11 +1,11 @@
 $RXN
 C160CRNt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:58
+
 pmtcrn[c] -> pmtcrn[m]
   1  1
 $MOL
 pmtcrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:14
 InChIKey=XOMRRQXKHMYMOC-OAQYLSRUSA-N
  73 72  0  0  1  0  0  0  0  0999 V2000
    13.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -157,7 +157,7 @@ M  CHG  2  24   1  26  -1
 M  END
 $MOL
 pmtcrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:14
 InChIKey=XOMRRQXKHMYMOC-OAQYLSRUSA-N
  73 72  0  0  1  0  0  0  0  0999 V2000
    13.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

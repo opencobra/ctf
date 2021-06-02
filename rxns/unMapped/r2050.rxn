@@ -1,11 +1,11 @@
 $RXN
 r2050
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:47
+
 his_L[e] + pro_L[c] -> his_L[c] + pro_L[e]
   2  2
 $MOL
 his_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:08:32
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 pro_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:57
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
 M  END
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:08:32
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 pro_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:57
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

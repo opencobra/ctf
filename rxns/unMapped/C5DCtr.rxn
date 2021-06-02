@@ -1,11 +1,11 @@
 $RXN
 C5DCtr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:30
+
 c5dc[e] -> c5dc[c]
   1  1
 $MOL
 c5dc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:01:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:24:31
 InChIKey=NXJAXUYOQLTISD-VIFPVBQESA-N
  40 39  0  0  1  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ M  CHG  2  13   1  17  -1
 M  END
 $MOL
 c5dc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:01:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:24:31
 InChIKey=NXJAXUYOQLTISD-VIFPVBQESA-N
  40 39  0  0  1  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

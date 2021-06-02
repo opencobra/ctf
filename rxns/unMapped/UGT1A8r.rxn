@@ -1,11 +1,11 @@
 $RXN
 UGT1A8r
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
+
 estriol[r] + udpglcur[r] -> estriolglc[r] + udp[r]
   2  2
 $MOL
 estriol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:46:23
 InChIKey=PROQIPRRNZUXQM-ZXXIGWHRSA-N
  45 48  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -104,7 +104,7 @@ InChIKey=PROQIPRRNZUXQM-ZXXIGWHRSA-N
 M  END
 $MOL
 udpglcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:30
 InChIKey=HDYANYHVCAPMJV-LXQIFKJMSA-K
  56 58  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -225,7 +225,7 @@ M  CHG  3  18  -1  25  -1  27  -1
 M  END
 $MOL
 estriolglc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:46:28
 InChIKey=FQYGGFDZJFIDPU-JRSYHJKYSA-N
  65 69  0  0  1  0  0  0  0  0999 V2000
     0.8783   -0.5071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -365,7 +365,7 @@ InChIKey=FQYGGFDZJFIDPU-JRSYHJKYSA-N
 M  END
 $MOL
 udp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:09
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

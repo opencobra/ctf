@@ -1,11 +1,11 @@
 $RXN
 HMR_9647
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:14
+
 M03131[c] -> M03131[e]
   1  1
 $MOL
 M03131[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:40:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:01:54
 InChIKey=NWZYYCVIOKVTII-SFOWXEAESA-N
  15 14  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -40,7 +40,7 @@ InChIKey=NWZYYCVIOKVTII-SFOWXEAESA-N
 M  END
 $MOL
 M03131[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:40:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:01:54
 InChIKey=NWZYYCVIOKVTII-SFOWXEAESA-N
  15 14  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 3HIBUP_Rthv
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:17
+
 3hibup_R[c] -> 3hibup_R[e]
   1  1
 $MOL
 3hibup_R[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:19:50
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:30:13
 InChIKey=GSVPDLNMVPXACN-UHFFFAOYSA-M
  33 33  0  0  1  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -78,7 +78,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 3hibup_R[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:19:50
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:30:13
 InChIKey=GSVPDLNMVPXACN-UHFFFAOYSA-M
  33 33  0  0  1  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

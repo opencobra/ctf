@@ -1,11 +1,11 @@
 $RXN
 METHSUCCte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 methsucc[c] -> methsucc[e]
   1  1
 $MOL
 methsucc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:01:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:58:56
 InChIKey=WXUAQHNMJWJLTG-UHFFFAOYSA-L
  15 14  0  0  1  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ M  CHG  2   7  -1   9  -1
 M  END
 $MOL
 methsucc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:01:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:58:56
 InChIKey=WXUAQHNMJWJLTG-UHFFFAOYSA-L
  15 14  0  0  1  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

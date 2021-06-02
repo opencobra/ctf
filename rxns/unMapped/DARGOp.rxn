@@ -1,11 +1,11 @@
 $RXN
 DARGOp
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:04
+
 o2[x] + h2o[x] + arg_D[x] -> h2o2[x] + nh4[x] + 5g2oxpt[x]
   3  3
 $MOL
 o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:33
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25,7 +25,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 arg_D[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:28
 InChIKey=ODKSFYDXXFIFQN-SCSAIBSYSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 h2o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:20
 InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
 M  END
 $MOL
 nh4[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:14
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:04:53
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -114,7 +114,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 5g2oxpt[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:29:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:40:18
 InChIKey=ARBHXJXXVVHMET-UHFFFAOYSA-N
  23 22  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

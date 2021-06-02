@@ -1,11 +1,11 @@
 $RXN
 GP1CALPHAtg
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:15
+
 gp1calpha_hs[c] -> gp1calpha_hs[g]
   1  1
 $MOL
 gp1calpha_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:35:29
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:01:09
 
 298305  0  0  1  0  0  0  0  0999 V2000
     2.1660    0.1560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -614,7 +614,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:35:29
 M  END
 $MOL
 gp1calpha_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:35:29
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:01:09
 
 298305  0  0  1  0  0  0  0  0999 V2000
     2.1660    0.1560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

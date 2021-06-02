@@ -1,12 +1,12 @@
 $RXN
 RE1920C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:57
+
 amet[c] + CE5626[c] -> h[c] + ahcys[c] + CE5627[c]
   2  3
 $MOL
 amet[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:52:50
-InChIKey=MEFKEPWMEQBLKI-XCPQSEKJSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:15:06
+InChIKey=MEFKEPWMEQBLKI-AIRLBKTGSA-O
  50 52  0  0  1  0  0  0  0  0999 V2000
     2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.2891   -0.9659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MEFKEPWMEQBLKI-XCPQSEKJSA-O
     1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.9941   -1.0477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7916    2.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.9582   -1.7091    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.9582   -1.7091    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     0.9945    0.1045    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -2.9941    0.9523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.2024    1.0827    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -80,7 +80,7 @@ InChIKey=MEFKEPWMEQBLKI-XCPQSEKJSA-O
   6 38  1  0  0  0  0
   7 15  1  0  0  0  0
   7 16  1  0  0  0  0
-  7 39  1  6  0  0  0
+  7 39  1  1  0  0  0
   8  4  1  0  0  0  0
   8 10  1  0  0  0  0
   8 26  1  0  0  0  0
@@ -114,8 +114,8 @@ M  CHG  1  27   1
 M  END
 $MOL
 CE5626[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:17:05
-InChIKey=XHGLVMDBZZZXDP-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:24:55
+InChIKey=XHGLVMDBZZZXDP-NSHDSACASA-N
  29 30  0  0  1  0  0  0  0  0999 V2000
     0.1501    1.1400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8179   -1.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -127,7 +127,7 @@ InChIKey=XHGLVMDBZZZXDP-UHFFFAOYSA-N
     3.2717   -0.9444    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.2717    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5630    1.1951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8179    0.4722    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    0.8179    0.4722    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     4.0896   -1.4167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.0896    0.4722    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,6 @@ InChIKey=XHGLVMDBZZZXDP-UHFFFAOYSA-N
     4.0895   -2.3537    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.9011    0.0037    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     3.5520    2.4899    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-  1 11  1  0  0  0  0
   1 17  1  0  0  0  0
   1 18  1  0  0  0  0
   1 19  1  0  0  0  0
@@ -168,9 +167,10 @@ InChIKey=XHGLVMDBZZZXDP-UHFFFAOYSA-N
   8  9  2  0  0  0  0
   8 13  1  0  0  0  0
   9 14  1  0  0  0  0
- 10 11  1  0  0  0  0
  10 15  2  0  0  0  0
  10 16  1  0  0  0  0
+ 11 10  1  6  0  0  0
+ 11  1  1  0  0  0  0
  11 12  1  0  0  0  0
  12 26  1  0  0  0  0
  13 27  1  0  0  0  0
@@ -179,15 +179,16 @@ InChIKey=XHGLVMDBZZZXDP-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 ahcys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:49:33
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:11:39
 InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
  46 48  0  0  1  0  0  0  0  0999 V2000
    -3.9290    0.7283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -287,7 +288,7 @@ InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
 M  END
 $MOL
 CE5627[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:17:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:25:00
 InChIKey=CJEFWISJWQNPSZ-GFCCVEGCSA-N
  32 33  0  0  1  0  0  0  0  0999 V2000
     0.1506    1.1436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

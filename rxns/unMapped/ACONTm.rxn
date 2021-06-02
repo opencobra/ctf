@@ -1,11 +1,11 @@
 $RXN
 ACONTm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:53
+
 cit[m] -> icit[m]
   1  1
 $MOL
 cit[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:01
 InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
  18 17  0  0  0  0  0  0  0  0999 V2000
     1.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ M  CHG  3   8  -1  10  -1  12  -1
 M  END
 $MOL
 icit[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:44:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:38:44
 InChIKey=ODBLHEXUDAPZAU-UHFFFAOYSA-K
  18 17  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

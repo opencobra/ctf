@@ -1,11 +1,11 @@
 $RXN
 FBA5
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:10
+
 tag1p_D[c] -> dhap[c] + glyald[c]
   1  2
 $MOL
 tag1p_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:32:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:37:15
 InChIKey=ZKLLSNQJRLJIGT-LFRDXLMFSA-L
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.0000    1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -65,7 +65,7 @@ M  CHG  2  12  -1  13  -1
 M  END
 $MOL
 dhap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:04
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:37:31
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -101,7 +101,7 @@ M  CHG  2   6  -1   7  -1
 M  END
 $MOL
 glyald[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:58:45
 InChIKey=MNQZXJOMYWMBOU-VKHMYHEASA-N
  12 11  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

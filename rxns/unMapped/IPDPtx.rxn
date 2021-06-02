@@ -1,11 +1,11 @@
 $RXN
 IPDPtx
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:18
+
 ipdp[x] -> ipdp[c]
   1  1
 $MOL
 ipdp[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:46:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:41:38
 InChIKey=NUHSROFQTUXZQQ-UHFFFAOYSA-K
  23 22  0  0  0  0  0  0  0  0999 V2000
    -2.5000    0.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ M  CHG  3   6  -1   7  -1   9  -1
 M  END
 $MOL
 ipdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:46:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:41:38
 InChIKey=NUHSROFQTUXZQQ-UHFFFAOYSA-K
  23 22  0  0  0  0  0  0  0  0999 V2000
    -2.5000    0.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

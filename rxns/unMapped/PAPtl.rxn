@@ -1,11 +1,11 @@
 $RXN
 PAPtl
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:44
+
 pap[l] -> pap[c]
   1  1
 $MOL
 pap[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:11:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:11:27
 InChIKey=WHTCPDAXWFLDIH-KQYNXXCUSA-J
  38 40  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -90,7 +90,7 @@ M  CHG  4  17  -1  18  -1  20  -1  21  -1
 M  END
 $MOL
 pap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:11:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:11:27
 InChIKey=WHTCPDAXWFLDIH-KQYNXXCUSA-J
  38 40  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

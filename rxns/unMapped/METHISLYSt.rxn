@@ -1,20 +1,21 @@
 $RXN
 METHISLYSt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:25
+
 h[e] + methislys[e] -> h[c] + methislys[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 methislys[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:01:54
-InChIKey=DYTWOWJWJCBFLE-MELADBBJSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:58:50
+InChIKey=DYTWOWJWJCBFLE-MCIONIFRSA-O
  59 59  0  0  1  0  0  0  0  0999 V2000
    -2.2232   -5.9097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.3179    2.7031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,9 +28,9 @@ InChIKey=DYTWOWJWJCBFLE-MELADBBJSA-O
     1.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8090    0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.4434   -3.1691    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -1.4990    0.9806    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -1.2733   -1.6555    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.4434   -3.1691    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4990    0.9806    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2733   -1.6555    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -2.8556   -2.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.6800   -0.7420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.4935    1.0851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -110,15 +111,15 @@ InChIKey=DYTWOWJWJCBFLE-MELADBBJSA-O
  11 21  1  0  0  0  0
  12 15  1  0  0  0  0
  12 19  1  0  0  0  0
- 12 48  1  1  0  0  0
+ 12 48  1  6  0  0  0
  13  4  1  0  0  0  0
  13 17  1  0  0  0  0
  13 22  1  0  0  0  0
- 13 49  1  1  0  0  0
+ 13 49  1  6  0  0  0
  14  8  1  0  0  0  0
  14 16  1  0  0  0  0
  14 23  1  0  0  0  0
- 14 50  1  6  0  0  0
+ 14 50  1  1  0  0  0
  15 23  2  3  0  0  0
  15 24  1  0  0  0  0
  16 22  2  3  0  0  0
@@ -138,16 +139,17 @@ M  CHG  1  18   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 methislys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:01:54
-InChIKey=DYTWOWJWJCBFLE-MELADBBJSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:58:50
+InChIKey=DYTWOWJWJCBFLE-MCIONIFRSA-O
  59 59  0  0  1  0  0  0  0  0999 V2000
    -2.2232   -5.9097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.3179    2.7031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -160,9 +162,9 @@ InChIKey=DYTWOWJWJCBFLE-MELADBBJSA-O
     1.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8090    0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.4434   -3.1691    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -1.4990    0.9806    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -1.2733   -1.6555    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.4434   -3.1691    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4990    0.9806    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2733   -1.6555    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -2.8556   -2.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.6800   -0.7420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.4935    1.0851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -243,15 +245,15 @@ InChIKey=DYTWOWJWJCBFLE-MELADBBJSA-O
  11 21  1  0  0  0  0
  12 15  1  0  0  0  0
  12 19  1  0  0  0  0
- 12 48  1  1  0  0  0
+ 12 48  1  6  0  0  0
  13  4  1  0  0  0  0
  13 17  1  0  0  0  0
  13 22  1  0  0  0  0
- 13 49  1  1  0  0  0
+ 13 49  1  6  0  0  0
  14  8  1  0  0  0  0
  14 16  1  0  0  0  0
  14 23  1  0  0  0  0
- 14 50  1  6  0  0  0
+ 14 50  1  1  0  0  0
  15 23  2  3  0  0  0
  15 24  1  0  0  0  0
  16 22  2  3  0  0  0

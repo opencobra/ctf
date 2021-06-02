@@ -1,11 +1,11 @@
 $RXN
 PELINETH
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:22
+
 h2o[e] + pelinl_hs[e] -> pa_hs[e] + lineth[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,8 +16,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pelinl_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:16:05
-InChIKey=DBHKHNGBVGWQJE-AVQMFFATSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:16:59
+InChIKey=DBHKHNGBVGWQJE-UHFFFAOYSA-N
  76 75  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    15.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -111,14 +111,14 @@ InChIKey=DBHKHNGBVGWQJE-AVQMFFATSA-N
   5  6  1  0  0  0  0
   5 42  1  0  0  0  0
   5 43  1  0  0  0  0
-  6  7  2  0  0  0  0
+  6  7  2  3  0  0  0
   6 44  1  0  0  0  0
   7  8  1  0  0  0  0
   7 45  1  0  0  0  0
   8  9  1  0  0  0  0
   8 46  1  0  0  0  0
   8 47  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 48  1  0  0  0  0
  10 11  1  0  0  0  0
  10 49  1  0  0  0  0
@@ -173,7 +173,7 @@ InChIKey=DBHKHNGBVGWQJE-AVQMFFATSA-N
 M  END
 $MOL
 pa_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:10:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:46
 
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -3.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -221,7 +221,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 lineth[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:55:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:50:50
 InChIKey=KQXDGUVSAAQARU-HZJYTTRNSA-N
  60 59  0  0  0  0  0  0  0  0999 V2000
    10.3923   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

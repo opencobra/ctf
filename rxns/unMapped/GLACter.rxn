@@ -1,11 +1,11 @@
 $RXN
 GLACter
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:14
+
 glac[c] -> glac[r]
   1  1
 $MOL
 glac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:55:43
 InChIKey=UYUXSRADSPPKRZ-SKNVOMKLSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ InChIKey=UYUXSRADSPPKRZ-SKNVOMKLSA-N
 M  END
 $MOL
 glac[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:55:43
 InChIKey=UYUXSRADSPPKRZ-SKNVOMKLSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 PHEMEt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:17
+
 pheme[e] -> pheme[c]
   1  1
 $MOL
 pheme[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:18:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:19:14
 InChIKey=KABFMIBPWCXCRK-RGGAHWMASA-L
  75 78  0  0  0  0  0  0  0  0999 V2000
     7.8977   -7.1017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ M  CHG  3  35  -1  40  -1  43   2
 M  END
 $MOL
 pheme[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:18:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:19:14
 InChIKey=KABFMIBPWCXCRK-RGGAHWMASA-L
  75 78  0  0  0  0  0  0  0  0999 V2000
     7.8977   -7.1017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

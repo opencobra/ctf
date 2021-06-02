@@ -1,11 +1,11 @@
 $RXN
 B_MANNASEly
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:57
+
 h2o[l] + mn[l] -> man[l] + acgam[l]
   2  2
 $MOL
 h2o[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 mn[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:01:27
 InChIKey=KFEUJDWYNGMDBV-MMOUBBDDSA-N
  51 52  0  0  1  0  0  0  0  0999 V2000
     3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ InChIKey=KFEUJDWYNGMDBV-MMOUBBDDSA-N
 M  END
 $MOL
 man[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:00:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:57:00
 InChIKey=WQZGKKKJIJFFOK-QTVWNMPRSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -179,7 +179,7 @@ InChIKey=WQZGKKKJIJFFOK-QTVWNMPRSA-N
 M  END
 $MOL
 acgam[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:45:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:07:13
 InChIKey=OVRNDRQMDRJTHS-RTRLPJTCSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 MEOHtly
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:20
+
 meoh[c] -> meoh[l]
   1  1
 $MOL
 meoh[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:00:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:57:33
 InChIKey=OKKJLVBELUTLKV-UHFFFAOYSA-N
   6  5  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22,7 +22,7 @@ InChIKey=OKKJLVBELUTLKV-UHFFFAOYSA-N
 M  END
 $MOL
 meoh[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:00:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:57:33
 InChIKey=OKKJLVBELUTLKV-UHFFFAOYSA-N
   6  5  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 34DHPHAte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:41
+
 34dhpha[c] -> 34dhpha[e]
   1  1
 $MOL
 34dhpha[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:16:39
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:27:00
 InChIKey=CFFZDZCDUFSOFZ-UHFFFAOYSA-M
  19 19  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 34dhpha[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:16:39
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:27:00
 InChIKey=CFFZDZCDUFSOFZ-UHFFFAOYSA-M
  19 19  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

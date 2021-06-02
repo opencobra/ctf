@@ -1,11 +1,11 @@
 $RXN
 r0818
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:36
+
 dump[m] -> dump[c]
   1  1
 $MOL
 dump[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:20:10
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:44:24
 InChIKey=JSRLJPSBLDHEIO-SHYZEUOFSA-L
  31 32  0  0  1  0  0  0  0  0999 V2000
     6.5704    2.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ M  CHG  2  13  -1  15  -1
 M  END
 $MOL
 dump[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:20:10
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:44:24
 InChIKey=JSRLJPSBLDHEIO-SHYZEUOFSA-L
  31 32  0  0  1  0  0  0  0  0999 V2000
     6.5704    2.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

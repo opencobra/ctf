@@ -1,11 +1,11 @@
 $RXN
 RE2898C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:00
+
 C01041[c] -> dhdascb[c]
   1  1
 $MOL
 C01041[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:34:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:44:41
 InChIKey=LHFJOBMTAJJOTB-JLAZNSOCSA-M
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -49,7 +49,7 @@ M  CHG  1  10  -1
 M  END
 $MOL
 dhdascb[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:38:00
 InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

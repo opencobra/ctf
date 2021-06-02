@@ -1,11 +1,11 @@
 $RXN
 RE1834M
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:56
+
 h2o[m] + cholcoa[m] -> h[m] + coa[m] + cholate[m]
   2  3
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,8 +16,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cholcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:10
-InChIKey=ZKWNOTQHFKYUNU-JGCIYWTLSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:17
+InChIKey=ZKWNOTQHFKYUNU-KFHDXJTJSA-J
 146152  0  0  1  0  0  0  0  0999 V2000
    -1.8061   -4.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.1721    2.9724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -321,15 +321,16 @@ M  CHG  4  56  -1  60  -1  61  -1  62  -1
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:04
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:16
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -498,8 +499,8 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 cholate[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:06
-InChIKey=BHQCQFFYRZLCQQ-OELDTZBJSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:12
+InChIKey=BHQCQFFYRZLCQQ-YVVWZQNDSA-M
  68 71  0  0  1  0  0  0  0  0999 V2000
    -0.0014    1.9454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5293   -0.4500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

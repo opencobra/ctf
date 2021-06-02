@@ -1,11 +1,11 @@
 $RXN
 CRTNsyn
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:02
+
 pcreat[c] -> pi[c] + crtn[c]
   1  2
 $MOL
 pcreat[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:14:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:58
 InChIKey=DRBBFCLWYRJSJZ-UHFFFAOYSA-L
  21 20  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  2   9  -1  10  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 crtn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:11
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:37
 InChIKey=DDRJAANPRJIHGJ-UHFFFAOYSA-N
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.9511   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

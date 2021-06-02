@@ -1,11 +1,11 @@
 $RXN
 ARGSS
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:57
+
 atp[c] + asp_L[c] + citr_L[c] -> h[c] + amp[c] + ppi[c] + argsuc[c]
   3  4
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:21
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:18
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 asp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:57:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:20:14
 InChIKey=CKLJMWTZIZZHCS-REOHCLBHSA-M
  15 14  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -136,7 +136,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 citr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:11
 InChIKey=RHGKLRLOHDJJDR-BYPYZUCNSA-N
  25 24  0  0  1  0  0  0  0  0999 V2000
    -2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -191,15 +191,16 @@ InChIKey=RHGKLRLOHDJJDR-BYPYZUCNSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 amp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:52:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:15:15
 InChIKey=UDMBCSSLTHHNCD-KQYNXXCUSA-L
  35 37  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -278,7 +279,7 @@ M  CHG  2  18  -1  19  -1
 M  END
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:40
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -304,15 +305,15 @@ M  CHG  3   1  -1   2  -1   4  -1
 M  END
 $MOL
 argsuc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:21
-InChIKey=KDZOASGQNOPSCU-WDSKDSINSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:19:05
+InChIKey=KDZOASGQNOPSCU-ZBHICJROSA-M
  37 36  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981    1.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -0.8660    0.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8660    0.5000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
    -2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -334,7 +335,7 @@ InChIKey=KDZOASGQNOPSCU-WDSKDSINSA-M
     2.6587   -1.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -2.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321   -1.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.8055   -0.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6588   -0.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     3.5248    0.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7926    1.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.3475    1.4900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -354,16 +355,16 @@ InChIKey=KDZOASGQNOPSCU-WDSKDSINSA-M
   3 13  1  0  0  0  0
   3 25  1  0  0  0  0
   3 26  1  0  0  0  0
+  4  6  1  0  0  0  0
   4  7  1  0  0  0  0
   4 27  1  0  0  0  0
   4 28  1  0  0  0  0
   5  8  1  0  0  0  0
   5 11  1  0  0  0  0
   5 29  1  6  0  0  0
-  6  4  1  0  0  0  0
   6  9  1  0  0  0  0
   6 14  1  0  0  0  0
-  6 30  1  6  0  0  0
+  6 30  1  0  0  0  0
   7 15  2  0  0  0  0
   7 16  1  0  0  0  0
   8 17  2  0  0  0  0

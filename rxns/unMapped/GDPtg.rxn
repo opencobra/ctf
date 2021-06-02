@@ -1,11 +1,11 @@
 $RXN
 GDPtg
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:13
+
 gdp[c] -> gdp[g]
   1  1
 $MOL
 gdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:55:13
 InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K
  40 42  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -1.1340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -94,7 +94,7 @@ M  CHG  3  18  -1  19  -1  20  -1
 M  END
 $MOL
 gdp[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:55:13
 InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K
  40 42  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -1.1340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

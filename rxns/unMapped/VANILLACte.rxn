@@ -1,11 +1,11 @@
 $RXN
 VANILLACte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 vanillac[c] -> vanillac[e]
   1  1
 $MOL
 vanillac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:46:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:53:59
 InChIKey=SVYIZYRTOYHQRE-UHFFFAOYSA-M
  26 26  0  0  1  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -64,7 +64,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 vanillac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:46:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:53:59
 InChIKey=SVYIZYRTOYHQRE-UHFFFAOYSA-M
  26 26  0  0  1  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

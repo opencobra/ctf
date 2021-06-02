@@ -1,11 +1,11 @@
 $RXN
 r2128
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:48
+
 retn[c] + lac_L[e] -> retn[e] + lac_L[c]
   2  2
 $MOL
 retn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:26:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:28:38
 InChIKey=SHGAZHPCJJPHSC-YCNIQYBTSA-M
  49 49  0  0  0  0  0  0  0  0999 V2000
     0.8660    3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -110,7 +110,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 lac_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:05
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:47:53
 InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M
  11 10  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -138,7 +138,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 retn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:26:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:28:38
 InChIKey=SHGAZHPCJJPHSC-YCNIQYBTSA-M
  49 49  0  0  0  0  0  0  0  0999 V2000
     0.8660    3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -243,7 +243,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 lac_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:05
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:47:53
 InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M
  11 10  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

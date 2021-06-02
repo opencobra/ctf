@@ -1,11 +1,11 @@
 $RXN
 MALtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:20
+
 pi[m] + mal_L[c] -> pi[c] + mal_L[m]
   2  2
 $MOL
 pi[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -23,7 +23,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 mal_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:59:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:56:19
 InChIKey=BJEPYKJPYRNKOW-REOHCLBHSA-L
  13 12  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -55,7 +55,7 @@ M  CHG  2   7  -1   9  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 mal_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:59:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:56:19
 InChIKey=BJEPYKJPYRNKOW-REOHCLBHSA-L
  13 12  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

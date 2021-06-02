@@ -1,11 +1,11 @@
 $RXN
 PRGNLONEtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:26
+
 prgnlone[c] -> prgnlone[m]
   1  1
 $MOL
 prgnlone[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:21
 InChIKey=ORNBQBCIOKFOEO-QGVNFLHTSA-N
  55 58  0  0  1  0  0  0  0  0999 V2000
    -2.7893    3.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -124,7 +124,7 @@ InChIKey=ORNBQBCIOKFOEO-QGVNFLHTSA-N
 M  END
 $MOL
 prgnlone[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:21
 InChIKey=ORNBQBCIOKFOEO-QGVNFLHTSA-N
  55 58  0  0  1  0  0  0  0  0999 V2000
    -2.7893    3.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

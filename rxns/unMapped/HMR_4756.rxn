@@ -1,11 +1,11 @@
 $RXN
 HMR_4756
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:05
+
 ppp9[c] -> ppp9[m]
   1  1
 $MOL
 ppp9[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:00
 InChIKey=KSFOVUSSGSKXFI-UJJXFSCMSA-L
  74 78  0  0  0  0  0  0  0  0999 V2000
     4.2696   -2.0790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -164,7 +164,7 @@ M  CHG  2  40  -1  42  -1
 M  END
 $MOL
 ppp9[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:00
 InChIKey=KSFOVUSSGSKXFI-UJJXFSCMSA-L
  74 78  0  0  0  0  0  0  0  0999 V2000
     4.2696   -2.0790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 RE3515C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:08
+
 C08276[c] -> ch4s[c] + acryl[c]
   1  2
 $MOL
 C08276[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:38:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:49:01
 InChIKey=CAOMCZAIALVUPA-UHFFFAOYSA-M
  14 13  0  0  0  0  0  0  0  0999 V2000
     3.4641   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 ch4s[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:48
 InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N
   6  5  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -56,7 +56,7 @@ InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N
 M  END
 $MOL
 acryl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:47:43
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:09:38
 InChIKey=NIXOWILDQLNWCW-UHFFFAOYSA-M
   8  7  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

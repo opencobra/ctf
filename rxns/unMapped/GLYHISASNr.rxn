@@ -1,11 +1,11 @@
 $RXN
 GLYHISASNr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:27
+
 2 h2o[c] + glyhisasn[c] -> asn_L[c] + gly[c] + his_L[c]
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 glyhisasn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:59:24
 InChIKey=AYBKPDHHVADEDA-JGVFFNPUSA-N
  41 41  0  0  1  0  0  0  0  0999 V2000
    -1.2601   -1.2601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -115,7 +115,7 @@ InChIKey=AYBKPDHHVADEDA-JGVFFNPUSA-N
 M  END
 $MOL
 asn_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:43
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:19:30
 InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -154,7 +154,7 @@ InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N
 M  END
 $MOL
 gly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:21
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:58:39
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -179,7 +179,7 @@ InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
 M  END
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:08:32
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

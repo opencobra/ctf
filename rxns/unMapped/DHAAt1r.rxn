@@ -1,11 +1,11 @@
 $RXN
 DHAAt1r
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:05
+
 dhdascb[e] -> dhdascb[c]
   1  1
 $MOL
 dhdascb[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:38:00
 InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
 M  END
 $MOL
 dhdascb[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:38:00
 InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

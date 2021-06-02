@@ -1,11 +1,11 @@
 $RXN
 SLDtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:44
+
 sl_L[c] -> sl_L[m]
   1  1
 $MOL
 sl_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:11
 InChIKey=CQQGIWJSICOUON-UWTATZPHSA-L
  14 13  0  0  1  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  2   6  -1   7  -1
 M  END
 $MOL
 sl_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:11
 InChIKey=CQQGIWJSICOUON-UWTATZPHSA-L
  14 13  0  0  1  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

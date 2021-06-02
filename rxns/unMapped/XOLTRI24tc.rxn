@@ -1,11 +1,11 @@
 $RXN
 XOLTRI24tc
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
+
 xoltri24[r] -> xoltri24[c]
   1  1
 $MOL
 xoltri24[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:56:42
 InChIKey=ZNCHPOYZMVVJCK-LIZWOPGQSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -5.5866    2.9223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -166,7 +166,7 @@ InChIKey=ZNCHPOYZMVVJCK-LIZWOPGQSA-N
 M  END
 $MOL
 xoltri24[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:56:42
 InChIKey=ZNCHPOYZMVVJCK-LIZWOPGQSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -5.5866    2.9223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,6 +1,6 @@
 leualaarg
-COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 10:35:24
-InChIKey=LJHGALIOHLRRQN-GMTAPVOTSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:48:24
+InChIKey=LJHGALIOHLRRQN-HBNTYKKESA-O
  56 55  0  0  1  0  0  0  0  0999 V2000
     9.5263   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    10.3923   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -10,7 +10,7 @@ InChIKey=LJHGALIOHLRRQN-GMTAPVOTSA-O
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.6603   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     9.5263   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    6.0622    0.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0622    0.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     7.7942   -1.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     3.4641    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     5.1962    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -86,7 +86,7 @@ InChIKey=LJHGALIOHLRRQN-GMTAPVOTSA-O
   9  3  1  0  0  0  0
   9 12  1  0  0  0  0
   9 20  1  0  0  0  0
-  9 44  1  6  0  0  0
+  9 44  1  1  0  0  0
  10 13  1  0  0  0  0
  10 16  1  0  0  0  0
  10 45  1  6  0  0  0

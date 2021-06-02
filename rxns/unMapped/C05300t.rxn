@@ -1,11 +1,11 @@
 $RXN
 C05300t
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:23
+
 C05300[c] -> C05300[e]
   1  1
 $MOL
 C05300[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:36:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:47:32
 InChIKey=WPOCIZJTELRQMF-QFXBJFAPSA-N
  43 46  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ InChIKey=WPOCIZJTELRQMF-QFXBJFAPSA-N
 M  END
 $MOL
 C05300[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:36:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:47:32
 InChIKey=WPOCIZJTELRQMF-QFXBJFAPSA-N
  43 46  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

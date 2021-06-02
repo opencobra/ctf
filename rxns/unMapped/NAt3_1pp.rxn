@@ -1,0 +1,39 @@
+$RXN
+NAt3_1pp
+
+h[p] + na1[c] -> h[c] + na1[p]
+  2  2
+$MOL
+h[p]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
+M  CHG  1   1   1
+M  END
+$MOL
+na1[c]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+h[c]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
+M  CHG  1   1   1
+M  END
+$MOL
+na1[p]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END

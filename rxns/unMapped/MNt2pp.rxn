@@ -1,0 +1,39 @@
+$RXN
+MNt2pp
+
+h[p] + mn2[p] -> h[c] + mn2[c]
+  2  2
+$MOL
+h[p]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
+M  CHG  1   1   1
+M  END
+$MOL
+mn2[p]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 23:05:33
+InChIKey=WAEMQWOKJMHJLA-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Mn  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+h[c]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
+M  CHG  1   1   1
+M  END
+$MOL
+mn2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 23:05:33
+InChIKey=WAEMQWOKJMHJLA-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Mn  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END

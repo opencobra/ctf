@@ -1,11 +1,11 @@
 $RXN
 HMR_0167
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:45
+
 caproic[e] -> caproic[c]
   1  1
 $MOL
 caproic[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:25:15
 InChIKey=FUZZWVXGSFPDMH-UHFFFAOYSA-M
  19 18  0  0  0  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -49,7 +49,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 caproic[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:25:15
 InChIKey=FUZZWVXGSFPDMH-UHFFFAOYSA-M
  19 18  0  0  0  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

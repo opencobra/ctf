@@ -1,11 +1,11 @@
 $RXN
 HMR_6439
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
+
 M01938[e] -> M01938[c]
   1  1
 $MOL
 M01938[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:25:54
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:45:08
 InChIKey=OTXNTMVVOOBZCV-WAZJVIJMSA-N
  72 73  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -156,7 +156,7 @@ InChIKey=OTXNTMVVOOBZCV-WAZJVIJMSA-N
 M  END
 $MOL
 M01938[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:25:54
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:45:08
 InChIKey=OTXNTMVVOOBZCV-WAZJVIJMSA-N
  72 73  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 G14T18g
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:12
+
 2 udpgal[g] + core4[g] -> 2 h[g] + 2 udp[g] + ksii_core4_pre1[g]
   3  5
 $MOL
 udpgal[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:25
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,7 +130,7 @@ M  CHG  2  19  -1  26  -1
 M  END
 $MOL
 udpgal[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:25
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -255,7 +255,7 @@ M  CHG  2  19  -1  26  -1
 M  END
 $MOL
 core4[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:40
 
  83 85  0  0  1  0  0  0  0  0999 V2000
     0.8660   -2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -429,23 +429,25 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:22
 M  END
 $MOL
 h[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 h[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 udp[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:09
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -525,7 +527,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 udp[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:09
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -605,7 +607,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 ksii_core4_pre1[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:51:15
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:45:46
 InChIKey=CCGSPUKFYNOQAN-BKGCPCPPSA-L
 114117  0  0  1  0  0  0  0  0999 V2000
    -5.1962    6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

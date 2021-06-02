@@ -1,11 +1,11 @@
 $RXN
 MTRI
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:36
+
 5mdr1p[c] -> 5mdru1p[c]
   1  1
 $MOL
 5mdr1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:30:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:40:53
 InChIKey=JTFITTQBRJDSTL-KVTDHHQDSA-L
  26 26  0  0  1  0  0  0  0  0999 V2000
    -3.9377   -2.9115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -64,7 +64,7 @@ M  CHG  2   9  -1  10  -1
 M  END
 $MOL
 5mdru1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:30:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:40:57
 InChIKey=CNSJRYUMVMWNMC-RITPCOANSA-L
  26 25  0  0  1  0  0  0  0  0999 V2000
     4.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

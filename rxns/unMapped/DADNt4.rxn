@@ -1,11 +1,11 @@
 $RXN
 DADNt4
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:04
+
 dad_2[e] -> dad_2[c]
   1  1
 $MOL
 dad_2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:09:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:20
 InChIKey=OLXZPDWKRNYJJZ-RRKCRQDMSA-N
  31 33  0  0  1  0  0  0  0  0999 V2000
     1.3849    1.1215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ InChIKey=OLXZPDWKRNYJJZ-RRKCRQDMSA-N
 M  END
 $MOL
 dad_2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:09:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:20
 InChIKey=OLXZPDWKRNYJJZ-RRKCRQDMSA-N
  31 33  0  0  1  0  0  0  0  0999 V2000
     1.3849    1.1215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

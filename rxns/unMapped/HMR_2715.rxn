@@ -1,11 +1,11 @@
 $RXN
 HMR_2715
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:57
+
 crn[m] + strdnccrn[c] -> crn[c] + strdnccrn[m]
   2  2
 $MOL
 crn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:28
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +63,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 strdnccrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:31:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:36:10
 InChIKey=UQCYGYDOQKYSDD-IIWKRHCOSA-N
  71 70  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -7.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -211,7 +211,7 @@ M  CHG  2  26   1  28  -1
 M  END
 $MOL
 crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:28
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -269,7 +269,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 strdnccrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:31:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:36:10
 InChIKey=UQCYGYDOQKYSDD-IIWKRHCOSA-N
  71 70  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -7.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

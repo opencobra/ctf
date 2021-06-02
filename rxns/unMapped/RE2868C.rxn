@@ -1,19 +1,20 @@
 $RXN
 RE2868C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:00
+
 h[c] + ascb_L[c] + CE6446[c] -> h2o[c] + dhdascb[c] + CE6456[c]
   3  3
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 ascb_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:39
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:19:25
 InChIKey=CIWBSHSKHKDKBQ-JLAZNSOCSA-M
  19 19  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,8 +59,8 @@ M  CHG  1   9  -1
 M  END
 $MOL
 CE6446[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:34:08
-InChIKey=KTZHAQYYTVLGSR-UEVYIUMPSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:37:51
+InChIKey=KTZHAQYYTVLGSR-GLDRWDLPSA-M
  59 60  0  0  1  0  0  0  0  0999 V2000
    -1.1337   -7.8200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.1337   -7.8200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -78,8 +79,8 @@ InChIKey=KTZHAQYYTVLGSR-UEVYIUMPSA-M
     1.6978   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7973    4.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.1337    0.8402    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
-   -1.1337    2.5723    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -0.1391    2.6768    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1337    2.5723    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1391    2.6768    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -1.5404    3.4858    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     0.0688    3.6550    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     0.8489    0.4901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -167,10 +168,10 @@ InChIKey=KTZHAQYYTVLGSR-UEVYIUMPSA-M
  18 13  1  0  0  0  0
  18 19  1  0  0  0  0
  18 20  1  0  0  0  0
- 18 55  1  1  0  0  0
+ 18 55  1  6  0  0  0
  19 14  1  0  0  0  0
  19 21  1  0  0  0  0
- 19 56  1  1  0  0  0
+ 19 56  1  6  0  0  0
  20 27  1  0  0  0  0
  20 57  1  0  0  0  0
  21 28  1  0  0  0  0
@@ -184,7 +185,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -195,7 +196,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dhdascb[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:38:00
 InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -237,8 +238,8 @@ InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
 M  END
 $MOL
 CE6456[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:34:53
-InChIKey=SNNNEKANAIMPFW-IIEKJZTOSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:38:37
+InChIKey=SNNNEKANAIMPFW-JCYWGAGHSA-M
  58 58  0  0  1  0  0  0  0  0999 V2000
    -2.1215   -5.2976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.1160   -5.4021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -257,8 +258,8 @@ InChIKey=SNNNEKANAIMPFW-IIEKJZTOSA-M
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8090   -0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.2688   -4.0704    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
-    0.5000   -1.5388    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    0.8090   -0.5878    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5000   -1.5388    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8090   -0.5878    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.5000   -1.5388    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.9190    1.0084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -345,10 +346,10 @@ InChIKey=SNNNEKANAIMPFW-IIEKJZTOSA-M
  18 13  1  0  0  0  0
  18 19  1  0  0  0  0
  18 20  1  0  0  0  0
- 18 54  1  1  0  0  0
+ 18 54  1  6  0  0  0
  19 14  1  0  0  0  0
  19 21  1  0  0  0  0
- 19 55  1  1  0  0  0
+ 19 55  1  6  0  0  0
  20 24  1  0  0  0  0
  20 56  1  0  0  0  0
  21 25  2  0  0  0  0

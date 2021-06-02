@@ -1,11 +1,11 @@
 $RXN
 GLNLYSLYSr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:27
+
 2 h2o[c] + glnlyslys[c] -> gln_L[c] + 2 lys_L[c]
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 glnlyslys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:31:29
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:56:41
 InChIKey=JRHPEMVLTRADLJ-AVGNSLFASA-P
  64 63  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -161,7 +161,7 @@ M  CHG  2  18   1  19   1
 M  END
 $MOL
 gln_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:31:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:56:22
 InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -206,7 +206,7 @@ InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
 M  END
 $MOL
 lys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:49
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:57
 InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -262,7 +262,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 lys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:49
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:57
 InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

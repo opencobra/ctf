@@ -1,11 +1,11 @@
 $RXN
 HMR_6672
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:16
+
 retinal_cis_13[c] -> retinal[c]
   1  1
 $MOL
 retinal_cis_13[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:25:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:28:06
 InChIKey=NCYCYZXNIZJOKI-HWCYFHEPSA-N
  49 49  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,7 +109,7 @@ InChIKey=NCYCYZXNIZJOKI-HWCYFHEPSA-N
 M  END
 $MOL
 retinal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:25:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:56
 InChIKey=NCYCYZXNIZJOKI-OVSJKPMPSA-N
  49 49  0  0  0  0  0  0  0  0999 V2000
    -2.5981    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

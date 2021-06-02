@@ -1,11 +1,11 @@
 $RXN
 HMR_0519
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:47
+
 nrvnccoa[c] + glyc3p[c] -> coa[c] + M00449[c]
   2  2
 $MOL
 nrvnccoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:12
 InChIKey=QHZAQVTVYPHLKK-YVBAAGQKSA-J
 149151  0  0  1  0  0  0  0  0999 V2000
    16.8321    9.8049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -312,7 +312,7 @@ M  CHG  4  53  -1  57  -1  58  -1  59  -1
 M  END
 $MOL
 glyc3p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:33:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:59:03
 InChIKey=AWUCVROLDVIAJX-GSVOUGTGSA-L
  17 16  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -352,7 +352,7 @@ M  CHG  2   6  -1   7  -1
 M  END
 $MOL
 coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:04
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:16
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -521,8 +521,8 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 M00449[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:03:36
-InChIKey=LUOJYKBTQKAEPP-OGJPMFGRSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:16:57
+InChIKey=LUOJYKBTQKAEPP-SANMLTNESA-L
  86 85  0  0  1  0  0  0  0  0999 V2000
    19.0000  -12.1244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    19.5000  -11.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -635,7 +635,7 @@ InChIKey=LUOJYKBTQKAEPP-OGJPMFGRSA-L
   8  9  1  0  0  0  0
   8 51  1  0  0  0  0
   8 52  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 53  1  0  0  0  0
  10 11  1  0  0  0  0
  10 54  1  0  0  0  0

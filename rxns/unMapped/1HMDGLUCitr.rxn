@@ -1,11 +1,11 @@
 $RXN
 1HMDGLUCitr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 1hmdgluc[r] -> 1hmdgluc[c]
   1  1
 $MOL
 1hmdgluc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:06:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:20:53
 InChIKey=ICIUMXQTLQXWGL-UHFFFAOYSA-M
  56 60  0  0  1  0  0  0  0  0999 V2000
    -7.8952    1.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -128,7 +128,7 @@ M  CHG  1  34  -1
 M  END
 $MOL
 1hmdgluc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:06:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:20:53
 InChIKey=ICIUMXQTLQXWGL-UHFFFAOYSA-M
  56 60  0  0  1  0  0  0  0  0999 V2000
    -7.8952    1.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

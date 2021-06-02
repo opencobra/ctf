@@ -1,11 +1,11 @@
 $RXN
 TAURIBUP_Sthv
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:20
+
 tauribup_S[c] -> tauribup_S[e]
   1  1
 $MOL
 tauribup_S[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:37:37
 InChIKey=KGVHUHDIMNWYOA-UHFFFAOYSA-M
  43 43  0  0  1  0  0  0  0  0999 V2000
    -5.1962    6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 tauribup_S[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:37:37
 InChIKey=KGVHUHDIMNWYOA-UHFFFAOYSA-M
  43 43  0  0  1  0  0  0  0  0999 V2000
    -5.1962    6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

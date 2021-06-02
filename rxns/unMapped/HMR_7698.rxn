@@ -1,11 +1,11 @@
 $RXN
 HMR_7698
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:10
+
 M01750[c] -> dtdpglu[c]
   1  1
 $MOL
 M01750[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:24:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:42:58
 InChIKey=YSYKRGRSMLTJNL-OAOVJFGZSA-L
  60 62  0  0  1  0  0  0  0  0999 V2000
    -2.4526    3.6476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -134,7 +134,7 @@ M  CHG  2  24  -1  26  -1
 M  END
 $MOL
 dtdpglu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:43:51
 InChIKey=YSYKRGRSMLTJNL-KFQCIAAJSA-L
  60 62  0  0  1  0  0  0  0  0999 V2000
    -2.4526    3.6476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 OROT5Ptr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:17
+
 orot5p[e] -> orot5p[c]
   1  1
 $MOL
 orot5p[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:21
 InChIKey=KYOBSHFOBAOFBF-XVFCMESISA-K
  34 35  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -81,7 +81,7 @@ M  CHG  3  13  -1  17  -1  19  -1
 M  END
 $MOL
 orot5p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:21
 InChIKey=KYOBSHFOBAOFBF-XVFCMESISA-K
  34 35  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

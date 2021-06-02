@@ -1,11 +1,11 @@
 $RXN
 PAIL_HStn
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:24
+
 pail_hs[c] -> pail_hs[n]
   1  1
 $MOL
 pail_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:11:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:10:52
 
  43 43  0  0  1  0  0  0  0  0999 V2000
    -3.0000    2.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 pail_hs[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:11:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:10:52
 
  43 43  0  0  1  0  0  0  0  0999 V2000
    -3.0000    2.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

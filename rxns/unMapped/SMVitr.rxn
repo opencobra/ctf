@@ -1,11 +1,11 @@
 $RXN
 SMVitr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:22
+
 smv[c] -> smv[r]
   1  1
 $MOL
 smv[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:21
 InChIKey=RYMZZMVNJRMUDD-HGQWONQESA-N
  68 70  0  0  1  0  0  0  0  0999 V2000
     5.1962    5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -149,7 +149,7 @@ InChIKey=RYMZZMVNJRMUDD-HGQWONQESA-N
 M  END
 $MOL
 smv[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:21
 InChIKey=RYMZZMVNJRMUDD-HGQWONQESA-N
  68 70  0  0  1  0  0  0  0  0999 V2000
     5.1962    5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,0 +1,21 @@
+$RXN
+PBtex
+
+pb[e] -> pb[p]
+  1  1
+$MOL
+pb[e]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 23:25:38
+InChIKey=RVPVRDXYQKGNMQ-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Pb  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+pb[p]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 23:25:38
+InChIKey=RVPVRDXYQKGNMQ-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Pb  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END

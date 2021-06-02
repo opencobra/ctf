@@ -1,11 +1,11 @@
 $RXN
 CRMPte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:02
+
 crmp_hs[c] -> crmp_hs[e]
   1  1
 $MOL
 crmp_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:23
 
  63 62  0  0  1  0  0  0  0  0999 V2000
    -2.5000    1.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ M  CHG  2  27  -1  28  -1
 M  END
 $MOL
 crmp_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:23
 
  63 62  0  0  1  0  0  0  0  0999 V2000
    -2.5000    1.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

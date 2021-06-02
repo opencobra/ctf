@@ -1,11 +1,11 @@
 $RXN
 T4HCINNMtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:41
+
 T4hcinnm[m] -> T4hcinnm[c]
   1  1
 $MOL
 T4hcinnm[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:43:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:04:57
 InChIKey=NGSWKAQJJWESNS-ZZXKWVIFSA-M
  19 19  0  0  0  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ M  CHG  1  10  -1
 M  END
 $MOL
 T4hcinnm[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:43:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:04:57
 InChIKey=NGSWKAQJJWESNS-ZZXKWVIFSA-M
  19 19  0  0  0  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

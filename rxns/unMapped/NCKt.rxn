@@ -1,11 +1,11 @@
 $RXN
 NCKt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:21
+
 4 na1[c] + k[e] + ca2[e] -> 4 na1[e] + k[c] + ca2[c]
   6  6
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -29,7 +29,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -37,7 +37,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 k[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:48:19
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:42:29
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 ca2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:25:02
 InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1   1   2
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -61,7 +61,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -69,7 +69,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -77,7 +77,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 k[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:48:19
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:42:29
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 ca2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:25:02
 InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0

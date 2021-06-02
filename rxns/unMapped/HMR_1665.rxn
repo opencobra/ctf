@@ -1,12 +1,12 @@
 $RXN
 HMR_1665
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:53
+
 cholate[x] -> cholate[c]
   1  1
 $MOL
 cholate[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:06
-InChIKey=BHQCQFFYRZLCQQ-OELDTZBJSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:12
+InChIKey=BHQCQFFYRZLCQQ-YVVWZQNDSA-M
  68 71  0  0  1  0  0  0  0  0999 V2000
    -0.0014    1.9454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5293   -0.4500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -151,8 +151,8 @@ M  CHG  1  29  -1
 M  END
 $MOL
 cholate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:06
-InChIKey=BHQCQFFYRZLCQQ-OELDTZBJSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:12
+InChIKey=BHQCQFFYRZLCQQ-YVVWZQNDSA-M
  68 71  0  0  1  0  0  0  0  0999 V2000
    -0.0014    1.9454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5293   -0.4500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

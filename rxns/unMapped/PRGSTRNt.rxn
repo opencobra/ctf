@@ -1,11 +1,11 @@
 $RXN
 PRGSTRNt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:26
+
 prgstrn[e] -> prgstrn[c]
   1  1
 $MOL
 prgstrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:32
 InChIKey=RJKFOVLPORLFTN-LEKSSAKUSA-N
  53 56  0  0  1  0  0  0  0  0999 V2000
    -2.7893    3.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -120,7 +120,7 @@ InChIKey=RJKFOVLPORLFTN-LEKSSAKUSA-N
 M  END
 $MOL
 prgstrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:32
 InChIKey=RJKFOVLPORLFTN-LEKSSAKUSA-N
  53 56  0  0  1  0  0  0  0  0999 V2000
    -2.7893    3.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 LTHSTRLtr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:32
+
 lthstrl[c] -> lthstrl[r]
   1  1
 $MOL
 lthstrl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:32
 InChIKey=IZVFFXVYBHFIHY-SKCNUYALSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ InChIKey=IZVFFXVYBHFIHY-SKCNUYALSA-N
 M  END
 $MOL
 lthstrl[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:32
 InChIKey=IZVFFXVYBHFIHY-SKCNUYALSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

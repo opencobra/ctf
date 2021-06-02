@@ -1,11 +1,11 @@
 $RXN
 BIOCYTtn
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:58
+
 biocyt[c] -> biocyt[n]
   1  1
 $MOL
 biocyt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:22:46
 InChIKey=BAQMYDQNMFBZNA-MNXVOIDGSA-N
  53 54  0  0  1  0  0  0  0  0999 V2000
     3.4033   -0.8369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -118,7 +118,7 @@ InChIKey=BAQMYDQNMFBZNA-MNXVOIDGSA-N
 M  END
 $MOL
 biocyt[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:22:46
 InChIKey=BAQMYDQNMFBZNA-MNXVOIDGSA-N
  53 54  0  0  1  0  0  0  0  0999 V2000
     3.4033   -0.8369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 ST8SIA56g
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:29
+
 cmpacna[g] + acngal14acglcgalgluside_hs[g] -> h[g] + acnacngal14acglcgalgluside_hs[g] + cmp[g]
   2  3
 $MOL
 cmpacna[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:51
 InChIKey=TXCIAUNLDRJGJZ-BILDWYJOSA-L
  70 72  0  0  1  0  0  0  0  0999 V2000
     3.3155   -3.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -154,7 +154,7 @@ M  CHG  2  26  -1  33  -1
 M  END
 $MOL
 acngal14acglcgalgluside_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:47:17
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:09:09
 
 186190  0  0  1  0  0  0  0  0999 V2000
    -3.5000    0.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -537,15 +537,16 @@ M  CHG  1  83  -1
 M  END
 $MOL
 h[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 acnacngal14acglcgalgluside_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:47:04
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:08:55
 InChIKey=RZVAJINKPMORJF-UHFFFAOYSA-N
  20 20  0  0  0  0  0  0  0  0999 V2000
    -4.3301   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -591,7 +592,7 @@ InChIKey=RZVAJINKPMORJF-UHFFFAOYSA-N
 M  END
 $MOL
 cmp[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:40
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

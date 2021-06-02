@@ -1,11 +1,11 @@
 $RXN
 r1163
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:38
+
 na1[e] + gchola[e] -> na1[c] + gchola[c]
   2  2
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,9 +13,9 @@ M  CHG  1   1   1
 M  END
 $MOL
 gchola[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:29:21
-InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
- 75 78  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:54:11
+InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-N
+ 76 79  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5377   -0.4516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0003    1.0122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -46,7 +46,7 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
     5.0951   -2.9395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0193   -2.9411    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8454    1.4886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.3816    2.9266    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.3816    2.9266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5376    6.3418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -4.2276    6.3413    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9253    1.4172    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -90,6 +90,7 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
     5.0955   -3.9095    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8595   -2.4563    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.6853    1.9739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1932    3.3948    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -4.2279    7.2783    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1 34  1  0  0  0  0
   1 35  1  0  0  0  0
@@ -168,12 +169,12 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
  28 72  1  0  0  0  0
  29 73  1  0  0  0  0
  30 74  1  0  0  0  0
- 33 75  1  0  0  0  0
-M  CHG  1  31  -1
+ 31 75  1  0  0  0  0
+ 33 76  1  0  0  0  0
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -181,9 +182,9 @@ M  CHG  1   1   1
 M  END
 $MOL
 gchola[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:29:21
-InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
- 75 78  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:54:11
+InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-N
+ 76 79  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5377   -0.4516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0003    1.0122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -214,7 +215,7 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
     5.0951   -2.9395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0193   -2.9411    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8454    1.4886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.3816    2.9266    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.3816    2.9266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5376    6.3418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -4.2276    6.3413    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9253    1.4172    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -258,6 +259,7 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
     5.0955   -3.9095    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8595   -2.4563    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.6853    1.9739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1932    3.3948    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -4.2279    7.2783    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1 34  1  0  0  0  0
   1 35  1  0  0  0  0
@@ -336,6 +338,6 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
  28 72  1  0  0  0  0
  29 73  1  0  0  0  0
  30 74  1  0  0  0  0
- 33 75  1  0  0  0  0
-M  CHG  1  31  -1
+ 31 75  1  0  0  0  0
+ 33 76  1  0  0  0  0
 M  END

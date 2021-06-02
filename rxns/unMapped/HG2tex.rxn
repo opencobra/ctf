@@ -1,0 +1,21 @@
+$RXN
+HG2tex
+
+hg2[e] -> hg2[p]
+  1  1
+$MOL
+hg2[e]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 22:39:08
+InChIKey=BQPIGGFYSBELGY-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Hg  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+hg2[p]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 22:39:08
+InChIKey=BQPIGGFYSBELGY-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Hg  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END

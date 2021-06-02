@@ -1,11 +1,11 @@
 $RXN
 MVLACte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 mvlac[c] -> mvlac[e]
   1  1
 $MOL
 mvlac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:04:44
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:02:45
 InChIKey=JYVXNLLUYHCIIH-LURJTMIESA-N
  19 19  0  0  1  0  0  0  0  0999 V2000
    -0.7071    2.7071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -49,7 +49,7 @@ InChIKey=JYVXNLLUYHCIIH-LURJTMIESA-N
 M  END
 $MOL
 mvlac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:04:44
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:02:45
 InChIKey=JYVXNLLUYHCIIH-LURJTMIESA-N
  19 19  0  0  1  0  0  0  0  0999 V2000
    -0.7071    2.7071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

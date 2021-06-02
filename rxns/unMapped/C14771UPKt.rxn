@@ -1,12 +1,12 @@
 $RXN
 C14771UPKt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:38
+
 C14771[e] -> C14771[c]
   1  1
 $MOL
 C14771[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:39:20
-InChIKey=JBSCUHKPLGKXKH-GDWIHFMBSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:49:57
+InChIKey=JBSCUHKPLGKXKH-UQIPFNSGSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     1.3660   -4.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.2321   -3.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -80,7 +80,7 @@ InChIKey=JBSCUHKPLGKXKH-GDWIHFMBSA-M
   5 33  1  0  0  0  0
   6  8  1  0  0  0  0
   6 34  1  0  0  0  0
-  7  9  2  0  0  0  0
+  7  9  2  3  0  0  0
   7 35  1  0  0  0  0
   8 10  1  0  0  0  0
   8 36  1  0  0  0  0
@@ -120,8 +120,8 @@ M  CHG  1  22  -1
 M  END
 $MOL
 C14771[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:39:20
-InChIKey=JBSCUHKPLGKXKH-GDWIHFMBSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:49:57
+InChIKey=JBSCUHKPLGKXKH-UQIPFNSGSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     1.3660   -4.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.2321   -3.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -195,7 +195,7 @@ InChIKey=JBSCUHKPLGKXKH-GDWIHFMBSA-M
   5 33  1  0  0  0  0
   6  8  1  0  0  0  0
   6 34  1  0  0  0  0
-  7  9  2  0  0  0  0
+  7  9  2  3  0  0  0
   7 35  1  0  0  0  0
   8 10  1  0  0  0  0
   8 36  1  0  0  0  0

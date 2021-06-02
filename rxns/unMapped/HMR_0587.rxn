@@ -1,11 +1,11 @@
 $RXN
 HMR_0587
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:48
+
 clpn_hs[c] -> clpn_hs[m]
   1  1
 $MOL
 clpn_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:20
 
  54 53  0  0  1  0  0  0  0  0999 V2000
    -3.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -118,7 +118,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:13
 M  END
 $MOL
 clpn_hs[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:20
 
  54 53  0  0  1  0  0  0  0  0999 V2000
    -3.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

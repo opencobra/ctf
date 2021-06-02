@@ -1,11 +1,11 @@
 $RXN
 r0931
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:37
+
 arachd[l] -> arachd[r]
   1  1
 $MOL
 arachd[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:08
 InChIKey=YZXBAPSDXZZRGB-DOFZRALJSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -117,7 +117,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 arachd[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:08
 InChIKey=YZXBAPSDXZZRGB-DOFZRALJSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

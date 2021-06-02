@@ -1,11 +1,11 @@
 $RXN
 PHCHGSm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:25
+
 h2o[m] + h[m] + 1p3h5c[m] -> 4hglusa[m]
   3  1
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,15 +16,16 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 1p3h5c[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:07:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:21:16
 InChIKey=WFOFKRKDDKGRIK-IUYQGCFVSA-M
  15 15  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -61,7 +62,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 4hglusa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:26:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:37:11
 InChIKey=XCXUZPXOFFRGGP-DMTCNVIQSA-N
  19 18  0  0  1  0  0  0  0  0999 V2000
     0.8660    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

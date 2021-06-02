@@ -1,11 +1,11 @@
 $RXN
 UMPK3n
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
+
 utp[n] + ump[n] -> 2 udp[n]
   2  2
 $MOL
 utp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:52:36
 InChIKey=PGAVKCOVUIYSFO-XVFCMESISA-J
  40 41  0  0  1  0  0  0  0  0999 V2000
    -7.7105   -0.2138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  4  12  -1  16  -1  17  -1  19  -1
 M  END
 $MOL
 ump[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:49
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:47
 InChIKey=DJJCXFVJDGTHFX-XVFCMESISA-L
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ M  CHG  2  12  -1  16  -1
 M  END
 $MOL
 udp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:09
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -245,7 +245,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 udp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:09
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

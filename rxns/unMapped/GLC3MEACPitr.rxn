@@ -1,11 +1,11 @@
 $RXN
 GLC3MEACPitr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 glc3meacp[c] -> glc3meacp[r]
   1  1
 $MOL
 glc3meacp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:55:55
 InChIKey=BBEGGLXOOYJYCF-UHFFFAOYSA-M
  40 41  0  0  1  0  0  0  0  0999 V2000
     3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 glc3meacp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:55:55
 InChIKey=BBEGGLXOOYJYCF-UHFFFAOYSA-M
  40 41  0  0  1  0  0  0  0  0999 V2000
     3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

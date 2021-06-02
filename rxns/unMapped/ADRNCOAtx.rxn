@@ -1,11 +1,11 @@
 $RXN
 ADRNCOAtx
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:54
+
 adrncoa[c] -> adrncoa[x]
   1  1
 $MOL
 adrncoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:48:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:11:01
 InChIKey=LVXQCHCSSLFKLO-GKLWCFAUSA-J
 137139  0  0  1  0  0  0  0  0999 V2000
   -16.0313   -2.2930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -288,7 +288,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 adrncoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:48:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:11:01
 InChIKey=LVXQCHCSSLFKLO-GKLWCFAUSA-J
 137139  0  0  1  0  0  0  0  0999 V2000
   -16.0313   -2.2930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 GLCter
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:14
+
 glc_D[c] -> glc_D[r]
   1  1
 $MOL
 glc_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:56:00
 InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
 M  END
 $MOL
 glc_D[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:56:00
 InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

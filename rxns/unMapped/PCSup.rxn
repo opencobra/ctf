@@ -1,11 +1,11 @@
 $RXN
 PCSup
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:23
+
 pcs[e] -> pcs[c]
   1  1
 $MOL
 pcs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:14:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:15:13
 InChIKey=WGNAKZGUSRVWRH-UHFFFAOYSA-M
  19 19  0  0  0  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 pcs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:14:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:15:13
 InChIKey=WGNAKZGUSRVWRH-UHFFFAOYSA-M
  19 19  0  0  0  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

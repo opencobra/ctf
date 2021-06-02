@@ -1,11 +1,11 @@
 $RXN
 PCOLLG5HLYStd
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:22
+
 pcollg5hlys[c] -> pcollg5hlys[e]
   1  1
 $MOL
 pcollg5hlys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:14:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:48
 InChIKey=YSMODUONRAFBET-UHNVWZDZSA-N
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -60,7 +60,7 @@ InChIKey=YSMODUONRAFBET-UHNVWZDZSA-N
 M  END
 $MOL
 pcollg5hlys[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:14:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:48
 InChIKey=YSMODUONRAFBET-UHNVWZDZSA-N
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

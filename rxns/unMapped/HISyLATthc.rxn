@@ -1,19 +1,20 @@
 $RXN
 HISyLATthc
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:15
+
 h[e] + arg_L[c] + his_L[e] -> h[c] + arg_L[e] + his_L[c]
   3  3
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 arg_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:32
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +74,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 his_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:08:32
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -119,15 +120,16 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 arg_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:32
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -187,7 +189,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:40:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:08:32
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

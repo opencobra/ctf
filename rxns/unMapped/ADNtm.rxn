@@ -1,11 +1,11 @@
 $RXN
 ADNtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:54
+
 adn[c] -> adn[m]
   1  1
 $MOL
 adn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:48:04
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:10:04
 InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
  32 34  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -77,7 +77,7 @@ InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
 M  END
 $MOL
 adn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:48:04
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:10:04
 InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
  32 34  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

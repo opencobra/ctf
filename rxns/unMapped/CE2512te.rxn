@@ -1,11 +1,11 @@
 $RXN
 CE2512te
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:32
+
 doco13ac[c] -> doco13ac[e]
   1  1
 $MOL
 doco13ac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:17:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:41:07
 InChIKey=DPUOLQHDNGRHBS-KTKRTIGZSA-M
  65 64  0  0  0  0  0  0  0  0999 V2000
    12.9904    7.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -141,7 +141,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 doco13ac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:17:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:41:07
 InChIKey=DPUOLQHDNGRHBS-KTKRTIGZSA-M
  65 64  0  0  0  0  0  0  0  0999 V2000
    12.9904    7.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

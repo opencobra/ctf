@@ -1,11 +1,11 @@
 $RXN
 3HPVSTETCOAitm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 3hpvstetcoa[m] -> 3hpvstetcoa[c]
   1  1
 $MOL
 3hpvstetcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:20:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:31:23
 InChIKey=DWLCSASBBHKZMA-UHFFFAOYSA-J
 132134  0  0  1  0  0  0  0  0999 V2000
     1.8669   -7.0402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -278,7 +278,7 @@ M  CHG  4  50  -1  54  -1  56  -1  57  -1
 M  END
 $MOL
 3hpvstetcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:20:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:31:23
 InChIKey=DWLCSASBBHKZMA-UHFFFAOYSA-J
 132134  0  0  1  0  0  0  0  0999 V2000
     1.8669   -7.0402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

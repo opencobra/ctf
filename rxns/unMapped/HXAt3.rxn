@@ -1,11 +1,11 @@
 $RXN
 HXAt3
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:31
+
 hxa[c] -> hxa[e]
   1  1
 $MOL
 hxa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:43:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:12:04
 InChIKey=FUZZWVXGSFPDMH-UHFFFAOYSA-M
  19 18  0  0  0  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -49,7 +49,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 hxa[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:43:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:12:04
 InChIKey=FUZZWVXGSFPDMH-UHFFFAOYSA-M
  19 18  0  0  0  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

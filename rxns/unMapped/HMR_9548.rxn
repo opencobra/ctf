@@ -1,11 +1,11 @@
 $RXN
 HMR_9548
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:12
+
 h2o[c] + M02002[c] -> acgam[c] + M02003[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 M02002[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:26:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:45:29
 
  56 57  0  0  1  0  0  0  0  0999 V2000
     4.4641    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -135,7 +135,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:26:12
 M  END
 $MOL
 acgam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:45:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:07:13
 InChIKey=OVRNDRQMDRJTHS-RTRLPJTCSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -201,7 +201,7 @@ InChIKey=OVRNDRQMDRJTHS-RTRLPJTCSA-N
 M  END
 $MOL
 M02003[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:26:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:45:33
 
  29 29  0  0  1  0  0  0  0  0999 V2000
     5.3301    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_9674
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:14
+
 dag_hs[n] -> dag_hs[c]
   1  1
 $MOL
 dag_hs[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:14
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:35
 InChIKey=XIAZEYRSKHAPND-UHFFFAOYSA-N
 120119  0  0  1  0  0  0  0  0999 V2000
    -9.5263  -17.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -250,7 +250,7 @@ InChIKey=XIAZEYRSKHAPND-UHFFFAOYSA-N
 M  END
 $MOL
 dag_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:14
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:35
 InChIKey=XIAZEYRSKHAPND-UHFFFAOYSA-N
 120119  0  0  1  0  0  0  0  0999 V2000
    -9.5263  -17.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_1373
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:52
+
 CE4876[c] -> C05957[c]
   1  1
 $MOL
 CE4876[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:02:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:13:28
 InChIKey=TUXFWOHFPFBNEJ-IRXDYDNUSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -0.9230    6.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -118,8 +118,8 @@ M  CHG  1  24  -1
 M  END
 $MOL
 C05957[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:37:29
-InChIKey=UQOQENZZLBSFKO-POPPZSFYSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:48:05
+InChIKey=UQOQENZZLBSFKO-LDYIIYSOSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -0.9230   -6.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7891   -6.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -209,7 +209,7 @@ InChIKey=UQOQENZZLBSFKO-POPPZSFYSA-M
  12 15  2  0  0  0  0
  12 16  1  0  0  0  0
  12 46  1  0  0  0  0
- 13 14  2  0  0  0  0
+ 13 14  2  3  0  0  0
  13 17  1  0  0  0  0
  13 47  1  0  0  0  0
  14 48  1  0  0  0  0

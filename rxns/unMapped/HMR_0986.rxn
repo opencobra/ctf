@@ -1,11 +1,11 @@
 $RXN
 HMR_0986
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:51
+
 o2[r] + arachd[r] -> 15HPET[r]
   2  1
 $MOL
 o2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:33
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 arachd[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:08
 InChIKey=YZXBAPSDXZZRGB-DOFZRALJSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 15HPET[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:05:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:19:44
 InChIKey=BFWYTORDSFIVKP-VAEKSGALSA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

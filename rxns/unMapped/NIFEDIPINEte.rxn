@@ -1,11 +1,11 @@
 $RXN
 NIFEDIPINEte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:22
+
 nifedipine[e] -> nifedipine[c]
   1  1
 $MOL
 nifedipine[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:05:11
 InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
  43 44  0  0  1  0  0  0  0  0999 V2000
    -0.7764    2.2414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
 M  END
 $MOL
 nifedipine[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:05:11
 InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
  43 44  0  0  1  0  0  0  0  0999 V2000
    -0.7764    2.2414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

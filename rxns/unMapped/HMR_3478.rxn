@@ -1,11 +1,11 @@
 $RXN
 HMR_3478
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:03
+
 phyt[c] -> phyt[x]
   1  1
 $MOL
 phyt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:19
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:42
 InChIKey=RLCKHJSFHOZMDR-UHFFFAOYSA-M
  61 60  0  0  1  0  0  0  0  0999 V2000
     8.6603   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +133,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 phyt[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:19
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:42
 InChIKey=RLCKHJSFHOZMDR-UHFFFAOYSA-M
  61 60  0  0  1  0  0  0  0  0999 V2000
     8.6603   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 RE3259R
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:05
+
 h2o[r] + C14825[r] -> CE2047[r]
   2  1
 $MOL
 h2o[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 C14825[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:39:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:50:01
 InChIKey=FBUKMFOXMZRGRB-SQGUUQMOSA-M
  52 52  0  0  1  0  0  0  0  0999 V2000
     0.5000   -6.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -127,8 +127,8 @@ M  CHG  1  20  -1
 M  END
 $MOL
 CE2047[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:44:48
-InChIKey=XEBKSQSGNGRGDW-YFHOEESVSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:55:32
+InChIKey=XEBKSQSGNGRGDW-GJWDQICYSA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
     8.6603   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     8.6603   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -145,8 +145,8 @@ InChIKey=XEBKSQSGNGRGDW-YFHOEESVSA-M
     4.3301   -3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981   -4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.4641   -3.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
-    2.5981   -3.5000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.4641   -3.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5981   -3.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -181,8 +181,8 @@ InChIKey=XEBKSQSGNGRGDW-YFHOEESVSA-M
     3.5247   -3.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7927   -2.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7926   -0.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    3.4641   -4.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    3.5248   -4.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3908   -2.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6714   -4.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.3041   -1.5150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -2.0300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0  0  0  0
@@ -232,9 +232,9 @@ InChIKey=XEBKSQSGNGRGDW-YFHOEESVSA-M
  15 51  1  0  0  0  0
  16 17  1  0  0  0  0
  16 19  1  0  0  0  0
- 16 52  1  0  0  0  0
+ 16 52  1  1  0  0  0
  17 20  1  0  0  0  0
- 17 53  1  0  0  0  0
+ 17 53  1  6  0  0  0
  18 21  2  0  0  0  0
  18 22  1  0  0  0  0
  19 54  1  0  0  0  0

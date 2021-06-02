@@ -1,11 +1,11 @@
 $RXN
 LNLNCGCRNt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:19
+
 lnlncgcrn[c] -> lnlncgcrn[m]
   1  1
 $MOL
 lnlncgcrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:56:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:52:11
 InChIKey=VDPMHVILMVSAQX-BAHSRKMSSA-N
  73 72  0  0  1  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -157,7 +157,7 @@ M  CHG  2  26   1  28  -1
 M  END
 $MOL
 lnlncgcrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:56:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:52:11
 InChIKey=VDPMHVILMVSAQX-BAHSRKMSSA-N
  73 72  0  0  1  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

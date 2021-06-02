@@ -1,11 +1,11 @@
 $RXN
 r0908
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:37
+
 acgam[c] -> acgam[r]
   1  1
 $MOL
 acgam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:45:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:07:13
 InChIKey=OVRNDRQMDRJTHS-RTRLPJTCSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ InChIKey=OVRNDRQMDRJTHS-RTRLPJTCSA-N
 M  END
 $MOL
 acgam[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:45:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:07:13
 InChIKey=OVRNDRQMDRJTHS-RTRLPJTCSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

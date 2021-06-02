@@ -1,11 +1,11 @@
 $RXN
 pac
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:22
+
 pac[c] -> pac[e]
   1  1
 $MOL
 pac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:10:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:51
 InChIKey=WLJVXDMOQOGPHL-UHFFFAOYSA-M
  17 17  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -46,7 +46,7 @@ M  CHG  1  10  -1
 M  END
 $MOL
 pac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:10:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:51
 InChIKey=WLJVXDMOQOGPHL-UHFFFAOYSA-M
  17 17  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

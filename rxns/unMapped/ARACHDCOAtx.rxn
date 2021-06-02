@@ -1,11 +1,11 @@
 $RXN
 ARACHDCOAtx
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:56
+
 arachdcoa[c] -> arachdcoa[x]
   1  1
 $MOL
 arachdcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:12
 InChIKey=JDEPVTUUCBFJIW-CBDUQTIMSA-J
 131133  0  0  1  0  0  0  0  0999 V2000
    12.9127  -16.9652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -276,7 +276,7 @@ M  CHG  4  49  -1  53  -1  54  -1  55  -1
 M  END
 $MOL
 arachdcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:12
 InChIKey=JDEPVTUUCBFJIW-CBDUQTIMSA-J
 131133  0  0  1  0  0  0  0  0999 V2000
    12.9127  -16.9652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_6499
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
+
 h2o[c] + q10[m] + avite1[c] -> q10h2[m] + CE5022[c]
   3  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 q10[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:18
 InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 153153  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -328,7 +328,7 @@ InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 M  END
 $MOL
 avite1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:48
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:48
 InChIKey=GVJHHUAWPYXKBD-IEOSBIPESA-N
  81 82  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -497,7 +497,7 @@ InChIKey=GVJHHUAWPYXKBD-IEOSBIPESA-N
 M  END
 $MOL
 q10h2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:25:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:25
 InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 155155  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -813,7 +813,7 @@ InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 M  END
 $MOL
 CE5022[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:04:53
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:15:01
 InChIKey=LTVDFSLWFKLJDQ-UHFFFAOYSA-N
  82 82  0  0  1  0  0  0  0  0999 V2000
    -5.1962  -10.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

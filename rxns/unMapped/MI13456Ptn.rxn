@@ -1,11 +1,11 @@
 $RXN
 MI13456Ptn
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:20
+
 mi13456p[c] -> mi13456p[n]
   1  1
 $MOL
 mi13456p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:59:42
 InChIKey=CTPQAXVNYGZUAJ-KXXVROSKSA-D
  39 39  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ M  CHG  2  20  -1  21  -1
 M  END
 $MOL
 mi13456p[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:59:42
 InChIKey=CTPQAXVNYGZUAJ-KXXVROSKSA-D
  39 39  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

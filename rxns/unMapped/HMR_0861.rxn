@@ -1,11 +1,11 @@
 $RXN
 HMR_0861
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:50
+
 cmpacna[c] + galacglcgalgluside_hs[c] -> cmp[c] + M00808[c]
   2  2
 $MOL
 cmpacna[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:51
 InChIKey=TXCIAUNLDRJGJZ-BILDWYJOSA-L
  70 72  0  0  1  0  0  0  0  0999 V2000
     3.3155   -3.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -154,7 +154,7 @@ M  CHG  2  26  -1  33  -1
 M  END
 $MOL
 galacglcgalgluside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:10
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:52:52
 
 150153  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -463,7 +463,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:10
 M  END
 $MOL
 cmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:40
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -537,7 +537,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 M00808[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:11:19
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:26:42
 
 175176  0  0  1  0  0  0  0  0999 V2000
    -1.0000   -2.7321    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0

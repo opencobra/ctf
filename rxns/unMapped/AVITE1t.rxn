@@ -1,11 +1,11 @@
 $RXN
 AVITE1t
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:17
+
 avite1[e] -> avite1[c]
   1  1
 $MOL
 avite1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:48
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:48
 InChIKey=GVJHHUAWPYXKBD-IEOSBIPESA-N
  81 82  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -174,7 +174,7 @@ InChIKey=GVJHHUAWPYXKBD-IEOSBIPESA-N
 M  END
 $MOL
 avite1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:48
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:48
 InChIKey=GVJHHUAWPYXKBD-IEOSBIPESA-N
  81 82  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

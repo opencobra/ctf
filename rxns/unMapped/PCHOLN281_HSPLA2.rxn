@@ -1,11 +1,11 @@
 $RXN
 PCHOLN281_HSPLA2
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:19
+
 h2o[c] + pchol_hs[c] -> h[c] + Rtotal2[c] + pcholn281_hs[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pchol_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:01
 
  40 39  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -102,15 +102,16 @@ M  CHG  2   2   1  10  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 Rtotal2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:42:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:04:09
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -124,8 +125,8 @@ M  CHG  1   1  -1
 M  END
 $MOL
 pcholn281_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:13:50
-InChIKey=VCXKVGMRVJRCIV-CYYJNZCTSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:15
+InChIKey=VCXKVGMRVJRCIV-UHFFFAOYSA-O
 118117  0  0  1  0  0  0  0  0999 V2000
   -23.0000  -15.1244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -324,7 +325,7 @@ InChIKey=VCXKVGMRVJRCIV-CYYJNZCTSA-O
  25 26  1  0  0  0  0
  25 98  1  0  0  0  0
  25 99  1  0  0  0  0
- 26 27  2  0  0  0  0
+ 26 27  2  3  0  0  0
  26100  1  0  0  0  0
  27 28  1  0  0  0  0
  27101  1  0  0  0  0

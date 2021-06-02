@@ -1,11 +1,11 @@
 $RXN
 HMR_2567
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:56
+
 h2o[n] + CE7081[n] -> 2 h[n] + CE7091[n]
   2  3
 $MOL
 h2o[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,8 +16,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE7081[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:36:29
-InChIKey=UDXLGBLAJBYLSZ-VDZNYAFISA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:40:47
+InChIKey=UDXLGBLAJBYLSZ-XBCQTNLFSA-M
  52 51  0  0  1  0  0  0  0  0999 V2000
     5.1962   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3301   -3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,7 +99,7 @@ InChIKey=UDXLGBLAJBYLSZ-VDZNYAFISA-M
  10 38  1  0  0  0  0
  11 13  1  0  0  0  0
  11 39  1  0  0  0  0
- 12 14  2  3  0  0  0
+ 12 14  2  0  0  0  0
  12 40  1  0  0  0  0
  13 15  1  0  0  0  0
  13 41  1  0  0  0  0
@@ -126,23 +126,25 @@ M  CHG  1  23  -1
 M  END
 $MOL
 h[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 h[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 CE7091[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:37:10
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:41:30
 InChIKey=FPMFSFWYWZLDKP-LJQANCHMSA-M
  53 52  0  0  1  0  0  0  0  0999 V2000
    -3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

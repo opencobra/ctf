@@ -1,19 +1,20 @@
 $RXN
 SUCACETOc
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 h[c] + sucacetat[c] -> co2[c] + sucaceto[c]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 sucacetat[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:32:11
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:36:26
 InChIKey=OMFWHSRZHVVVAL-UHFFFAOYSA-L
  22 21  0  0  0  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +64,7 @@ M  CHG  2  12  -1  14  -1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:11
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -74,7 +75,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 sucaceto[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:32:15
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:36:32
 InChIKey=WYEPBHZLDUPIOD-UHFFFAOYSA-M
  20 19  0  0  0  0  0  0  0  0999 V2000
     5.1962   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

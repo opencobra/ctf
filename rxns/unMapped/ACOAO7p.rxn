@@ -1,11 +1,11 @@
 $RXN
 ACOAO7p
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:53
+
 pmtcoa[x] + o2[x] -> h2o2[x] + hdd2coa[x]
   2  2
 $MOL
 pmtcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:42
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:08
 InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J
 127129  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -268,7 +268,7 @@ M  CHG  4  45  -1  49  -1  50  -1  51  -1
 M  END
 $MOL
 o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:33
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -277,7 +277,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 h2o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:20
 InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -290,7 +290,7 @@ InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
 M  END
 $MOL
 hdd2coa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:39:14
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:06:24
 InChIKey=JUPAQFRKPHPXLD-MSHHSVQMSA-J
 125127  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

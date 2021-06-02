@@ -1,11 +1,11 @@
 $RXN
 FVSCOAitx
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 fvscoa[c] -> fvscoa[x]
   1  1
 $MOL
 fvscoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:26:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:51:01
 InChIKey=ZGIRLJNRRFQQJQ-QDBORUFSSA-J
 135138  0  0  1  0  0  0  0  0999 V2000
    19.5152   -4.0783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -285,7 +285,7 @@ M  CHG  4  57  -1  61  -1  62  -1  63  -1
 M  END
 $MOL
 fvscoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:26:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:51:01
 InChIKey=ZGIRLJNRRFQQJQ-QDBORUFSSA-J
 135138  0  0  1  0  0  0  0  0999 V2000
    19.5152   -4.0783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

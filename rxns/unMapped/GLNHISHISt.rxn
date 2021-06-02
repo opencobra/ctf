@@ -1,20 +1,21 @@
 $RXN
 GLNHISHISt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:24
+
 h[e] + glnhishis[e] -> h[c] + glnhishis[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glnhishis[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:31:21
-InChIKey=GFLNKSQHOBOMNM-XQQFMLRXSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:56:31
+InChIKey=GFLNKSQHOBOMNM-FRRDWIJNSA-N
  54 55  0  0  1  0  0  0  0  0999 V2000
     5.4817    3.0428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.4598    3.2507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26,9 +27,9 @@ InChIKey=GFLNKSQHOBOMNM-XQQFMLRXSA-N
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.9074    0.7248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.8126    3.7859    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    2.5472    2.4190    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    0.5909    2.0032    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.8126    3.7859    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5472    2.4190    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5909    2.0032    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     6.7688    4.2017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.8344    3.5780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.8781    3.1622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,15 +100,15 @@ InChIKey=GFLNKSQHOBOMNM-XQQFMLRXSA-N
  10 23  1  0  0  0  0
  11 15  1  0  0  0  0
  11 18  1  0  0  0  0
- 11 43  1  6  0  0  0
+ 11 43  1  1  0  0  0
  12  3  1  0  0  0  0
  12 16  1  0  0  0  0
  12 24  1  0  0  0  0
- 12 44  1  1  0  0  0
+ 12 44  1  6  0  0  0
  13  4  1  0  0  0  0
  13 17  1  0  0  0  0
  13 25  1  0  0  0  0
- 13 45  1  6  0  0  0
+ 13 45  1  1  0  0  0
  14 19  2  0  0  0  0
  14 26  1  0  0  0  0
  15 24  2  3  0  0  0
@@ -128,16 +129,17 @@ InChIKey=GFLNKSQHOBOMNM-XQQFMLRXSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glnhishis[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:31:21
-InChIKey=GFLNKSQHOBOMNM-XQQFMLRXSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:56:31
+InChIKey=GFLNKSQHOBOMNM-FRRDWIJNSA-N
  54 55  0  0  1  0  0  0  0  0999 V2000
     5.4817    3.0428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.4598    3.2507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -149,9 +151,9 @@ InChIKey=GFLNKSQHOBOMNM-XQQFMLRXSA-N
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.9074    0.7248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.8126    3.7859    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    2.5472    2.4190    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    0.5909    2.0032    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.8126    3.7859    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5472    2.4190    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5909    2.0032    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     6.7688    4.2017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.8344    3.5780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.8781    3.1622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -222,15 +224,15 @@ InChIKey=GFLNKSQHOBOMNM-XQQFMLRXSA-N
  10 23  1  0  0  0  0
  11 15  1  0  0  0  0
  11 18  1  0  0  0  0
- 11 43  1  6  0  0  0
+ 11 43  1  1  0  0  0
  12  3  1  0  0  0  0
  12 16  1  0  0  0  0
  12 24  1  0  0  0  0
- 12 44  1  1  0  0  0
+ 12 44  1  6  0  0  0
  13  4  1  0  0  0  0
  13 17  1  0  0  0  0
  13 25  1  0  0  0  0
- 13 45  1  6  0  0  0
+ 13 45  1  1  0  0  0
  14 19  2  0  0  0  0
  14 26  1  0  0  0  0
  15 24  2  3  0  0  0

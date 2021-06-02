@@ -1,11 +1,11 @@
 $RXN
 XOLTRI27te
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:33
+
 xoltri27[c] -> xoltri27[e]
   1  1
 $MOL
 xoltri27[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:04
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:56:53
 InChIKey=RXMHNAKZMGJANZ-DTTSCKGMSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -4.1260    5.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -166,7 +166,7 @@ InChIKey=RXMHNAKZMGJANZ-DTTSCKGMSA-N
 M  END
 $MOL
 xoltri27[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:04
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:56:53
 InChIKey=RXMHNAKZMGJANZ-DTTSCKGMSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -4.1260    5.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,19 +1,20 @@
 $RXN
 RE2880C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:00
+
 h[c] + ascb_L[c] + CE6451[c] -> h2o[c] + dhdascb[c] + CE6466[c]
   3  3
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 ascb_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:39
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:19:25
 InChIKey=CIWBSHSKHKDKBQ-JLAZNSOCSA-M
  19 19  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,8 +59,8 @@ M  CHG  1   9  -1
 M  END
 $MOL
 CE6451[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:34:31
-InChIKey=YPAIJQRSSHCPIA-KABLMVHISA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:38:14
+InChIKey=YPAIJQRSSHCPIA-SEKOOQDESA-M
  59 60  0  0  1  0  0  0  0  0999 V2000
     2.5467    0.4901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.6978    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -138,7 +139,7 @@ InChIKey=YPAIJQRSSHCPIA-KABLMVHISA-M
   6  8  1  0  0  0  0
   6 38  1  0  0  0  0
   6 39  1  0  0  0  0
-  7  9  2  3  0  0  0
+  7  9  2  0  0  0  0
   7 40  1  0  0  0  0
   8 10  2  0  0  0  0
   8 41  1  0  0  0  0
@@ -184,7 +185,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -195,7 +196,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dhdascb[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:14:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:38:00
 InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -237,8 +238,8 @@ InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
 M  END
 $MOL
 CE6466[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:35:38
-InChIKey=BIHPRUQXOKWQGU-KBUBQVDUSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:39:56
+InChIKey=BIHPRUQXOKWQGU-KQSFFUBFSA-M
  58 58  0  0  1  0  0  0  0  0999 V2000
    -3.4434   -3.1691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.8556   -2.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -259,7 +260,7 @@ InChIKey=BIHPRUQXOKWQGU-KBUBQVDUSA-M
    -1.8611   -2.4646    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     1.3090   -0.9511    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     0.3090   -0.9511    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
-    1.6180    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6180   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     7.6382   -3.7690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.4543   -3.3781    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

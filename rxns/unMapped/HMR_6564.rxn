@@ -1,11 +1,11 @@
 $RXN
 HMR_6564
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:07
+
 h2o[c] + mi1345p[c] -> pi[c] + mi145p[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 mi1345p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:42
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:59:48
 InChIKey=CIPFCGZLFXVXBG-CNWJWELYSA-F
  36 36  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.7321    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ M  CHG  8   9  -1  10  -1  12  -1  13  -1  15  -1  16  -1  18  -1  19  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -113,15 +113,15 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 mi145p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:03
-InChIKey=MMWCIQZXVOZEGG-HOZKJCLWSA-H
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:00:16
+InChIKey=MMWCIQZXVOZEGG-XJTPDSDZSA-H
  33 33  0  0  1  0  0  0  0  0999 V2000
-    1.0000    1.7321    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    1.5000    2.5981    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    2.5000    0.8660    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    1.5000    0.8660    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    2.5000    2.5981    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    3.0000    1.7321    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0000    1.7321    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5000    2.5981    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5000    0.8660    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5000    0.8660    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5000    2.5981    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.0000    1.7321    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.0000    1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    3.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -152,21 +152,21 @@ InChIKey=MMWCIQZXVOZEGG-HOZKJCLWSA-H
   1  2  1  0  0  0  0
   1  4  1  0  0  0  0
   1  7  1  0  0  0  0
-  1 25  1  6  0  0  0
+  1 25  1  1  0  0  0
   2  5  1  0  0  0  0
   2  8  1  0  0  0  0
-  2 26  1  6  0  0  0
+  2 26  1  1  0  0  0
   3  4  1  0  0  0  0
   3  6  1  0  0  0  0
   3  9  1  0  0  0  0
-  3 27  1  1  0  0  0
+  3 27  1  6  0  0  0
   4 19  1  0  0  0  0
-  4 28  1  6  0  0  0
+  4 28  1  1  0  0  0
   5  6  1  0  0  0  0
   5 20  1  0  0  0  0
-  5 29  1  1  0  0  0
+  5 29  1  6  0  0  0
   6 21  1  0  0  0  0
-  6 30  1  6  0  0  0
+  6 30  1  1  0  0  0
   7 31  1  0  0  0  0
   8 32  1  0  0  0  0
   9 33  1  0  0  0  0

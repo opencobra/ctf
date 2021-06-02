@@ -1,11 +1,11 @@
 $RXN
 HMR_0240
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:45
+
 M00003[e] -> M00003[c]
   1  1
 $MOL
 M00003[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:03:19
 InChIKey=GDTXICBNEOEPAZ-FPLPWBNLSA-M
  50 49  0  0  0  0  0  0  0  0999 V2000
    10.3923   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -111,7 +111,7 @@ M  CHG  1  19  -1
 M  END
 $MOL
 M00003[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:03:19
 InChIKey=GDTXICBNEOEPAZ-FPLPWBNLSA-M
  50 49  0  0  0  0  0  0  0  0999 V2000
    10.3923   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

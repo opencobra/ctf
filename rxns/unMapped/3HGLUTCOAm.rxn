@@ -1,11 +1,11 @@
 $RXN
 3HGLUTCOAm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 h2o[m] + td2glutrcoa[m] -> 3hglutcoa[m]
   2  1
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,8 +16,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 td2glutrcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:33
-InChIKey=URTLOTISFJPPOU-HWKANZROSA-I
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:37:57
+InChIKey=URTLOTISFJPPOU-UHFFFAOYSA-I
  91 93  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4143   -5.0970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -119,7 +119,7 @@ InChIKey=URTLOTISFJPPOU-HWKANZROSA-I
   2 61  1  0  0  0  0
   2 62  1  0  0  0  0
   3  4  1  0  0  0  0
-  3  5  2  0  0  0  0
+  3  5  2  3  0  0  0
   3 63  1  0  0  0  0
   4 16  1  0  0  0  0
   4 64  1  0  0  0  0
@@ -207,7 +207,7 @@ M  CHG  5  34  -1  36  -1  40  -1  41  -1  42  -1
 M  END
 $MOL
 3hglutcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:19:45
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:30:08
 InChIKey=IIYZSYKTQRIPRG-UHFFFAOYSA-I
  94 96  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

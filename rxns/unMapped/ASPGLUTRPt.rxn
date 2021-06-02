@@ -1,20 +1,21 @@
 $RXN
 ASPGLUTRPt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:24
+
 h[e] + aspglutrp[e] -> h[c] + aspglutrp[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 aspglutrp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:57:46
-InChIKey=GISFCCXBVJKGEO-CFVMTHIKSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:20:39
+InChIKey=GISFCCXBVJKGEO-VHDGCEQUSA-L
  54 55  0  0  1  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.6831    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,10 +28,10 @@ InChIKey=GISFCCXBVJKGEO-CFVMTHIKSA-L
    -0.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.8541    7.3244    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8541    7.3244    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.9511    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2361    5.4223    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-   -1.2872    2.7770    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2361    5.4223    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2872    2.7770    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -3.8615    5.0949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.1413    8.4833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8760    7.1165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,16 +100,16 @@ InChIKey=GISFCCXBVJKGEO-CFVMTHIKSA-L
  11 13  1  0  0  0  0
  12 18  1  0  0  0  0
  12 21  1  0  0  0  0
- 12 46  1  6  0  0  0
+ 12 46  1  1  0  0  0
  13 22  1  0  0  0  0
  14  5  1  0  0  0  0
  14 19  1  0  0  0  0
  14 23  1  0  0  0  0
- 14 47  1  6  0  0  0
+ 14 47  1  1  0  0  0
  15  7  1  0  0  0  0
  15 20  1  0  0  0  0
  15 24  1  0  0  0  0
- 15 48  1  6  0  0  0
+ 15 48  1  1  0  0  0
  16 25  2  0  0  0  0
  16 26  1  0  0  0  0
  17 27  2  0  0  0  0
@@ -129,16 +130,17 @@ M  CHG  2  26  -1  28  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 aspglutrp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:57:46
-InChIKey=GISFCCXBVJKGEO-CFVMTHIKSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:20:39
+InChIKey=GISFCCXBVJKGEO-VHDGCEQUSA-L
  54 55  0  0  1  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.6831    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -151,10 +153,10 @@ InChIKey=GISFCCXBVJKGEO-CFVMTHIKSA-L
    -0.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.8541    7.3244    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8541    7.3244    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.9511    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2361    5.4223    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-   -1.2872    2.7770    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2361    5.4223    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2872    2.7770    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -3.8615    5.0949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.1413    8.4833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8760    7.1165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -223,16 +225,16 @@ InChIKey=GISFCCXBVJKGEO-CFVMTHIKSA-L
  11 13  1  0  0  0  0
  12 18  1  0  0  0  0
  12 21  1  0  0  0  0
- 12 46  1  6  0  0  0
+ 12 46  1  1  0  0  0
  13 22  1  0  0  0  0
  14  5  1  0  0  0  0
  14 19  1  0  0  0  0
  14 23  1  0  0  0  0
- 14 47  1  6  0  0  0
+ 14 47  1  1  0  0  0
  15  7  1  0  0  0  0
  15 20  1  0  0  0  0
  15 24  1  0  0  0  0
- 15 48  1  6  0  0  0
+ 15 48  1  1  0  0  0
  16 25  2  0  0  0  0
  16 26  1  0  0  0  0
  17 27  2  0  0  0  0

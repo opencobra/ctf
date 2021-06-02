@@ -1,11 +1,11 @@
 $RXN
 RE2041C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:57
+
 CE1665[c] -> gthrd[c] + 5oxpro[c]
   1  2
 $MOL
 CE1665[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:43:05
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:53:52
 InChIKey=OGLXGJROORSDLD-IWSPIJDZSA-L
  51 50  0  0  1  0  0  0  0  0999 V2000
     2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -113,7 +113,7 @@ M  CHG  2  20  -1  21  -1
 M  END
 $MOL
 gthrd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:37:50
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:04:32
 InChIKey=RWSXRVCMGQZWBV-WDSKDSINSA-M
  36 35  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -191,7 +191,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 5oxpro[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:30:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:41:29
 InChIKey=ODHCTXKNWHHXJC-VKHMYHEASA-M
  15 15  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

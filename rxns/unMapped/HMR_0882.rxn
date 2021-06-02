@@ -1,11 +1,11 @@
 $RXN
 HMR_0882
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:50
+
 gdpfuc[c] + M02196[c] -> gdp[c] + M02162[c]
   2  2
 $MOL
 gdpfuc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:21
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:55:23
 InChIKey=LQEBEXMHBLQMDB-QIXZNPMTSA-L
  61 64  0  0  1  0  0  0  0  0999 V2000
     5.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ M  CHG  2  27  -1  28  -1
 M  END
 $MOL
 M02196[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:28:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:47:56
 
 170174  0  0  1  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -487,7 +487,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:28:18
 M  END
 $MOL
 gdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:55:13
 InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K
  40 42  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -1.1340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -576,7 +576,7 @@ M  CHG  3  18  -1  19  -1  20  -1
 M  END
 $MOL
 M02162[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:27:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:47:30
 InChIKey=DGABKXLVXPYZII-SIBKNCMHSA-N
  68 71  0  0  1  0  0  0  0  0999 V2000
    -2.5310    3.4042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

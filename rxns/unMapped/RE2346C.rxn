@@ -1,11 +1,11 @@
 $RXN
 RE2346C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:58
+
 CE2576[c] -> h2o[c] + CE2577[c]
   1  2
 $MOL
 CE2576[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:51:15
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:02:05
 InChIKey=TVNYLRYVAZWBEH-FNORWQNLSA-N
  28 27  0  0  1  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ InChIKey=TVNYLRYVAZWBEH-FNORWQNLSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -77,7 +77,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE2577[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:51:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:02:09
 InChIKey=SEPPVOUBHWNCAW-FNORWQNLSA-N
  25 24  0  0  0  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 KYNATESYN
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:18
+
 4aphdob[c] -> h2o[c] + kynate[c]
   1  2
 $MOL
 4aphdob[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:25:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:36:13
 InChIKey=CAOVWYZQMPNAFJ-UHFFFAOYSA-M
  23 23  0  0  0  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +58,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -69,7 +69,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 kynate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:52:48
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:47:34
 InChIKey=HCZHHEIFKROPDY-UHFFFAOYSA-M
  20 21  0  0  0  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_5251
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
+
 pchol_hs[l] -> pchol_hs[r]
   1  1
 $MOL
 pchol_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:01
 
  40 39  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ M  CHG  2   2   1  10  -1
 M  END
 $MOL
 pchol_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:01
 
  40 39  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

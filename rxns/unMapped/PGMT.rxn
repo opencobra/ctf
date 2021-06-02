@@ -1,11 +1,11 @@
 $RXN
 PGMT
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:34
+
 g1p[c] -> g6p[c]
   1  1
 $MOL
 g1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:26:49
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:51:21
 InChIKey=HXXFSFRBOHSIMQ-GASJEMHNSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     3.4641   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ M  CHG  2  11  -1  12  -1
 M  END
 $MOL
 g6p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:27:10
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:51:45
 InChIKey=NBSCHQHZLSJFNQ-GASJEMHNSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

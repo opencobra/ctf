@@ -1,11 +1,11 @@
 $RXN
 UGT1A7r
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
+
 udpglcur[r] + ahandrostan[r] -> ahandrostanglc[r] + udp[r]
   2  2
 $MOL
 udpglcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:30
 InChIKey=HDYANYHVCAPMJV-LXQIFKJMSA-K
  56 58  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ M  CHG  3  18  -1  25  -1  27  -1
 M  END
 $MOL
 ahandrostan[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:49:24
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:11:29
 InChIKey=QGXBDMJGAMFCBF-BNSUEQOYSA-N
  51 54  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -237,7 +237,7 @@ InChIKey=QGXBDMJGAMFCBF-BNSUEQOYSA-N
 M  END
 $MOL
 ahandrostanglc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:49:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:11:34
 InChIKey=VFUIRAVTUVCQTF-SDHZCXLISA-N
  71 75  0  0  1  0  0  0  0  0999 V2000
     1.6638    1.9749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -389,7 +389,7 @@ InChIKey=VFUIRAVTUVCQTF-SDHZCXLISA-N
 M  END
 $MOL
 udp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:09
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

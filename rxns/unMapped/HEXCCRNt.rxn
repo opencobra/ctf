@@ -1,11 +1,11 @@
 $RXN
 HEXCCRNt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:16
+
 hexccrn[c] -> hexccrn[m]
   1  1
 $MOL
 hexccrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:39:50
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:07:12
 InChIKey=KOCKWDDTAHPJSX-UHFFFAOYSA-N
 103102  0  0  1  0  0  0  0  0999 V2000
    20.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -217,7 +217,7 @@ M  CHG  2  34   1  36  -1
 M  END
 $MOL
 hexccrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:39:50
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:07:12
 InChIKey=KOCKWDDTAHPJSX-UHFFFAOYSA-N
 103102  0  0  1  0  0  0  0  0999 V2000
    20.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

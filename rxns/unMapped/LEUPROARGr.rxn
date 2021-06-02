@@ -1,11 +1,11 @@
 $RXN
 LEUPROARGr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:28
+
 2 h2o[c] + leuproarg[c] -> arg_L[c] + leu_L[c] + pro_L[c]
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,8 +27,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 leuproarg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:54:41
-InChIKey=QMKFDEUJGYNFMC-AVGNSLFASA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:49:54
+InChIKey=QMKFDEUJGYNFMC-UHFFFAOYSA-O
  60 60  0  0  1  0  0  0  0  0999 V2000
    -3.5714   -0.4954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.3903    1.2271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40,9 +40,9 @@ InChIKey=QMKFDEUJGYNFMC-AVGNSLFASA-O
    -0.3090    0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.9890    0.2091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.9836    0.3136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.5823   -0.7045    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    2.9890    0.2091    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5823   -0.7045    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.9890    0.2091    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     1.5878   -0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5878   -0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.9836    0.3136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -78,7 +78,7 @@ InChIKey=QMKFDEUJGYNFMC-AVGNSLFASA-O
    -1.3601    1.0747    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9249    0.0972    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.3547    1.1793    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.6464   -0.5926    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9534    0.1611    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     3.4243    1.1866    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.0568    0.1674    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -3.1845   -1.4069    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -106,6 +106,7 @@ InChIKey=QMKFDEUJGYNFMC-AVGNSLFASA-O
   4  8  1  0  0  0  0
   4 36  1  0  0  0  0
   4 37  1  0  0  0  0
+  5 12  1  0  0  0  0
   5 38  1  0  0  0  0
   5 39  1  0  0  0  0
   6 13  1  0  0  0  0
@@ -124,14 +125,13 @@ InChIKey=QMKFDEUJGYNFMC-AVGNSLFASA-O
  10 48  1  0  0  0  0
  11 15  1  0  0  0  0
  11 18  1  0  0  0  0
- 11 49  1  6  0  0  0
- 12  5  1  0  0  0  0
+ 11 49  1  0  0  0  0
  12 16  1  0  0  0  0
  12 22  1  0  0  0  0
- 12 50  1  6  0  0  0
+ 12 50  1  0  0  0  0
  13 14  1  0  0  0  0
  13 23  1  0  0  0  0
- 13 51  1  6  0  0  0
+ 13 51  1  0  0  0  0
  14 22  2  3  0  0  0
  14 24  1  0  0  0  0
  15 23  1  0  0  0  0
@@ -154,7 +154,7 @@ M  CHG  1  18   1
 M  END
 $MOL
 arg_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:32
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -214,7 +214,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:53:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:48:19
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -263,7 +263,7 @@ InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
 M  END
 $MOL
 pro_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:57
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

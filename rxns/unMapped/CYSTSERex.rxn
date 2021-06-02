@@ -1,11 +1,11 @@
 $RXN
 CYSTSERex
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:03
+
 ser_L[c] + Lcystin[e] -> ser_L[e] + Lcystin[c]
   2  2
 $MOL
 ser_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:28:19
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:31:23
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,7 +38,7 @@ InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
 M  END
 $MOL
 Lcystin[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:19
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:02:54
 InChIKey=LEVWYRKDKASIDU-IMJSIDKUSA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
    -0.8660    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ InChIKey=LEVWYRKDKASIDU-IMJSIDKUSA-N
 M  END
 $MOL
 ser_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:28:19
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:31:23
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -128,7 +128,7 @@ InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
 M  END
 $MOL
 Lcystin[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:19
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:02:54
 InChIKey=LEVWYRKDKASIDU-IMJSIDKUSA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
    -0.8660    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

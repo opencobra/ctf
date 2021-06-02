@@ -1,11 +1,11 @@
 $RXN
 r0598
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:35
+
 fuc_L[c] -> HC00832[c]
   1  1
 $MOL
 fuc_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:24:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:49:34
 InChIKey=SHZGCJCMOBCMKK-DHVFOXMCSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ InChIKey=SHZGCJCMOBCMKK-DHVFOXMCSA-N
 M  END
 $MOL
 HC00832[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:40:05
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:47:17
 InChIKey=QZNPNKJXABGCRC-LFRDXLMFSA-N
  23 22  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

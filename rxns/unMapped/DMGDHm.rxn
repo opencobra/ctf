@@ -1,11 +1,11 @@
 $RXN
 DMGDHm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:05
+
 h2o[m] + fad[m] + dmgly[m] -> fadh2[m] + fald[m] + sarcs[m]
   3  3
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 fad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:47:37
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -196,7 +196,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 dmgly[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:16:11
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:39:43
 InChIKey=FFDGPVCHZBVARC-UHFFFAOYSA-N
  16 15  0  0  0  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -233,7 +233,7 @@ InChIKey=FFDGPVCHZBVARC-UHFFFAOYSA-N
 M  END
 $MOL
 fadh2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:47:42
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -417,7 +417,7 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 fald[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:47:46
 InChIKey=WSFSSNUMVMOOMR-UHFFFAOYSA-N
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -430,7 +430,7 @@ InChIKey=WSFSSNUMVMOOMR-UHFFFAOYSA-N
 M  END
 $MOL
 sarcs[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:30:05
 InChIKey=FSYKKLYZXJSNPZ-UHFFFAOYSA-N
  13 12  0  0  0  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

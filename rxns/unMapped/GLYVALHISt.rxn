@@ -1,20 +1,21 @@
 $RXN
 GLYVALHISt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:24
+
 h[e] + glyvalhis[e] -> h[c] + glyvalhis[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glyvalhis[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:39
-InChIKey=FULZDMOZUZKGQU-GXSJLCMTSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:00:06
+InChIKey=FULZDMOZUZKGQU-KOLCDFICSA-N
  43 43  0  0  1  0  0  0  0  0999 V2000
     1.6716    4.8605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.1363    3.2132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24,9 +25,9 @@ InChIKey=FULZDMOZUZKGQU-GXSJLCMTSA-N
    -0.8090    0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.8795    3.8823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8090    0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.5032    0.9479    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5032    0.9479    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     4.5247    3.9334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.8305    3.5733    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8305    3.5733    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     3.0385    2.5952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4543    0.6389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.6837    2.6463    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,13 +86,13 @@ InChIKey=FULZDMOZUZKGQU-GXSJLCMTSA-N
   9  3  1  0  0  0  0
   9 13  1  0  0  0  0
   9 17  1  0  0  0  0
-  9 36  1  1  0  0  0
+  9 36  1  6  0  0  0
  10 18  2  3  0  0  0
  10 19  1  0  0  0  0
  11  7  1  0  0  0  0
  11 12  1  0  0  0  0
  11 18  1  0  0  0  0
- 11 37  1  6  0  0  0
+ 11 37  1  1  0  0  0
  12 17  2  3  0  0  0
  12 20  1  0  0  0  0
  13 21  2  0  0  0  0
@@ -105,16 +106,17 @@ InChIKey=FULZDMOZUZKGQU-GXSJLCMTSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glyvalhis[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:39
-InChIKey=FULZDMOZUZKGQU-GXSJLCMTSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:00:06
+InChIKey=FULZDMOZUZKGQU-KOLCDFICSA-N
  43 43  0  0  1  0  0  0  0  0999 V2000
     1.6716    4.8605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.1363    3.2132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -124,9 +126,9 @@ InChIKey=FULZDMOZUZKGQU-GXSJLCMTSA-N
    -0.8090    0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.8795    3.8823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8090    0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.5032    0.9479    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5032    0.9479    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     4.5247    3.9334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.8305    3.5733    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8305    3.5733    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     3.0385    2.5952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4543    0.6389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.6837    2.6463    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -185,13 +187,13 @@ InChIKey=FULZDMOZUZKGQU-GXSJLCMTSA-N
   9  3  1  0  0  0  0
   9 13  1  0  0  0  0
   9 17  1  0  0  0  0
-  9 36  1  1  0  0  0
+  9 36  1  6  0  0  0
  10 18  2  3  0  0  0
  10 19  1  0  0  0  0
  11  7  1  0  0  0  0
  11 12  1  0  0  0  0
  11 18  1  0  0  0  0
- 11 37  1  6  0  0  0
+ 11 37  1  1  0  0  0
  12 17  2  3  0  0  0
  12 20  1  0  0  0  0
  13 21  2  0  0  0  0

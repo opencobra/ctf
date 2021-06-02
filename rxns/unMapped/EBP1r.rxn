@@ -1,11 +1,11 @@
 $RXN
 EBP1r
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:07
+
 zymst[r] -> chlstol[r]
   1  1
 $MOL
 zymst[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:50:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:58:10
 InChIKey=CGSJXLIKVBJVRY-XTGBIJOFSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -158,7 +158,7 @@ InChIKey=CGSJXLIKVBJVRY-XTGBIJOFSA-N
 M  END
 $MOL
 chlstol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:03
 InChIKey=PKEPPDGGTSZLBL-FZAJRYLSSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

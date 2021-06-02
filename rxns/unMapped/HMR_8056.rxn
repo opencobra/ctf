@@ -1,11 +1,11 @@
 $RXN
 HMR_8056
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:11
+
 hnifedipine[c] -> hnifedipine[e]
   1  1
 $MOL
 hnifedipine[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:42:39
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:10:48
 InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
  43 44  0  0  1  0  0  0  0  0999 V2000
    -0.7764    2.2414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
 M  END
 $MOL
 hnifedipine[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:42:39
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:10:48
 InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
  43 44  0  0  1  0  0  0  0  0999 V2000
    -0.7764    2.2414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 DESFVSitr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 desfvs[c] -> desfvs[r]
   1  1
 $MOL
 desfvs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:13:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:36:53
 InChIKey=MBQVMSTUZXACTJ-UHFFFAOYSA-M
  47 48  0  0  1  0  0  0  0  0999 V2000
     8.2140   -0.9343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -107,7 +107,7 @@ M  CHG  2  27  -1  28   1
 M  END
 $MOL
 desfvs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:13:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:36:53
 InChIKey=MBQVMSTUZXACTJ-UHFFFAOYSA-M
  47 48  0  0  1  0  0  0  0  0999 V2000
     8.2140   -0.9343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

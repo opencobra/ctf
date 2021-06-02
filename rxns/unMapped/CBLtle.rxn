@@ -1,11 +1,11 @@
 $RXN
 CBLtle
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:14
+
 adocbl[e] -> adocbl[c]
   1  1
 $MOL
 adocbl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:48:10
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:10:11
 InChIKey=ZIHHMGTYZOSFRC-OUCXYWSSSA-L
 209217  0  0  1  0  0  0  0  0999 V2000
    17.0924   -6.8504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -439,7 +439,7 @@ M  CHG  5  75   1  77  -1  78  -1  79  -1 109   2
 M  END
 $MOL
 adocbl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:48:10
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:10:11
 InChIKey=ZIHHMGTYZOSFRC-OUCXYWSSSA-L
 209217  0  0  1  0  0  0  0  0999 V2000
    17.0924   -6.8504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

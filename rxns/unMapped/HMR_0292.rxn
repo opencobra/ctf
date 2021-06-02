@@ -1,11 +1,11 @@
 $RXN
 HMR_0292
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:46
+
 CE2510[e] -> CE2510[c]
   1  1
 $MOL
 CE2510[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:50:33
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:01:22
 InChIKey=BITHHVVYSMSWAG-KTKRTIGZSA-M
  59 58  0  0  0  0  0  0  0  0999 V2000
    12.1244    6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -129,7 +129,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 CE2510[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:50:33
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:01:22
 InChIKey=BITHHVVYSMSWAG-KTKRTIGZSA-M
  59 58  0  0  0  0  0  0  0  0999 V2000
    12.1244    6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

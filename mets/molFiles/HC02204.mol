@@ -1,6 +1,6 @@
 HC02204
-COBRA Toolbox v3.0 - explicitH molecule - 26-Mar-2021 08:12:41
-InChIKey=YBHMPNRDOVPQIN-VSOYFRJCSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:00:53
+InChIKey=YBHMPNRDOVPQIN-KRWDZBQOSA-M
  55 55  0  0  1  0  0  0  0  0999 V2000
    -6.8292    4.3568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.8347    4.4613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -92,7 +92,7 @@ InChIKey=YBHMPNRDOVPQIN-VSOYFRJCSA-M
  11 20  1  0  0  0  0
  11 46  1  0  0  0  0
  11 47  1  0  0  0  0
- 12 14  2  0  0  0  0
+ 12 14  2  3  0  0  0
  12 16  1  0  0  0  0
  12 48  1  0  0  0  0
  13 15  1  0  0  0  0

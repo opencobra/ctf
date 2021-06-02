@@ -1,20 +1,21 @@
 $RXN
 ASPLYSHISt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:24
+
 h[e] + asplyshis[e] -> h[c] + asplyshis[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 asplyshis[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:04
-InChIKey=AKKUDRZKFZWPBH-TUAOUCFPSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:00
+InChIKey=AKKUDRZKFZWPBH-GRYCIOLGSA-N
  54 54  0  0  1  0  0  0  0  0999 V2000
     4.2093    2.9497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.2038    3.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25,9 +26,9 @@ InChIKey=AKKUDRZKFZWPBH-TUAOUCFPSA-N
     1.3090    0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3090    0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    6.9671    0.6272    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    4.3903    1.2271    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    2.5823   -0.7045    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.9671    0.6272    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.3903    1.2271    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5823   -0.7045    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     8.5494   -0.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.9726    0.5226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.9836    0.3136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,15 +99,15 @@ InChIKey=AKKUDRZKFZWPBH-TUAOUCFPSA-N
   9 20  1  0  0  0  0
  10 14  1  0  0  0  0
  10 18  1  0  0  0  0
- 10 43  1  6  0  0  0
+ 10 43  1  1  0  0  0
  11  3  1  0  0  0  0
  11 15  1  0  0  0  0
  11 21  1  0  0  0  0
- 11 44  1  6  0  0  0
+ 11 44  1  1  0  0  0
  12  5  1  0  0  0  0
  12 16  1  0  0  0  0
  12 22  1  0  0  0  0
- 12 45  1  1  0  0  0
+ 12 45  1  6  0  0  0
  13 23  2  0  0  0  0
  13 24  1  0  0  0  0
  14 21  2  3  0  0  0
@@ -127,16 +128,17 @@ InChIKey=AKKUDRZKFZWPBH-TUAOUCFPSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 asplyshis[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:04
-InChIKey=AKKUDRZKFZWPBH-TUAOUCFPSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:00
+InChIKey=AKKUDRZKFZWPBH-GRYCIOLGSA-N
  54 54  0  0  1  0  0  0  0  0999 V2000
     4.2093    2.9497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.2038    3.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -147,9 +149,9 @@ InChIKey=AKKUDRZKFZWPBH-TUAOUCFPSA-N
     1.3090    0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3090    0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    6.9671    0.6272    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    4.3903    1.2271    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    2.5823   -0.7045    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.9671    0.6272    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.3903    1.2271    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5823   -0.7045    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     8.5494   -0.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.9726    0.5226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.9836    0.3136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -220,15 +222,15 @@ InChIKey=AKKUDRZKFZWPBH-TUAOUCFPSA-N
   9 20  1  0  0  0  0
  10 14  1  0  0  0  0
  10 18  1  0  0  0  0
- 10 43  1  6  0  0  0
+ 10 43  1  1  0  0  0
  11  3  1  0  0  0  0
  11 15  1  0  0  0  0
  11 21  1  0  0  0  0
- 11 44  1  6  0  0  0
+ 11 44  1  1  0  0  0
  12  5  1  0  0  0  0
  12 16  1  0  0  0  0
  12 22  1  0  0  0  0
- 12 45  1  1  0  0  0
+ 12 45  1  6  0  0  0
  13 23  2  0  0  0  0
  13 24  1  0  0  0  0
  14 21  2  3  0  0  0

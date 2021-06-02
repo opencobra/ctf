@@ -1,20 +1,21 @@
 $RXN
 GLYTYRLYSt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:24
+
 h[e] + glytyrlys[e] -> h[c] + glytyrlys[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glytyrlys[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:35
-InChIKey=PNUFMLXHOLFRLD-UONOGXRCSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:00:02
+InChIKey=PNUFMLXHOLFRLD-KGLIPLIRSA-O
  53 53  0  0  1  0  0  0  0  0999 V2000
     4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.1962    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28,8 +29,8 @@ InChIKey=PNUFMLXHOLFRLD-UONOGXRCSA-O
     3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.5981    1.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    3.4641   -1.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5981    1.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.4641   -1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     4.3301   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -102,11 +103,11 @@ InChIKey=PNUFMLXHOLFRLD-UONOGXRCSA-O
  13  3  1  0  0  0  0
  13 17  1  0  0  0  0
  13 21  1  0  0  0  0
- 13 43  1  1  0  0  0
+ 13 43  1  6  0  0  0
  14  9  1  0  0  0  0
  14 16  1  0  0  0  0
  14 20  1  0  0  0  0
- 14 44  1  1  0  0  0
+ 14 44  1  6  0  0  0
  15 20  2  3  0  0  0
  15 23  1  0  0  0  0
  16 21  2  3  0  0  0
@@ -126,16 +127,17 @@ M  CHG  1  18   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glytyrlys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:35
-InChIKey=PNUFMLXHOLFRLD-UONOGXRCSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:00:02
+InChIKey=PNUFMLXHOLFRLD-KGLIPLIRSA-O
  53 53  0  0  1  0  0  0  0  0999 V2000
     4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.1962    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -149,8 +151,8 @@ InChIKey=PNUFMLXHOLFRLD-UONOGXRCSA-O
     3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.5981    1.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    3.4641   -1.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5981    1.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.4641   -1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     4.3301   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -223,11 +225,11 @@ InChIKey=PNUFMLXHOLFRLD-UONOGXRCSA-O
  13  3  1  0  0  0  0
  13 17  1  0  0  0  0
  13 21  1  0  0  0  0
- 13 43  1  1  0  0  0
+ 13 43  1  6  0  0  0
  14  9  1  0  0  0  0
  14 16  1  0  0  0  0
  14 20  1  0  0  0  0
- 14 44  1  1  0  0  0
+ 14 44  1  6  0  0  0
  15 20  2  3  0  0  0
  15 23  1  0  0  0  0
  16 21  2  3  0  0  0

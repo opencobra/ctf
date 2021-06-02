@@ -1,11 +1,11 @@
 $RXN
 BILIVERDt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
+
 na1[c] + biliverd[c] -> na1[e] + biliverd[e]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 biliverd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:35
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:22:41
 InChIKey=QBUVFDKTZJNUPP-BBROENKCSA-L
  75 78  0  0  0  0  0  0  0  0999 V2000
     7.4541   -5.7433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -173,7 +173,7 @@ M  CHG  2  39  -1  41  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -181,7 +181,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 biliverd[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:35
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:22:41
 InChIKey=QBUVFDKTZJNUPP-BBROENKCSA-L
  75 78  0  0  0  0  0  0  0  0999 V2000
     7.4541   -5.7433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

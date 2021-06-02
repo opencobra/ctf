@@ -1,11 +1,11 @@
 $RXN
 ACORNt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
+
 acorn[c] -> acorn[e]
   1  1
 $MOL
 acorn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:47:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:09:28
 InChIKey=JRLGPAXAGHMNOL-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     0.8660   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -62,7 +62,7 @@ InChIKey=JRLGPAXAGHMNOL-LURJTMIESA-N
 M  END
 $MOL
 acorn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:47:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:09:28
 InChIKey=JRLGPAXAGHMNOL-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     0.8660   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

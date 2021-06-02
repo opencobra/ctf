@@ -1,0 +1,21 @@
+$RXN
+NI2tex
+
+ni2[e] -> ni2[p]
+  1  1
+$MOL
+ni2[e]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 23:10:17
+InChIKey=VEQPNABPJHWNSG-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Ni  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+ni2[p]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 23:10:17
+InChIKey=VEQPNABPJHWNSG-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Ni  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END

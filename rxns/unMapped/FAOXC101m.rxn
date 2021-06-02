@@ -1,11 +1,11 @@
 $RXN
 FAOXC101m
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:11
+
 dece3coa[m] -> dc2coa[m]
   1  1
 $MOL
 dece3coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:12:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:36:15
 InChIKey=CQGVNMQHZQJNII-ZJZQAHHTSA-J
 107109  0  0  1  0  0  0  0  0999 V2000
    15.4961   -0.6457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -228,7 +228,7 @@ M  CHG  4  39  -1  43  -1  44  -1  45  -1
 M  END
 $MOL
 dc2coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:33
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:54
 InChIKey=MGNBGCRQQFMNBM-YJHHLLFWSA-J
 107109  0  0  1  0  0  0  0  0999 V2000
    15.4961   -0.6457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

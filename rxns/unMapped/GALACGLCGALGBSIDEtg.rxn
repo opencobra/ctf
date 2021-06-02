@@ -1,11 +1,11 @@
 $RXN
 GALACGLCGALGBSIDEtg
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:13
+
 galacglcgalgbside_hs[c] -> galacglcgalgbside_hs[g]
   1  1
 $MOL
 galacglcgalgbside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:05
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:52:46
 
 246253  0  0  1  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -510,7 +510,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:05
 M  END
 $MOL
 galacglcgalgbside_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:05
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:52:46
 
 246253  0  0  1  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

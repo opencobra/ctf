@@ -1,11 +1,11 @@
 $RXN
 UAG4E
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:35
+
 uacgam[c] -> udpacgal[c]
   1  1
 $MOL
 uacgam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:14
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:50:58
 InChIKey=LFTYTUAZOPRMMI-SQUNQTHHSA-L
  64 66  0  0  1  0  0  0  0  0999 V2000
     4.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -142,7 +142,7 @@ M  CHG  2  22  -1  23  -1
 M  END
 $MOL
 udpacgal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:14
 InChIKey=LFTYTUAZOPRMMI-CANYFDIJSA-L
  64 66  0  0  1  0  0  0  0  0999 V2000
     4.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

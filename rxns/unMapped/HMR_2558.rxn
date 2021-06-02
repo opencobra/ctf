@@ -1,27 +1,29 @@
 $RXN
 HMR_2558
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:56
+
 2 h[c] + CE7091[c] -> 15HPET[c]
   3  1
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 CE7091[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:37:10
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:41:30
 InChIKey=FPMFSFWYWZLDKP-LJQANCHMSA-M
  53 52  0  0  1  0  0  0  0  0999 V2000
    -3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +135,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 15HPET[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:05:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:19:44
 InChIKey=BFWYTORDSFIVKP-VAEKSGALSA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

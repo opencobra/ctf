@@ -1,11 +1,11 @@
 $RXN
 S2L2FN2M2MASNtly
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:27
+
 s2l2fn2m2masn[e] -> s2l2fn2m2masn[l]
   1  1
 $MOL
 s2l2fn2m2masn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:26:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:29:33
 InChIKey=FNZLKVNUWIIPSJ-UHNVWZDZSA-N
  25 24  0  0  1  0  0  0  0  0999 V2000
     1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -60,7 +60,7 @@ InChIKey=FNZLKVNUWIIPSJ-UHNVWZDZSA-N
 M  END
 $MOL
 s2l2fn2m2masn[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:26:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:29:33
 InChIKey=FNZLKVNUWIIPSJ-UHNVWZDZSA-N
  25 24  0  0  1  0  0  0  0  0999 V2000
     1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

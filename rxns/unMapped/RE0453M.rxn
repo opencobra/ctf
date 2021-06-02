@@ -1,11 +1,11 @@
 $RXN
 RE0453M
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:53
+
 datp[m] + dtdp[m] -> dadp[m] + dttp[m]
   2  2
 $MOL
 datp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:29
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:50
 InChIKey=SUYVUBYJARFZHO-RRKCRQDMSA-J
  42 44  0  0  1  0  0  0  0  0999 V2000
    -2.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ M  CHG  4  17  -1  18  -1  20  -1  22  -1
 M  END
 $MOL
 dtdp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:24
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:43:35
 InChIKey=UJLXYODCHAELLY-XLPZGREQSA-K
  38 39  0  0  1  0  0  0  0  0999 V2000
    -5.4478   -6.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -182,7 +182,7 @@ M  CHG  3  14  -1  16  -1  17  -1
 M  END
 $MOL
 dadp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:29
 InChIKey=DAEAPNUQQAICNR-RRKCRQDMSA-K
  38 40  0  0  1  0  0  0  0  0999 V2000
    -4.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -267,7 +267,7 @@ M  CHG  3  17  -1  18  -1  20  -1
 M  END
 $MOL
 dttp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:20:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:44:15
 InChIKey=NHVNXKFIZYSCEB-XLPZGREQSA-J
  42 43  0  0  1  0  0  0  0  0999 V2000
    -3.4478    6.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

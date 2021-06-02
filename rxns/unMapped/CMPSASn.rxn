@@ -1,11 +1,11 @@
 $RXN
 CMPSASn
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:01
+
 acnam[n] + ctp[n] -> cmpacna[n] + ppi[n]
   2  2
 $MOL
 acnam[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:47:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:08:59
 InChIKey=SQVRNKJHWKZAKO-PFQGKNLYSA-M
  39 39  0  0  1  0  0  0  0  0999 V2000
    -0.8660    3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -90,7 +90,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 ctp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:08:21
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:31:47
 InChIKey=PCDQPRRSZKQHHS-XVFCMESISA-J
  41 42  0  0  1  0  0  0  0  0999 V2000
    -7.7105   -0.2138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -180,7 +180,7 @@ M  CHG  4  15  -1  16  -1  17  -1  19  -1
 M  END
 $MOL
 cmpacna[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:51
 InChIKey=TXCIAUNLDRJGJZ-BILDWYJOSA-L
  70 72  0  0  1  0  0  0  0  0999 V2000
     3.3155   -3.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -329,7 +329,7 @@ M  CHG  2  26  -1  33  -1
 M  END
 $MOL
 ppi[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:40
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0

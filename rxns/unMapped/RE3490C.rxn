@@ -1,11 +1,11 @@
 $RXN
 RE3490C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:08
+
 15HPET[c] -> h2o[c] + CE7082[c]
   1  2
 $MOL
 15HPET[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:05:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:19:44
 InChIKey=BFWYTORDSFIVKP-VAEKSGALSA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -132,7 +132,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE7082[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:36:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:40:52
 InChIKey=WLKCSMCLEKGITB-DBVSHIMFSA-M
  52 51  0  0  1  0  0  0  0  0999 V2000
     6.9282   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

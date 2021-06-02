@@ -1,11 +1,11 @@
 $RXN
 r1027
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:38
+
 dgchol[e] + HC01787[e] -> dgchol[c] + HC01787[c]
   2  2
 $MOL
 dgchol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:13:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:36:57
 InChIKey=GHCZAUBVMUEKKP-GYPHWSFCSA-N
  75 78  0  0  1  0  0  0  0  0999 V2000
    -0.8477    3.4161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -164,7 +164,7 @@ InChIKey=GHCZAUBVMUEKKP-GYPHWSFCSA-N
 M  END
 $MOL
 HC01787[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:44:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:53:37
 InChIKey=ZGUYXYAGTSSIIA-DUQBLKLASA-M
  40 40  0  0  1  0  0  0  0  0999 V2000
     0.5000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -251,7 +251,7 @@ M  CHG  2  18  -1  23   1
 M  END
 $MOL
 dgchol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:13:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:36:57
 InChIKey=GHCZAUBVMUEKKP-GYPHWSFCSA-N
  75 78  0  0  1  0  0  0  0  0999 V2000
    -0.8477    3.4161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -410,7 +410,7 @@ InChIKey=GHCZAUBVMUEKKP-GYPHWSFCSA-N
 M  END
 $MOL
 HC01787[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:44:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:53:37
 InChIKey=ZGUYXYAGTSSIIA-DUQBLKLASA-M
  40 40  0  0  1  0  0  0  0  0999 V2000
     0.5000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

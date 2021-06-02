@@ -1,11 +1,11 @@
 $RXN
 PRISTtx
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:26
+
 prist[x] -> prist[c]
   1  1
 $MOL
 prist[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:37
 InChIKey=PAHGJZDQXIOYTH-UHFFFAOYSA-M
  58 57  0  0  1  0  0  0  0  0999 V2000
     6.9282   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -127,7 +127,7 @@ M  CHG  1  21  -1
 M  END
 $MOL
 prist[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:37
 InChIKey=PAHGJZDQXIOYTH-UHFFFAOYSA-M
  58 57  0  0  1  0  0  0  0  0999 V2000
     6.9282   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

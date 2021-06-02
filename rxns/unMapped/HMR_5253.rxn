@@ -1,11 +1,11 @@
 $RXN
 HMR_5253
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
+
 ps_hs[l] -> ps_hs[r]
   1  1
 $MOL
 ps_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:23:24
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:25:30
 InChIKey=UNJJBGNPUUVVFQ-ZJUUUORDSA-N
  49 48  0  0  1  0  0  0  0  0999 V2000
    -3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -108,7 +108,7 @@ InChIKey=UNJJBGNPUUVVFQ-ZJUUUORDSA-N
 M  END
 $MOL
 ps_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:23:24
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:25:30
 InChIKey=UNJJBGNPUUVVFQ-ZJUUUORDSA-N
  49 48  0  0  1  0  0  0  0  0999 V2000
    -3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

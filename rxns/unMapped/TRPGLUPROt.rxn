@@ -1,20 +1,21 @@
 $RXN
 TRPGLUPROt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:26
+
 h[e] + trpglupro[e] -> h[c] + trpglupro[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 trpglupro[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:40:06
-InChIKey=KDWZQYUTMJSYRJ-USXIJHARSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:45:52
+InChIKey=KDWZQYUTMJSYRJ-PVAVHDDUSA-M
  56 58  0  0  1  0  0  0  0  0999 V2000
    -6.8089   -0.1785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -7.6750    0.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29,10 +30,10 @@ InChIKey=KDWZQYUTMJSYRJ-USXIJHARSA-M
    -5.6065    2.9042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.1998    1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.9429    1.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.9126    0.8316    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.9126    0.8316    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -6.8089    1.8215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2872    1.1590    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    0.4067   -0.9135    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2872    1.1590    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4067   -0.9135    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.2579    3.5963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.9344    0.6237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9781    0.2079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -108,15 +109,15 @@ InChIKey=KDWZQYUTMJSYRJ-USXIJHARSA-M
  13 15  1  0  0  0  0
  14 19  1  0  0  0  0
  14 22  1  0  0  0  0
- 14 49  1  6  0  0  0
+ 14 49  1  1  0  0  0
  15 23  1  0  0  0  0
  16  7  1  0  0  0  0
  16 20  1  0  0  0  0
  16 24  1  0  0  0  0
- 16 50  1  1  0  0  0
+ 16 50  1  6  0  0  0
  17 21  1  0  0  0  0
  17 25  1  0  0  0  0
- 17 51  1  1  0  0  0
+ 17 51  1  6  0  0  0
  18 26  2  0  0  0  0
  18 27  1  0  0  0  0
  19 24  2  3  0  0  0
@@ -134,16 +135,17 @@ M  CHG  1  27  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 trpglupro[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:40:06
-InChIKey=KDWZQYUTMJSYRJ-USXIJHARSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:45:52
+InChIKey=KDWZQYUTMJSYRJ-PVAVHDDUSA-M
  56 58  0  0  1  0  0  0  0  0999 V2000
    -6.8089   -0.1785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -7.6750    0.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -158,10 +160,10 @@ InChIKey=KDWZQYUTMJSYRJ-USXIJHARSA-M
    -5.6065    2.9042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.1998    1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.9429    1.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.9126    0.8316    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.9126    0.8316    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -6.8089    1.8215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2872    1.1590    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    0.4067   -0.9135    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2872    1.1590    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4067   -0.9135    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.2579    3.5963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.9344    0.6237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9781    0.2079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -237,15 +239,15 @@ InChIKey=KDWZQYUTMJSYRJ-USXIJHARSA-M
  13 15  1  0  0  0  0
  14 19  1  0  0  0  0
  14 22  1  0  0  0  0
- 14 49  1  6  0  0  0
+ 14 49  1  1  0  0  0
  15 23  1  0  0  0  0
  16  7  1  0  0  0  0
  16 20  1  0  0  0  0
  16 24  1  0  0  0  0
- 16 50  1  1  0  0  0
+ 16 50  1  6  0  0  0
  17 21  1  0  0  0  0
  17 25  1  0  0  0  0
- 17 51  1  1  0  0  0
+ 17 51  1  6  0  0  0
  18 26  2  0  0  0  0
  18 27  1  0  0  0  0
  19 24  2  3  0  0  0

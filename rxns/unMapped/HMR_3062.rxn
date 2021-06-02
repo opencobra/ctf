@@ -1,11 +1,11 @@
 $RXN
 HMR_3062
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:00
+
 ttccoa[x] + o2[x] -> h2o2[x] + CE2245[x]
   2  2
 $MOL
 ttccoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:48:53
 InChIKey=MOYMQYZWIUKGGY-YOUZJQHUSA-J
 151153  0  0  1  0  0  0  0  0999 V2000
    23.6089    8.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -316,7 +316,7 @@ M  CHG  4  53  -1  57  -1  58  -1  59  -1
 M  END
 $MOL
 o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:33
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -325,7 +325,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 h2o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:20
 InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -338,8 +338,8 @@ InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
 M  END
 $MOL
 CE2245[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:47:41
-InChIKey=UVJKZCSQLMWPMV-BWKDRKIHSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:58:27
+InChIKey=UVJKZCSQLMWPMV-UHFFFAOYSA-J
 149151  0  0  1  0  0  0  0  0999 V2000
    23.6089    8.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -384,7 +384,7 @@ InChIKey=UVJKZCSQLMWPMV-BWKDRKIHSA-J
    -5.8349   -2.6561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.1124   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.2424   -3.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.4487   -1.8364    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.4487   -1.8364    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     4.0834   -4.3539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.7485   -2.2493    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     8.4229   -4.7651    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -562,7 +562,7 @@ InChIKey=UVJKZCSQLMWPMV-BWKDRKIHSA-J
  23 24  1  0  0  0  0
  23121  1  0  0  0  0
  23122  1  0  0  0  0
- 24 25  2  0  0  0  0
+ 24 25  2  3  0  0  0
  24123  1  0  0  0  0
  25 36  1  0  0  0  0
  25124  1  0  0  0  0
@@ -622,7 +622,7 @@ InChIKey=UVJKZCSQLMWPMV-BWKDRKIHSA-J
  43 57  1  0  0  0  0
  44 52  1  0  0  0  0
  44 67  1  0  0  0  0
- 44143  1  1  0  0  0
+ 44143  1  0  0  0  0
  46144  1  0  0  0  0
  46145  1  0  0  0  0
  55146  1  0  0  0  0

@@ -1,7 +1,7 @@
 
 //
 SELECTED AAM MAPPING
-[OH:1][O-:2].[H+:3]>>[OH:1][O-:2].[H+:3]
+[OH:1][O-:2]>>[OH:1][O-:2]
 
 
 //

@@ -1,11 +1,11 @@
 $RXN
 2M3HBUte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 2m3hbu[c] -> 2m3hbu[e]
   1  1
 $MOL
 2m3hbu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:12:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:25:05
 InChIKey=VEXDRERIMPLZLU-UHFFFAOYSA-M
  17 16  0  0  1  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 2m3hbu[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:12:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:25:05
 InChIKey=VEXDRERIMPLZLU-UHFFFAOYSA-M
  17 16  0  0  1  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

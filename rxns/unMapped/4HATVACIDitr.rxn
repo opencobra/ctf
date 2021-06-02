@@ -1,11 +1,11 @@
 $RXN
 4HATVACIDitr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 4hatvacid[r] -> 4hatvacid[c]
   1  1
 $MOL
 4hatvacid[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:26:14
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:36:37
 InChIKey=SOZOATLLFFVAPM-UHFFFAOYSA-M
  76 79  0  0  1  0  0  0  0  0999 V2000
    -1.1810    1.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -167,7 +167,7 @@ M  CHG  1  37  -1
 M  END
 $MOL
 4hatvacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:26:14
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:36:37
 InChIKey=SOZOATLLFFVAPM-UHFFFAOYSA-M
  76 79  0  0  1  0  0  0  0  0999 V2000
    -1.1810    1.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

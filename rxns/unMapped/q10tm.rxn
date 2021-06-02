@@ -1,11 +1,11 @@
 $RXN
 q10tm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:16
+
 q10[c] -> q10[m]
   1  1
 $MOL
 q10[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:18
 InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 153153  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -317,7 +317,7 @@ InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 M  END
 $MOL
 q10[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:18
 InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 153153  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

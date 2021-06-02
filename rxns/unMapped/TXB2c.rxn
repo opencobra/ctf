@@ -1,11 +1,11 @@
 $RXN
 TXB2c
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:22
+
 h2o[c] + txa2[c] -> txb2[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 txa2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:49:19
 InChIKey=DSNBHJFQCNUKMA-UJIKMVLPSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
     3.4829    1.0054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -136,8 +136,8 @@ M  CHG  1  23  -1
 M  END
 $MOL
 txb2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:56
-InChIKey=XNRNNGPBEPRNAR-IUMIINJXSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:49:25
+InChIKey=XNRNNGPBEPRNAR-NSBREPTMSA-M
  59 59  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.9282   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -230,7 +230,7 @@ InChIKey=XNRNNGPBEPRNAR-IUMIINJXSA-M
  11 19  1  0  0  0  0
  11 46  1  0  0  0  0
  11 47  1  0  0  0  0
- 12 13  2  3  0  0  0
+ 12 13  2  0  0  0  0
  12 15  1  0  0  0  0
  12 48  1  0  0  0  0
  13 49  1  0  0  0  0

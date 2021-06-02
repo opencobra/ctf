@@ -1,11 +1,11 @@
 $RXN
 PMI1346PH
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:25
+
 h2o[c] + ppmi1346p[c] -> h[c] + pi[c] + mi13456p[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 ppmi1346p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:55
 InChIKey=IMQLKJBTEOYOSI-GPIVLXJGSA-C
  43 43  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -110,15 +110,16 @@ M  CHG  3  19  -1  20  -1  22  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -136,7 +137,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 mi13456p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:02:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:59:42
 InChIKey=CTPQAXVNYGZUAJ-KXXVROSKSA-D
  39 39  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

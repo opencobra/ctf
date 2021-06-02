@@ -1,11 +1,11 @@
 $RXN
 PCRESOLup
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:23
+
 pcresol[e] -> pcresol[c]
   1  1
 $MOL
 pcresol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:14:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:15:03
 InChIKey=IWDCLRJOBJJRNH-UHFFFAOYSA-M
  15 15  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42,7 +42,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 pcresol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:14:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:15:03
 InChIKey=IWDCLRJOBJJRNH-UHFFFAOYSA-M
  15 15  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

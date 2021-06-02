@@ -1,11 +1,11 @@
 $RXN
 HMR_9581
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:12
+
 M02035[c] -> M02035[e]
   1  1
 $MOL
 M02035[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:26:33
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:45:51
 InChIKey=ZRALSGWEFCBTJO-UHFFFAOYSA-N
   9  8  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28,7 +28,7 @@ InChIKey=ZRALSGWEFCBTJO-UHFFFAOYSA-N
 M  END
 $MOL
 M02035[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:26:33
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:45:51
 InChIKey=ZRALSGWEFCBTJO-UHFFFAOYSA-N
   9  8  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 ALLOPtepvb
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:18
+
 allop[e] -> allop[c]
   1  1
 $MOL
 allop[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:51:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:13:19
 InChIKey=OFCNXPDARWKPPY-UHFFFAOYSA-N
  14 15  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40,7 +40,7 @@ InChIKey=OFCNXPDARWKPPY-UHFFFAOYSA-N
 M  END
 $MOL
 allop[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:51:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:13:19
 InChIKey=OFCNXPDARWKPPY-UHFFFAOYSA-N
  14 15  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

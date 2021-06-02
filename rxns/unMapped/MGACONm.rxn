@@ -1,11 +1,11 @@
 $RXN
 MGACONm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:20
+
 citmcoa_L[m] -> h2o[m] + mescoa[m]
   1  2
 $MOL
 citmcoa_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:06
 InChIKey=XYGOWHUIVNMEIA-XBVYHAPZSA-I
  94 96  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -202,7 +202,7 @@ M  CHG  5  34  -1  38  -1  40  -1  42  -1  43  -1
 M  END
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -213,7 +213,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 mescoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:01:21
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:58:01
 InChIKey=LVBVWNJPMXCQJE-CBBDEUQJSA-I
  91 93  0  0  1  0  0  0  0  0999 V2000
    11.1876   -8.4198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

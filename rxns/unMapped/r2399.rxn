@@ -1,19 +1,20 @@
 $RXN
 r2399
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:51
+
 h[c] + lys_L[c] + arg_L[m] -> h[m] + lys_L[m] + arg_L[c]
   3  3
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 lys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:49
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:57
 InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -69,7 +70,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 arg_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:32
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -129,15 +130,16 @@ M  CHG  1   7   1
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 lys_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:49
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:57
 InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -193,7 +195,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 arg_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:54:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:32
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

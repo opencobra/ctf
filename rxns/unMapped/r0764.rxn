@@ -1,19 +1,20 @@
 $RXN
 r0764
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:36
+
 h[c] + malACP[c] + HC01592[c] -> co2[c] + ACP[c] + HC01593[c]
   3  3
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 malACP[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:59:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:56:15
 
  11 10  0  0  0  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40,7 +41,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:59:47
 M  END
 $MOL
 HC01592[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:43:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:51:21
 
  20 19  0  0  0  0  0  0  0  0999 V2000
     4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +86,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:43:20
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:11
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -96,7 +97,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 ACP[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:33:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:44:32
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
@@ -107,7 +108,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:33:59
 M  END
 $MOL
 HC01593[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:43:24
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:51:25
 
  25 24  0  0  0  0  0  0  0  0999 V2000
     4.3301   -3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

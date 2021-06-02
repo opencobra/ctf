@@ -1,11 +1,11 @@
 $RXN
 AM1CGLCitr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 am1cglc[c] -> am1cglc[r]
   1  1
 $MOL
 am1cglc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:52:21
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:14:34
 InChIKey=OJYWYSNQBNRFOE-UHFFFAOYSA-M
 216218  0  0  1  0  0  0  0  0999 V2000
    -6.5062   -3.6490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -446,7 +446,7 @@ M  CHG  1  84  -1
 M  END
 $MOL
 am1cglc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:52:21
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:14:34
 InChIKey=OJYWYSNQBNRFOE-UHFFFAOYSA-M
 216218  0  0  1  0  0  0  0  0999 V2000
    -6.5062   -3.6490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 GALGALFUCFUCGALACGLCGALACGLCGAL14ACGLCGALGLUSIDEte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:13
+
 galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[e] -> galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[c]
   1  1
 $MOL
 galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:35
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:53:21
 
 328339  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -678,7 +678,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:35
 M  END
 $MOL
 galgalfucfucgalacglcgalacglcgal14acglcgalgluside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:28:35
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:53:21
 
 328339  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

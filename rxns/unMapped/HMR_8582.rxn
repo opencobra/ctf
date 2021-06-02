@@ -1,11 +1,11 @@
 $RXN
 HMR_8582
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:11
+
 h2o[c] + malt[c] -> 2 fru[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 malt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:59:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:56:29
 InChIKey=GUBGYTABKSRVRQ-DKBJLJRDSA-N
  45 46  0  0  1  0  0  0  0  0999 V2000
     0.8660    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -113,7 +113,7 @@ InChIKey=GUBGYTABKSRVRQ-DKBJLJRDSA-N
 M  END
 $MOL
 fru[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:24:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:49:11
 InChIKey=RFSUNEUAIZKAJO-ARQDHWQXSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     1.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -167,7 +167,7 @@ InChIKey=RFSUNEUAIZKAJO-ARQDHWQXSA-N
 M  END
 $MOL
 fru[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:24:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:49:11
 InChIKey=RFSUNEUAIZKAJO-ARQDHWQXSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     1.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

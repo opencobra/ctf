@@ -1,11 +1,11 @@
 $RXN
 SMS4
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:19
+
 pchol_hs[c] + crm_hs[c] -> dag_hs[c] + sphmyln18116_hs[c]
   2  2
 $MOL
 pchol_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:01
 
  40 39  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ M  CHG  2   2   1  10  -1
 M  END
 $MOL
 crm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:18
 
  60 59  0  0  1  0  0  0  0  0999 V2000
    12.9904   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -216,7 +216,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:58
 M  END
 $MOL
 dag_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:14
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:35
 InChIKey=XIAZEYRSKHAPND-UHFFFAOYSA-N
 120119  0  0  1  0  0  0  0  0999 V2000
    -9.5263  -17.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -461,8 +461,8 @@ InChIKey=XIAZEYRSKHAPND-UHFFFAOYSA-N
 M  END
 $MOL
 sphmyln18116_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:30:00
-InChIKey=RWKUXQNLWDTSLO-NHQGMKOOSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:33:25
+InChIKey=RWKUXQNLWDTSLO-UHFFFAOYSA-O
 128127  0  0  1  0  0  0  0  0999 V2000
   -10.2321  -12.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    11.7679    3.0622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -684,7 +684,7 @@ InChIKey=RWKUXQNLWDTSLO-NHQGMKOOSA-O
  29 31  1  0  0  0  0
  29110  1  0  0  0  0
  29111  1  0  0  0  0
- 30 32  2  0  0  0  0
+ 30 32  2  3  0  0  0
  30112  1  0  0  0  0
  31 33  1  0  0  0  0
  31113  1  0  0  0  0

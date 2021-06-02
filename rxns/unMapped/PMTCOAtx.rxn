@@ -1,11 +1,11 @@
 $RXN
 PMTCOAtx
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:25
+
 pmtcoa[c] -> pmtcoa[x]
   1  1
 $MOL
 pmtcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:42
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:08
 InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J
 127129  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -268,7 +268,7 @@ M  CHG  4  45  -1  49  -1  50  -1  51  -1
 M  END
 $MOL
 pmtcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:42
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:08
 InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J
 127129  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

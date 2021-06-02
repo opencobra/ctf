@@ -1,11 +1,11 @@
 $RXN
 HMR_7109
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:09
+
 C07535[e] -> C07535[c]
   1  1
 $MOL
 C07535[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:38:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:48:52
 InChIKey=FMMWHPNWAFZXNH-UHFFFAOYSA-N
  32 36  0  0  0  0  0  0  0  0999 V2000
     3.1809    0.9216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,7 +79,7 @@ InChIKey=FMMWHPNWAFZXNH-UHFFFAOYSA-N
 M  END
 $MOL
 C07535[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:38:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:48:52
 InChIKey=FMMWHPNWAFZXNH-UHFFFAOYSA-N
  32 36  0  0  0  0  0  0  0  0999 V2000
     3.1809    0.9216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

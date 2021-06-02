@@ -1,11 +1,11 @@
 $RXN
-
-  EC-BLAST     Rtotalter
-
+Rtotalter
+COBRA Toolbox v3.0 - Atom mapped - 31-May-2021 17:17:06
+Rtotal[c] -> Rtotal[r]
   1  1
 $MOL
 Rtotal[c]
-  RDT     03032105212D
+  RDT     05302113372D
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     0.9743    0.5625    0.0000 *   0  0  0  0  0  0  0  0  0  1  0  0
@@ -19,7 +19,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 Rtotal[r]
-  RDT     03032105212D
+  RDT     05302113372D
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     0.9743    0.5625    0.0000 *   0  0  0  0  0  0  0  0  0  1  0  0

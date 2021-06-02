@@ -1,11 +1,11 @@
 $RXN
 2MCITt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:49
+
 2mcit[c] -> 2mcit[e]
   1  1
 $MOL
 2mcit[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:15:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:25:42
 InChIKey=YNOXCRMFGMSKIJ-NFNCENRGSA-K
  21 20  0  0  1  0  0  0  0  0999 V2000
    -0.3660   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  3   9  -1  11  -1  13  -1
 M  END
 $MOL
 2mcit[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:15:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:25:42
 InChIKey=YNOXCRMFGMSKIJ-NFNCENRGSA-K
  21 20  0  0  1  0  0  0  0  0999 V2000
    -0.3660   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

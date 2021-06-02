@@ -1,11 +1,11 @@
 $RXN
 ASNPHELAT2tc
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:14
+
 asn_L[e] + phe_L[c] -> asn_L[c] + phe_L[e]
   2  2
 $MOL
 asn_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:43
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:19:30
 InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -44,7 +44,7 @@ InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:15
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -96,7 +96,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
 M  END
 $MOL
 asn_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:56:43
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:19:30
 InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -135,7 +135,7 @@ InChIKey=DCXYFEDJOCDNAF-REOHCLBHSA-N
 M  END
 $MOL
 phe_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:15
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

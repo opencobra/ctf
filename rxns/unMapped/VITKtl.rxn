@@ -1,11 +1,11 @@
 $RXN
 VITKtl
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:15
+
 phyQ[c] -> phyQ[e]
   1  1
 $MOL
 phyQ[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:14
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:36
 InChIKey=MBWXNTAXLNYFJB-NKFFZRIASA-N
  79 80  0  0  1  0  0  0  0  0999 V2000
    -9.5263    6.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -170,7 +170,7 @@ InChIKey=MBWXNTAXLNYFJB-NKFFZRIASA-N
 M  END
 $MOL
 phyQ[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:14
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:36
 InChIKey=MBWXNTAXLNYFJB-NKFFZRIASA-N
  79 80  0  0  1  0  0  0  0  0999 V2000
    -9.5263    6.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

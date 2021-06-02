@@ -1,11 +1,11 @@
 $RXN
 HMR_6727
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:07
+
 phpyr[c] -> M00647[c]
   1  1
 $MOL
 phpyr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:21
 InChIKey=BTNMPGBKDVTSJY-UHFFFAOYSA-M
  19 19  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 M00647[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:08:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:23:32
 InChIKey=DEDGUGJNLNLJSR-VURMDHGXSA-M
  19 19  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

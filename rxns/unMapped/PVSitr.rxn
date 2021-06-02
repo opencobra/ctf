@@ -1,11 +1,11 @@
 $RXN
 PVSitr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 pvs[c] -> pvs[r]
   1  1
 $MOL
 pvs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:26:33
 InChIKey=TUZYXOIXSAXUGO-PZAWKZKUSA-N
  66 67  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -144,7 +144,7 @@ InChIKey=TUZYXOIXSAXUGO-PZAWKZKUSA-N
 M  END
 $MOL
 pvs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:26:33
 InChIKey=TUZYXOIXSAXUGO-PZAWKZKUSA-N
  66 67  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

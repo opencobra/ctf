@@ -1,11 +1,11 @@
 $RXN
 CE4968te
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 3 na1[c] + cl[c] + CE4968[c] -> 3 na1[e] + cl[e] + CE4968[e]
   5  5
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -29,7 +29,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:16
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
@@ -37,7 +37,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 CE4968[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:03:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:14:02
 InChIKey=ZRQXMKMBBMNNQC-UHFFFAOYSA-M
  23 22  0  0  0  0  0  0  0  0999 V2000
     5.1962   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -97,7 +97,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -105,7 +105,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -113,7 +113,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:16
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 CE4968[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:03:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:14:02
 InChIKey=ZRQXMKMBBMNNQC-UHFFFAOYSA-M
  23 22  0  0  0  0  0  0  0  0999 V2000
     5.1962   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 DIDECAETH
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:21
+
 h2o[e] + pe12_hs[e] -> pa_hs[e] + didecaeth[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pe12_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:14:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:15:29
 InChIKey=IZDRGPDUDLWAGR-UHFFFAOYSA-N
  62 61  0  0  1  0  0  0  0  0999 V2000
    10.0000   -6.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -145,7 +145,7 @@ InChIKey=IZDRGPDUDLWAGR-UHFFFAOYSA-N
 M  END
 $MOL
 pa_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:10:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:46
 
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -3.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -193,7 +193,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 didecaeth[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:15:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:38:40
 InChIKey=QZXSMBBFBXPQHI-UHFFFAOYSA-N
  46 45  0  0  0  0  0  0  0  0999 V2000
     8.6603   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 RE2958C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:01
+
 h2o[r] + prostgi2[r] -> CE0955[r]
   2  1
 $MOL
 h2o[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,8 +16,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 prostgi2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:22:58
-InChIKey=KAQKFAOMNZTLHT-OZUDYXHBSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:25:00
+InChIKey=KAQKFAOMNZTLHT-IJCKSNOWSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
    -1.7354   -5.0498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7354   -5.0498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -136,7 +136,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 CE0955[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:40:50
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:51:30
 InChIKey=KFGOFTHODYBSGM-ZUNNJUQCSA-M
  59 59  0  0  1  0  0  0  0  0999 V2000
     6.4801    4.4524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

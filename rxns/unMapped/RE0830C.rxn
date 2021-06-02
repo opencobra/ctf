@@ -1,11 +1,11 @@
 $RXN
 RE0830C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:53
+
 thbpt4acam[c] -> h2o[c] + CE2705[c]
   1  2
 $MOL
 thbpt4acam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:40:33
 InChIKey=KJKIEFUPAPPGBC-XXKOCQOQSA-N
  33 34  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -78,7 +78,7 @@ InChIKey=KJKIEFUPAPPGBC-XXKOCQOQSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE2705[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:51:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:02:47
 InChIKey=FEMXZDUTFRTWPE-DZSWIPIPSA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

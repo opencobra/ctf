@@ -1,11 +1,11 @@
 $RXN
 CITMCOALm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:01
+
 citmcoa_L[m] -> pyr[m] + accoa[m]
   1  2
 $MOL
 citmcoa_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:06
 InChIKey=XYGOWHUIVNMEIA-XBVYHAPZSA-I
  94 96  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -202,7 +202,7 @@ M  CHG  5  34  -1  38  -1  40  -1  42  -1  43  -1
 M  END
 $MOL
 pyr[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:13
 InChIKey=LCTONWCANYUPML-UHFFFAOYSA-M
   9  8  0  0  0  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -226,7 +226,7 @@ M  CHG  1   5  -1
 M  END
 $MOL
 accoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:44:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:05:51
 InChIKey=ZSLZBFCDCINBPY-ZSJPKINUSA-J
  85 87  0  0  1  0  0  0  0  0999 V2000
    14.4363   -5.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

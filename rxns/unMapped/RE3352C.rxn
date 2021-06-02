@@ -1,11 +1,11 @@
 $RXN
 RE3352C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:06
+
 h2o[c] + C11821[c] -> co2[c] + alltn[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 C11821[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:38:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:49:34
 InChIKey=LTQYPAVLAYVKTK-YFKPBYRVSA-N
  17 18  0  0  1  0  0  0  0  0999 V2000
     0.9511    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ InChIKey=LTQYPAVLAYVKTK-YFKPBYRVSA-N
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:11
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -68,7 +68,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 alltn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:51:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:13:24
 InChIKey=POJWUDADGALRAB-UHFFFAOYSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000    1.5388    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0

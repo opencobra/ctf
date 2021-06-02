@@ -1,19 +1,20 @@
 $RXN
 HMR_1087
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:51
+
 h[c] + leuktrE4[c] -> M00304[c]
   2  1
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 leuktrE4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:54:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:49:28
 InChIKey=OTZRAYGBFWZKMX-FRFVZSDQSA-M
  66 65  0  0  1  0  0  0  0  0999 V2000
    10.3923    5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -151,7 +152,7 @@ M  CHG  1  27  -1
 M  END
 $MOL
 M00304[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:00:17
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:12:29
 InChIKey=OTZRAYGBFWZKMX-DVFCZEDWSA-N
  67 66  0  0  1  0  0  0  0  0999 V2000
    14.7224   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

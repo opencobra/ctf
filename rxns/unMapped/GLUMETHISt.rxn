@@ -1,20 +1,21 @@
 $RXN
 GLUMETHISt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:24
+
 h[e] + glumethis[e] -> h[c] + glumethis[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glumethis[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:32:38
-InChIKey=BHXSLRDWXIFKTP-PRWSFJOGSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:57:54
+InChIKey=BHXSLRDWXIFKTP-IGBJHFKCSA-M
  52 52  0  0  1  0  0  0  0  0999 V2000
    -5.2722    3.4743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -7.5016    1.4669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25,9 +26,9 @@ InChIKey=BHXSLRDWXIFKTP-PRWSFJOGSA-M
     0.5000    1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3090    0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.5506    1.1579    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -6.5506    1.1579    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -4.6485    0.5398    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
-   -2.0032    0.5909    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.0032    0.5909    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -6.9664    3.1142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.3427    0.1797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.6974    0.2308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,14 +99,14 @@ InChIKey=BHXSLRDWXIFKTP-PRWSFJOGSA-M
   9 19  1  0  0  0  0
  10 14  1  0  0  0  0
  10 17  1  0  0  0  0
- 10 44  1  1  0  0  0
+ 10 44  1  6  0  0  0
  11 15  1  0  0  0  0
  11 20  1  0  0  0  0
  11 45  1  0  0  0  0
  12  6  1  0  0  0  0
  12 16  1  0  0  0  0
  12 21  1  0  0  0  0
- 12 46  1  6  0  0  0
+ 12 46  1  1  0  0  0
  13 22  2  0  0  0  0
  13 23  1  0  0  0  0
  14 20  2  3  0  0  0
@@ -124,16 +125,17 @@ M  CHG  1  23  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glumethis[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:32:38
-InChIKey=BHXSLRDWXIFKTP-PRWSFJOGSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:57:54
+InChIKey=BHXSLRDWXIFKTP-IGBJHFKCSA-M
  52 52  0  0  1  0  0  0  0  0999 V2000
    -5.2722    3.4743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -7.5016    1.4669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -144,9 +146,9 @@ InChIKey=BHXSLRDWXIFKTP-PRWSFJOGSA-M
     0.5000    1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3090    0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.5506    1.1579    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -6.5506    1.1579    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -4.6485    0.5398    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
-   -2.0032    0.5909    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.0032    0.5909    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -6.9664    3.1142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.3427    0.1797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.6974    0.2308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -217,14 +219,14 @@ InChIKey=BHXSLRDWXIFKTP-PRWSFJOGSA-M
   9 19  1  0  0  0  0
  10 14  1  0  0  0  0
  10 17  1  0  0  0  0
- 10 44  1  1  0  0  0
+ 10 44  1  6  0  0  0
  11 15  1  0  0  0  0
  11 20  1  0  0  0  0
  11 45  1  0  0  0  0
  12  6  1  0  0  0  0
  12 16  1  0  0  0  0
  12 21  1  0  0  0  0
- 12 46  1  6  0  0  0
+ 12 46  1  1  0  0  0
  13 22  2  0  0  0  0
  13 23  1  0  0  0  0
  14 20  2  3  0  0  0

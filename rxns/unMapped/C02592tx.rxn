@@ -1,11 +1,11 @@
 $RXN
 C02592tx
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:32
+
 HC02192[c] -> HC02192[x]
   1  1
 $MOL
 HC02192[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:49:54
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:59:52
 InChIKey=QBYUNVOYXHFVKC-GBURMNQMSA-M
  77 80  0  0  1  0  0  0  0  0999 V2000
    -1.6923    2.9311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ M  CHG  1  29  -1
 M  END
 $MOL
 HC02192[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:49:54
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:59:52
 InChIKey=QBYUNVOYXHFVKC-GBURMNQMSA-M
  77 80  0  0  1  0  0  0  0  0999 V2000
    -1.6923    2.9311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

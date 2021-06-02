@@ -1,11 +1,11 @@
 $RXN
 HMR_5248
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
+
 M02958[l] -> M02958[r]
   1  1
 $MOL
 M02958[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:36:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:57:41
 
  20 19  0  0  0  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:36:57
 M  END
 $MOL
 M02958[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:36:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:57:41
 
  20 19  0  0  0  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

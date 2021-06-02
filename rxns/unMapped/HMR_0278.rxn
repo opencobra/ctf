@@ -1,11 +1,11 @@
 $RXN
 HMR_0278
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:45
+
 M02613[e] -> M02613[c]
   1  1
 $MOL
 M02613[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:32:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:52:48
 InChIKey=ISYWECDDZWTKFF-UHFFFAOYSA-M
  58 57  0  0  0  0  0  0  0  0999 V2000
    15.5885   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -127,7 +127,7 @@ M  CHG  1  21  -1
 M  END
 $MOL
 M02613[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:32:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:52:48
 InChIKey=ISYWECDDZWTKFF-UHFFFAOYSA-M
  58 57  0  0  0  0  0  0  0  0999 V2000
    15.5885   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

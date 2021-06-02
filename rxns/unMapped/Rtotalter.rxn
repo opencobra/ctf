@@ -1,11 +1,11 @@
 $RXN
 Rtotalter
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:44
+
 Rtotal[c] -> Rtotal[r]
   1  1
 $MOL
 Rtotal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:42:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:04:04
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -19,7 +19,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 Rtotal[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:42:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:04:04
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0

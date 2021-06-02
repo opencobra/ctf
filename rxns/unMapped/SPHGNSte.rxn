@@ -1,11 +1,11 @@
 $RXN
 SPHGNSte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
+
 sphings[c] -> sphings[e]
   1  1
 $MOL
 sphings[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:57
 InChIKey=WWUZIQQURGPMPG-KRWOKUGFSA-O
  59 58  0  0  1  0  0  0  0  0999 V2000
    12.1244   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -129,7 +129,7 @@ M  CHG  1  19   1
 M  END
 $MOL
 sphings[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:57
 InChIKey=WWUZIQQURGPMPG-KRWOKUGFSA-O
  59 58  0  0  1  0  0  0  0  0999 V2000
    12.1244   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

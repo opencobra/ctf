@@ -1,11 +1,11 @@
 $RXN
 4TMEABUTNt1
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
+
 na1[c] + 4tmeabutn[c] -> na1[e] + 4tmeabutn[e]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,9 +13,9 @@ M  CHG  1   1   1
 M  END
 $MOL
 4tmeabutn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:28:16
-InChIKey=JHPNVNIEXXLNTR-UHFFFAOYSA-O
- 26 25  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:38:44
+InChIKey=JHPNVNIEXXLNTR-UHFFFAOYSA-N
+ 25 24  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25,7 +25,7 @@ InChIKey=JHPNVNIEXXLNTR-UHFFFAOYSA-O
     3.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
     2.5000   -2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    4.0000   -1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -1.7321    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.9266    1.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9266    1.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    2.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,6 @@ InChIKey=JHPNVNIEXXLNTR-UHFFFAOYSA-O
     3.5700   -0.8660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.5350    0.9267    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.4650    0.9266    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    4.4685   -2.5436    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  8  1  0  0  0  0
   1 11  1  0  0  0  0
   1 12  1  0  0  0  0
@@ -66,12 +65,11 @@ InChIKey=JHPNVNIEXXLNTR-UHFFFAOYSA-O
   6 25  1  0  0  0  0
   7  9  2  0  0  0  0
   7 10  1  0  0  0  0
- 10 26  1  0  0  0  0
-M  CHG  1   8   1
+M  CHG  2   8   1  10  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -79,9 +77,9 @@ M  CHG  1   1   1
 M  END
 $MOL
 4tmeabutn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:28:16
-InChIKey=JHPNVNIEXXLNTR-UHFFFAOYSA-O
- 26 25  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:38:44
+InChIKey=JHPNVNIEXXLNTR-UHFFFAOYSA-N
+ 25 24  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +89,7 @@ InChIKey=JHPNVNIEXXLNTR-UHFFFAOYSA-O
     3.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
     2.5000   -2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    4.0000   -1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0000   -1.7321    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.9266    1.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9266    1.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    2.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -107,7 +105,6 @@ InChIKey=JHPNVNIEXXLNTR-UHFFFAOYSA-O
     3.5700   -0.8660    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.5350    0.9267    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.4650    0.9266    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    4.4685   -2.5436    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  8  1  0  0  0  0
   1 11  1  0  0  0  0
   1 12  1  0  0  0  0
@@ -132,6 +129,5 @@ InChIKey=JHPNVNIEXXLNTR-UHFFFAOYSA-O
   6 25  1  0  0  0  0
   7  9  2  0  0  0  0
   7 10  1  0  0  0  0
- 10 26  1  0  0  0  0
-M  CHG  1   8   1
+M  CHG  2   8   1  10  -1
 M  END

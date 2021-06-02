@@ -1,11 +1,11 @@
 $RXN
 RE0582N
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:53
+
 CE2248[n] -> h2o[n] + od2coa[n]
   1  2
 $MOL
 CE2248[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:47:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:58:45
 InChIKey=WZMAIEGYXCOYSH-FWBOWLIOSA-J
 134136  0  0  1  0  0  0  0  0999 V2000
    20.1320    4.5030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -282,7 +282,7 @@ M  CHG  4  48  -1  52  -1  53  -1  54  -1
 M  END
 $MOL
 h2o[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -293,7 +293,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 od2coa[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:08:07
 InChIKey=NBCCUIHOHUKBMK-ZDDAFBBHSA-J
 131133  0  0  1  0  0  0  0  0999 V2000
    20.1320    4.5030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

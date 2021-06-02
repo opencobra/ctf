@@ -1,11 +1,11 @@
 $RXN
 CE2934t
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:32
+
 CE2934[c] -> CE2934[e]
   1  1
 $MOL
 CE2934[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:55:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:05:59
 InChIKey=YOEBAVRJHRCKRE-UHFFFAOYSA-M
  24 24  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -60,7 +60,7 @@ M  CHG  1  13  -1
 M  END
 $MOL
 CE2934[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:55:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:05:59
 InChIKey=YOEBAVRJHRCKRE-UHFFFAOYSA-M
  24 24  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

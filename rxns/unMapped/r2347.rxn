@@ -1,12 +1,12 @@
 $RXN
 r2347
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:50
+
 HC02180[e] -> HC02180[c]
   1  1
 $MOL
 HC02180[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:49:42
-InChIKey=XNRNNGPBEPRNAR-XKHPYWLKSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:59:36
+InChIKey=XNRNNGPBEPRNAR-YLQJXANPSA-M
  59 59  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.9282   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -78,7 +78,7 @@ InChIKey=XNRNNGPBEPRNAR-XKHPYWLKSA-M
   3 32  1  0  0  0  0
   3 33  1  0  0  0  0
   4  5  1  0  0  0  0
-  4  7  2  0  0  0  0
+  4  7  2  3  0  0  0
   4 34  1  0  0  0  0
   5  8  1  0  0  0  0
   5 35  1  0  0  0  0
@@ -130,8 +130,8 @@ M  CHG  1  24  -1
 M  END
 $MOL
 HC02180[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:49:42
-InChIKey=XNRNNGPBEPRNAR-XKHPYWLKSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:59:36
+InChIKey=XNRNNGPBEPRNAR-YLQJXANPSA-M
  59 59  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.9282   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -203,7 +203,7 @@ InChIKey=XNRNNGPBEPRNAR-XKHPYWLKSA-M
   3 32  1  0  0  0  0
   3 33  1  0  0  0  0
   4  5  1  0  0  0  0
-  4  7  2  0  0  0  0
+  4  7  2  3  0  0  0
   4 34  1  0  0  0  0
   5  8  1  0  0  0  0
   5 35  1  0  0  0  0

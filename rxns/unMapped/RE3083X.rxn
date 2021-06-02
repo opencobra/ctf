@@ -1,11 +1,11 @@
 $RXN
 RE3083X
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:02
+
 CE5935[x] -> CE5936[x]
   1  1
 $MOL
 CE5935[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:26:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:31:50
 InChIKey=QCNISQOYPUIJJO-GUQQFEKDSA-J
 121123  0  0  1  0  0  0  0  0999 V2000
   -19.3478   -3.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -256,8 +256,8 @@ M  CHG  4  43  -1  46  -1  48  -1  49  -1
 M  END
 $MOL
 CE5936[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:26:56
-InChIKey=QCNISQOYPUIJJO-JDIHXJMWSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:31:55
+InChIKey=QCNISQOYPUIJJO-UHFFFAOYSA-J
 121123  0  0  1  0  0  0  0  0999 V2000
   -19.3478   -3.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
   -19.7079   -4.6974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -291,7 +291,7 @@ InChIKey=QCNISQOYPUIJJO-JDIHXJMWSA-J
     5.2251    4.3517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.8239    3.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.8606    0.3276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.7024    1.9487    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7024    1.9487    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
   -11.4715   -2.0212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.2133    0.8628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.2197    4.4562    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -482,7 +482,7 @@ InChIKey=QCNISQOYPUIJJO-JDIHXJMWSA-J
  32 46  1  0  0  0  0
  33 42  1  0  0  0  0
  33 57  1  0  0  0  0
- 33115  1  1  0  0  0
+ 33115  1  0  0  0  0
  34 47  2  0  0  0  0
  34 63  1  0  0  0  0
  36116  1  0  0  0  0

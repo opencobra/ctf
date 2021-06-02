@@ -1,11 +1,11 @@
 $RXN
 HMR_9680
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:14
+
 oaa[x] -> oaa[c]
   1  1
 $MOL
 oaa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:44
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:43
 InChIKey=KHPXUQMNIQBQEV-UHFFFAOYSA-L
  11 10  0  0  0  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33,7 +33,7 @@ M  CHG  2   7  -1   8  -1
 M  END
 $MOL
 oaa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:44
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:43
 InChIKey=KHPXUQMNIQBQEV-UHFFFAOYSA-L
  11 10  0  0  0  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

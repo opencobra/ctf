@@ -1,11 +1,11 @@
 $RXN
 3MHISt3
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
+
 phe_L[c] + 3mhis[e] -> phe_L[e] + 3mhis[c]
   2  2
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:15
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
 M  END
 $MOL
 3mhis[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:22:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:32:29
 InChIKey=JDHILDINMRGULE-LURJTMIESA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.9511   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,7 +109,7 @@ InChIKey=JDHILDINMRGULE-LURJTMIESA-N
 M  END
 $MOL
 phe_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:15
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -161,7 +161,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
 M  END
 $MOL
 3mhis[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:22:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:32:29
 InChIKey=JDHILDINMRGULE-LURJTMIESA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.9511   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

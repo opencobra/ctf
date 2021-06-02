@@ -1,11 +1,11 @@
 $RXN
 SACCRP_Lte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:22
+
 saccrp_L[c] -> saccrp_L[m]
   1  1
 $MOL
 saccrp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:29:59
 InChIKey=ZDGJAHTZVHVLOT-YUMQZZPRSA-M
  38 37  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -87,7 +87,7 @@ M  CHG  1  15  -1
 M  END
 $MOL
 saccrp_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:29:59
 InChIKey=ZDGJAHTZVHVLOT-YUMQZZPRSA-M
  38 37  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

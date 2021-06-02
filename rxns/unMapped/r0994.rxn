@@ -1,12 +1,12 @@
 $RXN
 r0994
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:37
+
 C02528[c] -> C02528[r]
   1  1
 $MOL
 C02528[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:35:07
-InChIKey=RUDATBOHQWOJDD-BSWAIDMHSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:45:43
+InChIKey=RUDATBOHQWOJDD-PPLPPVGQSA-M
  67 70  0  0  1  0  0  0  0  0999 V2000
    -0.8449    3.4047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.6858    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -149,8 +149,8 @@ M  CHG  1  28  -1
 M  END
 $MOL
 C02528[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:35:07
-InChIKey=RUDATBOHQWOJDD-BSWAIDMHSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:45:43
+InChIKey=RUDATBOHQWOJDD-PPLPPVGQSA-M
  67 70  0  0  1  0  0  0  0  0999 V2000
    -0.8449    3.4047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.6858    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

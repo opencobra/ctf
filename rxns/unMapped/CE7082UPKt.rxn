@@ -1,11 +1,11 @@
 $RXN
 CE7082UPKt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:38
+
 CE7082[e] -> CE7082[c]
   1  1
 $MOL
 CE7082[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:36:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:40:52
 InChIKey=WLKCSMCLEKGITB-DBVSHIMFSA-M
  52 51  0  0  1  0  0  0  0  0999 V2000
     6.9282   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -115,7 +115,7 @@ M  CHG  1  23  -1
 M  END
 $MOL
 CE7082[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:36:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:40:52
 InChIKey=WLKCSMCLEKGITB-DBVSHIMFSA-M
  52 51  0  0  1  0  0  0  0  0999 V2000
     6.9282   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 PHCRMtg
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:44
+
 phcrm_hs[c] -> phcrm_hs[g]
   1  1
 $MOL
 phcrm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:10
 
  63 62  0  0  1  0  0  0  0  0999 V2000
     6.9282   -9.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -136,7 +136,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:08
 M  END
 $MOL
 phcrm_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:10
 
  63 62  0  0  1  0  0  0  0  0999 V2000
     6.9282   -9.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

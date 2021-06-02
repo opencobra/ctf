@@ -1,11 +1,11 @@
 $RXN
 OMHDOCOSACTD
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:14
+
 omhdocosac[r] -> omhdocosac[c]
   1  1
 $MOL
 omhdocosac[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:08:50
 InChIKey=IBPVZXPSTLXWCG-UHFFFAOYSA-M
  68 67  0  0  0  0  0  0  0  0999 V2000
     2.5981   -7.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -147,7 +147,7 @@ M  CHG  1  25  -1
 M  END
 $MOL
 omhdocosac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:09:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:08:50
 InChIKey=IBPVZXPSTLXWCG-UHFFFAOYSA-M
  68 67  0  0  0  0  0  0  0  0999 V2000
     2.5981   -7.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

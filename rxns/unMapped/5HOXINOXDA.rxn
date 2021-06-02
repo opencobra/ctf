@@ -1,11 +1,11 @@
 $RXN
 5HOXINOXDA
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:50
+
 h2o[c] + o2[c] + srtn[c] -> h2o2[c] + nh4[c] + 5hoxindact[c]
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:33
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25,7 +25,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 srtn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:31:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:35:18
 InChIKey=QZAYGJVTTNCVMB-UHFFFAOYSA-O
  26 27  0  0  0  0  0  0  0  0999 V2000
     2.6831    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ M  CHG  1  11   1
 M  END
 $MOL
 h2o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:20
 InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:14
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:04:53
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -114,7 +114,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 5hoxindact[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:29:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:40:27
 InChIKey=OBFAPCIUSYHFIE-UHFFFAOYSA-N
  22 23  0  0  0  0  0  0  0  0999 V2000
     2.6831    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

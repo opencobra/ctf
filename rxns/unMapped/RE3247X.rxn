@@ -1,11 +1,11 @@
 $RXN
 RE3247X
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:05
+
 o2[x] + CE5166[x] -> h2o2[x] + cholcoads[x]
   2  2
 $MOL
 o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:33
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,8 +14,8 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 CE5166[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:08:06
-InChIKey=MNYDLIUNNOCPHG-TUTZYBGQSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:18:12
+InChIKey=MNYDLIUNNOCPHG-ZQYBMACZSA-J
 155161  0  0  1  0  0  0  0  0999 V2000
    -1.7692   -5.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7692   -1.9104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -337,7 +337,7 @@ M  CHG  4  59  -1  62  -1  64  -1  65  -1
 M  END
 $MOL
 h2o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:20
 InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -350,8 +350,8 @@ InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
 M  END
 $MOL
 cholcoads[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:15
-InChIKey=QVDPWQVOSKJUES-JMOYVIBVSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:22
+InChIKey=QVDPWQVOSKJUES-RVDYSSEFSA-J
 153159  0  0  1  0  0  0  0  0999 V2000
    -1.7692   -5.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7692   -1.9104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

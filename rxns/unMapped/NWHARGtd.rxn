@@ -1,11 +1,11 @@
 $RXN
 NWHARGtd
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:22
+
 nwharg[c] -> nwharg[e]
   1  1
 $MOL
 nwharg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:28
 InChIKey=FQWRAVYMZULPNK-BYPYZUCNSA-O
  28 27  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -67,7 +67,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 nwharg[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:28
 InChIKey=FQWRAVYMZULPNK-BYPYZUCNSA-O
  28 27  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

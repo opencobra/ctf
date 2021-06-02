@@ -1,11 +1,11 @@
 $RXN
 LCYSTtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:44
+
 Lcyst[c] -> Lcyst[m]
   1  1
 $MOL
 Lcyst[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:15
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:02:47
 InChIKey=XVOYSCVBGLVSOL-REOHCLBHSA-M
  16 15  0  0  1  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -43,7 +43,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 Lcyst[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:15
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:02:47
 InChIKey=XVOYSCVBGLVSOL-REOHCLBHSA-M
  16 15  0  0  1  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

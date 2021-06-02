@@ -1,11 +1,11 @@
 $RXN
 KSII_CORE2t
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:18
+
 ksii_core2[g] -> ksii_core2[e]
   1  1
 $MOL
 ksii_core2[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:48:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:43:04
 InChIKey=KZIRYEGWHBWOCR-RISNUOMVSA-E
 294304  0  0  1  0  0  0  0  0999 V2000
   -17.8614   -5.1046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -611,7 +611,7 @@ M  CHG  1 130  -1
 M  END
 $MOL
 ksii_core2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:48:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:43:04
 InChIKey=KZIRYEGWHBWOCR-RISNUOMVSA-E
 294304  0  0  1  0  0  0  0  0999 V2000
   -17.8614   -5.1046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

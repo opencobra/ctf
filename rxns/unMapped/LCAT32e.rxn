@@ -1,11 +1,11 @@
 $RXN
 LCAT32e
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:18
+
 chsterol[e] + pchol_hs[e] -> xolest2_hs[e] + pcholn19_hs[e]
   2  2
 $MOL
 chsterol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:47
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 pchol_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:01
 
  40 39  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -248,7 +248,7 @@ M  CHG  2   2   1  10  -1
 M  END
 $MOL
 xolest2_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:56:26
 
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8469    0.4886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -409,8 +409,8 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:41
 M  END
 $MOL
 pcholn19_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:59
-InChIKey=WYIMORDZGCUBAA-SANMLTNESA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:13:07
+InChIKey=WYIMORDZGCUBAA-UHFFFAOYSA-O
  93 92  0  0  1  0  0  0  0  0999 V2000
    22.9186    0.2321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -437,7 +437,7 @@ InChIKey=WYIMORDZGCUBAA-SANMLTNESA-O
     1.5000    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.4641    1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.7321    1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    5.5981    1.2321    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5981    1.2321    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     8.1962    1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
     5.5981    0.2321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -502,7 +502,7 @@ InChIKey=WYIMORDZGCUBAA-SANMLTNESA-O
     7.3908    2.2671    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.7321    2.8021    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     3.8055    2.2671    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    6.5248    0.6971    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5981    2.3021    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.7581   -0.2529    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.1340    3.2021    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  5  1  0  0  0  0
@@ -588,7 +588,7 @@ InChIKey=WYIMORDZGCUBAA-SANMLTNESA-O
  25 89  1  0  0  0  0
  25 90  1  0  0  0  0
  26 29  1  0  0  0  0
- 26 91  1  1  0  0  0
+ 26 91  1  0  0  0  0
  27 30  2  0  0  0  0
  27 33  1  0  0  0  0
  29 92  1  0  0  0  0

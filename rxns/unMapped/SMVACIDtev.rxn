@@ -1,11 +1,11 @@
 $RXN
 SMVACIDtev
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:20
+
 smvacid[c] -> smvacid[e]
   1  1
 $MOL
 smvacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:26
 InChIKey=XWLXKKNPFMNSFA-UHFFFAOYSA-M
  70 71  0  0  1  0  0  0  0  0999 V2000
     4.3301   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -153,7 +153,7 @@ M  CHG  1  29  -1
 M  END
 $MOL
 smvacid[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:26
 InChIKey=XWLXKKNPFMNSFA-UHFFFAOYSA-M
  70 71  0  0  1  0  0  0  0  0999 V2000
     4.3301   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

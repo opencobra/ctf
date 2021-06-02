@@ -1,11 +1,11 @@
 $RXN
 VITD2t
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
+
 vitd2[c] -> vitd2[e]
   1  1
 $MOL
 vitd2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:46:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:54:09
 InChIKey=MECHNRXZTMCUDQ-RKHKHRCZSA-N
  73 75  0  0  1  0  0  0  0  0999 V2000
     4.6046   -2.8078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -159,7 +159,7 @@ InChIKey=MECHNRXZTMCUDQ-RKHKHRCZSA-N
 M  END
 $MOL
 vitd2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:46:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:54:09
 InChIKey=MECHNRXZTMCUDQ-RKHKHRCZSA-N
  73 75  0  0  1  0  0  0  0  0999 V2000
     4.6046   -2.8078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

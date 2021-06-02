@@ -1,11 +1,11 @@
 $RXN
 DSMSTEROLtr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:42
+
 dsmsterol[r] -> dsmsterol[c]
   1  1
 $MOL
 dsmsterol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:43:31
 InChIKey=AVSXSVCZWQODGV-DPAQBDIFSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -158,7 +158,7 @@ InChIKey=AVSXSVCZWQODGV-DPAQBDIFSA-N
 M  END
 $MOL
 dsmsterol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:19:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:43:31
 InChIKey=AVSXSVCZWQODGV-DPAQBDIFSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

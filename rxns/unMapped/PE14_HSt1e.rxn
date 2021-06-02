@@ -1,11 +1,11 @@
 $RXN
 PE14_HSt1e
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:39
+
 pe14_hs[e] -> pe14_hs[c]
   1  1
 $MOL
 pe14_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:15:39
 InChIKey=RPXHXZNGZBHSMJ-UHFFFAOYSA-N
  68 67  0  0  1  0  0  0  0  0999 V2000
    11.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ InChIKey=RPXHXZNGZBHSMJ-UHFFFAOYSA-N
 M  END
 $MOL
 pe14_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:15:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:15:39
 InChIKey=RPXHXZNGZBHSMJ-UHFFFAOYSA-N
  68 67  0  0  1  0  0  0  0  0999 V2000
    11.5000   -7.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 GQ1Bte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:15
+
 gq1b_hs[c] -> gq1b_hs[e]
   1  1
 $MOL
 gq1b_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:35:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:01:34
 
 294301  0  0  1  0  0  0  0  0999 V2000
     2.5817   -0.4969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -607,7 +607,7 @@ M  CHG  4 101  -1 114  -1 132  -1 143  -1
 M  END
 $MOL
 gq1b_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:35:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:01:34
 
 294301  0  0  1  0  0  0  0  0999 V2000
     2.5817   -0.4969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

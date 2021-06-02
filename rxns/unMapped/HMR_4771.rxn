@@ -1,11 +1,11 @@
 $RXN
 HMR_4771
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:05
+
 h2o[c] + HC01609[c] -> hmbil[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 HC01609[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:44:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:52:50
 InChIKey=QTTNOSKSLATGQB-UHFFFAOYSA-F
  96100  0  0  0  0  0  0  0  0999 V2000
     4.4373   -0.2605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -219,7 +219,7 @@ M  CHG  8  46  -1  48  -1  50  -1  52  -1  54  -1  56  -1  58  -1  60  -1
 M  END
 $MOL
 hmbil[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:42:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:10:23
 InChIKey=WDFJYRZCZIUBPR-UHFFFAOYSA-F
  99102  0  0  0  0  0  0  0  0999 V2000
   -10.4332   -1.5648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

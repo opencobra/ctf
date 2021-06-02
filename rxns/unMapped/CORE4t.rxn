@@ -1,11 +1,11 @@
 $RXN
 CORE4t
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:32
+
 core4[g] -> core4[e]
   1  1
 $MOL
 core4[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:40
 
  83 85  0  0  1  0  0  0  0  0999 V2000
     0.8660   -2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -179,7 +179,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:22
 M  END
 $MOL
 core4[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:22
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:40
 
  83 85  0  0  1  0  0  0  0  0999 V2000
     0.8660   -2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

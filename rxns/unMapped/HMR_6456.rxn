@@ -1,20 +1,21 @@
 $RXN
 HMR_6456
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
+
 h[c] + CE7047[c] -> yvite[c]
   2  1
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 CE7047[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:36:11
-InChIKey=LBDXFUVWQHFODO-OHCBOFHFSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:40:28
+InChIKey=LBDXFUVWQHFODO-UHFFFAOYSA-N
  77 78  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
   -10.9736   -1.4152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36,8 +37,8 @@ InChIKey=LBDXFUVWQHFODO-OHCBOFHFSA-N
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
   -10.0076   -1.1563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.6616   -2.0529    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -3.7638   -1.2765    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -6.6616   -2.0529    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -3.7638   -1.2765    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -101,9 +102,11 @@ InChIKey=LBDXFUVWQHFODO-OHCBOFHFSA-N
   2 34  1  0  0  0  0
   2 35  1  0  0  0  0
   2 36  1  0  0  0  0
+  3 21  1  0  0  0  0
   3 37  1  0  0  0  0
   3 38  1  0  0  0  0
   3 39  1  0  0  0  0
+  4 22  1  0  0  0  0
   4 40  1  0  0  0  0
   4 41  1  0  0  0  0
   4 42  1  0  0  0  0
@@ -160,10 +163,8 @@ InChIKey=LBDXFUVWQHFODO-OHCBOFHFSA-N
  19 26  1  0  0  0  0
  19 74  1  0  0  0  0
  20 75  1  0  0  0  0
- 21  3  1  0  0  0  0
- 21 76  1  6  0  0  0
- 22  4  1  0  0  0  0
- 22 77  1  6  0  0  0
+ 21 76  1  0  0  0  0
+ 22 77  1  0  0  0  0
  23 24  2  0  0  0  0
  23 26  1  0  0  0  0
  24 27  1  0  0  0  0
@@ -175,7 +176,7 @@ M  RAD  1  27   2
 M  END
 $MOL
 yvite[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:54
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:57:53
 InChIKey=QUEDXNHFTDJVIY-DQCZWYHMSA-N
  78 79  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

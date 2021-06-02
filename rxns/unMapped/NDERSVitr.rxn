@@ -1,11 +1,11 @@
 $RXN
 NDERSVitr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 ndersv[c] -> ndersv[r]
   1  1
 $MOL
 ndersv[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:04:16
 InChIKey=BNGNIBDUZKLMKX-KZLSPNFISA-J
 113114  0  0  1  0  0  0  0  0999 V2000
     7.4282   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -239,7 +239,7 @@ M  CHG  5  25  -1  29  -1  57  -1  61  -1  65   2
 M  END
 $MOL
 ndersv[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:04:16
 InChIKey=BNGNIBDUZKLMKX-KZLSPNFISA-J
 113114  0  0  1  0  0  0  0  0999 V2000
     7.4282   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 AND19ONEt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:20
+
 and19one[c] -> and19one[e]
   1  1
 $MOL
 and19one[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:53:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:15:26
 InChIKey=XGUHPTGEXRHMQQ-CXOXHQNKSA-N
  48 51  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -110,7 +110,7 @@ InChIKey=XGUHPTGEXRHMQQ-CXOXHQNKSA-N
 M  END
 $MOL
 and19one[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:53:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:15:26
 InChIKey=XGUHPTGEXRHMQQ-CXOXHQNKSA-N
  48 51  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

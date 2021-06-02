@@ -1,11 +1,11 @@
 $RXN
 PACALDtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:31
+
 pacald[c] -> pacald[m]
   1  1
 $MOL
 pacald[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:10:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:57
 InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N
  17 17  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N
 M  END
 $MOL
 pacald[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:10:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:57
 InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N
  17 17  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

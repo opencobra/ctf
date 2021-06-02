@@ -1,11 +1,11 @@
 $RXN
 HMR_9625
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:13
+
 HC02057[r] -> HC02057[c]
   1  1
 $MOL
 HC02057[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:46:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:56:14
 
  18 17  0  0  1  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -46,7 +46,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:46:59
 M  END
 $MOL
 HC02057[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:46:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:56:14
 
  18 17  0  0  1  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

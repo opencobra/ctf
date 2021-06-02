@@ -1,11 +1,11 @@
 $RXN
 34DHOXPEGt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:49
+
 34dhoxpeg[c] -> 34dhoxpeg[e]
   1  1
 $MOL
 34dhoxpeg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:16:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:26:47
 InChIKey=MTVWFVDWRVYDOR-UHFFFAOYSA-N
  22 22  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -55,7 +55,7 @@ InChIKey=MTVWFVDWRVYDOR-UHFFFAOYSA-N
 M  END
 $MOL
 34dhoxpeg[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:16:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:26:47
 InChIKey=MTVWFVDWRVYDOR-UHFFFAOYSA-N
  22 22  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

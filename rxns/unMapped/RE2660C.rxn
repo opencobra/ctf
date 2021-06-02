@@ -1,11 +1,11 @@
 $RXN
 RE2660C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:00
+
 CE5236[c] -> CE2705[c]
   1  1
 $MOL
 CE5236[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:08:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:18:36
 InChIKey=JZTDUNXDDUJXRZ-UPYOWCHBSA-N
  30 32  0  0  1  0  0  0  0  0999 V2000
     1.5442    0.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ InChIKey=JZTDUNXDDUJXRZ-UPYOWCHBSA-N
 M  END
 $MOL
 CE2705[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:51:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:02:47
 InChIKey=FEMXZDUTFRTWPE-DZSWIPIPSA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

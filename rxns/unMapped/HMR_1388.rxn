@@ -1,11 +1,11 @@
 $RXN
 HMR_1388
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:53
+
 o2[c] + dlnlcg[c] -> CE6230[c]
   2  1
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:33
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 dlnlcg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:15:53
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:39:25
 InChIKey=HOBAELRKJCKHQD-QNEBEIHSSA-M
  55 54  0  0  0  0  0  0  0  0999 V2000
    -5.1962   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,7 +130,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 CE6230[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:32:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:35:53
 InChIKey=IUXBNSNRPLXHER-UHFFFAOYSA-M
  57 56  0  0  1  0  0  0  0  0999 V2000
    -3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

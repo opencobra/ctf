@@ -1,11 +1,11 @@
 $RXN
 HMR_7949
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:11
+
 chsterols[c] -> chsterols[r]
   1  1
 $MOL
 chsterols[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:52
 InChIKey=BHYOQNUELFTYRT-DPAQBDIFSA-M
  77 80  0  0  1  0  0  0  0  0999 V2000
   -10.2258   -0.5774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ M  CHG  1  28  -1
 M  END
 $MOL
 chsterols[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:52
 InChIKey=BHYOQNUELFTYRT-DPAQBDIFSA-M
  77 80  0  0  1  0  0  0  0  0999 V2000
   -10.2258   -0.5774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

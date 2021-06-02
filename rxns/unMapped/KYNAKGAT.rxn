@@ -1,11 +1,11 @@
 $RXN
 KYNAKGAT
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:18
+
 akg[c] + Lkynr[c] -> glu_L[c] + 4aphdob[c]
   2  2
 $MOL
 akg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:50:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:12:20
 InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  14 13  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  2   8  -1   9  -1
 M  END
 $MOL
 Lkynr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:03:09
 InChIKey=YGPSJZOEDVAXAB-QMMMGPOBSA-N
  27 27  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,7 +99,7 @@ InChIKey=YGPSJZOEDVAXAB-QMMMGPOBSA-N
 M  END
 $MOL
 glu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:31:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:57:13
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -141,7 +141,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 4aphdob[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:25:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:36:13
 InChIKey=CAOVWYZQMPNAFJ-UHFFFAOYSA-M
  23 23  0  0  0  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_7761
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:11
+
 dopa[c] -> dopa[g]
   1  1
 $MOL
 dopa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:18:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:42:50
 InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-O
  23 23  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +58,7 @@ M  CHG  1   9   1
 M  END
 $MOL
 dopa[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:18:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:42:50
 InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-O
  23 23  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

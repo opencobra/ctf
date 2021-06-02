@@ -1,12 +1,12 @@
 $RXN
 PEOLE_HSt1e
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:39
+
 peole_hs[e] -> peole_hs[c]
   1  1
 $MOL
 peole_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:16:19
-InChIKey=PYVRVRFVLRNJLY-MDZDMXLPSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:17:15
+InChIKey=PYVRVRFVLRNJLY-UHFFFAOYSA-N
  78 77  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    15.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -111,7 +111,7 @@ InChIKey=PYVRVRFVLRNJLY-MDZDMXLPSA-N
   8  9  1  0  0  0  0
   8 48  1  0  0  0  0
   8 49  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 50  1  0  0  0  0
  10 11  1  0  0  0  0
  10 51  1  0  0  0  0
@@ -166,8 +166,8 @@ InChIKey=PYVRVRFVLRNJLY-MDZDMXLPSA-N
 M  END
 $MOL
 peole_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:16:19
-InChIKey=PYVRVRFVLRNJLY-MDZDMXLPSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:17:15
+InChIKey=PYVRVRFVLRNJLY-UHFFFAOYSA-N
  78 77  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    15.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -272,7 +272,7 @@ InChIKey=PYVRVRFVLRNJLY-MDZDMXLPSA-N
   8  9  1  0  0  0  0
   8 48  1  0  0  0  0
   8 49  1  0  0  0  0
-  9 10  2  0  0  0  0
+  9 10  2  3  0  0  0
   9 50  1  0  0  0  0
  10 11  1  0  0  0  0
  10 51  1  0  0  0  0

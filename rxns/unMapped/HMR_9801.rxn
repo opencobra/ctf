@@ -1,11 +1,11 @@
 $RXN
 HMR_9801
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:15
+
 gtp[c] + pcollg5hlys[c] -> gdp[c] + M03167[c]
   2  2
 $MOL
 gtp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:37:55
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:04:38
 InChIKey=XKMLYUALXHKNFT-UUOKFMHZSA-J
  44 46  0  0  1  0  0  0  0  0999 V2000
     2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -102,7 +102,7 @@ M  CHG  4  18  -1  19  -1  20  -1  22  -1
 M  END
 $MOL
 pcollg5hlys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:14:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:48
 InChIKey=YSMODUONRAFBET-UHNVWZDZSA-N
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -157,7 +157,7 @@ InChIKey=YSMODUONRAFBET-UHNVWZDZSA-N
 M  END
 $MOL
 gdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:30:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:55:13
 InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K
  40 42  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -1.1340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -246,7 +246,7 @@ M  CHG  3  18  -1  19  -1  20  -1
 M  END
 $MOL
 M03167[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:41:44
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:03:06
 InChIKey=WLPXLNNUXMDSPG-UHNVWZDZSA-M
  29 28  0  0  1  0  0  0  0  0999 V2000
     2.5000    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

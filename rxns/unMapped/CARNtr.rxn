@@ -1,11 +1,11 @@
 $RXN
 CARNtr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:17
+
 carn[e] -> carn[c]
   1  1
 $MOL
 carn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:35
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:25:34
 InChIKey=CQOVPNPJLQNMDC-ZETCQYMHSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.9230    4.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ InChIKey=CQOVPNPJLQNMDC-ZETCQYMHSA-N
 M  END
 $MOL
 carn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:35
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:25:34
 InChIKey=CQOVPNPJLQNMDC-ZETCQYMHSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.9230    4.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_9178
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:11
+
 ahandrostan[c] -> ahandrostan[e]
   1  1
 $MOL
 ahandrostan[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:49:24
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:11:29
 InChIKey=QGXBDMJGAMFCBF-BNSUEQOYSA-N
  51 54  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -116,7 +116,7 @@ InChIKey=QGXBDMJGAMFCBF-BNSUEQOYSA-N
 M  END
 $MOL
 ahandrostan[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:49:24
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:11:29
 InChIKey=QGXBDMJGAMFCBF-BNSUEQOYSA-N
  51 54  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

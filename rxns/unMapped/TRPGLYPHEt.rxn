@@ -1,20 +1,21 @@
 $RXN
 TRPGLYPHEt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:26
+
 h[e] + trpglyphe[e] -> h[c] + trpglyphe[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 trpglyphe[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:40:23
-InChIKey=NOFFAYIYPAUNRM-HKUYNNGSSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:46:13
+InChIKey=NOFFAYIYPAUNRM-IEBWSBKVSA-N
  54 56  0  0  1  0  0  0  0  0999 V2000
    -8.5454    0.1071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -8.2364    1.0581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32,9 +33,9 @@ InChIKey=NOFFAYIYPAUNRM-HKUYNNGSSA-N
    -6.5891    0.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2872   -2.7770    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2872   -2.7770    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.9511   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.9418   -0.0123    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.9418   -0.0123    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -3.2946   -0.5476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.9563   -2.0339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.2509   -0.9634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -108,12 +109,12 @@ InChIKey=NOFFAYIYPAUNRM-HKUYNNGSSA-N
  16 18  1  0  0  0  0
  17 21  1  0  0  0  0
  17 23  1  0  0  0  0
- 17 47  1  1  0  0  0
+ 17 47  1  6  0  0  0
  18 24  1  0  0  0  0
  19 10  1  0  0  0  0
  19 22  1  0  0  0  0
  19 26  1  0  0  0  0
- 19 48  1  1  0  0  0
+ 19 48  1  6  0  0  0
  20 26  2  3  0  0  0
  20 27  1  0  0  0  0
  21 25  2  3  0  0  0
@@ -129,16 +130,17 @@ InChIKey=NOFFAYIYPAUNRM-HKUYNNGSSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 trpglyphe[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:40:23
-InChIKey=NOFFAYIYPAUNRM-HKUYNNGSSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:46:13
+InChIKey=NOFFAYIYPAUNRM-IEBWSBKVSA-N
  54 56  0  0  1  0  0  0  0  0999 V2000
    -8.5454    0.1071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -8.2364    1.0581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -156,9 +158,9 @@ InChIKey=NOFFAYIYPAUNRM-HKUYNNGSSA-N
    -6.5891    0.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2872   -2.7770    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2872   -2.7770    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.9511   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.9418   -0.0123    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.9418   -0.0123    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -3.2946   -0.5476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.9563   -2.0339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.2509   -0.9634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -232,12 +234,12 @@ InChIKey=NOFFAYIYPAUNRM-HKUYNNGSSA-N
  16 18  1  0  0  0  0
  17 21  1  0  0  0  0
  17 23  1  0  0  0  0
- 17 47  1  1  0  0  0
+ 17 47  1  6  0  0  0
  18 24  1  0  0  0  0
  19 10  1  0  0  0  0
  19 22  1  0  0  0  0
  19 26  1  0  0  0  0
- 19 48  1  1  0  0  0
+ 19 48  1  6  0  0  0
  20 26  2  3  0  0  0
  20 27  1  0  0  0  0
  21 25  2  3  0  0  0

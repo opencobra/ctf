@@ -1,11 +1,11 @@
 $RXN
 DCATDr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:10
+
 dca[c] -> dca[r]
   1  1
 $MOL
 dca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:59
 InChIKey=GHVNFZFCNZKVNT-UHFFFAOYSA-M
  31 30  0  0  0  0  0  0  0  0999 V2000
     6.9282   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ M  CHG  1  12  -1
 M  END
 $MOL
 dca[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:59
 InChIKey=GHVNFZFCNZKVNT-UHFFFAOYSA-M
  31 30  0  0  0  0  0  0  0  0999 V2000
     6.9282   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

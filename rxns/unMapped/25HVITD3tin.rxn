@@ -1,11 +1,11 @@
 $RXN
 25HVITD3tin
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:17
+
 25hvitd3[e] -> 25hvitd3[c]
   1  1
 $MOL
 25hvitd3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:08:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:22:22
 InChIKey=JWUBBDSIWDLEOM-DTOXIADCSA-N
  73 75  0  0  1  0  0  0  0  0999 V2000
     3.4641    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -159,7 +159,7 @@ InChIKey=JWUBBDSIWDLEOM-DTOXIADCSA-N
 M  END
 $MOL
 25hvitd3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:08:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:22:22
 InChIKey=JWUBBDSIWDLEOM-DTOXIADCSA-N
  73 75  0  0  1  0  0  0  0  0999 V2000
     3.4641    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

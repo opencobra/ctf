@@ -1,11 +1,11 @@
 $RXN
 13DMTtep
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:17
+
 13dmt[c] -> 13dmt[e]
   1  1
 $MOL
 13dmt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:04:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:19:20
 InChIKey=OKRZOXIQNKYTBL-RJYATFDOSA-N
 123126  0  0  1  0  0  0  0  0999 V2000
     1.4442   -5.4349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -260,7 +260,7 @@ InChIKey=OKRZOXIQNKYTBL-RJYATFDOSA-N
 M  END
 $MOL
 13dmt[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:04:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:19:20
 InChIKey=OKRZOXIQNKYTBL-RJYATFDOSA-N
 123126  0  0  1  0  0  0  0  0999 V2000
     1.4442   -5.4349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

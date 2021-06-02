@@ -1,11 +1,11 @@
 $RXN
 5HOXINDOAtr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:16
+
 so4[c] + 5hoxindoa[e] -> 5hoxindoa[c] + so4[e]
   2  2
 $MOL
 so4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:21
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:36
 InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 5hoxindoa[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:30:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:40:31
 InChIKey=DUUGKQCEGZLZNO-UHFFFAOYSA-M
  22 23  0  0  0  0  0  0  0  0999 V2000
     2.6831    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ M  CHG  1  12  -1
 M  END
 $MOL
 5hoxindoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:30:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:40:31
 InChIKey=DUUGKQCEGZLZNO-UHFFFAOYSA-M
  22 23  0  0  0  0  0  0  0  0999 V2000
     2.6831    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ M  CHG  1  12  -1
 M  END
 $MOL
 so4[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:21
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:36
 InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0

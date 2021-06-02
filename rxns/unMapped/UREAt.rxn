@@ -1,11 +1,11 @@
 $RXN
 UREAt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:35
+
 urea[e] -> urea[c]
   1  1
 $MOL
 urea[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:15
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:52:20
 InChIKey=XSQUKJJJFZCRTK-UHFFFAOYSA-N
   8  7  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26,7 +26,7 @@ InChIKey=XSQUKJJJFZCRTK-UHFFFAOYSA-N
 M  END
 $MOL
 urea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:15
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:52:20
 InChIKey=XSQUKJJJFZCRTK-UHFFFAOYSA-N
   8  7  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

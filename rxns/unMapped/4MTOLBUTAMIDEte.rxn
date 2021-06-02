@@ -1,11 +1,11 @@
 $RXN
 4MTOLBUTAMIDEte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:50
+
 4mtolbutamide[e] -> 4mtolbutamide[c]
   1  1
 $MOL
 4mtolbutamide[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:27:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:37:53
 InChIKey=SJRHYONYKZIRPM-UHFFFAOYSA-N
  37 37  0  0  0  0  0  0  0  0999 V2000
     3.4641    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ InChIKey=SJRHYONYKZIRPM-UHFFFAOYSA-N
 M  END
 $MOL
 4mtolbutamide[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:27:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:37:53
 InChIKey=SJRHYONYKZIRPM-UHFFFAOYSA-N
  37 37  0  0  0  0  0  0  0  0999 V2000
     3.4641    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

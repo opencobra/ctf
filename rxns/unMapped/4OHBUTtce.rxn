@@ -1,11 +1,11 @@
 $RXN
 4OHBUTtce
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 4ohbut[c] -> 4ohbut[e]
   1  1
 $MOL
 4ohbut[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:27:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:38:17
 InChIKey=SJZRECIVHVDYJC-UHFFFAOYSA-M
  14 13  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 4ohbut[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:27:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:38:17
 InChIKey=SJZRECIVHVDYJC-UHFFFAOYSA-M
  14 13  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

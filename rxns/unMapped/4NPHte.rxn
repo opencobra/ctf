@@ -1,11 +1,11 @@
 $RXN
 4NPHte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:50
+
 4nph[e] -> 4nph[c]
   1  1
 $MOL
 4nph[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:27:42
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:38:08
 InChIKey=BTJIUGUIPKRLHP-UHFFFAOYSA-N
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.8660    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ InChIKey=BTJIUGUIPKRLHP-UHFFFAOYSA-N
 M  END
 $MOL
 4nph[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:27:42
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:38:08
 InChIKey=BTJIUGUIPKRLHP-UHFFFAOYSA-N
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.8660    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

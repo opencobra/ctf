@@ -1,11 +1,11 @@
 $RXN
 HMR_1761
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:54
+
 M00743[x] -> thcholoylcoa[x]
   1  1
 $MOL
 M00743[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:09:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:24:59
 InChIKey=SZBMUAIJWNJARR-GEERDDCJSA-J
 155161  0  0  1  0  0  0  0  0999 V2000
    -1.7624   -5.3989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -328,8 +328,8 @@ M  CHG  4  59  -1  62  -1  64  -1  65  -1
 M  END
 $MOL
 thcholoylcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:42
-InChIKey=SZBMUAIJWNJARR-LUAYSRQUSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:40:39
+InChIKey=SZBMUAIJWNJARR-IJOXPXOYSA-J
 155161  0  0  1  0  0  0  0  0999 V2000
    -1.7624   -5.3989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7624   -1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

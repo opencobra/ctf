@@ -1,11 +1,11 @@
 $RXN
 INSt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:18
+
 ins[e] -> ins[c]
   1  1
 $MOL
 ins[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:46:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:41:27
 InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
  31 33  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
 M  END
 $MOL
 ins[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:46:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:41:27
 InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
  31 33  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

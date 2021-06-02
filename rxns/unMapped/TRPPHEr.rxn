@@ -1,11 +1,11 @@
 $RXN
 TRPPHEr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:29
+
 h2o[c] + trpphe[c] -> trp_L[c] + phe_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,8 +16,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 trpphe[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:41:04
-InChIKey=IMMPMHKLUUZKAZ-FUHWJXTLSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:47:01
+InChIKey=IMMPMHKLUUZKAZ-AEFFLSMTSA-N
  47 49  0  0  1  0  0  0  0  0999 V2000
     4.6962   -1.4612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.8301   -1.9612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34,9 +34,9 @@ InChIKey=IMMPMHKLUUZKAZ-FUHWJXTLSA-N
     2.9641   -0.4612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5000    1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.3090    0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.3660    3.0388    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3660    3.0388    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.0981    1.0388    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0981    1.0388    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     1.2321    2.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.9641    1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.3660    4.0388    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,12 +100,12 @@ InChIKey=IMMPMHKLUUZKAZ-FUHWJXTLSA-N
  15 17  1  0  0  0  0
  16 19  1  0  0  0  0
  16 21  1  0  0  0  0
- 16 41  1  1  0  0  0
+ 16 41  1  6  0  0  0
  17 22  1  0  0  0  0
  18 10  1  0  0  0  0
  18 20  1  0  0  0  0
  18 23  1  0  0  0  0
- 18 42  1  6  0  0  0
+ 18 42  1  1  0  0  0
  19 23  2  3  0  0  0
  19 24  1  0  0  0  0
  20 25  2  0  0  0  0
@@ -118,7 +118,7 @@ InChIKey=IMMPMHKLUUZKAZ-FUHWJXTLSA-N
 M  END
 $MOL
 trp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:45:17
 InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
  27 28  0  0  1  0  0  0  0  0999 V2000
     2.6831   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -179,7 +179,7 @@ InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:15
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

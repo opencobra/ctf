@@ -1,11 +1,11 @@
 $RXN
 CSNt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:03
+
 csn[e] -> csn[c]
   1  1
 $MOL
 csn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:08:11
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:31:38
 InChIKey=OPTASPLRGRRNAP-UHFFFAOYSA-N
  13 13  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37,7 +37,7 @@ InChIKey=OPTASPLRGRRNAP-UHFFFAOYSA-N
 M  END
 $MOL
 csn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:08:11
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:31:38
 InChIKey=OPTASPLRGRRNAP-UHFFFAOYSA-N
  13 13  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

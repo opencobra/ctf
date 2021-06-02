@@ -1,11 +1,11 @@
 $RXN
 PRO_Dtde
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:16
+
 pro_D[c] -> pro_D[e]
   1  1
 $MOL
 pro_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:53
 InChIKey=ONIBWKKTOPOVIA-SCSAIBSYSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ InChIKey=ONIBWKKTOPOVIA-SCSAIBSYSA-N
 M  END
 $MOL
 pro_D[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:21:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:53
 InChIKey=ONIBWKKTOPOVIA-SCSAIBSYSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 CYTK10n
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:04
+
 cmp[n] + dgtp[n] -> cdp[n] + dgdp[n]
   2  2
 $MOL
 cmp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:40
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,7 +79,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 dgtp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:13:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:37:22
 InChIKey=HAAZLUGHYHWQIW-KVQBGUIXSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -174,7 +174,7 @@ M  CHG  4  17  -1  18  -1  19  -1  21  -1
 M  END
 $MOL
 cdp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:19
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:26
 InChIKey=ZWIADYZPOWUWEW-XVFCMESISA-K
  37 38  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -256,7 +256,7 @@ M  CHG  3  15  -1  16  -1  17  -1
 M  END
 $MOL
 dgdp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:13:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:37:08
 InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
    -4.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

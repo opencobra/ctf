@@ -1,11 +1,11 @@
 $RXN
 GM1tl
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:43
+
 gm1_hs[e] -> gm1_hs[l]
   1  1
 $MOL
 gm1_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:48
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:00:16
 
 186190  0  0  1  0  0  0  0  0999 V2000
    -2.0000   -1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -388,7 +388,7 @@ M  CHG  1  83  -1
 M  END
 $MOL
 gm1_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:34:48
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:00:16
 
 186190  0  0  1  0  0  0  0  0999 V2000
    -2.0000   -1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

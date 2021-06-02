@@ -1,11 +1,11 @@
 $RXN
 HMR_3695
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:04
+
 h2o[r] + M01454[r] -> h[r] + chsterol[r] + M00003[r]
   2  3
 $MOL
 h2o[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,8 +16,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 M01454[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:21:09
-InChIKey=RLMIGWIAENJHMP-QCDKZCCBSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:39:36
+InChIKey=RLMIGWIAENJHMP-UHFFFAOYSA-N
 122125  0  0  1  0  0  0  0  0999 V2000
    -4.3301  -14.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.8437    0.7386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,16 +53,16 @@ InChIKey=RLMIGWIAENJHMP-QCDKZCCBSA-N
    -1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.8655    0.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.8581    2.7601    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.8581    2.7601    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321   -1.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7321   -1.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
    -1.7321   -0.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
    -3.5491    1.8090    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
    -2.5981    0.5000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
    -0.8660    0.5000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     2.5981   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -2.5981    1.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -2.5981    1.5000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     3.4641   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -5.2567  -15.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -136,7 +136,7 @@ InChIKey=RLMIGWIAENJHMP-QCDKZCCBSA-N
     1.7926   -2.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -4.8189    0.3082    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -4.1888    3.7777    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    2.6588   -0.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8055   -0.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.6588   -0.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -4.6059    1.9764    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.7100   -0.5641    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -153,12 +153,15 @@ InChIKey=RLMIGWIAENJHMP-QCDKZCCBSA-N
   3 53  1  0  0  0  0
   3 54  1  0  0  0  0
   3 55  1  0  0  0  0
+  4 35  1  0  0  0  0
   4 56  1  0  0  0  0
   4 57  1  0  0  0  0
   4 58  1  0  0  0  0
+  5 43  1  0  0  0  0
   5 59  1  0  0  0  0
   5 60  1  0  0  0  0
   5 61  1  0  0  0  0
+  6 44  1  0  0  0  0
   6 62  1  0  0  0  0
   6 63  1  0  0  0  0
   6 64  1  0  0  0  0
@@ -180,7 +183,7 @@ InChIKey=RLMIGWIAENJHMP-QCDKZCCBSA-N
  12 13  1  0  0  0  0
  12 75  1  0  0  0  0
  12 76  1  0  0  0  0
- 13 14  2  0  0  0  0
+ 13 14  2  3  0  0  0
  13 77  1  0  0  0  0
  14 15  1  0  0  0  0
  14 78  1  0  0  0  0
@@ -247,12 +250,11 @@ InChIKey=RLMIGWIAENJHMP-QCDKZCCBSA-N
  33114  1  0  0  0  0
  33115  1  0  0  0  0
  34116  1  0  0  0  0
- 35  4  1  0  0  0  0
  35 39  1  0  0  0  0
- 35117  1  1  0  0  0
+ 35117  1  0  0  0  0
  36 43  1  0  0  0  0
  37 46  1  0  0  0  0
- 37118  1  6  0  0  0
+ 37118  1  0  0  0  0
  38 40  1  0  0  0  0
  38 41  1  0  0  0  0
  38119  1  0  0  0  0
@@ -264,20 +266,19 @@ InChIKey=RLMIGWIAENJHMP-QCDKZCCBSA-N
  41122  1  0  0  0  0
  42 45  2  0  0  0  0
  42 46  1  0  0  0  0
- 43  5  1  1  0  0  0
- 44  6  1  1  0  0  0
 M  END
 $MOL
 h[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 chsterol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:47
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -434,7 +435,7 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 M00003[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:03:19
 InChIKey=GDTXICBNEOEPAZ-FPLPWBNLSA-M
  50 49  0  0  0  0  0  0  0  0999 V2000
    10.3923   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_9637
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:13
+
 dad_5[c] -> dad_5[e]
   1  1
 $MOL
 dad_5[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:25
 InChIKey=XGYIMTFOTBMPFP-KQYNXXCUSA-N
  31 33  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ InChIKey=XGYIMTFOTBMPFP-KQYNXXCUSA-N
 M  END
 $MOL
 dad_5[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:25
 InChIKey=XGYIMTFOTBMPFP-KQYNXXCUSA-N
  31 33  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

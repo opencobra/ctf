@@ -1,11 +1,11 @@
 $RXN
 PPIOGLYtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 ppiogly[m] -> ppiogly[c]
   1  1
 $MOL
 ppiogly[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:45
 InChIKey=WOMAZEJKVZLLFE-UHFFFAOYSA-M
  17 16  0  0  0  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 ppiogly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:45
 InChIKey=WOMAZEJKVZLLFE-UHFFFAOYSA-M
  17 16  0  0  0  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

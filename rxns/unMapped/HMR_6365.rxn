@@ -1,11 +1,11 @@
 $RXN
 HMR_6365
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
+
 2 na1[e] + din[e] -> 2 na1[c] + din[c]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 din[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:15:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:39:11
 InChIKey=VGONTNSXDCQUGY-RRKCRQDMSA-N
  30 32  0  0  1  0  0  0  0  0999 V2000
    -3.8601    0.5477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ InChIKey=VGONTNSXDCQUGY-RRKCRQDMSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -97,7 +97,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -105,7 +105,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 din[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:15:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:39:11
 InChIKey=VGONTNSXDCQUGY-RRKCRQDMSA-N
  30 32  0  0  1  0  0  0  0  0999 V2000
    -3.8601    0.5477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

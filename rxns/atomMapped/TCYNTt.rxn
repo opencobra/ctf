@@ -1,11 +1,11 @@
 $RXN
-
-  EC-BLAST     TCYNTt
-
+TCYNTt
+COBRA Toolbox v3.0 - Atom mapped - 31-May-2021 17:04:21
+tcynt[c] -> tcynt[e]
   1  1
 $MOL
 tcynt[c]
-  RDT     03032105192D
+  RDT     05292113542D
 
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.2990    0.7500    0.0000 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -17,7 +17,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 tcynt[e]
-  RDT     03032105192D
+  RDT     05292113542D
 
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.2990    0.7500    0.0000 N   0  0  0  0  0  0  0  0  0  1  0  0

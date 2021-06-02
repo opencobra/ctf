@@ -1,11 +1,11 @@
 $RXN
 HMR_0007
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:44
+
 h2o[e] + tag_hs[e] -> M00241[e] + M01820[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 tag_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:37:20
 
  20 19  0  0  0  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -61,7 +61,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:33:00
 M  END
 $MOL
 M00241[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:58:53
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:10:46
 
  18 17  0  0  1  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -102,7 +102,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:58:53
 M  END
 $MOL
 M01820[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:24:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:43:37
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

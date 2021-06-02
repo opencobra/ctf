@@ -1,20 +1,21 @@
 $RXN
 SERLYSHISt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:26
+
 h[e] + serlyshis[e] -> h[c] + serlyshis[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 serlyshis[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:28:42
-InChIKey=SRKMDKACHDVPMD-TUAOUCFPSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:31:50
+InChIKey=SRKMDKACHDVPMD-GRYCIOLGSA-O
  53 53  0  0  1  0  0  0  0  0999 V2000
     4.1061   -3.0917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.5128   -4.0053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25,9 +26,9 @@ InChIKey=SRKMDKACHDVPMD-TUAOUCFPSA-O
     2.1617   -7.2413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8090    0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.7494   -6.4323    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    2.5237   -3.7962    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    0.1280   -2.6736    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7494   -6.4323    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5237   -3.7962    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1280   -2.6736    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     2.3427   -5.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.5292   -3.6917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.4598   -3.4826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -97,15 +98,15 @@ InChIKey=SRKMDKACHDVPMD-TUAOUCFPSA-O
   9 19  1  0  0  0  0
  10 13  1  0  0  0  0
  10 17  1  0  0  0  0
- 10 41  1  6  0  0  0
+ 10 41  1  1  0  0  0
  11  3  1  0  0  0  0
  11 14  1  0  0  0  0
  11 20  1  0  0  0  0
- 11 42  1  6  0  0  0
+ 11 42  1  1  0  0  0
  12  5  1  0  0  0  0
  12 15  1  0  0  0  0
  12 21  1  0  0  0  0
- 12 43  1  1  0  0  0
+ 12 43  1  6  0  0  0
  13 20  2  3  0  0  0
  13 23  1  0  0  0  0
  14 21  2  3  0  0  0
@@ -126,16 +127,17 @@ M  CHG  1  16   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 serlyshis[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:28:42
-InChIKey=SRKMDKACHDVPMD-TUAOUCFPSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:31:50
+InChIKey=SRKMDKACHDVPMD-GRYCIOLGSA-O
  53 53  0  0  1  0  0  0  0  0999 V2000
     4.1061   -3.0917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.5128   -4.0053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,9 +148,9 @@ InChIKey=SRKMDKACHDVPMD-TUAOUCFPSA-O
     2.1617   -7.2413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8090    0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.7494   -6.4323    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    2.5237   -3.7962    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    0.1280   -2.6736    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7494   -6.4323    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5237   -3.7962    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1280   -2.6736    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     2.3427   -5.5188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.5292   -3.6917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.4598   -3.4826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -218,15 +220,15 @@ InChIKey=SRKMDKACHDVPMD-TUAOUCFPSA-O
   9 19  1  0  0  0  0
  10 13  1  0  0  0  0
  10 17  1  0  0  0  0
- 10 41  1  6  0  0  0
+ 10 41  1  1  0  0  0
  11  3  1  0  0  0  0
  11 14  1  0  0  0  0
  11 20  1  0  0  0  0
- 11 42  1  6  0  0  0
+ 11 42  1  1  0  0  0
  12  5  1  0  0  0  0
  12 15  1  0  0  0  0
  12 21  1  0  0  0  0
- 12 43  1  1  0  0  0
+ 12 43  1  6  0  0  0
  13 20  2  3  0  0  0
  13 23  1  0  0  0  0
  14 21  2  3  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 LGNCCOAtx
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:19
+
 ttccoa[c] -> ttccoa[x]
   1  1
 $MOL
 ttccoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:48:53
 InChIKey=MOYMQYZWIUKGGY-YOUZJQHUSA-J
 151153  0  0  1  0  0  0  0  0999 V2000
    23.6089    8.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -316,7 +316,7 @@ M  CHG  4  53  -1  57  -1  58  -1  59  -1
 M  END
 $MOL
 ttccoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:42:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:48:53
 InChIKey=MOYMQYZWIUKGGY-YOUZJQHUSA-J
 151153  0  0  1  0  0  0  0  0999 V2000
    23.6089    8.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

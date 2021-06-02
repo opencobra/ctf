@@ -1,12 +1,12 @@
 $RXN
 SPHMYLN18121_hs_t1
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:40
+
 sphmyln18121_hs[e] -> sphmyln18121_hs[c]
   1  1
 $MOL
 sphmyln18121_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:30:28
-InChIKey=YXSZOBWVQJIWNE-MHAUTQJVSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:34:03
+InChIKey=YXSZOBWVQJIWNE-UHFFFAOYSA-O
 143142  0  0  1  0  0  0  0  0999 V2000
    16.7679    1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
   -11.7321  -11.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -258,7 +258,7 @@ InChIKey=YXSZOBWVQJIWNE-MHAUTQJVSA-O
  34 36  1  0  0  0  0
  34125  1  0  0  0  0
  34126  1  0  0  0  0
- 35 37  2  0  0  0  0
+ 35 37  2  3  0  0  0
  35127  1  0  0  0  0
  36 38  1  0  0  0  0
  36128  1  0  0  0  0
@@ -297,8 +297,8 @@ M  CHG  1  46   1
 M  END
 $MOL
 sphmyln18121_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:30:28
-InChIKey=YXSZOBWVQJIWNE-MHAUTQJVSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:34:03
+InChIKey=YXSZOBWVQJIWNE-UHFFFAOYSA-O
 143142  0  0  1  0  0  0  0  0999 V2000
    16.7679    1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
   -11.7321  -11.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -550,7 +550,7 @@ InChIKey=YXSZOBWVQJIWNE-MHAUTQJVSA-O
  34 36  1  0  0  0  0
  34125  1  0  0  0  0
  34126  1  0  0  0  0
- 35 37  2  0  0  0  0
+ 35 37  2  3  0  0  0
  35127  1  0  0  0  0
  36 38  1  0  0  0  0
  36128  1  0  0  0  0

@@ -1,12 +1,12 @@
 $RXN
 VD3
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
+
 pd3[c] -> vitd3[c]
   1  1
 $MOL
 pd3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:14:44
-InChIKey=YUGCAAVRZWBXEQ-WHTXLNIXSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:15:18
+InChIKey=YUGCAAVRZWBXEQ-QEYGBBHESA-N
  72 74  0  0  1  0  0  0  0  0999 V2000
    -3.1653   -4.3212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5180   -4.8564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33,7 +33,7 @@ InChIKey=YUGCAAVRZWBXEQ-WHTXLNIXSA-N
     2.5981    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641    1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.9511   -0.3090    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-   -0.0000    1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0000    1.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     3.4641   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -3.8813   -3.5261    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,6 +130,7 @@ InChIKey=YUGCAAVRZWBXEQ-WHTXLNIXSA-N
  15 25  1  0  0  0  0
  15 59  1  0  0  0  0
  15 60  1  0  0  0  0
+ 16 26  1  0  0  0  0
  16 61  1  0  0  0  0
  16 62  1  0  0  0  0
  17 27  1  0  0  0  0
@@ -149,15 +150,14 @@ InChIKey=YUGCAAVRZWBXEQ-WHTXLNIXSA-N
  25 21  1  0  0  0  0
  25 27  1  0  0  0  0
  25 70  1  6  0  0  0
- 26 16  1  0  0  0  0
  26 27  1  0  0  0  0
- 26 71  1  6  0  0  0
+ 26 71  1  0  0  0  0
  27  5  1  1  0  0  0
  28 72  1  0  0  0  0
 M  END
 $MOL
 vitd3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:46:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:54:14
 InChIKey=QYSXJUFSXHHAJI-YRZJJWOYSA-N
  72 74  0  0  1  0  0  0  0  0999 V2000
    -5.3249    0.5806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

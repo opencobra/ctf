@@ -1,11 +1,11 @@
 $RXN
 HMR_9781
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:15
+
 hpdca[l] -> hpdca[c]
   1  1
 $MOL
 hpdca[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:42:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:11:06
 InChIKey=KEMQGTRYUADPNZ-UHFFFAOYSA-M
  52 51  0  0  0  0  0  0  0  0999 V2000
    13.8564   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -115,7 +115,7 @@ M  CHG  1  19  -1
 M  END
 $MOL
 hpdca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:42:52
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:11:06
 InChIKey=KEMQGTRYUADPNZ-UHFFFAOYSA-M
  52 51  0  0  0  0  0  0  0  0999 V2000
    13.8564   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 6DHFtl
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:51
+
 6dhf[c] -> 6dhf[l]
   1  1
 $MOL
 6dhf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:31:44
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:42:15
 InChIKey=FWAQAOUHULVCBP-HCVVFSGQSA-I
 126128  0  0  1  0  0  0  0  0999 V2000
    -5.1312   -4.9375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -266,7 +266,7 @@ M  CHG  5  62  -1  64  -1  67  -1  69  -1  71  -1
 M  END
 $MOL
 6dhf[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:31:44
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:42:15
 InChIKey=FWAQAOUHULVCBP-HCVVFSGQSA-I
 126128  0  0  1  0  0  0  0  0999 V2000
    -5.1312   -4.9375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

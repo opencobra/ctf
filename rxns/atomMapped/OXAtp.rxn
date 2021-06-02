@@ -1,11 +1,11 @@
 $RXN
-
-  EC-BLAST     OXAtp
-
+OXAtp
+COBRA Toolbox v3.0 - Atom mapped - 31-May-2021 17:03:03
+oxa[x] -> oxa[c]
   1  1
 $MOL
 oxa[x]
-  RDT     03032105222D
+  RDT     05292108502D
 
   6  5  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -24,7 +24,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 oxa[c]
-  RDT     03032105222D
+  RDT     05292108502D
 
   6  5  0  0  0  0  0  0  0  0999 V2000
    -1.2990    3.7500    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0

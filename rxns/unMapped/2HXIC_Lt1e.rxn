@@ -1,11 +1,11 @@
 $RXN
 2HXIC_Lt1e
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:40
+
 2hxic_L[e] -> 2hxic_L[c]
   1  1
 $MOL
 2hxic_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:12:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:24:46
 InChIKey=LVRFTAZAXQPQHI-UHFFFAOYSA-M
  20 19  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 2hxic_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:12:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:24:46
 InChIKey=LVRFTAZAXQPQHI-UHFFFAOYSA-M
  20 19  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 ARTPLM3m
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:57
+
 Rtotal3coa[m] -> pmtcoa[m]
   1  1
 $MOL
 Rtotal3coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:42:51
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:04:23
 
  82 84  0  0  1  0  0  0  0  0999 V2000
    -2.5000    1.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -178,7 +178,7 @@ M  CHG  4  24  -1  28  -1  50  -1  51  -1
 M  END
 $MOL
 pmtcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:42
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:08
 InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J
 127129  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

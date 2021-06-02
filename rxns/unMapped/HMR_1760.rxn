@@ -1,11 +1,11 @@
 $RXN
 HMR_1760
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:54
+
 M00615[x] -> HC01459[x]
   1  1
 $MOL
 M00615[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:08:10
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:22:49
 InChIKey=PXHZOQNODUPJKC-DPSJMXRESA-J
 156162  0  0  1  0  0  0  0  0999 V2000
    -1.7783   -5.3398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -330,8 +330,8 @@ M  CHG  4  60  -1  63  -1  65  -1  66  -1
 M  END
 $MOL
 HC01459[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:42:37
-InChIKey=PXHZOQNODUPJKC-YZBUYOTGSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:50:27
+InChIKey=PXHZOQNODUPJKC-LUMBNAJFSA-J
 156162  0  0  1  0  0  0  0  0999 V2000
    -1.7783   -5.3398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7783   -1.8757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

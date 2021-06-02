@@ -1,11 +1,11 @@
 $RXN
 PHETHPTOX2
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:25
+
 o2[c] + thbpt[c] + phe_L[c] -> tyr_L[c] + thbpt4acam[c]
   3  2
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:33
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 thbpt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:40:28
 InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:17:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:15
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
 M  END
 $MOL
 tyr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:43:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:49:41
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -191,7 +191,7 @@ InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
 M  END
 $MOL
 thbpt4acam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:35:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:40:33
 InChIKey=KJKIEFUPAPPGBC-XXKOCQOQSA-N
  33 34  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_9677
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:14
+
 1p3h5c[m] -> 1p3h5c[c]
   1  1
 $MOL
 1p3h5c[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:07:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:21:16
 InChIKey=WFOFKRKDDKGRIK-IUYQGCFVSA-M
  15 15  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42,7 +42,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 1p3h5c[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:07:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:21:16
 InChIKey=WFOFKRKDDKGRIK-IUYQGCFVSA-M
  15 15  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

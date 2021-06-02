@@ -1,11 +1,11 @@
 $RXN
 ACOX2x
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:53
+
 o2[x] + fadh2[x] + cholcoas[x] -> fad[x] + 2 h2o[x] + cholcoads[x]
   3  4
 $MOL
 o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:07:36
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:33
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 fadh2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:47:42
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -198,8 +198,8 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 cholcoas[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:31
-InChIKey=MNYDLIUNNOCPHG-TUTZYBGQSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:38
+InChIKey=MNYDLIUNNOCPHG-WQJBCUCLSA-J
 155161  0  0  1  0  0  0  0  0999 V2000
    -1.7692   -5.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7692   -1.9104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -226,7 +226,7 @@ InChIKey=MNYDLIUNNOCPHG-TUTZYBGQSA-J
    -4.6781    2.8540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.8610    5.6193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.7692   -5.3745    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-   -0.7692   -1.9104    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -0.7692   -1.9104    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     3.7865   -8.2503    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     5.4807   -7.8902    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -0.2692   -6.2406    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -359,7 +359,6 @@ InChIKey=MNYDLIUNNOCPHG-TUTZYBGQSA-J
   1 80  1  0  0  0  0
   1 81  1  0  0  0  0
   1 82  1  0  0  0  0
-  2 26  1  0  0  0  0
   2 83  1  0  0  0  0
   2 84  1  0  0  0  0
   2 85  1  0  0  0  0
@@ -441,8 +440,9 @@ InChIKey=MNYDLIUNNOCPHG-TUTZYBGQSA-J
  24131  1  0  0  0  0
  25  1  1  0  0  0  0
  25132  1  1  0  0  0
+ 26  2  1  0  0  0  0
  26 45  1  0  0  0  0
- 26133  1  0  0  0  0
+ 26133  1  1  0  0  0
  27 18  1  0  0  0  0
  27 47  1  0  0  0  0
  27134  1  6  0  0  0
@@ -521,7 +521,7 @@ M  CHG  4  59  -1  62  -1  64  -1  65  -1
 M  END
 $MOL
 fad[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:47:37
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -701,7 +701,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -712,7 +712,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -723,8 +723,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cholcoads[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:15
-InChIKey=QVDPWQVOSKJUES-JMOYVIBVSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:22
+InChIKey=QVDPWQVOSKJUES-RVDYSSEFSA-J
 153159  0  0  1  0  0  0  0  0999 V2000
    -1.7692   -5.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7692   -1.9104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 CMPACNAtg
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:01
+
 cmp[g] + cmpacna[c] -> cmp[c] + cmpacna[g]
   2  2
 $MOL
 cmp[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:40
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,7 +79,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 cmpacna[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:51
 InChIKey=TXCIAUNLDRJGJZ-BILDWYJOSA-L
  70 72  0  0  1  0  0  0  0  0999 V2000
     3.3155   -3.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -228,7 +228,7 @@ M  CHG  2  26  -1  33  -1
 M  END
 $MOL
 cmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:40
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -302,7 +302,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 cmpacna[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:05:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:28:51
 InChIKey=TXCIAUNLDRJGJZ-BILDWYJOSA-L
  70 72  0  0  1  0  0  0  0  0999 V2000
     3.3155   -3.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

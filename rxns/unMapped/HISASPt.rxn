@@ -1,28 +1,29 @@
 $RXN
 HISASPt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:24
+
 h[e] + hisasp[e] -> h[c] + hisasp[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 hisasp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:41:05
-InChIKey=MDCTVRUPVLZSPG-NKWVEPMBSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:08:49
+InChIKey=MDCTVRUPVLZSPG-RQJHMYQMSA-M
  32 32  0  0  1  0  0  0  0  0999 V2000
    -0.2788   -1.7601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.0366   -4.0826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8090    0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.1280   -2.6736    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -2.0421   -4.1871    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1280   -2.6736    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0421   -4.1871    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -3.6244   -4.8916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.4598   -3.4826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.6354   -5.1007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -64,11 +65,11 @@ InChIKey=MDCTVRUPVLZSPG-NKWVEPMBSA-M
   5 13  1  0  0  0  0
   6  9  1  0  0  0  0
   6 11  1  0  0  0  0
-  6 26  1  1  0  0  0
+  6 26  1  6  0  0  0
   7  2  1  0  0  0  0
   7 10  1  0  0  0  0
   7 14  1  0  0  0  0
-  7 27  1  6  0  0  0
+  7 27  1  1  0  0  0
   8 15  2  0  0  0  0
   8 16  1  0  0  0  0
   9 14  2  3  0  0  0
@@ -84,24 +85,25 @@ M  CHG  1  16  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 hisasp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:41:05
-InChIKey=MDCTVRUPVLZSPG-NKWVEPMBSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:08:49
+InChIKey=MDCTVRUPVLZSPG-RQJHMYQMSA-M
  32 32  0  0  1  0  0  0  0  0999 V2000
    -0.2788   -1.7601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.0366   -4.0826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8090    0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.1280   -2.6736    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -2.0421   -4.1871    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1280   -2.6736    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0421   -4.1871    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -3.6244   -4.8916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.4598   -3.4826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.6354   -5.1007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -143,11 +145,11 @@ InChIKey=MDCTVRUPVLZSPG-NKWVEPMBSA-M
   5 13  1  0  0  0  0
   6  9  1  0  0  0  0
   6 11  1  0  0  0  0
-  6 26  1  1  0  0  0
+  6 26  1  6  0  0  0
   7  2  1  0  0  0  0
   7 10  1  0  0  0  0
   7 14  1  0  0  0  0
-  7 27  1  6  0  0  0
+  7 27  1  1  0  0  0
   8 15  2  0  0  0  0
   8 16  1  0  0  0  0
   9 14  2  3  0  0  0

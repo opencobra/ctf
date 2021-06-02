@@ -1,11 +1,11 @@
 $RXN
 RAI1
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:26
+
 retinal[c] -> retinal_11_cis[c]
   1  1
 $MOL
 retinal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:25:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:56
 InChIKey=NCYCYZXNIZJOKI-OVSJKPMPSA-N
  49 49  0  0  0  0  0  0  0  0999 V2000
    -2.5981    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,7 +109,7 @@ InChIKey=NCYCYZXNIZJOKI-OVSJKPMPSA-N
 M  END
 $MOL
 retinal_11_cis[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:25:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:28:00
 InChIKey=NCYCYZXNIZJOKI-IOUUIBBYSA-N
  49 49  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

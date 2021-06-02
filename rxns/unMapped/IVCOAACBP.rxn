@@ -1,11 +1,11 @@
 $RXN
 IVCOAACBP
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:13
+
 ivcoa[m] -> ivcoa[c]
   1  1
 $MOL
 ivcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:48:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:42:18
 InChIKey=UYVZIWWBJMYRCD-VZEICDQOSA-J
  94 96  0  0  1  0  0  0  0  0999 V2000
    14.9715   -6.9643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -202,7 +202,7 @@ M  CHG  4  34  -1  38  -1  39  -1  40  -1
 M  END
 $MOL
 ivcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:48:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:42:18
 InChIKey=UYVZIWWBJMYRCD-VZEICDQOSA-J
  94 96  0  0  1  0  0  0  0  0999 V2000
    14.9715   -6.9643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

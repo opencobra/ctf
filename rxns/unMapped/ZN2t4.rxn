@@ -1,0 +1,55 @@
+$RXN
+ZN2t4
+
+h[e] + k[e] + zn2[c] -> h[c] + k[c] + zn2[e]
+  3  3
+$MOL
+h[e]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
+M  CHG  1   1   1
+M  END
+$MOL
+k[e]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:42:29
+InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+zn2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:57:59
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+h[c]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
+M  CHG  1   1   1
+M  END
+$MOL
+k[c]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:42:29
+InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+zn2[e]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:57:59
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END

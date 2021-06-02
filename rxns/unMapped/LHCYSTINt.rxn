@@ -1,11 +1,11 @@
 $RXN
 LHCYSTINt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:31
+
 Lhcystin[c] -> Lhcystin[e]
   1  1
 $MOL
 Lhcystin[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:03:05
 InChIKey=ZTVZLYBCZNMWCF-ZBHICJROSA-N
  32 31  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -74,7 +74,7 @@ InChIKey=ZTVZLYBCZNMWCF-ZBHICJROSA-N
 M  END
 $MOL
 Lhcystin[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:03:05
 InChIKey=ZTVZLYBCZNMWCF-ZBHICJROSA-N
  32 31  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

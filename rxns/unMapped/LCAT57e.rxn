@@ -1,11 +1,11 @@
 $RXN
 LCAT57e
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:19
+
 chsterol[e] + pchol_hs[e] -> xolest2_hs[e] + pcholdoc_hs[e]
   2  2
 $MOL
 chsterol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:47
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 pchol_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:08
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:01
 
  40 39  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -248,7 +248,7 @@ M  CHG  2   2   1  10  -1
 M  END
 $MOL
 xolest2_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:56:26
 
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8469    0.4886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -409,8 +409,8 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:48:41
 M  END
 $MOL
 pcholdoc_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:12:17
-InChIKey=GIGKZZCXYJVNSX-UMVCUSMKSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:12
+InChIKey=GIGKZZCXYJVNSX-UHFFFAOYSA-O
 102101  0  0  1  0  0  0  0  0999 V2000
   -21.5000  -14.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -545,42 +545,42 @@ InChIKey=GIGKZZCXYJVNSX-UMVCUSMKSA-O
   9 10  1  0  0  0  0
   9 64  1  0  0  0  0
   9 65  1  0  0  0  0
- 10 11  2  0  0  0  0
+ 10 11  2  3  0  0  0
  10 66  1  0  0  0  0
  11 12  1  0  0  0  0
  11 67  1  0  0  0  0
  12 13  1  0  0  0  0
  12 68  1  0  0  0  0
  12 69  1  0  0  0  0
- 13 14  2  0  0  0  0
+ 13 14  2  3  0  0  0
  13 70  1  0  0  0  0
  14 15  1  0  0  0  0
  14 71  1  0  0  0  0
  15 16  1  0  0  0  0
  15 72  1  0  0  0  0
  15 73  1  0  0  0  0
- 16 17  2  0  0  0  0
+ 16 17  2  3  0  0  0
  16 74  1  0  0  0  0
  17 18  1  0  0  0  0
  17 75  1  0  0  0  0
  18 19  1  0  0  0  0
  18 76  1  0  0  0  0
  18 77  1  0  0  0  0
- 19 20  2  0  0  0  0
+ 19 20  2  3  0  0  0
  19 78  1  0  0  0  0
  20 21  1  0  0  0  0
  20 79  1  0  0  0  0
  21 22  1  0  0  0  0
  21 80  1  0  0  0  0
  21 81  1  0  0  0  0
- 22 23  2  0  0  0  0
+ 22 23  2  3  0  0  0
  22 82  1  0  0  0  0
  23 24  1  0  0  0  0
  23 83  1  0  0  0  0
  24 25  1  0  0  0  0
  24 84  1  0  0  0  0
  24 85  1  0  0  0  0
- 25 26  2  0  0  0  0
+ 25 26  2  3  0  0  0
  25 86  1  0  0  0  0
  26 27  1  0  0  0  0
  26 87  1  0  0  0  0

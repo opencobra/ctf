@@ -1,11 +1,11 @@
 $RXN
 CE4843td
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:21
+
 eidi1114ac[c] -> eidi1114ac[e]
   1  1
 $MOL
 eidi1114ac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:21:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:45:39
 InChIKey=XSXIVVZCUAHUJO-AVQMFFATSA-M
  57 56  0  0  0  0  0  0  0  0999 V2000
    15.5885   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 eidi1114ac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:21:25
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:45:39
 InChIKey=XSXIVVZCUAHUJO-AVQMFFATSA-M
  57 56  0  0  0  0  0  0  0  0999 V2000
    15.5885   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

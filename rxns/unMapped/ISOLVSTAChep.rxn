@@ -1,11 +1,11 @@
 $RXN
 ISOLVSTAChep
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:19
+
 6hlvstacid[c] -> isolvstacid[c]
   1  1
 $MOL
 6hlvstacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:31:58
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:42:29
 InChIKey=ULAAPVRVEVCSJH-UHFFFAOYSA-M
  68 69  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -149,7 +149,7 @@ M  CHG  1  28  -1
 M  END
 $MOL
 isolvstacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:47:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:41:49
 InChIKey=RHPKNHDLZOJVLI-UHFFFAOYSA-M
  68 69  0  0  1  0  0  0  0  0999 V2000
     0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

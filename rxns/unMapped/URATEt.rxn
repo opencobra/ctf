@@ -1,11 +1,11 @@
 $RXN
 URATEt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:32
+
 urate[c] -> urate[e]
   1  1
 $MOL
 urate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:52:09
 InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -44,7 +44,7 @@ InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
 M  END
 $MOL
 urate[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:45:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:52:09
 InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

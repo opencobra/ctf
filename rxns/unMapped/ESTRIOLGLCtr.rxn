@@ -1,11 +1,11 @@
 $RXN
 ESTRIOLGLCtr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:08
+
 estriolglc[c] -> estriolglc[r]
   1  1
 $MOL
 estriolglc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:46:28
 InChIKey=FQYGGFDZJFIDPU-JRSYHJKYSA-N
  65 69  0  0  1  0  0  0  0  0999 V2000
     0.8783   -0.5071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -145,7 +145,7 @@ InChIKey=FQYGGFDZJFIDPU-JRSYHJKYSA-N
 M  END
 $MOL
 estriolglc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:22:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:46:28
 InChIKey=FQYGGFDZJFIDPU-JRSYHJKYSA-N
  65 69  0  0  1  0  0  0  0  0999 V2000
     0.8783   -0.5071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

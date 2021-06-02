@@ -1,11 +1,11 @@
 $RXN
 7HPVSitr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 7hpvs[r] -> 7hpvs[c]
   1  1
 $MOL
 7hpvs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:33:35
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:44:09
 InChIKey=TUWBQFDAELTKFS-UHFFFAOYSA-M
  67 67  0  0  1  0  0  0  0  0999 V2000
     3.0981   -4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ M  CHG  2  29  -1  32   1
 M  END
 $MOL
 7hpvs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:33:35
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:44:09
 InChIKey=TUWBQFDAELTKFS-UHFFFAOYSA-M
  67 67  0  0  1  0  0  0  0  0999 V2000
     3.0981   -4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

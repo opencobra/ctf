@@ -1,11 +1,11 @@
 $RXN
 RE3140X
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:03
+
 h2o[x] + CE4828[x] -> CE4825[x]
   2  1
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE4828[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:00:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:11:05
 InChIKey=NVOWZIBKQIWTDG-ZJJOROQCSA-J
 137139  0  0  1  0  0  0  0  0999 V2000
   -19.4197   -3.0132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -299,7 +299,7 @@ M  CHG  4  53  -1  57  -1  58  -1  59  -1
 M  END
 $MOL
 CE4825[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:00:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:10:50
 InChIKey=JJCGUWRDULVWQG-VXLHGKKBSA-J
 140142  0  0  1  0  0  0  0  0999 V2000
    14.7839   -8.1618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

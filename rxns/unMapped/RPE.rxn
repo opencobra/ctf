@@ -1,11 +1,11 @@
 $RXN
 RPE
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:35
+
 ru5p_D[c] -> xu5p_D[c]
   1  1
 $MOL
 ru5p_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:26:43
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:29:28
 InChIKey=FNZLKVNUWIIPSJ-UHNVWZDZSA-L
  23 22  0  0  1  0  0  0  0  0999 V2000
     1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ M  CHG  2  10  -1  11  -1
 M  END
 $MOL
 xu5p_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:57:24
 InChIKey=FNZLKVNUWIIPSJ-RFZPGFLSSA-L
  23 22  0  0  1  0  0  0  0  0999 V2000
     1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

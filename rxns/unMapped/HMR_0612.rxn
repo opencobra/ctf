@@ -1,11 +1,11 @@
 $RXN
 HMR_0612
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:48
+
 cdpdag_hs[l] -> cdpdag_hs[r]
   1  1
 $MOL
 cdpdag_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:35
 
  53 54  0  0  1  0  0  0  0  0999 V2000
    -4.8479   -2.9538    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -119,7 +119,7 @@ M  CHG  2  10  -1  14  -1
 M  END
 $MOL
 cdpdag_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:03:28
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:35
 
  53 54  0  0  1  0  0  0  0  0999 V2000
    -4.8479   -2.9538    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

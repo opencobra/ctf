@@ -1,11 +1,11 @@
 $RXN
 MI14PP
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:20
+
 h2o[c] + mi14p[c] -> pi[c] + mi4p_D[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,15 +16,15 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 mi14p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:08
-InChIKey=PELZSPZCXGTUMR-ADOSBGCESA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:00:20
+InChIKey=PELZSPZCXGTUMR-RTPHHQFDSA-J
  30 30  0  0  1  0  0  0  0  0999 V2000
-    1.0000    1.7321    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    1.5000    2.5981    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    2.5000    0.8660    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    3.0000    1.7321    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    1.5000    0.8660    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    2.5000    2.5981    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0000    1.7321    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5000    2.5981    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5000    0.8660    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.0000    1.7321    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5000    0.8660    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5000    2.5981    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     0.0000    1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    3.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -52,21 +52,21 @@ InChIKey=PELZSPZCXGTUMR-ADOSBGCESA-J
   1  2  1  0  0  0  0
   1  5  1  0  0  0  0
   1  7  1  0  0  0  0
-  1 21  1  6  0  0  0
+  1 21  1  1  0  0  0
   2  6  1  0  0  0  0
   2  8  1  0  0  0  0
-  2 22  1  1  0  0  0
+  2 22  1  6  0  0  0
   3  4  1  0  0  0  0
   3  5  1  0  0  0  0
   3  9  1  0  0  0  0
-  3 23  1  1  0  0  0
+  3 23  1  6  0  0  0
   4  6  1  0  0  0  0
   4 10  1  0  0  0  0
-  4 24  1  1  0  0  0
+  4 24  1  6  0  0  0
   5 17  1  0  0  0  0
-  5 25  1  1  0  0  0
+  5 25  1  6  0  0  0
   6 18  1  0  0  0  0
-  6 26  1  6  0  0  0
+  6 26  1  1  0  0  0
   7 27  1  0  0  0  0
   8 28  1  0  0  0  0
   9 29  1  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  4  11  -1  12  -1  14  -1  15  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -101,7 +101,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 mi4p_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:03:29
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:00:45
 InChIKey=INAPMGSXUVUWAF-CNWJWELYSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     2.5000    2.5981    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

@@ -1,20 +1,21 @@
 $RXN
 TRPGLYVALt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:26
+
 h[e] + trpglyval[e] -> h[c] + trpglyval[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 trpglyval[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:40:28
-InChIKey=WSGPBCAGEGHKQJ-BBRMVZONSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:46:18
+InChIKey=WSGPBCAGEGHKQJ-CZUORRHYSA-N
  50 51  0  0  1  0  0  0  0  0999 V2000
     2.3675    5.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.7276    7.2359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28,10 +29,10 @@ InChIKey=WSGPBCAGEGHKQJ-BBRMVZONSA-N
     2.0585    6.4927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2872    2.7770    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2872    2.7770    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.9511    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5669    6.1654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0803    6.7006    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0803    6.7006    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -1.5962    3.7281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.7713    7.6517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.9563    2.0339    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,14 +100,14 @@ InChIKey=WSGPBCAGEGHKQJ-BBRMVZONSA-N
  12 14  1  0  0  0  0
  13 17  1  0  0  0  0
  13 19  1  0  0  0  0
- 13 43  1  1  0  0  0
+ 13 43  1  6  0  0  0
  14 20  1  0  0  0  0
  15 22  2  3  0  0  0
  15 23  1  0  0  0  0
  16 10  1  0  0  0  0
  16 18  1  0  0  0  0
  16 22  1  0  0  0  0
- 16 44  1  1  0  0  0
+ 16 44  1  6  0  0  0
  17 21  2  3  0  0  0
  17 24  1  0  0  0  0
  18 25  2  0  0  0  0
@@ -120,16 +121,17 @@ InChIKey=WSGPBCAGEGHKQJ-BBRMVZONSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 trpglyval[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:40:28
-InChIKey=WSGPBCAGEGHKQJ-BBRMVZONSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:46:18
+InChIKey=WSGPBCAGEGHKQJ-CZUORRHYSA-N
  50 51  0  0  1  0  0  0  0  0999 V2000
     2.3675    5.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.7276    7.2359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -143,10 +145,10 @@ InChIKey=WSGPBCAGEGHKQJ-BBRMVZONSA-N
     2.0585    6.4927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2872    2.7770    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2872    2.7770    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.9511    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5669    6.1654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0803    6.7006    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0803    6.7006    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -1.5962    3.7281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.7713    7.6517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.9563    2.0339    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -214,14 +216,14 @@ InChIKey=WSGPBCAGEGHKQJ-BBRMVZONSA-N
  12 14  1  0  0  0  0
  13 17  1  0  0  0  0
  13 19  1  0  0  0  0
- 13 43  1  1  0  0  0
+ 13 43  1  6  0  0  0
  14 20  1  0  0  0  0
  15 22  2  3  0  0  0
  15 23  1  0  0  0  0
  16 10  1  0  0  0  0
  16 18  1  0  0  0  0
  16 22  1  0  0  0  0
- 16 44  1  1  0  0  0
+ 16 44  1  6  0  0  0
  17 21  2  3  0  0  0
  17 24  1  0  0  0  0
  18 25  2  0  0  0  0

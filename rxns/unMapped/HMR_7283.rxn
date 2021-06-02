@@ -1,11 +1,11 @@
 $RXN
 HMR_7283
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:10
+
 Asn_X_Ser_Thr[c] -> Asn_X_Ser_Thr[l]
   1  1
 $MOL
 Asn_X_Ser_Thr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:34:03
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:44:36
 
  20 19  0  0  1  0  0  0  0  0999 V2000
     0.8660    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:34:03
 M  END
 $MOL
 Asn_X_Ser_Thr[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:34:03
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:44:36
 
  20 19  0  0  1  0  0  0  0  0999 V2000
     0.8660    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0

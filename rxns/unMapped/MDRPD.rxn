@@ -1,11 +1,11 @@
 $RXN
 MDRPD
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:20
+
 5mdru1p[c] -> h2o[c] + dkmpp[c]
   1  2
 $MOL
 5mdru1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:30:27
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:40:57
 InChIKey=CNSJRYUMVMWNMC-RITPCOANSA-L
  26 25  0  0  1  0  0  0  0  0999 V2000
     4.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +63,7 @@ M  CHG  2  10  -1  11  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -74,7 +74,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dkmpp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:15:49
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:39:20
 InChIKey=HKEAOVFNWRDVAJ-UHFFFAOYSA-L
  23 22  0  0  0  0  0  0  0  0999 V2000
     4.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

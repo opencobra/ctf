@@ -1,11 +1,11 @@
 $RXN
 CYTDtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:04
+
 cytd[c] -> cytd[m]
   1  1
 $MOL
 cytd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:09:53
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:16
 InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -72,7 +72,7 @@ InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
 M  END
 $MOL
 cytd[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:09:53
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:16
 InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

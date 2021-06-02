@@ -1,0 +1,21 @@
+$RXN
+Ktex
+
+k[e] -> k[p]
+  1  1
+$MOL
+k[e]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:42:29
+InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+k[p]
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:42:29
+InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END

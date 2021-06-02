@@ -1,11 +1,11 @@
 $RXN
 HMR_7077
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:09
+
 M01320[c] -> fald[c] + M01319[c]
   1  2
 $MOL
 M01320[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:19:33
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:37:42
 InChIKey=UNFLQLWCJOTOPA-UHFFFAOYSA-N
  31 31  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ InChIKey=UNFLQLWCJOTOPA-UHFFFAOYSA-N
 M  END
 $MOL
 fald[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:47:46
 InChIKey=WSFSSNUMVMOOMR-UHFFFAOYSA-N
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -86,7 +86,7 @@ InChIKey=WSFSSNUMVMOOMR-UHFFFAOYSA-N
 M  END
 $MOL
 M01319[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:19:29
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:37:38
 InChIKey=QCCXEQGBFPINIY-UHFFFAOYSA-N
  27 27  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

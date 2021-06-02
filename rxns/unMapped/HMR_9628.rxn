@@ -1,11 +1,11 @@
 $RXN
 HMR_9628
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:13
+
 gthox[r] -> gthox[c]
   1  1
 $MOL
 gthox[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:37:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:04:27
 InChIKey=YPZRWBKMTBYPTK-BJDJZHNGSA-L
  70 69  0  0  1  0  0  0  0  0999 V2000
    -5.1962    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -151,7 +151,7 @@ M  CHG  2  27  -1  28  -1
 M  END
 $MOL
 gthox[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:37:46
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:04:27
 InChIKey=YPZRWBKMTBYPTK-BJDJZHNGSA-L
  70 69  0  0  1  0  0  0  0  0999 V2000
    -5.1962    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

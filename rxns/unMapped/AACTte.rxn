@@ -1,11 +1,11 @@
 $RXN
 AACTte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:43
+
 aact[e] -> aact[c]
   1  1
 $MOL
 aact[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:43:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:05:21
 InChIKey=BCDGQXUMWHRQCB-UHFFFAOYSA-O
  13 12  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37,7 +37,7 @@ M  CHG  1   4   1
 M  END
 $MOL
 aact[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:43:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:05:21
 InChIKey=BCDGQXUMWHRQCB-UHFFFAOYSA-O
  13 12  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

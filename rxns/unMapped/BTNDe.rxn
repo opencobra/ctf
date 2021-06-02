@@ -1,11 +1,11 @@
 $RXN
 BTNDe
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:58
+
 h2o[e] + biocyt[e] -> lys_L[e] + btn[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 biocyt[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:40
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:22:46
 InChIKey=BAQMYDQNMFBZNA-MNXVOIDGSA-N
  53 54  0  0  1  0  0  0  0  0999 V2000
     3.4033   -0.8369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -129,7 +129,7 @@ InChIKey=BAQMYDQNMFBZNA-MNXVOIDGSA-N
 M  END
 $MOL
 lys_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:57:49
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:57
 InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -185,7 +185,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 btn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:53
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:23:00
 InChIKey=YBJHBAHKTGYVGT-ZKWXMUAHSA-M
  31 32  0  0  1  0  0  0  0  0999 V2000
     3.3496   -0.8237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

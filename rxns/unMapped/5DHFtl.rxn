@@ -1,11 +1,11 @@
 $RXN
 5DHFtl
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:50:50
+
 5dhf[c] -> 5dhf[l]
   1  1
 $MOL
 5dhf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:29:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:39:48
 InChIKey=IVSPPVMFGMVDLI-LSBAASHUSA-N
 115117  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -243,7 +243,7 @@ InChIKey=IVSPPVMFGMVDLI-LSBAASHUSA-N
 M  END
 $MOL
 5dhf[l]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:29:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:39:48
 InChIKey=IVSPPVMFGMVDLI-LSBAASHUSA-N
 115117  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

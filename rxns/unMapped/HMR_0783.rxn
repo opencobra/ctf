@@ -1,11 +1,11 @@
 $RXN
 HMR_0783
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:49
+
 h2o[e] + sphs1p[e] -> pi[e] + sphings[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 sphs1p[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:31:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:34:43
 InChIKey=DUYSYHSSBDVJSM-KRWOKUGFSA-M
  62 61  0  0  1  0  0  0  0  0999 V2000
    11.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ M  CHG  1  21  -1
 M  END
 $MOL
 pi[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:19:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -164,7 +164,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 sphings[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:29:38
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:57
 InChIKey=WWUZIQQURGPMPG-KRWOKUGFSA-O
  59 58  0  0  1  0  0  0  0  0999 V2000
    12.1244   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 2MOPtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:31
+
 2mop[c] -> 2mop[m]
   1  1
 $MOL
 2mop[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:15:15
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:25:46
 InChIKey=VOKUMXABRRXHAR-UHFFFAOYSA-M
  12 11  0  0  1  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35,7 +35,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 2mop[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:15:15
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:25:46
 InChIKey=VOKUMXABRRXHAR-UHFFFAOYSA-M
  12 11  0  0  1  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

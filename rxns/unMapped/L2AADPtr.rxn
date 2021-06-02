@@ -1,11 +1,11 @@
 $RXN
 L2AADPtr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:17
+
 L2aadp[e] -> L2aadp[c]
   1  1
 $MOL
 L2aadp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:02:31
 InChIKey=OYIFNHCXNCRBQI-BYPYZUCNSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
    -2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 L2aadp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:52:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:02:31
 InChIKey=OYIFNHCXNCRBQI-BYPYZUCNSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
    -2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

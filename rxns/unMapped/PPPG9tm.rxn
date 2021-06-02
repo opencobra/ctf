@@ -1,11 +1,11 @@
 $RXN
 PPPG9tm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:25
+
 pppg9[c] -> pppg9[m]
   1  1
 $MOL
 pppg9[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:06
 InChIKey=UHSGPDMIQQYNAX-UHFFFAOYSA-L
  80 84  0  0  0  0  0  0  0  0999 V2000
     4.2696   -2.0790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -176,7 +176,7 @@ M  CHG  2  40  -1  42  -1
 M  END
 $MOL
 pppg9[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:34
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:06
 InChIKey=UHSGPDMIQQYNAX-UHFFFAOYSA-L
  80 84  0  0  0  0  0  0  0  0999 V2000
     4.2696   -2.0790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

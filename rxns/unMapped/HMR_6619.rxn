@@ -1,11 +1,11 @@
 $RXN
 HMR_6619
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:07
+
 trdox[c] -> trdox[n]
   1  1
 $MOL
 trdox[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:44:35
 
  24 23  0  0  1  0  0  0  0  0999 V2000
     3.4641   -3.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +58,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:02
 M  END
 $MOL
 trdox[n]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:39:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:44:35
 
  24 23  0  0  1  0  0  0  0  0999 V2000
     3.4641   -3.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0

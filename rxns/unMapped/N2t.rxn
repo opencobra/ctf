@@ -1,0 +1,23 @@
+$RXN
+N2t
+
+n2[e] -> n2[c]
+  1  1
+$MOL
+n2[e]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 23:07:46
+InChIKey=IJGRMHOSHXDMSA-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+M  END
+$MOL
+n2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 23:07:46
+InChIKey=IJGRMHOSHXDMSA-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+M  END

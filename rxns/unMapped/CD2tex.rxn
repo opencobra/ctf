@@ -1,0 +1,21 @@
+$RXN
+CD2tex
+
+cd2[e] -> cd2[p]
+  1  1
+$MOL
+cd2[e]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 21:54:45
+InChIKey=WLZRMCYVCSSEQC-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Cd  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+cd2[p]
+COBRA Toolbox v3.0 - explicitH molecule - 27-May-2021 21:54:45
+InChIKey=WLZRMCYVCSSEQC-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Cd  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END

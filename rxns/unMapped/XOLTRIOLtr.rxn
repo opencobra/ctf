@@ -1,11 +1,11 @@
 $RXN
 XOLTRIOLtr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:33
+
 xoltriol[c] -> xoltriol[r]
   1  1
 $MOL
 xoltriol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:56:58
 InChIKey=RIVQQZVHIVNQFH-XJZYBRFWSA-N
  78 81  0  0  1  0  0  0  0  0999 V2000
    -1.8185    4.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -170,7 +170,7 @@ InChIKey=RIVQQZVHIVNQFH-XJZYBRFWSA-N
 M  END
 $MOL
 xoltriol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:49:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:56:58
 InChIKey=RIVQQZVHIVNQFH-XJZYBRFWSA-N
  78 81  0  0  1  0  0  0  0  0999 V2000
    -1.8185    4.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

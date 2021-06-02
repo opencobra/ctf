@@ -1,12 +1,12 @@
 $RXN
 r0989
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:37
+
 cholcoa[r] -> cholcoa[c]
   1  1
 $MOL
 cholcoa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:10
-InChIKey=ZKWNOTQHFKYUNU-JGCIYWTLSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:17
+InChIKey=ZKWNOTQHFKYUNU-KFHDXJTJSA-J
 146152  0  0  1  0  0  0  0  0999 V2000
    -1.8061   -4.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.1721    2.9724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -310,8 +310,8 @@ M  CHG  4  56  -1  60  -1  61  -1  62  -1
 M  END
 $MOL
 cholcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:10
-InChIKey=ZKWNOTQHFKYUNU-JGCIYWTLSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:17
+InChIKey=ZKWNOTQHFKYUNU-KFHDXJTJSA-J
 146152  0  0  1  0  0  0  0  0999 V2000
    -1.8061   -4.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.1721    2.9724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_3107
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:00
+
 fad[m] + docoscoa[m] -> fadh2[m] + CE2242[m]
   2  2
 $MOL
 fad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:47:37
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -185,7 +185,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 docoscoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:17:35
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:41:42
 InChIKey=NDDZLVOCGALPLR-JEAMVCTESA-J
 145147  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -484,7 +484,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 fadh2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:47:42
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -668,8 +668,8 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 CE2242[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:47:30
-InChIKey=KRTIFNFQCJTGMV-ULDZQISASA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:58:17
+InChIKey=KRTIFNFQCJTGMV-UHFFFAOYSA-J
 143145  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -712,7 +712,7 @@ InChIKey=KRTIFNFQCJTGMV-ULDZQISASA-J
    -5.8349   -2.6561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.1124   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.2424   -3.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.4487   -1.8364    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.4487   -1.8364    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     4.0834   -4.3539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.7485   -2.2493    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     8.4229   -4.7651    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -880,7 +880,7 @@ InChIKey=KRTIFNFQCJTGMV-ULDZQISASA-J
  21 22  1  0  0  0  0
  21115  1  0  0  0  0
  21116  1  0  0  0  0
- 22 23  2  0  0  0  0
+ 22 23  2  3  0  0  0
  22117  1  0  0  0  0
  23 34  1  0  0  0  0
  23118  1  0  0  0  0
@@ -940,7 +940,7 @@ InChIKey=KRTIFNFQCJTGMV-ULDZQISASA-J
  41 55  1  0  0  0  0
  42 50  1  0  0  0  0
  42 65  1  0  0  0  0
- 42137  1  1  0  0  0
+ 42137  1  0  0  0  0
  44138  1  0  0  0  0
  44139  1  0  0  0  0
  53140  1  0  0  0  0

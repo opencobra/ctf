@@ -1,11 +1,11 @@
 $RXN
 HMCRNt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:21
+
 hmcr[c] -> hmcr[e]
   1  1
 $MOL
 hmcr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:42:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:10:36
 InChIKey=XIGSAGMEBXLVJJ-YFKPBYRVSA-N
  28 27  0  0  1  0  0  0  0  0999 V2000
    -4.3301   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ InChIKey=XIGSAGMEBXLVJJ-YFKPBYRVSA-N
 M  END
 $MOL
 hmcr[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:42:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:10:36
 InChIKey=XIGSAGMEBXLVJJ-YFKPBYRVSA-N
  28 27  0  0  1  0  0  0  0  0999 V2000
    -4.3301   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

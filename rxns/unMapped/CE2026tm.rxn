@@ -1,11 +1,11 @@
 $RXN
 CE2026tm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 CE2026[m] -> CE2026[c]
   1  1
 $MOL
 CE2026[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:44:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:55:18
 InChIKey=PFWQSHXPNKRLIV-UHFFFAOYSA-M
  21 20  0  0  0  0  0  0  0  0999 V2000
     5.1962   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 CE2026[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:44:32
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:55:18
 InChIKey=PFWQSHXPNKRLIV-UHFFFAOYSA-M
  21 20  0  0  0  0  0  0  0  0999 V2000
     5.1962   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

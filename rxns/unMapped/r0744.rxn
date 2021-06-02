@@ -1,11 +1,11 @@
 $RXN
 r0744
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:36
+
 h2o[x] + cholcoads[x] -> HC01459[x]
   2  1
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,8 +16,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cholcoads[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:04:15
-InChIKey=QVDPWQVOSKJUES-JMOYVIBVSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:22
+InChIKey=QVDPWQVOSKJUES-RVDYSSEFSA-J
 153159  0  0  1  0  0  0  0  0999 V2000
    -1.7692   -5.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7692   -1.9104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -335,8 +335,8 @@ M  CHG  4  59  -1  62  -1  64  -1  65  -1
 M  END
 $MOL
 HC01459[x]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:42:37
-InChIKey=PXHZOQNODUPJKC-YZBUYOTGSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:50:27
+InChIKey=PXHZOQNODUPJKC-LUMBNAJFSA-J
 156162  0  0  1  0  0  0  0  0999 V2000
    -1.7783   -5.3398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7783   -1.8757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

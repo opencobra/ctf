@@ -1,11 +1,11 @@
 $RXN
 FUC13GALACGLCGAL14ACGLCGALGLUSIDEte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:11
+
 fuc13galacglcgal14acglcgalgluside_hs[e] -> fuc13galacglcgal14acglcgalgluside_hs[c]
   1  1
 $MOL
 fuc13galacglcgal14acglcgalgluside_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:24:43
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:49:25
 InChIKey=RFSUNEUAIZKAJO-ARQDHWQXSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     1.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=RFSUNEUAIZKAJO-ARQDHWQXSA-N
 M  END
 $MOL
 fuc13galacglcgal14acglcgalgluside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:24:43
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:49:25
 InChIKey=RFSUNEUAIZKAJO-ARQDHWQXSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     1.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

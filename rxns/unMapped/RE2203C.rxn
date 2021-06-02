@@ -1,11 +1,11 @@
 $RXN
 RE2203C
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:58
+
 CE5747[c] -> CE5776[c]
   1  1
 $MOL
 CE5747[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:19:48
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:26:42
 InChIKey=WPWFMRDPTDEJJA-FAXVYDRBSA-N
 102104  0  0  0  0  0  0  0  0999 V2000
    12.9904   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -218,7 +218,7 @@ M  CHG  1  43   1
 M  END
 $MOL
 CE5776[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:20:41
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:27:22
 InChIKey=WPWFMRDPTDEJJA-UHFFFAOYSA-N
 102104  0  0  0  0  0  0  0  0999 V2000
     8.6603    5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

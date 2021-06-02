@@ -1,11 +1,11 @@
 $RXN
 NOt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:22
+
 no[e] -> no[c]
   1  1
 $MOL
 no[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:43
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:05:31
 InChIKey=MWUXSHHQAYIFBG-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 N   0  0  0  0  0  2  0  0  0  0  0  0
@@ -15,7 +15,7 @@ M  RAD  1   1   2
 M  END
 $MOL
 no[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:06:43
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:05:31
 InChIKey=MWUXSHHQAYIFBG-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 N   0  0  0  0  0  2  0  0  0  0  0  0

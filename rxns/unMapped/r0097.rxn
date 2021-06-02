@@ -1,19 +1,20 @@
 $RXN
 r0097
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:33
+
 h[c] + atp[c] + ac[c] -> ppi[c] + HC01672[c]
   3  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:21
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:18
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -108,7 +109,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 ac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:44:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:05:35
 InChIKey=QTBSBXVTEAMEQO-UHFFFAOYSA-M
   7  6  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -128,7 +129,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:20:09
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:40
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -154,21 +155,21 @@ M  CHG  3   1  -1   2  -1   4  -1
 M  END
 $MOL
 HC01672[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:44:37
-InChIKey=UBPVOHPZRZIJHM-GTBBIVDNSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:53:15
+InChIKey=UBPVOHPZRZIJHM-WOUKDFQISA-M
  41 43  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.1694    3.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.9784    0.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.7321    1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7321    1.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -5.7874    1.4262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.8366    0.0055    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -2.8147   -0.2024    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8366    0.0055    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.8147   -0.2024    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -6.4565    2.1694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.8092    1.6341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.3147    0.6636    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.3147    0.6636    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -7.4347    1.9615    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -6.1475    3.1204    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -4.5002    2.5852    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -216,23 +217,23 @@ InChIKey=UBPVOHPZRZIJHM-GTBBIVDNSA-M
   6  2  1  0  0  0  0
   6  8  1  0  0  0  0
   6 24  1  0  0  0  0
-  6 34  1  6  0  0  0
+  6 34  1  1  0  0  0
   7 10  2  0  0  0  0
   7 11  1  0  0  0  0
   7 16  1  0  0  0  0
   8  9  1  0  0  0  0
   8 19  1  0  0  0  0
-  8 35  1  1  0  0  0
+  8 35  1  6  0  0  0
   9 12  1  0  0  0  0
   9 20  1  0  0  0  0
-  9 36  1  1  0  0  0
+  9 36  1  6  0  0  0
  10 13  1  0  0  0  0
  10 14  1  0  0  0  0
  11 15  2  0  0  0  0
  11 17  1  0  0  0  0
  12 17  1  0  0  0  0
  12 24  1  0  0  0  0
- 12 37  1  6  0  0  0
+ 12 37  1  1  0  0  0
  13 38  1  0  0  0  0
  13 39  1  0  0  0  0
  19 40  1  0  0  0  0

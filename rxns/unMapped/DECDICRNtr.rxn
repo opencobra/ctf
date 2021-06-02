@@ -1,11 +1,11 @@
 $RXN
 DECDICRNtr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:30
+
 decdicrn[e] -> decdicrn[c]
   1  1
 $MOL
 decdicrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:12:42
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:36:05
 InChIKey=GDMITEPIMYKPHX-USKNYQQNSA-N
  51 50  0  0  1  0  0  0  0  0999 V2000
     6.9282    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -113,7 +113,7 @@ M  CHG  2  18   1  20  -1
 M  END
 $MOL
 decdicrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:12:42
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:36:05
 InChIKey=GDMITEPIMYKPHX-USKNYQQNSA-N
  51 50  0  0  1  0  0  0  0  0999 V2000
     6.9282    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

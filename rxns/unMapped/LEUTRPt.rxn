@@ -1,20 +1,21 @@
 $RXN
 LEUTRPt
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:25
+
 h[e] + leutrp[e] -> h[c] + leutrp[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 leutrp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:54:50
-InChIKey=BQVUABVGYYSDCJ-DZGCQCFKSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:50:06
+InChIKey=BQVUABVGYYSDCJ-HIFRSBDPSA-N
  46 47  0  0  1  0  0  0  0  0999 V2000
    -6.2290    1.1713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.9418    0.0123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28,9 +29,9 @@ InChIKey=BQVUABVGYYSDCJ-DZGCQCFKSA-N
    -5.2509    0.9634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.6036    1.4986    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.6036    1.4986    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.9511    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2872    2.7770    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2872    2.7770    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -2.9344    2.2418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5962    3.7281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.2946    0.5476    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -94,12 +95,12 @@ InChIKey=BQVUABVGYYSDCJ-DZGCQCFKSA-N
  12 14  1  0  0  0  0
  13 16  1  0  0  0  0
  13 18  1  0  0  0  0
- 13 40  1  6  0  0  0
+ 13 40  1  1  0  0  0
  14 19  1  0  0  0  0
  15  8  1  0  0  0  0
  15 17  1  0  0  0  0
  15 20  1  0  0  0  0
- 15 41  1  6  0  0  0
+ 15 41  1  1  0  0  0
  16 20  2  3  0  0  0
  16 21  1  0  0  0  0
  17 22  2  0  0  0  0
@@ -112,16 +113,17 @@ InChIKey=BQVUABVGYYSDCJ-DZGCQCFKSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 leutrp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:54:50
-InChIKey=BQVUABVGYYSDCJ-DZGCQCFKSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:50:06
+InChIKey=BQVUABVGYYSDCJ-HIFRSBDPSA-N
  46 47  0  0  1  0  0  0  0  0999 V2000
    -6.2290    1.1713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.9418    0.0123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -135,9 +137,9 @@ InChIKey=BQVUABVGYYSDCJ-DZGCQCFKSA-N
    -5.2509    0.9634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.6036    1.4986    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.6036    1.4986    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.9511    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2872    2.7770    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2872    2.7770    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -2.9344    2.2418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.5962    3.7281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.2946    0.5476    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -201,12 +203,12 @@ InChIKey=BQVUABVGYYSDCJ-DZGCQCFKSA-N
  12 14  1  0  0  0  0
  13 16  1  0  0  0  0
  13 18  1  0  0  0  0
- 13 40  1  6  0  0  0
+ 13 40  1  1  0  0  0
  14 19  1  0  0  0  0
  15  8  1  0  0  0  0
  15 17  1  0  0  0  0
  15 20  1  0  0  0  0
- 15 41  1  6  0  0  0
+ 15 41  1  1  0  0  0
  16 20  2  3  0  0  0
  16 21  1  0  0  0  0
  17 22  2  0  0  0  0

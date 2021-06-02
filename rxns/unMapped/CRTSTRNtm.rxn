@@ -1,11 +1,11 @@
 $RXN
 CRTSTRNtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:03
+
 crtstrn[c] -> crtstrn[m]
   1  1
 $MOL
 crtstrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:48
 InChIKey=OMFXVFTZEKFJBZ-HJTSIMOOSA-N
  55 58  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -124,7 +124,7 @@ InChIKey=OMFXVFTZEKFJBZ-HJTSIMOOSA-N
 M  END
 $MOL
 crtstrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:20
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:48
 InChIKey=OMFXVFTZEKFJBZ-HJTSIMOOSA-N
  55 58  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

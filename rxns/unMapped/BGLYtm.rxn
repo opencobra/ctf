@@ -1,11 +1,11 @@
 $RXN
 BGLYtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:31
+
 bgly[m] -> bgly[c]
   1  1
 $MOL
 bgly[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:22:16
 InChIKey=QIAFMBKCNZACKA-UHFFFAOYSA-M
  21 21  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ M  CHG  1  12  -1
 M  END
 $MOL
 bgly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:22:16
 InChIKey=QIAFMBKCNZACKA-UHFFFAOYSA-M
  21 21  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

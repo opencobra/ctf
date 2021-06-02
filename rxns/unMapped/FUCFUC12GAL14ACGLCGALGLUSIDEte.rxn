@@ -1,11 +1,11 @@
 $RXN
 FUCFUC12GAL14ACGLCGALGLUSIDEte
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:11
+
 fucfuc12gal14acglcgalgluside_hs[e] -> fucfuc12gal14acglcgalgluside_hs[c]
   1  1
 $MOL
 fucfuc12gal14acglcgalgluside_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:25:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:49:47
 
 190195  0  0  1  0  0  0  0  0999 V2000
    -2.5981    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -396,7 +396,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:25:16
 M  END
 $MOL
 fucfuc12gal14acglcgalgluside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:25:16
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:49:47
 
 190195  0  0  1  0  0  0  0  0999 V2000
    -2.5981    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 BTNTe
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:14
+
 btn[c] -> btn[e]
   1  1
 $MOL
 btn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:53
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:23:00
 InChIKey=YBJHBAHKTGYVGT-ZKWXMUAHSA-M
  31 32  0  0  1  0  0  0  0  0999 V2000
     3.3496   -0.8237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 btn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:59:53
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:23:00
 InChIKey=YBJHBAHKTGYVGT-ZKWXMUAHSA-M
  31 32  0  0  1  0  0  0  0  0999 V2000
     3.3496   -0.8237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

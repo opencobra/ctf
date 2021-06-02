@@ -1,11 +1,11 @@
 $RXN
 HMR_7437
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:10
+
 sTn_antigen[g] -> sTn_antigen[c]
   1  1
 $MOL
 sTn_antigen[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:04
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:29:54
 
  88 90  0  0  1  0  0  0  0  0999 V2000
    -0.1589    1.2071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -189,7 +189,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:04
 M  END
 $MOL
 sTn_antigen[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:27:04
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:29:54
 
  88 90  0  0  1  0  0  0  0  0999 V2000
    -0.1589    1.2071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

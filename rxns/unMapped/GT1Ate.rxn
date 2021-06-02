@@ -1,11 +1,11 @@
 $RXN
 GT1Ate
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:15
+
 gt1a_hs[c] -> gt1a_hs[e]
   1  1
 $MOL
 gt1a_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:36:49
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:03:15
 
 258264  0  0  1  0  0  0  0  0999 V2000
     3.4390    1.9855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -534,7 +534,7 @@ M  CHG  3  94  -1 112  -1 123  -1
 M  END
 $MOL
 gt1a_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:36:49
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:03:15
 
 258264  0  0  1  0  0  0  0  0999 V2000
     3.4390    1.9855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

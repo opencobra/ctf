@@ -1,11 +1,11 @@
 $RXN
 HMR_7181
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:10
+
 udpgal[g] + M01871[g] -> udp[g] + M01872[g]
   2  2
 $MOL
 udpgal[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:25
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,7 +130,7 @@ M  CHG  2  19  -1  26  -1
 M  END
 $MOL
 M01871[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:25:13
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:44:22
 
 106111  0  0  1  0  0  0  0  0999 V2000
     2.6750    3.0878    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -353,7 +353,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:25:13
 M  END
 $MOL
 udp[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:44:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:09
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -433,7 +433,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 M01872[g]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:25:18
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:44:27
 
 106111  0  0  1  0  0  0  0  0999 V2000
     2.6750    3.0878    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0

@@ -1,19 +1,20 @@
 $RXN
 GLUTCOADHm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:14
+
 h[m] + glutcoa[m] + fad[m] -> co2[m] + b2coa[m] + fadh2[m]
   3  3
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:15
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glutcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:32:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:58:13
 InChIKey=SYKWLIJQEHRDNH-CKRMAKSASA-I
  93 95  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -208,7 +209,7 @@ M  CHG  5  34  -1  36  -1  40  -1  41  -1  42  -1
 M  END
 $MOL
 fad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:07
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:47:37
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -388,7 +389,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 co2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:06:00
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:11
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -399,7 +400,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 b2coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 17:58:57
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:58
 InChIKey=KFWWCMJSYSSPSK-MIZOYAPFSA-J
  89 91  0  0  1  0  0  0  0  0999 V2000
    14.9715   -6.9643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -586,7 +587,7 @@ M  CHG  4  33  -1  37  -1  38  -1  39  -1
 M  END
 $MOL
 fadh2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:23:12
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:47:42
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

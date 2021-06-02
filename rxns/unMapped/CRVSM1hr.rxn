@@ -1,11 +1,11 @@
 $RXN
 CRVSM1hr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:19
+
 h2o[r] + cvm1gluc[r] -> glcur[r] + crvsm1[r]
   2  2
 $MOL
 h2o[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:38:23
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cvm1gluc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:08:30
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:31:56
 InChIKey=XHZZKEJNVFHEFD-UHFFFAOYSA-L
  80 81  0  0  1  0  0  0  0  0999 V2000
     1.3660   -6.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -184,7 +184,7 @@ M  CHG  3  39  -1  41  -1  44   1
 M  END
 $MOL
 glcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:31:04
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:56:13
 InChIKey=AEMOLEFTQBMNLQ-AQKNRBDQSA-M
  22 22  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -235,7 +235,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 crvsm1[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:07:35
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:31:03
 InChIKey=ABNPJGRFUJUANS-UHFFFAOYSA-M
  61 61  0  0  1  0  0  0  0  0999 V2000
     3.9641   -5.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

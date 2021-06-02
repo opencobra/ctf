@@ -1,11 +1,11 @@
 $RXN
 RE2658R
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:00
+
 retn[r] -> CE1617[r]
   1  1
 $MOL
 retn[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:26:02
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:28:38
 InChIKey=SHGAZHPCJJPHSC-YCNIQYBTSA-M
  49 49  0  0  0  0  0  0  0  0999 V2000
     0.8660    3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -110,7 +110,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 CE1617[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:42:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:53:43
 InChIKey=SHGAZHPCJJPHSC-PLQOLGFUSA-M
  49 49  0  0  0  0  0  0  0  0999 V2000
    -0.8660    3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

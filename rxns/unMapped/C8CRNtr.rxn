@@ -1,11 +1,11 @@
 $RXN
 C8CRNtr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:30
+
 c8crn[e] -> c8crn[c]
   1  1
 $MOL
 c8crn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:01:54
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:24:53
 InChIKey=CXTATJFJDMJMIY-CYBMUJFWSA-N
  49 48  0  0  1  0  0  0  0  0999 V2000
     7.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,7 +109,7 @@ M  CHG  2  16   1  18  -1
 M  END
 $MOL
 c8crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:01:54
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:24:53
 InChIKey=CXTATJFJDMJMIY-CYBMUJFWSA-N
  49 48  0  0  1  0  0  0  0  0999 V2000
     7.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

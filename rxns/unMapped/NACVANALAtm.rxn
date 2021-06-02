@@ -1,11 +1,11 @@
 $RXN
 NACVANALAtm
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:37
+
 nacvanala[m] -> nacvanala[c]
   1  1
 $MOL
 nacvanala[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:17
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:27
 InChIKey=UKDKTHYZLXZOSS-UHFFFAOYSA-M
  32 32  0  0  1  0  0  0  0  0999 V2000
    -2.5981    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -76,7 +76,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 nacvanala[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:05:17
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:27
 InChIKey=UKDKTHYZLXZOSS-UHFFFAOYSA-M
  32 32  0  0  1  0  0  0  0  0999 V2000
    -2.5981    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

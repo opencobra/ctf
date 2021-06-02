@@ -1,11 +1,11 @@
 $RXN
 r1451
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:51:40
+
 q10[m] + dcacoa[m] -> q10h2[m] + dc2coa[m]
   2  2
 $MOL
 q10[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:24:56
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:18
 InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 153153  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -317,7 +317,7 @@ InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 M  END
 $MOL
 dcacoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:47
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:34:09
 InChIKey=CNKJPHSEFDPYDB-HSJNEKGZSA-J
 109111  0  0  1  0  0  0  0  0999 V2000
    15.4961   -0.6457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -544,7 +544,7 @@ M  CHG  4  39  -1  43  -1  44  -1  45  -1
 M  END
 $MOL
 q10h2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:25:01
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:25
 InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 155155  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -860,7 +860,7 @@ InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 M  END
 $MOL
 dc2coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:10:33
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:54
 InChIKey=MGNBGCRQQFMNBM-YJHHLLFWSA-J
 107109  0  0  1  0  0  0  0  0999 V2000
    15.4961   -0.6457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

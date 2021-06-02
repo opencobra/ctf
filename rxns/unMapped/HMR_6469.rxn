@@ -1,11 +1,11 @@
 $RXN
 HMR_6469
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:06
+
 CE4898[c] -> CE4898[m]
   1  1
 $MOL
 CE4898[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:03:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:13:50
 InChIKey=WPZHQZIUOXUCOK-PXUFRVCMSA-M
  77 78  0  0  1  0  0  0  0  0999 V2000
     5.6263    1.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -167,7 +167,7 @@ M  CHG  1  29  -1
 M  END
 $MOL
 CE4898[m]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 16:03:26
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:13:50
 InChIKey=WPZHQZIUOXUCOK-PXUFRVCMSA-M
  77 78  0  0  1  0  0  0  0  0999 V2000
     5.6263    1.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

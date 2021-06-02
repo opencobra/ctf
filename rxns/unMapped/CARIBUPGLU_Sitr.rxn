@@ -1,11 +1,11 @@
 $RXN
 CARIBUPGLU_Sitr
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:53:21
+
 caribupglu_S[c] -> caribupglu_S[r]
   1  1
 $MOL
 caribupglu_S[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:25:29
 InChIKey=FLVLKWAQHDRIPH-UHFFFAOYSA-L
  51 52  0  0  1  0  0  0  0  0999 V2000
     7.7942   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -115,7 +115,7 @@ M  CHG  2  24  -1  26  -1
 M  END
 $MOL
 caribupglu_S[r]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 18:02:31
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:25:29
 InChIKey=FLVLKWAQHDRIPH-UHFFFAOYSA-L
  51 52  0  0  1  0  0  0  0  0999 V2000
     7.7942   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

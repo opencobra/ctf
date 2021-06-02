@@ -1,11 +1,11 @@
 $RXN
 CE2705t
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:41
+
 CE2705[e] -> CE2705[c]
   1  1
 $MOL
 CE2705[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:51:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:02:47
 InChIKey=FEMXZDUTFRTWPE-DZSWIPIPSA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -72,7 +72,7 @@ InChIKey=FEMXZDUTFRTWPE-DZSWIPIPSA-N
 M  END
 $MOL
 CE2705[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 15:51:59
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:02:47
 InChIKey=FEMXZDUTFRTWPE-DZSWIPIPSA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

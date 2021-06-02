@@ -1,12 +1,12 @@
 $RXN
 SPHMYLN18116_hs_t1
-COBRA Toolbox v3.0 - MDL RXN - 09-Mar-2021 19:52:39
+
 sphmyln18116_hs[e] -> sphmyln18116_hs[c]
   1  1
 $MOL
 sphmyln18116_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:30:00
-InChIKey=RWKUXQNLWDTSLO-NHQGMKOOSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:33:25
+InChIKey=RWKUXQNLWDTSLO-UHFFFAOYSA-O
 128127  0  0  1  0  0  0  0  0999 V2000
   -10.2321  -12.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    11.7679    3.0622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -228,7 +228,7 @@ InChIKey=RWKUXQNLWDTSLO-NHQGMKOOSA-O
  29 31  1  0  0  0  0
  29110  1  0  0  0  0
  29111  1  0  0  0  0
- 30 32  2  0  0  0  0
+ 30 32  2  3  0  0  0
  30112  1  0  0  0  0
  31 33  1  0  0  0  0
  31113  1  0  0  0  0
@@ -267,8 +267,8 @@ M  CHG  1  41   1
 M  END
 $MOL
 sphmyln18116_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 09-Mar-2021 19:30:00
-InChIKey=RWKUXQNLWDTSLO-NHQGMKOOSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:33:25
+InChIKey=RWKUXQNLWDTSLO-UHFFFAOYSA-O
 128127  0  0  1  0  0  0  0  0999 V2000
   -10.2321  -12.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    11.7679    3.0622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -490,7 +490,7 @@ InChIKey=RWKUXQNLWDTSLO-NHQGMKOOSA-O
  29 31  1  0  0  0  0
  29110  1  0  0  0  0
  29111  1  0  0  0  0
- 30 32  2  0  0  0  0
+ 30 32  2  3  0  0  0
  30112  1  0  0  0  0
  31 33  1  0  0  0  0
  31113  1  0  0  0  0
