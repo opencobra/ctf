@@ -1,21 +1,21 @@
 $RXN
 PBtex
-COBRA Toolbox v3.0 - Atom mapped - 29-May-2021 21:46:53
+COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 04:21:12
 pb[e] -> pb[p]
   1  1
 $MOL
 pb[e]
-  RDT     05292114502D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:34:04
+InChIKey=RVPVRDXYQKGNMQ-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Pb  0  2  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   2
 M  END
 $MOL
 pb[p]
-  RDT     05292114502D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:34:04
+InChIKey=RVPVRDXYQKGNMQ-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Pb  0  2  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   2
 M  END

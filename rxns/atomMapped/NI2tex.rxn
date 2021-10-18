@@ -1,21 +1,21 @@
 $RXN
 NI2tex
-COBRA Toolbox v3.0 - Atom mapped - 29-May-2021 21:46:16
+COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 03:22:22
 ni2[e] -> ni2[p]
   1  1
 $MOL
 ni2[e]
-  RDT     05292113172D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:28:00
+InChIKey=VEQPNABPJHWNSG-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Ni  0  2  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   2
 M  END
 $MOL
 ni2[p]
-  RDT     05292113172D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:28:00
+InChIKey=VEQPNABPJHWNSG-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Ni  0  2  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   2
 M  END

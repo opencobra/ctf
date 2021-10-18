@@ -1,53 +1,53 @@
 $RXN
 ZN2t4pp
-COBRA Toolbox v3.0 - Atom mapped - 29-May-2021 21:49:31
+COBRA Toolbox v3.0 - Atom mapped - 17-Oct-2021 00:47:07
 h[p] + k[p] + zn2[c] -> h[c] + k[c] + zn2[p]
   3  3
 $MOL
 h[p]
-  RDT     05292121382D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 k[p]
-  RDT     05292121382D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:12:16
+InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  2  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 zn2[c]
-  RDT     05292121382D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:12:29
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  3  0  0
 M  CHG  1   1   2
 M  END
 $MOL
 h[c]
-  RDT     05292121382D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 k[c]
-  RDT     05292121382D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:12:16
+InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  2  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 zn2[p]
-  RDT     05292121382D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:12:29
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  3  0  0
 M  CHG  1   1   2
 M  END

@@ -1,21 +1,21 @@
 $RXN
 ZN2tex
-COBRA Toolbox v3.0 - Atom mapped - 29-May-2021 21:49:31
+COBRA Toolbox v3.0 - Atom mapped - 17-Oct-2021 00:47:48
 zn2[e] -> zn2[p]
   1  1
 $MOL
 zn2[e]
-  RDT     05292121382D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:12:29
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   2
 M  END
 $MOL
 zn2[p]
-  RDT     05292121382D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:12:29
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   2
 M  END

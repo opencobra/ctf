@@ -1,37 +1,37 @@
 $RXN
 CAt4i
-COBRA Toolbox v3.0 - Atom mapped - 29-May-2021 21:40:58
+COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 13:41:38
 h[c] + ca2[e] -> h[e] + ca2[c]
   2  2
 $MOL
 h[c]
-  RDT     05282120332D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 ca2[e]
-  RDT     05282120332D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:05:49
+InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  2  0  0
 M  CHG  1   1   2
 M  END
 $MOL
 h[e]
-  RDT     05282120332D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 ca2[c]
-  RDT     05282120332D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:05:49
+InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  2  0  0
 M  CHG  1   1   2
 M  END

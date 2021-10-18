@@ -1,37 +1,37 @@
 $RXN
 NAt3pp
-COBRA Toolbox v3.0 - Atom mapped - 29-May-2021 21:46:09
+COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 03:11:22
 h[p] + na1[c] -> h[c] + na1[p]
   2  2
 $MOL
 h[p]
-  RDT     05292113092D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-  RDT     05292113092D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:26:54
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  2  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-  RDT     05292113092D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 na1[p]
-  RDT     05292113092D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:26:54
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  2  0  0
 M  CHG  1   1   1
 M  END

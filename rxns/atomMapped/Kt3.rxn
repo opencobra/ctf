@@ -1,37 +1,37 @@
 $RXN
 Kt3
-COBRA Toolbox v3.0 - Atom mapped - 29-May-2021 21:45:10
+COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 01:12:05
 h[e] + k[c] -> h[c] + k[e]
   2  2
 $MOL
 h[e]
-  RDT     05292110082D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 k[c]
-  RDT     05292110082D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:12:16
+InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  2  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-  RDT     05292110082D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 k[e]
-  RDT     05292110082D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:12:16
+InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  2  0  0
 M  CHG  1   1   1
 M  END

@@ -1,0 +1,22 @@
+$RXN
+MG2tex
+
+mg2[e] -> mg2[p]
+  1  1
+$MOL
+mg2[e]
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:22:42
+InChIKey=JLVVSXFLKOJNIY-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Mg  0  2  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+mg2[p]
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:22:42
+InChIKey=JLVVSXFLKOJNIY-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Mg  0  2  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   2
+M  END
+

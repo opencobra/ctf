@@ -1,0 +1,23 @@
+$RXN
+H2tex
+COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:19:24
+h2[e] -> h2[p]
+  1  1
+$MOL
+h2[e]
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:44
+InChIKey=UFHFLCQGNIYNRP-UHFFFAOYSA-N
+  2  1  0  0  0  0            999 V2000
+    1.6500    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
+  1  2  1  0  0  0  0
+M  END
+$MOL
+h2[p]
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:44
+InChIKey=UFHFLCQGNIYNRP-UHFFFAOYSA-N
+  2  1  0  0  0  0            999 V2000
+    1.6500    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
+  1  2  1  0  0  0  0
+M  END

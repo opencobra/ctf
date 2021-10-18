@@ -1,21 +1,21 @@
 $RXN
 CD2tex
-COBRA Toolbox v3.0 - Atom mapped - 29-May-2021 21:41:00
+COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 14:58:19
 cd2[e] -> cd2[p]
   1  1
 $MOL
 cd2[e]
-  RDT     05282121022D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:07:29
+InChIKey=WLZRMCYVCSSEQC-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Cd  0  2  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   2
 M  END
 $MOL
 cd2[p]
-  RDT     05282121022D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:07:29
+InChIKey=WLZRMCYVCSSEQC-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Cd  0  2  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   2
 M  END

@@ -1,21 +1,21 @@
 $RXN
 CLtex
-COBRA Toolbox v3.0 - Atom mapped - 29-May-2021 21:41:17
+COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 15:28:21
 cl[e] -> cl[p]
   1  1
 $MOL
 cl[e]
-  RDT     05282122192D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:11:21
+InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1  -1
 M  END
 $MOL
 cl[p]
-  RDT     05282122192D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:11:21
+InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1  -1
 M  END

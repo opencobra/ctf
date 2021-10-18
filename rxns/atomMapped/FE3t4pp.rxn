@@ -1,21 +1,21 @@
 $RXN
 FE3t4pp
-COBRA Toolbox v3.0 - Atom mapped - 29-May-2021 21:42:56
+COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 19:47:19
 fe3[p] -> fe3[c]
   1  1
 $MOL
 fe3[p]
-  RDT     05292101102D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:34:53
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Fe  0  1  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   3
 M  END
 $MOL
 fe3[c]
-  RDT     05292101102D
-
-  1  0  0  0  0  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:34:53
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Fe  0  1  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   3
 M  END
