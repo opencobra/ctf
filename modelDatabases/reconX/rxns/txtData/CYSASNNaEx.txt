@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[NH:1]=[C:2]([OH:4])[CH2:7][CH:9]([C:3](=[O:5])[OH:6])[NH2:8].[OH:10][C:11](=[O:12])[CH:13]([CH2:14][SH:15])[NH2:16].[Na+:17]>>[CH2:7]([C:2](=[NH:1])[OH:4])[CH:9]([C:3](=[O:5])[OH:6])[NH2:8].[CH2:14]([SH:15])[CH:13]([C:11]([OH:10])=[O:12])[NH2:16].[Na+:17]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{}
+

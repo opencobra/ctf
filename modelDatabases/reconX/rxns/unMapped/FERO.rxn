@@ -1,0 +1,132 @@
+$RXN
+FERO
+
+o2[c] + 4 h[c] + 4 fe2[c] -> 2 h2o[c] + 4 fe3[c]
+  9  6
+$MOL
+o2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+M  END
+$MOL
+h[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+h[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+h[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+h[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
+InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+fe2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:20:06
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+fe2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:20:06
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+fe2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:20:06
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+fe2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:20:06
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+h2o[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9700    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5150    0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+$MOL
+h2o[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9700    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5150    0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+$MOL
+fe3[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:20:11
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Fe  0  1  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   3
+M  END
+$MOL
+fe3[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:20:11
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Fe  0  1  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   3
+M  END
+$MOL
+fe3[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:20:11
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Fe  0  1  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   3
+M  END
+$MOL
+fe3[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:20:11
+InChIKey=VTLYFUHAOXGGBS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Fe  0  1  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   3
+M  END

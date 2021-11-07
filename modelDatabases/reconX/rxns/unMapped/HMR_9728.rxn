@@ -1,0 +1,19 @@
+$RXN
+HMR_9728
+
+M03161[c] -> M03161[e]
+  1  1
+$MOL
+M03161[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:56:29
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+M  END
+$MOL
+M03161[e]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:56:29
+
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
+M  END

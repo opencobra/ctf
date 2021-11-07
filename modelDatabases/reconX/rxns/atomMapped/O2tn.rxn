@@ -1,0 +1,24 @@
+$RXN
+O2tn
+
+o2[c] -> o2[n]
+  1  1
+$MOL
+o2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+  1  2  2  0  0  0  0
+M  END
+$MOL
+o2[n]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+  1  2  2  0  0  0  0
+M  END
+

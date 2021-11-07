@@ -1,0 +1,21 @@
+$RXN
+NAtx
+
+na1[c] -> na1[x]
+  1  1
+$MOL
+na1[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+na1[x]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END

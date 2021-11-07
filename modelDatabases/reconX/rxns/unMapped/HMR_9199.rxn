@@ -1,0 +1,21 @@
+$RXN
+HMR_9199
+
+zn2[c] -> zn2[g]
+  1  1
+$MOL
+zn2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:24:38
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+zn2[g]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:24:38
+InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END

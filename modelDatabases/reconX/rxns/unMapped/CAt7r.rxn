@@ -1,0 +1,69 @@
+$RXN
+CAt7r
+
+3 na1[e] + ca2[c] -> 3 na1[c] + ca2[e]
+  4  4
+$MOL
+na1[e]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+na1[e]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+na1[e]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+ca2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:15:08
+InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+na1[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+na1[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+na1[c]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+ca2[e]
+COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:15:08
+InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   2
+M  END

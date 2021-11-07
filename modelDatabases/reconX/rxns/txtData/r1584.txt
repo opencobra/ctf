@@ -1,0 +1,12 @@
+
+//
+SELECTED AAM MAPPING
+[CH:1]([CH:5]([C:3]([O:2][H:20])=[O:4])[NH2:7])([CH2:6][C:8]([H:25])([H:27])[H:28])[CH3:9].[H:33][CH:18]([CH:12]([C:14](=[O:15])[O:16][H:37])[NH2:19])[CH2:17][C:11](=[NH:10])[OH:13]>>[CH2:17]([C:11]([H:28])([H:25])[H:27])[CH:18]([CH:12]([C:14](=[O:16])[O:15][H:20])[NH2:19])[CH3:9].[NH2:7][CH:5]([C:3](=[O:2])[O:4][H:37])[CH:1]([CH2:6][C:8](=[NH:10])[OH:13])[H:33]
+
+
+//
+REACTANT INPUT ATOM INDEX<->AAM ID
+{}
+PRODUCT INPUT ATOM INDEX<->AAM ID
+{}
+
