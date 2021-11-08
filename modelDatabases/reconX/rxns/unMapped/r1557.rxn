@@ -5,7 +5,7 @@ gly[e] + ile_L[c] -> gly[c] + ile_L[e]
   2  2
 $MOL
 gly[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:01:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:20
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30,7 +30,7 @@ InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
 M  END
 $MOL
 ile_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:02:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:03
 InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
     3.4641   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,7 +79,7 @@ InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N
 M  END
 $MOL
 gly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:01:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:20
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -104,7 +104,7 @@ InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
 M  END
 $MOL
 ile_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:02:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:03
 InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
     3.4641   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

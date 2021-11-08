@@ -5,7 +5,7 @@ nh4[e] -> nh4[c]
   1  1
 $MOL
 nh4[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:33:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:33:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0

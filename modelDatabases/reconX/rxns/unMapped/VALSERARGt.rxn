@@ -5,15 +5,16 @@ h[e] + valserarg[e] -> h[c] + valserarg[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 valserarg[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:10:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:49
 InChIKey=AJNUKMZFHXUBMK-KXUCPTDWSA-O
  54 53  0  0  1  0  0  0  0  0999 V2000
     8.6603   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -127,15 +128,16 @@ M  CHG  1  15   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 valserarg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:10:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:49
 InChIKey=AJNUKMZFHXUBMK-KXUCPTDWSA-O
  54 53  0  0  1  0  0  0  0  0999 V2000
     8.6603   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

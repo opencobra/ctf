@@ -5,7 +5,7 @@ tettet6[e] -> tettet6[c]
   1  1
 $MOL
 tettet6[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:24:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:52:38
 InChIKey=RZHACVKGHNMWOP-UHFFFAOYSA-M
  65 64  0  0  0  0  0  0  0  0999 V2000
    19.0526   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -141,7 +141,7 @@ M  CHG  1  26  -1
 M  END
 $MOL
 tettet6[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:24:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:52:38
 InChIKey=RZHACVKGHNMWOP-UHFFFAOYSA-M
  65 64  0  0  0  0  0  0  0  0999 V2000
    19.0526   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

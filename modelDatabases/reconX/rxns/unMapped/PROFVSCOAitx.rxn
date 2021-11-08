@@ -5,7 +5,7 @@ profvscoa[x] -> profvscoa[c]
   1  1
 $MOL
 profvscoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:55:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:56
 InChIKey=UNSWDXWRWSUCJM-UHFFFAOYSA-J
 111114  0  0  1  0  0  0  0  0999 V2000
     1.1482   -2.5574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -237,7 +237,7 @@ M  CHG  4  48  -1  51  -1  52  -1  53  -1
 M  END
 $MOL
 profvscoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:55:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:56
 InChIKey=UNSWDXWRWSUCJM-UHFFFAOYSA-J
 111114  0  0  1  0  0  0  0  0999 V2000
     1.1482   -2.5574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

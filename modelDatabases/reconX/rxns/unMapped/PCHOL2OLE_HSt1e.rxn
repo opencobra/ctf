@@ -5,7 +5,7 @@ pchol2ole_hs[e] -> pchol2ole_hs[c]
   1  1
 $MOL
 pchol2ole_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:41:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:25
 InChIKey=SULIDBRAXVDKBU-UHFFFAOYSA-O
  88 87  0  0  1  0  0  0  0  0999 V2000
    19.4545    3.2321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -187,7 +187,7 @@ M  CHG  1  27   1
 M  END
 $MOL
 pchol2ole_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:41:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:25
 InChIKey=SULIDBRAXVDKBU-UHFFFAOYSA-O
  88 87  0  0  1  0  0  0  0  0999 V2000
    19.4545    3.2321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

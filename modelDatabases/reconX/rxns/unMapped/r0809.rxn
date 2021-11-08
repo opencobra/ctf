@@ -5,7 +5,7 @@ adn[c] + ins[e] -> ins[c] + adn[e]
   2  2
 $MOL
 adn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:22:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:02
 InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
  32 34  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -77,7 +77,7 @@ InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
 M  END
 $MOL
 ins[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:05:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:37
 InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
  31 33  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -147,7 +147,7 @@ InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
 M  END
 $MOL
 ins[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:05:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:37
 InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
  31 33  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -217,7 +217,7 @@ InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
 M  END
 $MOL
 adn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:22:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:02
 InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
  32 34  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

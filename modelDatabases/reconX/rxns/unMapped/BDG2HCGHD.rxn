@@ -5,7 +5,7 @@ h2o[c] + bdg2hc[c] -> h[c] + glc_D[c] + 2coum[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,9 +16,9 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 bdg2hc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:06:32
-InChIKey=GVRIYIMNJGULCZ-QLFWQTQQSA-M
- 40 41  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:31
+InChIKey=GVRIYIMNJGULCZ-QLFWQTQQSA-N
+ 41 42  0  0  1  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -30,13 +30,13 @@ InChIKey=GVRIYIMNJGULCZ-QLFWQTQQSA-M
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -0.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     1.7321    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.7321    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.7321   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.8660    1.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    0.0000    1.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0000    1.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -1.7321   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    4.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.5981    4.5000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.5981    4.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5981   -0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5981    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660    2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,8 +54,9 @@ InChIKey=GVRIYIMNJGULCZ-QLFWQTQQSA-M
    -1.7321   -1.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.6588    0.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7926    2.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    2.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    2.0700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5721   -1.5150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4096    4.0315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -3.4382   -0.0150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5981    2.4700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0260    2.9850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -97,22 +98,23 @@ InChIKey=GVRIYIMNJGULCZ-QLFWQTQQSA-M
  15 23  1  0  0  0  0
  15 36  1  1  0  0  0
  16 37  1  0  0  0  0
- 19 38  1  0  0  0  0
- 20 39  1  0  0  0  0
- 21 40  1  0  0  0  0
-M  CHG  1  18  -1
+ 18 38  1  0  0  0  0
+ 19 39  1  0  0  0  0
+ 20 40  1  0  0  0  0
+ 21 41  1  0  0  0  0
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glc_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:48:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:11
 InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -166,7 +168,7 @@ InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
 M  END
 $MOL
 2coum[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:10:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:40:09
 InChIKey=PMOWTIHVNWZYFI-WAYWQWQTSA-M
  19 19  0  0  0  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

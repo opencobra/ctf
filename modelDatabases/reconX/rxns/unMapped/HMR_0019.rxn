@@ -5,7 +5,7 @@ xolest2_hs[e] -> xolest2_hs[l]
   1  1
 $MOL
 xolest2_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:20:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:58
 
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8469    0.4886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -166,7 +166,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:20:06
 M  END
 $MOL
 xolest2_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:20:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:58
 
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8469    0.4886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

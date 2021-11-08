@@ -5,7 +5,7 @@ leu_L[l] -> leu_L[c]
   1  1
 $MOL
 leu_L[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:14:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:09
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
 M  END
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:14:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:09
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

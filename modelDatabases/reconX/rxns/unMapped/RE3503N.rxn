@@ -5,7 +5,7 @@ o2[n] + CE7090[n] -> h2o[n] + CE7110[n]
   2  2
 $MOL
 o2[n]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:22
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 CE7090[n]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:03:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:16:07
 InChIKey=LRWYBGFSVUBWMO-UAAZXLHOSA-M
  52 51  0  0  1  0  0  0  0  0999 V2000
     1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34,7 +34,7 @@ InChIKey=LRWYBGFSVUBWMO-UAAZXLHOSA-M
     4.3301   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981   -1.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981   -0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -124,7 +124,7 @@ M  CHG  1  23  -1
 M  END
 $MOL
 h2o[n]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -135,7 +135,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE7110[n]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:03:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:16:19
 InChIKey=ZPAJZAMPZXISSE-ZQMVCERVSA-M
  51 51  0  0  1  0  0  0  0  0999 V2000
    10.0263   -5.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

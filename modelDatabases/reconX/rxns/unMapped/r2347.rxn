@@ -5,8 +5,8 @@ HC02180[e] -> HC02180[c]
   1  1
 $MOL
 HC02180[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:16:24
-InChIKey=XNRNNGPBEPRNAR-NSBREPTMSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:03
+InChIKey=XNRNNGPBEPRNAR-YLQJXANPSA-M
  59 59  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.9282   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -78,7 +78,7 @@ InChIKey=XNRNNGPBEPRNAR-NSBREPTMSA-M
   3 32  1  0  0  0  0
   3 33  1  0  0  0  0
   4  5  1  0  0  0  0
-  4  7  2  0  0  0  0
+  4  7  2  3  0  0  0
   4 34  1  0  0  0  0
   5  8  1  0  0  0  0
   5 35  1  0  0  0  0
@@ -99,7 +99,7 @@ InChIKey=XNRNNGPBEPRNAR-NSBREPTMSA-M
  11 19  1  0  0  0  0
  11 46  1  0  0  0  0
  11 47  1  0  0  0  0
- 12 13  2  0  0  0  0
+ 12 13  2  3  0  0  0
  12 15  1  0  0  0  0
  12 48  1  0  0  0  0
  13 49  1  0  0  0  0
@@ -130,8 +130,8 @@ M  CHG  1  24  -1
 M  END
 $MOL
 HC02180[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:16:24
-InChIKey=XNRNNGPBEPRNAR-NSBREPTMSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:03
+InChIKey=XNRNNGPBEPRNAR-YLQJXANPSA-M
  59 59  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.9282   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -203,7 +203,7 @@ InChIKey=XNRNNGPBEPRNAR-NSBREPTMSA-M
   3 32  1  0  0  0  0
   3 33  1  0  0  0  0
   4  5  1  0  0  0  0
-  4  7  2  0  0  0  0
+  4  7  2  3  0  0  0
   4 34  1  0  0  0  0
   5  8  1  0  0  0  0
   5 35  1  0  0  0  0
@@ -224,7 +224,7 @@ InChIKey=XNRNNGPBEPRNAR-NSBREPTMSA-M
  11 19  1  0  0  0  0
  11 46  1  0  0  0  0
  11 47  1  0  0  0  0
- 12 13  2  0  0  0  0
+ 12 13  2  3  0  0  0
  12 15  1  0  0  0  0
  12 48  1  0  0  0  0
  13 49  1  0  0  0  0

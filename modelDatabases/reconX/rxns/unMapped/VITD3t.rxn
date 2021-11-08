@@ -5,7 +5,7 @@ vitd3[c] -> vitd3[e]
   1  1
 $MOL
 vitd3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:12:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:03
 InChIKey=QYSXJUFSXHHAJI-YRZJJWOYSA-N
  72 74  0  0  1  0  0  0  0  0999 V2000
    -5.3249    0.5806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -157,7 +157,7 @@ InChIKey=QYSXJUFSXHHAJI-YRZJJWOYSA-N
 M  END
 $MOL
 vitd3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:12:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:03
 InChIKey=QYSXJUFSXHHAJI-YRZJJWOYSA-N
  72 74  0  0  1  0  0  0  0  0999 V2000
    -5.3249    0.5806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

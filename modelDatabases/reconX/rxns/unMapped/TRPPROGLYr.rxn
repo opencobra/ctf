@@ -5,7 +5,7 @@ trp_L[c] + progly[c] -> h2o[c] + h[c] + trpprogly[c]
   2  3
 $MOL
 trp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:40:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:39
 InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
  27 28  0  0  1  0  0  0  0  0999 V2000
     2.6831   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
 M  END
 $MOL
 progly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:56:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:02
 InChIKey=RNKSNIBMTUYWSH-YFKPBYRVSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -120,7 +120,7 @@ InChIKey=RNKSNIBMTUYWSH-YFKPBYRVSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -131,15 +131,16 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 trpprogly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:44:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:55:21
 InChIKey=WMIUTJPFHMMUGY-ZFWWWQNUSA-M
  47 49  0  0  1  0  0  0  0  0999 V2000
    -4.5436   -1.5454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

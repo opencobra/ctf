@@ -5,15 +5,16 @@ h[e] + glysar[e] -> h[c] + glysar[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glysar[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:09:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:51
 InChIKey=VYAMLSCELQQRAE-UHFFFAOYSA-N
  20 19  0  0  0  0  0  0  0  0999 V2000
     2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,15 +59,16 @@ InChIKey=VYAMLSCELQQRAE-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glysar[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:09:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:51
 InChIKey=VYAMLSCELQQRAE-UHFFFAOYSA-N
  20 19  0  0  0  0  0  0  0  0999 V2000
     2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

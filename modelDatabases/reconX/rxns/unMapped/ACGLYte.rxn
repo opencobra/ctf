@@ -5,7 +5,7 @@ acgly[c] -> acgly[e]
   1  1
 $MOL
 acgly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:14:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:49:58
 InChIKey=OKJIRPAQVSHGFK-UHFFFAOYSA-M
  14 13  0  0  0  0  0  0  0  0999 V2000
     4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 acgly[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:14:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:49:58
 InChIKey=OKJIRPAQVSHGFK-UHFFFAOYSA-M
  14 13  0  0  0  0  0  0  0  0999 V2000
     4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

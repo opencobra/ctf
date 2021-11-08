@@ -5,7 +5,7 @@ urate[c] -> h[c] + CE6252[c]
   1  2
 $MOL
 urate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:02:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:16
 InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -44,15 +44,16 @@ InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 CE6252[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:59:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:14:25
 InChIKey=RKXSGLUFSIPOGU-UHFFFAOYSA-N
  15 16  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

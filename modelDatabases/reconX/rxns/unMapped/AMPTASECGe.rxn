@@ -5,7 +5,7 @@ h2o[e] + cgly[e] -> cys_L[e] + gly[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cgly[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:19:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:36
 InChIKey=ZUKPVRWZDMRIEO-VKHMYHEASA-N
  21 20  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +63,7 @@ InChIKey=ZUKPVRWZDMRIEO-VKHMYHEASA-N
 M  END
 $MOL
 cys_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:34:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:04
 InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -96,7 +96,7 @@ InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
 M  END
 $MOL
 gly[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:01:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:20
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

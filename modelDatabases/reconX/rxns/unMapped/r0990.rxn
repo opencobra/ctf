@@ -5,7 +5,7 @@ cholcoa[x] -> cholcoa[c]
   1  1
 $MOL
 cholcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:21:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:51
 InChIKey=ZKWNOTQHFKYUNU-KFHDXJTJSA-J
 146152  0  0  1  0  0  0  0  0999 V2000
    -1.8061   -4.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -310,7 +310,7 @@ M  CHG  4  56  -1  60  -1  61  -1  62  -1
 M  END
 $MOL
 cholcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:21:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:51
 InChIKey=ZKWNOTQHFKYUNU-KFHDXJTJSA-J
 146152  0  0  1  0  0  0  0  0999 V2000
    -1.8061   -4.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

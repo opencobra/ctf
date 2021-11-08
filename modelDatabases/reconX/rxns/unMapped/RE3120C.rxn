@@ -5,15 +5,16 @@ h[c] + tmndnccoa[c] + malcoa[c] -> co2[c] + coa[c] + CE4819[c]
   3  3
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 tmndnccoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:36:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:11
 InChIKey=JWZLRYCDDXHXDL-BCYDWBPESA-J
 129131  0  0  1  0  0  0  0  0999 V2000
    -9.0775  -10.0159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +72,7 @@ InChIKey=JWZLRYCDDXHXDL-BCYDWBPESA-J
    -4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0510   -5.4801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9029   -2.6555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,7 +80,7 @@ InChIKey=JWZLRYCDDXHXDL-BCYDWBPESA-J
     0.4353   -4.1418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.3892   -3.9938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.9487   -2.7024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9770   -4.0678    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3078   -4.8109    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
@@ -280,7 +281,7 @@ M  CHG  4  49  -1  53  -1  54  -1  55  -1
 M  END
 $MOL
 malcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:23:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:35:41
 InChIKey=LTYOQGRJFJAKNA-DVVLENMVSA-I
  87 89  0  0  1  0  0  0  0  0999 V2000
    -4.9564   -1.5320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -331,7 +332,7 @@ InChIKey=LTYOQGRJFJAKNA-DVVLENMVSA-I
    -0.1939   -2.9385    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5660   -1.3981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.8364   -2.4487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.3800   -2.1683    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
    -1.1720   -3.1465    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
@@ -463,7 +464,7 @@ M  CHG  5  32  -1  34  -1  38  -1  39  -1  40  -1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:25:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -474,7 +475,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:26:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -643,8 +644,8 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 CE4819[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:33:24
-InChIKey=SLYKKQSPRFJDAF-JTAIBPPSSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:01:56
+InChIKey=SLYKKQSPRFJDAF-UHFFFAOYSA-J
 134136  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -687,7 +688,7 @@ InChIKey=SLYKKQSPRFJDAF-JTAIBPPSSA-J
    -5.8349   -2.6561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.1124   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.2424   -3.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.4487   -1.8364    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.4487   -1.8364    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     4.0834   -4.3539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.7485   -2.2493    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     8.4229   -4.7651    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -702,9 +703,9 @@ InChIKey=SLYKKQSPRFJDAF-JTAIBPPSSA-J
    -1.9875   -0.1151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     5.7776   -4.7140    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0510   -5.4801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9029   -2.6555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -897,7 +898,7 @@ InChIKey=SLYKKQSPRFJDAF-JTAIBPPSSA-J
  41 56  1  0  0  0  0
  42 50  1  0  0  0  0
  42 66  1  0  0  0  0
- 42128  1  1  0  0  0
+ 42128  1  0  0  0  0
  44129  1  0  0  0  0
  44130  1  0  0  0  0
  54131  1  0  0  0  0

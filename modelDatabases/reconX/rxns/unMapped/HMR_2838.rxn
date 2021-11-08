@@ -5,7 +5,7 @@ coa[r] + arachcrn[r] -> crn[r] + arachcoa[r]
   2  2
 $MOL
 coa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:26:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -174,7 +174,7 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 arachcrn[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:47:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:23
 InChIKey=SVJLJQBGUITFLI-UHFFFAOYSA-N
  85 84  0  0  1  0  0  0  0  0999 V2000
    16.0000   -6.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -350,7 +350,7 @@ M  CHG  2  28   1  30  -1
 M  END
 $MOL
 crn[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:29:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:17
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -408,7 +408,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 arachcoa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:47:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:20
 InChIKey=JYLSVNBJLYCSSW-IBYUJNRCSA-J
 139141  0  0  1  0  0  0  0  0999 V2000
    21.2910    5.7901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -465,7 +465,7 @@ InChIKey=JYLSVNBJLYCSSW-IBYUJNRCSA-J
     5.7776   -4.7140    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0510   -5.4801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

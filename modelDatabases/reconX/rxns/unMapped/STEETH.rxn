@@ -5,7 +5,7 @@ h2o[e] + peste_hs[e] -> pa_hs[e] + steeth[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 peste_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:48:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:42
 InChIKey=BBYWOYAFBUOUFP-UHFFFAOYSA-N
  80 79  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -181,7 +181,7 @@ InChIKey=BBYWOYAFBUOUFP-UHFFFAOYSA-N
 M  END
 $MOL
 pa_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:39:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:43
 
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -3.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -229,7 +229,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 steeth[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:10:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:44
 InChIKey=OTGQIQQTPXJQRG-UHFFFAOYSA-N
  64 63  0  0  0  0  0  0  0  0999 V2000
    13.8564   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

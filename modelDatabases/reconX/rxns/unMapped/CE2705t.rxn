@@ -5,7 +5,7 @@ CE2705[e] -> CE2705[c]
   1  1
 $MOL
 CE2705[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:25:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:58:16
 InChIKey=FEMXZDUTFRTWPE-DZSWIPIPSA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -72,7 +72,7 @@ InChIKey=FEMXZDUTFRTWPE-DZSWIPIPSA-N
 M  END
 $MOL
 CE2705[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:25:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:58:16
 InChIKey=FEMXZDUTFRTWPE-DZSWIPIPSA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ M01295[c] -> M01294[c]
   1  1
 $MOL
 M01295[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:58:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:36:16
 InChIKey=JRZBEIPOZPNWID-KFZJALRRSA-N
  39 43  0  0  1  0  0  0  0  0999 V2000
     5.0814   -2.0608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ InChIKey=JRZBEIPOZPNWID-KFZJALRRSA-N
 M  END
 $MOL
 M01294[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:58:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:36:14
 InChIKey=MTRNKJQPSSVUEH-UHFFFAOYSA-N
  37 39  0  0  1  0  0  0  0  0999 V2000
     1.7321   -4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

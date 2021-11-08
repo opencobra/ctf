@@ -5,7 +5,7 @@ h2o[c] + estrones[c] -> h[c] + estrone[c] + so4[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 estrones[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:18:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:18
 InChIKey=JKKFKPJIXZFSSB-CBZIJGRNSA-M
  45 48  0  0  1  0  0  0  0  0999 V2000
    -6.3312   -0.0984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,10 +38,10 @@ InChIKey=JKKFKPJIXZFSSB-CBZIJGRNSA-M
    -6.7995   -0.9703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.8279   -0.9704    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -7.2997   -0.1044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.9711    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.9711    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9711   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.0000    0.9711    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9711    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.0000   -0.9711    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.9711    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
    -5.7961    0.8282    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -7.4012   -0.0983    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -116,15 +116,16 @@ M  CHG  1  20  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 estrone[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:18:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:14
 InChIKey=DNXHEGUUPJUMQT-CBZIJGRNSA-N
  42 45  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -217,7 +218,7 @@ InChIKey=DNXHEGUUPJUMQT-CBZIJGRNSA-N
 M  END
 $MOL
 so4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:07:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:31
 InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0

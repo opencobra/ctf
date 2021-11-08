@@ -5,7 +5,7 @@ o2[x] + h2o[x] + sebcoa[x] -> h2o2[x] + 3ohsebcoa[x]
   3  2
 $MOL
 o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:22
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25,8 +25,8 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 sebcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:04:35
-InChIKey=JZXNELIZHJCEFA-CQDVDCODSA-I
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:48:44
+InChIKey=JZXNELIZHJCEFA-UHFFFAOYSA-I
 108110  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4143   -5.0970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ InChIKey=JZXNELIZHJCEFA-CQDVDCODSA-I
    -5.8349   -2.6561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.1124   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.2424   -3.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.4487   -1.8364    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.4487   -1.8364    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     4.0834   -4.3539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.7485   -2.2493    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     8.4229   -4.7651    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,9 +73,9 @@ InChIKey=JZXNELIZHJCEFA-CQDVDCODSA-I
    -1.9875   -0.1151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     5.7776   -4.7140    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0510   -5.4801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9029   -2.6555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -227,7 +227,7 @@ InChIKey=JZXNELIZHJCEFA-CQDVDCODSA-I
  29 45  1  0  0  0  0
  30 38  1  0  0  0  0
  30 55  1  0  0  0  0
- 30102  1  1  0  0  0
+ 30102  1  0  0  0  0
  32103  1  0  0  0  0
  32104  1  0  0  0  0
  43105  1  0  0  0  0
@@ -250,7 +250,7 @@ M  CHG  5  39  -1  41  -1  45  -1  46  -1  47  -1
 M  END
 $MOL
 h2o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:31:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:57
 InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -263,7 +263,7 @@ InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
 M  END
 $MOL
 3ohsebcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:22:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:45:20
 InChIKey=JHBHJIVEUAFZCF-UHFFFAOYSA-I
 109111  0  0  1  0  0  0  0  0999 V2000
    -7.6729   -1.7958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

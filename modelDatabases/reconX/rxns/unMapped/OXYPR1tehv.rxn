@@ -5,7 +5,7 @@ oxy1rb[c] -> oxy1rb[e]
   1  1
 $MOL
 oxy1rb[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:39:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:38
 InChIKey=BWVGSEWDQBNXTG-UHFFFAOYSA-N
  33 35  0  0  1  0  0  0  0  0999 V2000
     1.4013   -0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,7 +79,7 @@ InChIKey=BWVGSEWDQBNXTG-UHFFFAOYSA-N
 M  END
 $MOL
 oxy1rb[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:39:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:38
 InChIKey=BWVGSEWDQBNXTG-UHFFFAOYSA-N
  33 35  0  0  1  0  0  0  0  0999 V2000
     1.4013   -0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

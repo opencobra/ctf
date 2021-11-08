@@ -5,7 +5,7 @@ HC01361[c] -> HC01361[e]
   1  1
 $MOL
 HC01361[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:07:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:59
 InChIKey=YQIFAMYNGGOTFB-XINAWCOVSA-N
  31 32  0  0  1  0  0  0  0  0999 V2000
     3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -74,7 +74,7 @@ InChIKey=YQIFAMYNGGOTFB-XINAWCOVSA-N
 M  END
 $MOL
 HC01361[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:07:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:59
 InChIKey=YQIFAMYNGGOTFB-XINAWCOVSA-N
  31 32  0  0  1  0  0  0  0  0999 V2000
     3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

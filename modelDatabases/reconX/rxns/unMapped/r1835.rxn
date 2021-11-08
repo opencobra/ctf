@@ -5,7 +5,7 @@ na1[e] + hom_L[c] + pro_L[e] -> na1[c] + hom_L[e] + pro_L[c]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hom_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:46:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:03
 InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -52,7 +52,7 @@ InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N
 M  END
 $MOL
 pro_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:55:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:45
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -92,7 +92,7 @@ InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hom_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:46:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:03
 InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -139,7 +139,7 @@ InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N
 M  END
 $MOL
 pro_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:55:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:45
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

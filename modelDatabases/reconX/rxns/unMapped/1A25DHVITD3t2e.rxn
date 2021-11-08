@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 1a25dhvitd3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:08:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:39:17
 InChIKey=GMRQFYUYWCNGIN-NKMMMXOESA-N
  74 76  0  0  1  0  0  0  0  0999 V2000
    -2.3904    1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -161,7 +161,7 @@ InChIKey=GMRQFYUYWCNGIN-NKMMMXOESA-N
 M  END
 $MOL
 1a25dhvitd3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:08:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:39:17
 InChIKey=GMRQFYUYWCNGIN-NKMMMXOESA-N
  74 76  0  0  1  0  0  0  0  0999 V2000
    -2.3904    1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

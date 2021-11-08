@@ -5,15 +5,16 @@ h[e] + trpglyleu[e] -> h[c] + trpglyleu[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 trpglyleu[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:42:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:59
 InChIKey=RPVDDQYNBOVWLR-GDBMZVCRSA-N
  53 54  0  0  1  0  0  0  0  0999 V2000
    -7.2582    1.2660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,15 +127,16 @@ InChIKey=RPVDDQYNBOVWLR-GDBMZVCRSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 trpglyleu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:42:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:59
 InChIKey=RPVDDQYNBOVWLR-GDBMZVCRSA-N
  53 54  0  0  1  0  0  0  0  0999 V2000
    -7.2582    1.2660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

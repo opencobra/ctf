@@ -5,16 +5,17 @@ h[e] + glutrpala[e] -> h[c] + glutrpala[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glutrpala[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:01:20
-InChIKey=ZQNCUVODKOBSSO-DGFSRKRXSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:16
+InChIKey=ZQNCUVODKOBSSO-XEGUGMAKSA-M
  52 53  0  0  1  0  0  0  0  0999 V2000
    -2.0074   -0.6114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25,7 +26,7 @@ InChIKey=ZQNCUVODKOBSSO-DGFSRKRXSA-M
    -2.5232    6.5812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3090    2.5691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.3164    0.3397    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.3164    0.3397    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.2361    5.4223    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -96,7 +97,7 @@ InChIKey=ZQNCUVODKOBSSO-DGFSRKRXSA-M
  10  1  1  0  0  0  0
  10 19  1  0  0  0  0
  10 22  1  0  0  0  0
- 10 44  1  1  0  0  0
+ 10 44  1  6  0  0  0
  11 12  1  0  0  0  0
  12 14  1  0  0  0  0
  13 17  1  0  0  0  0
@@ -125,16 +126,17 @@ M  CHG  1  25  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glutrpala[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:01:20
-InChIKey=ZQNCUVODKOBSSO-DGFSRKRXSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:16
+InChIKey=ZQNCUVODKOBSSO-XEGUGMAKSA-M
  52 53  0  0  1  0  0  0  0  0999 V2000
    -2.0074   -0.6114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -145,7 +147,7 @@ InChIKey=ZQNCUVODKOBSSO-DGFSRKRXSA-M
    -2.5232    6.5812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3090    2.5691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.3164    0.3397    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.3164    0.3397    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.2361    5.4223    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -216,7 +218,7 @@ InChIKey=ZQNCUVODKOBSSO-DGFSRKRXSA-M
  10  1  1  0  0  0  0
  10 19  1  0  0  0  0
  10 22  1  0  0  0  0
- 10 44  1  1  0  0  0
+ 10 44  1  6  0  0  0
  11 12  1  0  0  0  0
  12 14  1  0  0  0  0
  13 17  1  0  0  0  0

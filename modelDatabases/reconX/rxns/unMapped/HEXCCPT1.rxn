@@ -5,7 +5,7 @@ crn[c] + hexccoa[c] -> coa[c] + hexccrn[c]
   2  2
 $MOL
 crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:29:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:17
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +63,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 hexccoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:37:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:35
 InChIKey=FHLYYFPJDVYWQH-CPIGOPAHSA-J
 157159  0  0  1  0  0  0  0  0999 V2000
    24.7679    9.6516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,8 +126,8 @@ InChIKey=FHLYYFPJDVYWQH-CPIGOPAHSA-J
     5.7776   -4.7140    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0510   -5.4801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9029   -2.6555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -135,7 +135,7 @@ InChIKey=FHLYYFPJDVYWQH-CPIGOPAHSA-J
    -0.4353   -4.1418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.3892   -3.9938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.9487   -2.7024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9770   -4.0678    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     0.3078   -4.8109    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
@@ -386,7 +386,7 @@ M  CHG  4  55  -1  59  -1  60  -1  61  -1
 M  END
 $MOL
 coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:26:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -555,7 +555,7 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 hexccrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:37:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:38
 InChIKey=KOCKWDDTAHPJSX-UHFFFAOYSA-N
 103102  0  0  1  0  0  0  0  0999 V2000
    20.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

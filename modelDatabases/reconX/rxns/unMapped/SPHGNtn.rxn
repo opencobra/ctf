@@ -5,7 +5,7 @@ sphgn[c] -> sphgn[n]
   1  1
 $MOL
 sphgn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:07:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:37
 InChIKey=OTKJDMGTUTTYMP-ZWKOTPCHSA-O
  61 60  0  0  1  0  0  0  0  0999 V2000
    12.1244   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +133,7 @@ M  CHG  1  19   1
 M  END
 $MOL
 sphgn[n]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:07:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:37
 InChIKey=OTKJDMGTUTTYMP-ZWKOTPCHSA-O
  61 60  0  0  1  0  0  0  0  0999 V2000
    12.1244   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

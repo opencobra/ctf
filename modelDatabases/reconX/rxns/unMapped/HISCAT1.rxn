@@ -5,7 +5,7 @@ his_L[c] -> his_L[e]
   1  1
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:40:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:10
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 his_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:40:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:10
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

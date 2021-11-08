@@ -5,7 +5,7 @@ CE1243[e] -> CE1243[c]
   1  1
 $MOL
 CE1243[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:49:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:53:25
 InChIKey=KUKJHGXXZWHSBG-INIZCTEOSA-N
  48 47  0  0  1  0  0  0  0  0999 V2000
    13.8564   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -106,7 +106,7 @@ InChIKey=KUKJHGXXZWHSBG-INIZCTEOSA-N
 M  END
 $MOL
 CE1243[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:49:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:53:25
 InChIKey=KUKJHGXXZWHSBG-INIZCTEOSA-N
  48 47  0  0  1  0  0  0  0  0999 V2000
    13.8564   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

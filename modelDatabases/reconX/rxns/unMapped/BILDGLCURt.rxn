@@ -5,7 +5,7 @@ hco3[c] + bildglcur[e] -> hco3[e] + bildglcur[c]
   2  2
 $MOL
 hco3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:32:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:05
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 bildglcur[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:07:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:39
 InChIKey=SCJLWMXOOYZBTH-SDXZDYKGSA-L
 117122  0  0  1  0  0  0  0  0999 V2000
     7.9086   -1.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -267,7 +267,7 @@ M  CHG  2  58  -1  59  -1
 M  END
 $MOL
 hco3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:32:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:05
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -283,7 +283,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 bildglcur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:07:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:39
 InChIKey=SCJLWMXOOYZBTH-SDXZDYKGSA-L
 117122  0  0  1  0  0  0  0  0999 V2000
     7.9086   -1.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

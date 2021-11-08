@@ -5,7 +5,7 @@ h2o[c] + 23doguln[c] -> co2[c] + lyxnt[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 23doguln[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:09:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:39:45
 InChIKey=GJQWCDSAOUMKSE-STHAYSLISA-M
  20 19  0  0  1  0  0  0  0  0999 V2000
     4.3301   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -62,7 +62,7 @@ M  CHG  1  13  -1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:25:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 lyxnt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:22:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:32:32
 InChIKey=QXKAIJAYHKCRRA-PZGQECOJSA-M
  20 19  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ xoltri27[r] -> xoltri27[c]
   1  1
 $MOL
 xoltri27[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:21:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:59:09
 InChIKey=RXMHNAKZMGJANZ-DTTSCKGMSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -4.1260    5.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -166,7 +166,7 @@ InChIKey=RXMHNAKZMGJANZ-DTTSCKGMSA-N
 M  END
 $MOL
 xoltri27[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:21:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:59:09
 InChIKey=RXMHNAKZMGJANZ-DTTSCKGMSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -4.1260    5.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

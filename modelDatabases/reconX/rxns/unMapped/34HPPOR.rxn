@@ -5,7 +5,7 @@ o2[c] + 34hpp[c] -> co2[c] + hgentis[c]
   2  2
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:22
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,12 +14,12 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 34hpp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:15:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:42:07
 InChIKey=KKADPXVIOXHVKN-UHFFFAOYSA-M
  20 20  0  0  0  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -61,7 +61,7 @@ M  CHG  1  10  -1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:25:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -72,7 +72,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 hgentis[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:39:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:06
 InChIKey=IGMNYECMUMZDDF-UHFFFAOYSA-M
  19 19  0  0  0  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

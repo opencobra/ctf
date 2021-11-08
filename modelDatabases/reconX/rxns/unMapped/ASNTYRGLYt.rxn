@@ -5,15 +5,16 @@ h[e] + asntyrgly[e] -> h[c] + asntyrgly[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 asntyrgly[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:59:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:36
 InChIKey=YSYTWUMRHSFODC-MNOVXSKESA-N
  45 45  0  0  1  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,15 +110,16 @@ InChIKey=YSYTWUMRHSFODC-MNOVXSKESA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 asntyrgly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:59:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:36
 InChIKey=YSYTWUMRHSFODC-MNOVXSKESA-N
  45 45  0  0  1  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ TYRASE
   1  1
 $MOL
 56dihindlcrbxlt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:26:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:47:20
 InChIKey=YFTGOBNOJKXZJC-UHFFFAOYSA-M
  20 21  0  0  0  0  0  0  0  0999 V2000
    -2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 melanin[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:25:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:08
 InChIKey=XUMBMVFBXHLACL-UHFFFAOYSA-N
  34 38  0  0  0  0  0  0  0  0999 V2000
     4.5671   -0.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

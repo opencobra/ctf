@@ -5,7 +5,7 @@ chsterol[r] + c226coa[r] -> coa[r] + M01466[r]
   2  2
 $MOL
 chsterol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:22:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:09
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 c226coa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:11:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:20
 InChIKey=MENFZXMQSYYVRK-GWPXVESASA-J
 133135  0  0  1  0  0  0  0  0999 V2000
    17.3673    8.1576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -437,7 +437,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 coa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:26:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -606,7 +606,7 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 M01466[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:03:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:37:35
 InChIKey=VOEVEGPMRIYYKC-UHFFFAOYSA-N
 127130  0  0  1  0  0  0  0  0999 V2000
    13.1645   12.4934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

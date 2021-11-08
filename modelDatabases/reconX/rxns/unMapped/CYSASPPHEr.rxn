@@ -5,7 +5,7 @@ CYSASPPHEr
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cysaspphe[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:34:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:12
 InChIKey=IIGHQOPGMGKDMT-GRYCIOLGSA-M
  46 46  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35,8 +35,8 @@ InChIKey=IIGHQOPGMGKDMT-GRYCIOLGSA-M
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.0622    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.1962    3.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ InChIKey=IIGHQOPGMGKDMT-GRYCIOLGSA-M
     5.1962   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     3.4641    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981    2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     6.9282    3.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -3.0320    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,11 +126,11 @@ M  CHG  1  21  -1
 M  END
 $MOL
 asp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:59:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:44
 InChIKey=CKLJMWTZIZZHCS-REOHCLBHSA-M
  15 14  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7321    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 cys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:34:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:04
 InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -195,7 +195,7 @@ InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:49:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:54
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -208,7 +208,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
    -0.8660    1.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.8660    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -3.0320    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7597   -2.0160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0

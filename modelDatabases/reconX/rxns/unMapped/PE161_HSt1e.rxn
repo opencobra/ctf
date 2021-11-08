@@ -5,7 +5,7 @@ pe161_hs[e] -> pe161_hs[c]
   1  1
 $MOL
 pe161_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:46:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:57
 InChIKey=DSOWUEHXZJUNID-UHFFFAOYSA-N
  72 71  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -154,7 +154,7 @@ InChIKey=DSOWUEHXZJUNID-UHFFFAOYSA-N
 M  END
 $MOL
 pe161_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:46:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:57
 InChIKey=DSOWUEHXZJUNID-UHFFFAOYSA-N
  72 71  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

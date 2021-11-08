@@ -5,9 +5,9 @@ gchola[e] + HC01787[e] -> gchola[c] + HC01787[c]
   2  2
 $MOL
 gchola[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:41:23
-InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
- 75 78  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:11:43
+InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-N
+ 76 79  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5377   -0.4516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0003    1.0122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,7 +38,7 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
     5.0951   -2.9395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0193   -2.9411    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8454    1.4886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.3816    2.9266    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.3816    2.9266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5376    6.3418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -4.2276    6.3413    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9253    1.4172    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -82,6 +82,7 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
     5.0955   -3.9095    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8595   -2.4563    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.6853    1.9739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1932    3.3948    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -4.2279    7.2783    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1 34  1  0  0  0  0
   1 35  1  0  0  0  0
@@ -160,12 +161,12 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
  28 72  1  0  0  0  0
  29 73  1  0  0  0  0
  30 74  1  0  0  0  0
- 33 75  1  0  0  0  0
-M  CHG  1  31  -1
+ 31 75  1  0  0  0  0
+ 33 76  1  0  0  0  0
 M  END
 $MOL
 HC01787[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:11:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:19:37
 InChIKey=ZGUYXYAGTSSIIA-DUQBLKLASA-M
  40 40  0  0  1  0  0  0  0  0999 V2000
     0.5000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -252,9 +253,9 @@ M  CHG  2  18  -1  23   1
 M  END
 $MOL
 gchola[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:41:23
-InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
- 75 78  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:11:43
+InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-N
+ 76 79  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5377   -0.4516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0003    1.0122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -285,7 +286,7 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
     5.0951   -2.9395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0193   -2.9411    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8454    1.4886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.3816    2.9266    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.3816    2.9266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5376    6.3418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -4.2276    6.3413    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9253    1.4172    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -329,6 +330,7 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
     5.0955   -3.9095    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8595   -2.4563    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.6853    1.9739    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1932    3.3948    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -4.2279    7.2783    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1 34  1  0  0  0  0
   1 35  1  0  0  0  0
@@ -407,12 +409,12 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-M
  28 72  1  0  0  0  0
  29 73  1  0  0  0  0
  30 74  1  0  0  0  0
- 33 75  1  0  0  0  0
-M  CHG  1  31  -1
+ 31 75  1  0  0  0  0
+ 33 76  1  0  0  0  0
 M  END
 $MOL
 HC01787[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:11:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:19:37
 InChIKey=ZGUYXYAGTSSIIA-DUQBLKLASA-M
  40 40  0  0  1  0  0  0  0  0999 V2000
     0.5000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

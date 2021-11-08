@@ -5,7 +5,7 @@ M00008[l] -> M00008[c]
   1  1
 $MOL
 M00008[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:20:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:36
 InChIKey=XSXIVVZCUAHUJO-AVQMFFATSA-M
  57 56  0  0  0  0  0  0  0  0999 V2000
    15.5885   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 M00008[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:20:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:36
 InChIKey=XSXIVVZCUAHUJO-AVQMFFATSA-M
  57 56  0  0  0  0  0  0  0  0999 V2000
    15.5885   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

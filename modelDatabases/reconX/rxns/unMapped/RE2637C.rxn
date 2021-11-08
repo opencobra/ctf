@@ -5,7 +5,7 @@ atp[c] + taur[c] + HC02191[c] -> h[c] + amp[c] + ppi[c] + HC02192[c]
   3  4
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:03:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 taur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:14:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:31
 InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
  14 13  0  0  0  0  0  0  0  0999 V2000
     1.5000    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +133,7 @@ InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
 M  END
 $MOL
 HC02191[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:16:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:07
 InChIKey=SMEROWZSTRWXGI-HVATVPOCSA-M
  66 69  0  0  1  0  0  0  0  0999 V2000
    -2.8016    3.7046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -275,15 +275,16 @@ M  CHG  1  27  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 amp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:38:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:34
 InChIKey=UDMBCSSLTHHNCD-KQYNXXCUSA-L
  35 37  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -303,7 +304,7 @@ InChIKey=UDMBCSSLTHHNCD-KQYNXXCUSA-L
     4.3092   -0.7681    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     1.0934    0.6637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.2215    1.1160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -362,7 +363,7 @@ M  CHG  2  18  -1  19  -1
 M  END
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:53:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -388,7 +389,7 @@ M  CHG  3   1  -1   2  -1   4  -1
 M  END
 $MOL
 HC02192[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:16:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:09
 InChIKey=QBYUNVOYXHFVKC-GBURMNQMSA-M
  77 80  0  0  1  0  0  0  0  0999 V2000
    -1.6923    2.9311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -399,7 +400,7 @@ InChIKey=QBYUNVOYXHFVKC-GBURMNQMSA-M
    -5.3614    6.0762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.8697    5.5914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.4442    6.3822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.0000    3.9082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.9082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -7.5267    3.2941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.6099    3.6006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.5544    3.3960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -414,7 +415,7 @@ InChIKey=QBYUNVOYXHFVKC-GBURMNQMSA-M
    -2.2666    4.6986    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -3.8138    5.3872    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -5.1844    4.3914    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -0.0000    2.9311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.9311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.1571    4.2891    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -3.2393    4.5964    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.8461    2.4426    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ dcdp[c] + dgdp[m] -> dgdp[c] + dcdp[m]
   2  2
 $MOL
 dcdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:39:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:58
 InChIKey=FTDHDKPUHBLBTL-SHYZEUOFSA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
    -6.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ M  CHG  3  14  -1  15  -1  16  -1
 M  END
 $MOL
 dgdp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:48:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:16
 InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
    -4.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -105,9 +105,9 @@ InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K
    -4.8479   -3.9538    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -2.7788   -1.1060    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -7.9690   -5.1583    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0000   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -172,7 +172,7 @@ M  CHG  3  17  -1  18  -1  19  -1
 M  END
 $MOL
 dgdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:48:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:16
 InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
    -4.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -192,9 +192,9 @@ InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K
    -4.8479   -3.9538    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -2.7788   -1.1060    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -7.9690   -5.1583    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0000   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -259,7 +259,7 @@ M  CHG  3  17  -1  18  -1  19  -1
 M  END
 $MOL
 dcdp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:39:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:58
 InChIKey=FTDHDKPUHBLBTL-SHYZEUOFSA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
    -6.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

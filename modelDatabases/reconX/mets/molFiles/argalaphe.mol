@@ -1,6 +1,6 @@
 argalaphe
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:50:56
-InChIKey=SBVJJNJLFWSJOV-MRVWCRGKSA-O
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:40
+InChIKey=SBVJJNJLFWSJOV-IACUBPJLSA-O
  57 57  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -12,7 +12,7 @@ InChIKey=SBVJJNJLFWSJOV-MRVWCRGKSA-O
    -5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.0622    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.5981   -0.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.5981   -0.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.3301    1.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -0.8660   -1.5000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ InChIKey=SBVJJNJLFWSJOV-MRVWCRGKSA-O
  11  1  1  0  0  0  0
  11 15  1  0  0  0  0
  11 23  1  0  0  0  0
- 11 45  1  1  0  0  0
+ 11 45  1  6  0  0  0
  13 16  1  0  0  0  0
  13 19  1  0  0  0  0
  13 46  1  6  0  0  0

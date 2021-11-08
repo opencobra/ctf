@@ -1,22 +1,21 @@
 $RXN
 r1492
-
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:37:37
 k[c] -> k[e]
   1  1
 $MOL
 k[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:06:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:24:00
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
-  1  0  0  0  0  0  0  0  0  0999 V2000
-    1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  1  0  0
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 k[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:06:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:24:00
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
-  1  0  0  0  0  0  0  0  0  0999 V2000
-    1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  1  0  0
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
-

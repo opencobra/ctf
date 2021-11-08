@@ -5,7 +5,7 @@ HC02020[r] -> HC02020[c]
   1  1
 $MOL
 HC02020[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:11:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:19:45
 InChIKey=BBJQPKLGPMQWBU-JADYGXMDSA-N
 121124  0  0  1  0  0  0  0  0999 V2000
    10.3923    9.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -256,7 +256,7 @@ InChIKey=BBJQPKLGPMQWBU-JADYGXMDSA-N
 M  END
 $MOL
 HC02020[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:11:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:19:45
 InChIKey=BBJQPKLGPMQWBU-JADYGXMDSA-N
 121124  0  0  1  0  0  0  0  0999 V2000
    10.3923    9.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

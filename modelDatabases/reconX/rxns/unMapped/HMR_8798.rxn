@@ -5,7 +5,7 @@ M02723[c] -> M02723[e]
   1  1
 $MOL
 M02723[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:42:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:43:58
 InChIKey=UTYVDVLMYQPLQB-UHFFFAOYSA-N
  25 25  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -61,7 +61,7 @@ InChIKey=UTYVDVLMYQPLQB-UHFFFAOYSA-N
 M  END
 $MOL
 M02723[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:42:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:43:58
 InChIKey=UTYVDVLMYQPLQB-UHFFFAOYSA-N
  25 25  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

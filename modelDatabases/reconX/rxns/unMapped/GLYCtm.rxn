@@ -5,7 +5,7 @@ glyc[c] -> glyc[m]
   1  1
 $MOL
 glyc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:02:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:25
 InChIKey=PEDCQBHIVMGVHV-UHFFFAOYSA-N
  14 13  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,7 +38,7 @@ InChIKey=PEDCQBHIVMGVHV-UHFFFAOYSA-N
 M  END
 $MOL
 glyc[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:02:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:25
 InChIKey=PEDCQBHIVMGVHV-UHFFFAOYSA-N
  14 13  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

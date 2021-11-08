@@ -5,7 +5,7 @@ M01582[e] -> M01582[c]
   1  1
 $MOL
 M01582[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:05:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:38:18
 InChIKey=KJDZDTDNIULJBE-QXMHVHEDSA-M
  65 64  0  0  0  0  0  0  0  0999 V2000
    13.8564    6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -141,7 +141,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 M01582[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:05:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:38:18
 InChIKey=KJDZDTDNIULJBE-QXMHVHEDSA-M
  65 64  0  0  0  0  0  0  0  0999 V2000
    13.8564    6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

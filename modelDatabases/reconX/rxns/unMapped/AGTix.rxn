@@ -5,11 +5,11 @@ ala_L[x] + glx[x] -> pyr[x] + gly[x]
   2  2
 $MOL
 ala_L[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:31:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:11
 InChIKey=QNAYBMKLOCPYGJ-REOHCLBHSA-N
  13 12  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7321   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36,7 +36,7 @@ InChIKey=QNAYBMKLOCPYGJ-REOHCLBHSA-N
 M  END
 $MOL
 glx[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:01:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:18
 InChIKey=HHLFWLYXYJOTON-UHFFFAOYSA-M
   6  5  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,11 +54,11 @@ M  CHG  1   4  -1
 M  END
 $MOL
 pyr[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:00:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:25
 InChIKey=LCTONWCANYUPML-UHFFFAOYSA-M
   9  8  0  0  0  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    1.5000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -78,7 +78,7 @@ M  CHG  1   5  -1
 M  END
 $MOL
 gly[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:01:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:20
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

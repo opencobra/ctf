@@ -5,7 +5,7 @@ sphmyln18116_hs[e] -> sphmyln18116_hs[c]
   1  1
 $MOL
 sphmyln18116_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:08:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:52
 InChIKey=RWKUXQNLWDTSLO-UHFFFAOYSA-O
 128127  0  0  1  0  0  0  0  0999 V2000
   -10.2321  -12.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -267,7 +267,7 @@ M  CHG  1  41   1
 M  END
 $MOL
 sphmyln18116_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:08:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:52
 InChIKey=RWKUXQNLWDTSLO-UHFFFAOYSA-O
 128127  0  0  1  0  0  0  0  0999 V2000
   -10.2321  -12.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

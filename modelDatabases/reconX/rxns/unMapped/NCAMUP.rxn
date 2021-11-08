@@ -5,7 +5,7 @@ ncam[e] -> ncam[c]
   1  1
 $MOL
 ncam[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:32:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:35
 InChIKey=DFPAKSUCGFBDDF-UHFFFAOYSA-N
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ InChIKey=DFPAKSUCGFBDDF-UHFFFAOYSA-N
 M  END
 $MOL
 ncam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:32:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:35
 InChIKey=DFPAKSUCGFBDDF-UHFFFAOYSA-N
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

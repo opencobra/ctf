@@ -5,7 +5,7 @@ phe_L[l] -> phe_L[c]
   1  1
 $MOL
 phe_L[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:49:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:54
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18,7 +18,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
    -0.8660    1.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.8660    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -3.0320    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7597   -2.0160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:49:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:54
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -70,7 +70,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
    -0.8660    1.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.8660    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -3.0320    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7597   -2.0160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0

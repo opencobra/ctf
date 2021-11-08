@@ -5,7 +5,7 @@ xolest205_hs[e] -> xolest205_hs[c]
   1  1
 $MOL
 xolest205_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:19:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:53
 InChIKey=XZFUGMCJZFRBKF-UHFFFAOYSA-N
 123126  0  0  1  0  0  0  0  0999 V2000
    16.2851   -8.1347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -260,7 +260,7 @@ InChIKey=XZFUGMCJZFRBKF-UHFFFAOYSA-N
 M  END
 $MOL
 xolest205_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:19:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:53
 InChIKey=XZFUGMCJZFRBKF-UHFFFAOYSA-N
 123126  0  0  1  0  0  0  0  0999 V2000
    16.2851   -8.1347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

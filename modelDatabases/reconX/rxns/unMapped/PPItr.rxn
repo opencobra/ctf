@@ -5,7 +5,7 @@ ppi[c] -> ppi[r]
   1  1
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:53:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -31,7 +31,7 @@ M  CHG  3   1  -1   2  -1   4  -1
 M  END
 $MOL
 ppi[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:53:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0

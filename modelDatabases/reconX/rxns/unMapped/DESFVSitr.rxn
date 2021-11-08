@@ -5,7 +5,7 @@ desfvs[c] -> desfvs[r]
   1  1
 $MOL
 desfvs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:47:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:09
 InChIKey=MBQVMSTUZXACTJ-UHFFFAOYSA-M
  47 48  0  0  1  0  0  0  0  0999 V2000
     8.2140   -0.9343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -107,7 +107,7 @@ M  CHG  2  27  -1  28   1
 M  END
 $MOL
 desfvs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:47:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:09
 InChIKey=MBQVMSTUZXACTJ-UHFFFAOYSA-M
  47 48  0  0  1  0  0  0  0  0999 V2000
     8.2140   -0.9343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

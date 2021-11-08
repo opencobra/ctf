@@ -5,7 +5,7 @@ c226coa[c] -> c226coa[x]
   1  1
 $MOL
 c226coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:11:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:20
 InChIKey=MENFZXMQSYYVRK-GWPXVESASA-J
 133135  0  0  1  0  0  0  0  0999 V2000
    17.3673    8.1576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -280,7 +280,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 c226coa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:11:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:20
 InChIKey=MENFZXMQSYYVRK-GWPXVESASA-J
 133135  0  0  1  0  0  0  0  0999 V2000
    17.3673    8.1576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

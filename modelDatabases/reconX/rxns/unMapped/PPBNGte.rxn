@@ -5,7 +5,7 @@ ppbng[c] -> ppbng[e]
   1  1
 $MOL
 ppbng[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:53:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:11
 InChIKey=QSHWIQZFGQKFMA-UHFFFAOYSA-M
  29 29  0  0  0  0  0  0  0  0999 V2000
     2.5691   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -70,7 +70,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 ppbng[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:53:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:11
 InChIKey=QSHWIQZFGQKFMA-UHFFFAOYSA-M
  29 29  0  0  0  0  0  0  0  0999 V2000
     2.5691   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ h2o[c] + atp[c] + tchola[e] -> h[c] + adp[c] + pi[c] + tchola[c]
   3  4
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:03:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -111,9 +111,9 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 tchola[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:14:57
-InChIKey=WBWWGRHZICKQGZ-QTBGCGAYSA-M
- 79 82  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:38
+InChIKey=WBWWGRHZICKQGZ-HZAMXZRMSA-N
+ 80 83  0  0  1  0  0  0  0  0999 V2000
     5.8623   -1.6923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     9.2675   -2.5062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.3336   -2.5068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -144,7 +144,7 @@ InChIKey=WBWWGRHZICKQGZ-QTBGCGAYSA-M
    12.7294   -3.3844    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     8.2962   -5.9441    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     6.8294   -1.6715    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.4426   -2.5384    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.4426   -2.5384    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    0.9770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9770   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.9770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -192,6 +192,7 @@ InChIKey=WBWWGRHZICKQGZ-QTBGCGAYSA-M
    13.2146   -4.2243    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     7.3262   -5.9441    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     7.3144   -0.8314    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5056   -2.5384    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.8400    1.4620    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1 36  1  0  0  0  0
   1 37  1  0  0  0  0
@@ -271,23 +272,24 @@ InChIKey=WBWWGRHZICKQGZ-QTBGCGAYSA-M
  28 76  1  0  0  0  0
  29 77  1  0  0  0  0
  30 78  1  0  0  0  0
+ 31 79  1  0  0  0  0
  32 35  1  0  0  0  0
- 32 79  1  0  0  0  0
+ 32 80  1  0  0  0  0
  33 35  2  0  0  0  0
  34 35  2  0  0  0  0
-M  CHG  1  31  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 adp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:23:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:11
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -374,7 +376,7 @@ M  CHG  3  18  -1  19  -1  21  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:52:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -392,9 +394,9 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 tchola[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:14:57
-InChIKey=WBWWGRHZICKQGZ-QTBGCGAYSA-M
- 79 82  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:38
+InChIKey=WBWWGRHZICKQGZ-HZAMXZRMSA-N
+ 80 83  0  0  1  0  0  0  0  0999 V2000
     5.8623   -1.6923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     9.2675   -2.5062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.3336   -2.5068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -425,7 +427,7 @@ InChIKey=WBWWGRHZICKQGZ-QTBGCGAYSA-M
    12.7294   -3.3844    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     8.2962   -5.9441    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     6.8294   -1.6715    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.4426   -2.5384    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.4426   -2.5384    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    0.9770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9770   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.9770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -473,6 +475,7 @@ InChIKey=WBWWGRHZICKQGZ-QTBGCGAYSA-M
    13.2146   -4.2243    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     7.3262   -5.9441    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     7.3144   -0.8314    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5056   -2.5384    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     0.8400    1.4620    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1 36  1  0  0  0  0
   1 37  1  0  0  0  0
@@ -552,9 +555,9 @@ InChIKey=WBWWGRHZICKQGZ-QTBGCGAYSA-M
  28 76  1  0  0  0  0
  29 77  1  0  0  0  0
  30 78  1  0  0  0  0
+ 31 79  1  0  0  0  0
  32 35  1  0  0  0  0
- 32 79  1  0  0  0  0
+ 32 80  1  0  0  0  0
  33 35  2  0  0  0  0
  34 35  2  0  0  0  0
-M  CHG  1  31  -1
 M  END

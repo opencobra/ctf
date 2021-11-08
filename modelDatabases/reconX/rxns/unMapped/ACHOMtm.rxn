@@ -5,7 +5,7 @@ achom_L[m] -> achom_L[c]
   1  1
 $MOL
 achom_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:15:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:04
 InChIKey=HCBFOIPUKYKZJC-YFKPBYRVSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 achom_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:15:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:04
 InChIKey=HCBFOIPUKYKZJC-YFKPBYRVSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

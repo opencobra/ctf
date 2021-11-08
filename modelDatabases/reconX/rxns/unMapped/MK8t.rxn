@@ -5,7 +5,7 @@ mqn8[c] -> mqn8[e]
   1  1
 $MOL
 mqn8[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:30:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:53
 InChIKey=LXKDFTDVRVLXFY-WQWYCSGDSA-N
 125126  0  0  0  0  0  0  0  0999 V2000
   -19.9186   12.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -262,7 +262,7 @@ InChIKey=LXKDFTDVRVLXFY-WQWYCSGDSA-N
 M  END
 $MOL
 mqn8[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:30:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:53
 InChIKey=LXKDFTDVRVLXFY-WQWYCSGDSA-N
 125126  0  0  0  0  0  0  0  0999 V2000
   -19.9186   12.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

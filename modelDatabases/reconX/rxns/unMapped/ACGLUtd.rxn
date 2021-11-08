@@ -5,7 +5,7 @@ acglu[c] -> acglu[e]
   1  1
 $MOL
 acglu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:14:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:49:56
 InChIKey=RFMMMVDNIPUKGG-YFKPBYRVSA-L
  22 21  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -55,7 +55,7 @@ M  CHG  2   9  -1  11  -1
 M  END
 $MOL
 acglu[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:14:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:49:56
 InChIKey=RFMMMVDNIPUKGG-YFKPBYRVSA-L
  22 21  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

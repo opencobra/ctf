@@ -5,7 +5,7 @@ r0570
   1  1
 $MOL
 2dr1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:11:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:40:35
 InChIKey=KBDKAJNTYKVSEK-PYHARJCCSA-L
  22 22  0  0  1  0  0  0  0  0999 V2000
     1.0933    1.7796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -56,7 +56,7 @@ M  CHG  2   8  -1   9  -1
 M  END
 $MOL
 2dr5p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:11:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:40:36
 InChIKey=KKZFLSZAWCYPOC-PYHARJCCSA-L
  22 22  0  0  1  0  0  0  0  0999 V2000
     4.0388    0.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

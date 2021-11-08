@@ -5,7 +5,7 @@ h2o[r] + atvlacgluc[r] -> glcur[r] + atvlac[r]
   2  2
 $MOL
 h2o[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 atvlacgluc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:05:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:20
 InChIKey=MEOGPOBBXIODKH-UHFFFAOYSA-M
  92 97  0  0  1  0  0  0  0  0999 V2000
    -2.7405   -0.1454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -212,7 +212,7 @@ M  CHG  1  47  -1
 M  END
 $MOL
 glcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:51:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:16
 InChIKey=AEMOLEFTQBMNLQ-AQKNRBDQSA-M
  22 22  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -263,7 +263,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 atvlac[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:04:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:18
 InChIKey=XUKUURHRXDUEBC-KAYWLYCHSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -1.1810    1.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

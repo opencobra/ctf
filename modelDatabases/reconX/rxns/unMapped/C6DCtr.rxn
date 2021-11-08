@@ -5,7 +5,7 @@ c6dc[e] -> c6dc[c]
   1  1
 $MOL
 c6dc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:14:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:39
 InChIKey=BSVHAXJKBCWVDA-SNVBAGLBSA-M
  42 41  0  0  1  0  0  0  0  0999 V2000
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ M  CHG  3  14   1  16  -1  18  -1
 M  END
 $MOL
 c6dc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:14:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:39
 InChIKey=BSVHAXJKBCWVDA-SNVBAGLBSA-M
  42 41  0  0  1  0  0  0  0  0999 V2000
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

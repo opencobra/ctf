@@ -5,7 +5,7 @@ ttccoa[x] + o2[x] -> h2o2[x] + CE2245[x]
   2  2
 $MOL
 ttccoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:49:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:55:59
 InChIKey=MOYMQYZWIUKGGY-YOUZJQHUSA-J
 151153  0  0  1  0  0  0  0  0999 V2000
    23.6089    8.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -67,7 +67,7 @@ InChIKey=MOYMQYZWIUKGGY-YOUZJQHUSA-J
     4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0510   -5.4801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9029   -2.6555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -316,7 +316,7 @@ M  CHG  4  53  -1  57  -1  58  -1  59  -1
 M  END
 $MOL
 o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:22
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -325,7 +325,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 h2o2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:31:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:57
 InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -338,8 +338,8 @@ InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
 M  END
 $MOL
 CE2245[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:16:07
-InChIKey=UVJKZCSQLMWPMV-NYAKNKMBSA-J
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:56:13
+InChIKey=UVJKZCSQLMWPMV-UHFFFAOYSA-J
 149151  0  0  1  0  0  0  0  0999 V2000
    23.6089    8.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -384,7 +384,7 @@ InChIKey=UVJKZCSQLMWPMV-NYAKNKMBSA-J
    -5.8349   -2.6561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.1124   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.2424   -3.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.4487   -1.8364    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.4487   -1.8364    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     4.0834   -4.3539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.7485   -2.2493    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     8.4229   -4.7651    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -400,7 +400,7 @@ InChIKey=UVJKZCSQLMWPMV-NYAKNKMBSA-J
     4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0510   -5.4801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9029   -2.6555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -622,7 +622,7 @@ InChIKey=UVJKZCSQLMWPMV-NYAKNKMBSA-J
  43 57  1  0  0  0  0
  44 52  1  0  0  0  0
  44 67  1  0  0  0  0
- 44143  1  1  0  0  0
+ 44143  1  0  0  0  0
  46144  1  0  0  0  0
  46145  1  0  0  0  0
  55146  1  0  0  0  0

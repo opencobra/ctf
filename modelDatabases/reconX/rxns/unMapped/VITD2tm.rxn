@@ -5,7 +5,7 @@ vitd2[m] -> vitd2[c]
   1  1
 $MOL
 vitd2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:11:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:01
 InChIKey=MECHNRXZTMCUDQ-RKHKHRCZSA-N
  73 75  0  0  1  0  0  0  0  0999 V2000
     4.6046   -2.8078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -159,7 +159,7 @@ InChIKey=MECHNRXZTMCUDQ-RKHKHRCZSA-N
 M  END
 $MOL
 vitd2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:11:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:01
 InChIKey=MECHNRXZTMCUDQ-RKHKHRCZSA-N
  73 75  0  0  1  0  0  0  0  0999 V2000
     4.6046   -2.8078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

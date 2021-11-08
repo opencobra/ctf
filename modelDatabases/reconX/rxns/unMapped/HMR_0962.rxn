@@ -5,7 +5,7 @@ HMR_0962
   1  1
 $MOL
 5HPET[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:26:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:47:27
 InChIKey=JNUUNUQHXIOFDA-JGKLHWIESA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 5HPET[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:26:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:47:27
 InChIKey=JNUUNUQHXIOFDA-JGKLHWIESA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ estriol[r] + udpglcur[r] -> estriolglc[r] + udp[r]
   2  2
 $MOL
 estriol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:17:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:10
 InChIKey=PROQIPRRNZUXQM-ZXXIGWHRSA-N
  45 48  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -104,7 +104,7 @@ InChIKey=PROQIPRRNZUXQM-ZXXIGWHRSA-N
 M  END
 $MOL
 udpglcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:00:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:01
 InChIKey=HDYANYHVCAPMJV-LXQIFKJMSA-K
  56 58  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -225,7 +225,7 @@ M  CHG  3  18  -1  25  -1  27  -1
 M  END
 $MOL
 estriolglc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:17:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:12
 InChIKey=FQYGGFDZJFIDPU-JRSYHJKYSA-N
  65 69  0  0  1  0  0  0  0  0999 V2000
     0.8783   -0.5071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -365,7 +365,7 @@ InChIKey=FQYGGFDZJFIDPU-JRSYHJKYSA-N
 M  END
 $MOL
 udp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:59:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:52
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -385,12 +385,12 @@ InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
     6.4903    0.9544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.6456   -1.4067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -0.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
     8.1303   -2.7290    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,15 +5,16 @@ h[c] + sucacetat[c] -> co2[c] + sucaceto[c]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 sucacetat[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:11:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:06
 InChIKey=OMFWHSRZHVVVAL-UHFFFAOYSA-L
  22 21  0  0  0  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +64,7 @@ M  CHG  2  12  -1  14  -1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:25:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -74,7 +75,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 sucaceto[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:11:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:08
 InChIKey=WYEPBHZLDUPIOD-UHFFFAOYSA-M
  20 19  0  0  0  0  0  0  0  0999 V2000
     5.1962   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

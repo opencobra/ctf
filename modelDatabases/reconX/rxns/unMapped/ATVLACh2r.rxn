@@ -5,7 +5,7 @@ atvacylgluc[r] -> glcur[r] + atvlac[r]
   1  2
 $MOL
 atvacylgluc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:04:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:13
 InChIKey=ZUTLXLYYUSGCQH-UHFFFAOYSA-M
  95 99  0  0  1  0  0  0  0  0999 V2000
     5.3445   -2.4974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -206,7 +206,7 @@ M  CHG  1  49  -1
 M  END
 $MOL
 glcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:51:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:16
 InChIKey=AEMOLEFTQBMNLQ-AQKNRBDQSA-M
  22 22  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -257,7 +257,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 atvlac[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:04:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:18
 InChIKey=XUKUURHRXDUEBC-KAYWLYCHSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -1.1810    1.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,8 +5,8 @@ txa2[c] -> txa2[r]
   1  1
 $MOL
 txa2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:50:28
-InChIKey=DSNBHJFQCNUKMA-NMDSFKIWSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:10
+InChIKey=DSNBHJFQCNUKMA-UJIKMVLPSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
     3.4829    1.0054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4829   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -24,7 +24,7 @@ InChIKey=DSNBHJFQCNUKMA-NMDSFKIWSA-M
     1.1374    1.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.3626    0.1341    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    0.1374   -0.7319    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1374   -0.7319    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.1374    1.0001    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -1.3626    5.3302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.6374    0.1341    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -110,7 +110,7 @@ InChIKey=DSNBHJFQCNUKMA-NMDSFKIWSA-M
  16 52  1  6  0  0  0
  17 13  1  0  0  0  0
  17 24  1  0  0  0  0
- 17 53  1  6  0  0  0
+ 17 53  1  1  0  0  0
  18 14  1  0  0  0  0
  18 25  1  0  0  0  0
  18 54  1  6  0  0  0
@@ -125,8 +125,8 @@ M  CHG  1  23  -1
 M  END
 $MOL
 txa2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:50:28
-InChIKey=DSNBHJFQCNUKMA-NMDSFKIWSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:10
+InChIKey=DSNBHJFQCNUKMA-UJIKMVLPSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
     3.4829    1.0054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4829   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -144,7 +144,7 @@ InChIKey=DSNBHJFQCNUKMA-NMDSFKIWSA-M
     1.1374    1.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.3626    0.1341    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    0.1374   -0.7319    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1374   -0.7319    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.1374    1.0001    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -1.3626    5.3302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.6374    0.1341    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -230,7 +230,7 @@ InChIKey=DSNBHJFQCNUKMA-NMDSFKIWSA-M
  16 52  1  6  0  0  0
  17 13  1  0  0  0  0
  17 24  1  0  0  0  0
- 17 53  1  6  0  0  0
+ 17 53  1  1  0  0  0
  18 14  1  0  0  0  0
  18 25  1  0  0  0  0
  18 54  1  6  0  0  0

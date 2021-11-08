@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 1hibupglu_S[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:09:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:39:20
 InChIKey=WFFCBXYGNUWJKK-UHFFFAOYSA-M
  53 54  0  0  1  0  0  0  0  0999 V2000
    -8.6603    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -119,7 +119,7 @@ M  CHG  1  25  -1
 M  END
 $MOL
 1hibupglu_S[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:09:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:39:20
 InChIKey=WFFCBXYGNUWJKK-UHFFFAOYSA-M
  53 54  0  0  1  0  0  0  0  0999 V2000
    -8.6603    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

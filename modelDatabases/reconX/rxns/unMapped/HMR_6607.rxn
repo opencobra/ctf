@@ -5,7 +5,7 @@ h2o[c] + CE6252[c] -> urate[c] + oh1[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 CE6252[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:59:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:14:25
 InChIKey=RKXSGLUFSIPOGU-UHFFFAOYSA-N
  15 16  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ InChIKey=RKXSGLUFSIPOGU-UHFFFAOYSA-N
 M  END
 $MOL
 urate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:02:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:16
 InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -92,7 +92,7 @@ InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
 M  END
 $MOL
 oh1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:37:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-M
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0

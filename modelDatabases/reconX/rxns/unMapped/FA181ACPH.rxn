@@ -5,7 +5,7 @@ h2o[c] + octeACP[c] -> h[c] + ACP[c] + ocdcea[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 octeACP[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:37:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:05
 
  95 94  0  0  1  0  0  0  0  0999 V2000
     4.0000    0.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -212,15 +212,16 @@ M  CHG  1  40  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 ACP[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:32:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:50:07
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
@@ -231,7 +232,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:32:48
 M  END
 $MOL
 ocdcea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:36:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:44
 InChIKey=ZQPPMHVWECSIRJ-KTKRTIGZSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
    11.2583    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

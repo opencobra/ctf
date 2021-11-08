@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 4mop[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:25:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:50
 InChIKey=BKAJNAXTPSGJCU-UHFFFAOYSA-M
  18 17  0  0  0  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 4mop[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:25:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:50
 InChIKey=BKAJNAXTPSGJCU-UHFFFAOYSA-M
  18 17  0  0  0  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

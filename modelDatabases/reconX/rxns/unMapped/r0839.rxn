@@ -5,7 +5,7 @@ orot[e] -> orot[c]
   1  1
 $MOL
 orot[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:38:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:32
 InChIKey=PXQPEWDEAKTCGB-UHFFFAOYSA-M
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40,7 +40,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 orot[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:38:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:32
 InChIKey=PXQPEWDEAKTCGB-UHFFFAOYSA-M
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

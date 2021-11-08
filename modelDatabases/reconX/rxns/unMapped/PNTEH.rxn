@@ -5,7 +5,7 @@ h2o[c] + ptth[c] -> pnto_R[c] + cysam[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,21 +16,21 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 ptth[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:59:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:56
 InChIKey=ZNXZGRMVNNHPCA-VIFPVBQESA-N
  40 39  0  0  1  0  0  0  0  0999 V2000
     1.8660   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660   -3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -5.1962   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.1340   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660   -1.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.4641    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4641   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -0.6340   -3.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5981    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -101,7 +101,7 @@ InChIKey=ZNXZGRMVNNHPCA-VIFPVBQESA-N
 M  END
 $MOL
 pnto_R[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:53:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:07
 InChIKey=GHOKWGTUZJEAQD-ZETCQYMHSA-M
  31 30  0  0  1  0  0  0  0  0999 V2000
     1.8660   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ M  CHG  1  13  -1
 M  END
 $MOL
 cysam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:34:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:08
 InChIKey=UFULAYFCSOUIOV-UHFFFAOYSA-O
  12 11  0  0  0  0  0  0  0  0999 V2000
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

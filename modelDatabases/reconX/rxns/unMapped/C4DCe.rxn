@@ -5,7 +5,7 @@ c4dc[c] -> c4dc[e]
   1  1
 $MOL
 c4dc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:12:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:32
 InChIKey=HAEVNYBCYZZDFL-UHFFFAOYSA-M
  36 35  0  0  1  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  3  12   1  14  -1  16  -1
 M  END
 $MOL
 c4dc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:12:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:32
 InChIKey=HAEVNYBCYZZDFL-UHFFFAOYSA-M
  36 35  0  0  1  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

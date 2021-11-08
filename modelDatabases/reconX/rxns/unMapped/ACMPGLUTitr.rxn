@@ -5,7 +5,7 @@ acmpglut[c] -> acmpglut[r]
   1  1
 $MOL
 acmpglut[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:17:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:19
 InChIKey=APYXSSPJSJKXHZ-UHFFFAOYSA-N
  57 57  0  0  1  0  0  0  0  0999 V2000
     3.4641   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ InChIKey=APYXSSPJSJKXHZ-UHFFFAOYSA-N
 M  END
 $MOL
 acmpglut[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:17:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:19
 InChIKey=APYXSSPJSJKXHZ-UHFFFAOYSA-N
  57 57  0  0  1  0  0  0  0  0999 V2000
     3.4641   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

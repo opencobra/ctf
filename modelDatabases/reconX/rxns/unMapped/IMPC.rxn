@@ -5,7 +5,7 @@ h2o[c] + imp[c] -> fprica[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 imp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:04:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:24
 InChIKey=GRSZFWQUAKGDAV-KQYNXXCUSA-L
  34 36  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,15 +93,15 @@ M  CHG  2  17  -1  18  -1
 M  END
 $MOL
 fprica[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:21:36
-InChIKey=ABCOOORLYAOBOZ-GAWUUDPSSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:08:21
+InChIKey=ABCOOORLYAOBOZ-KQYNXXCUSA-L
  37 38  0  0  1  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.7989   -1.6448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.1434   -4.5361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5000   -0.8660    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     5.7989   -3.2628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0878   -0.0570    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0878   -0.0570    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     4.0388   -0.3660    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     6.1079   -4.2139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.8479   -2.9538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -115,7 +115,7 @@ InChIKey=ABCOOORLYAOBOZ-GAWUUDPSSA-L
     4.8479    0.2218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     7.0861   -4.4218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.0878   -1.6750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -151,7 +151,7 @@ InChIKey=ABCOOORLYAOBOZ-GAWUUDPSSA-L
   5 12  1  0  0  0  0
   6  7  1  0  0  0  0
   6 16  1  0  0  0  0
-  6 30  1  1  0  0  0
+  6 30  1  6  0  0  0
   7 10  1  0  0  0  0
   7 17  1  0  0  0  0
   7 31  1  6  0  0  0

@@ -5,7 +5,7 @@ sphs1p[c] -> sphs1p[r]
   1  1
 $MOL
 sphs1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:09:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:27
 InChIKey=DUYSYHSSBDVJSM-KRWOKUGFSA-M
  62 61  0  0  1  0  0  0  0  0999 V2000
    11.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -135,7 +135,7 @@ M  CHG  1  21  -1
 M  END
 $MOL
 sphs1p[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:09:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:27
 InChIKey=DUYSYHSSBDVJSM-KRWOKUGFSA-M
  62 61  0  0  1  0  0  0  0  0999 V2000
    11.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

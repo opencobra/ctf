@@ -5,7 +5,7 @@ CE4876[c] -> C05957[c]
   1  1
 $MOL
 CE4876[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:36:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:03:31
 InChIKey=TUXFWOHFPFBNEJ-IRXDYDNUSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -0.9230    6.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -118,7 +118,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 C05957[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:37:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:51:43
 InChIKey=UQOQENZZLBSFKO-LDYIIYSOSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -0.9230   -6.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

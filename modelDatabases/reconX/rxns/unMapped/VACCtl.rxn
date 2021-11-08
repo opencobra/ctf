@@ -5,7 +5,7 @@ vacc[l] -> vacc[c]
   1  1
 $MOL
 vacc[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:05:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:28
 InChIKey=UWHZIFQPPBDJPM-BQYQJAHWSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
    13.8564    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -117,7 +117,7 @@ M  CHG  1  20  -1
 M  END
 $MOL
 vacc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:05:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:28
 InChIKey=UWHZIFQPPBDJPM-BQYQJAHWSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
    13.8564    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

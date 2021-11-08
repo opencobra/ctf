@@ -5,7 +5,7 @@ estroneglc[c] -> estroneglc[r]
   1  1
 $MOL
 estroneglc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:18:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:16
 InChIKey=FJAZVHYPASAQKM-JBAURARKSA-N
  62 66  0  0  1  0  0  0  0  0999 V2000
    -0.8784    0.5073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -139,7 +139,7 @@ InChIKey=FJAZVHYPASAQKM-JBAURARKSA-N
 M  END
 $MOL
 estroneglc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:18:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:16
 InChIKey=FJAZVHYPASAQKM-JBAURARKSA-N
  62 66  0  0  1  0  0  0  0  0999 V2000
    -0.8784    0.5073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ gthrd[c] + CE5249[c] -> CE5243[c]
   2  1
 $MOL
 gthrd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:24:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:41
 InChIKey=RWSXRVCMGQZWBV-WDSKDSINSA-M
  36 35  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 CE5249[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:41:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:06:14
 InChIKey=XVPUMLOTNZVTSL-BLNOFITASA-N
  43 46  0  0  1  0  0  0  0  0999 V2000
     0.0003   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -178,7 +178,7 @@ InChIKey=XVPUMLOTNZVTSL-BLNOFITASA-N
 M  END
 $MOL
 CE5243[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:41:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:06:09
 InChIKey=ARFSXJIGVSWGDY-RCJYCJBHSA-M
  79 82  0  0  1  0  0  0  0  0999 V2000
    -2.8893   -3.5435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

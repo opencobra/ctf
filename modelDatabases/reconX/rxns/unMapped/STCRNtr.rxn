@@ -5,7 +5,7 @@ stcrn[e] -> stcrn[c]
   1  1
 $MOL
 stcrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:10:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:42
 InChIKey=FNPHNLNTJNMAEE-UHFFFAOYSA-N
  79 78  0  0  1  0  0  0  0  0999 V2000
    14.5000   -6.0622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ M  CHG  2  26   1  28  -1
 M  END
 $MOL
 stcrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:10:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:42
 InChIKey=FNPHNLNTJNMAEE-UHFFFAOYSA-N
  79 78  0  0  1  0  0  0  0  0999 V2000
    14.5000   -6.0622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

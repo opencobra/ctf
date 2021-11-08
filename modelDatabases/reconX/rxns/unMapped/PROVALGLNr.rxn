@@ -5,7 +5,7 @@ PROVALGLNr
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 provalgln[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:58:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:37
 InChIKey=JXVXYRZQIUPYSA-YWTFCRFGSA-N
  50 50  0  0  1  0  0  0  0  0999 V2000
    -3.5780    3.8344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,12 +133,12 @@ InChIKey=JXVXYRZQIUPYSA-YWTFCRFGSA-N
 M  END
 $MOL
 gln_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:52:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:20
 InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.7321   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7321    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -4.3301   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -178,7 +178,7 @@ InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
 M  END
 $MOL
 pro_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:55:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:45
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -218,7 +218,7 @@ InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
 M  END
 $MOL
 val_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:06:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:35
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

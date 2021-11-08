@@ -1,0 +1,53 @@
+$RXN
+NAt5
+
+na1[c] + nh4[e] -> nh4[c] + na1[e]
+  2  2
+$MOL
+na1[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+nh4[e]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
+InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0200    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4900    0.8833    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4900   -0.8833    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0200   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+nh4[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
+InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0200    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4900    0.8833    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4900   -0.8833    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0200   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+na1[e]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1   1
+M  END

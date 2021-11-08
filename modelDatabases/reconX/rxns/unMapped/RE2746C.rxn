@@ -5,7 +5,7 @@ CE5982[c] -> h[c] + CE2119[c]
   1  2
 $MOL
 CE5982[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:55:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:12:41
 InChIKey=SQNQBXWYHXYLQX-UHFFFAOYSA-N
  35 36  0  0  1  0  0  0  0  0999 V2000
    -0.8626    5.8907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,15 +83,16 @@ M  RAD  1   8   2
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 CE2119[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:07:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:55:22
 InChIKey=VADOSKJWFKUPQF-UHFFFAOYSA-N
  34 36  0  0  1  0  0  0  0  0999 V2000
    -0.6213    1.4104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

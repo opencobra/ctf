@@ -5,7 +5,7 @@ ptdca[l] -> ptdca[c]
   1  1
 $MOL
 ptdca[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:58:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:47
 InChIKey=WQEPLUUGTLDZJY-UHFFFAOYSA-M
  46 45  0  0  0  0  0  0  0  0999 V2000
    12.1244   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -103,7 +103,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 ptdca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:58:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:47
 InChIKey=WQEPLUUGTLDZJY-UHFFFAOYSA-M
  46 45  0  0  0  0  0  0  0  0999 V2000
    12.1244   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ ppa[c] -> ppa[m]
   1  1
 $MOL
 ppa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:53:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:09
 InChIKey=XBDQKXXYIPTUBI-UHFFFAOYSA-M
  10  9  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31,7 +31,7 @@ M  CHG  1   5  -1
 M  END
 $MOL
 ppa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:53:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:09
 InChIKey=XBDQKXXYIPTUBI-UHFFFAOYSA-M
  10  9  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

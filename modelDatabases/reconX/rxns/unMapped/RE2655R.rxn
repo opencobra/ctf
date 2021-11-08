@@ -5,7 +5,7 @@ retinal[r] -> retinal_cis_13[r]
   1  1
 $MOL
 retinal[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:01:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:42
 InChIKey=NCYCYZXNIZJOKI-OVSJKPMPSA-N
  49 49  0  0  0  0  0  0  0  0999 V2000
    -2.5981    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,7 +109,7 @@ InChIKey=NCYCYZXNIZJOKI-OVSJKPMPSA-N
 M  END
 $MOL
 retinal_cis_13[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:01:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:46
 InChIKey=NCYCYZXNIZJOKI-HWCYFHEPSA-N
  49 49  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

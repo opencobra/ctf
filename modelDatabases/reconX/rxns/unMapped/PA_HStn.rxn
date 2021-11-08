@@ -5,7 +5,7 @@ pa_hs[c] -> pa_hs[n]
   1  1
 $MOL
 pa_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:39:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:43
 
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -3.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 pa_hs[n]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:39:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:43
 
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -3.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

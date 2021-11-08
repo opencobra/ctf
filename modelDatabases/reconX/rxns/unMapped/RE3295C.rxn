@@ -5,7 +5,7 @@ CE7101[c] -> CE6219[c]
   1  1
 $MOL
 CE7101[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:03:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:16:15
 InChIKey=CSHBKBJSGSRKLB-UHFFFAOYSA-N
  79 80  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -170,7 +170,7 @@ InChIKey=CSHBKBJSGSRKLB-UHFFFAOYSA-N
 M  END
 $MOL
 CE6219[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:57:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:13:37
 InChIKey=XEXGHDCZBILZDD-UHFFFAOYSA-N
  79 79  0  0  1  0  0  0  0  0999 V2000
    -4.3301  -11.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

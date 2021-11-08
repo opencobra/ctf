@@ -5,7 +5,7 @@ and19one[c] -> and19one[e]
   1  1
 $MOL
 and19one[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:39:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:38
 InChIKey=XGUHPTGEXRHMQQ-CXOXHQNKSA-N
  48 51  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -110,7 +110,7 @@ InChIKey=XGUHPTGEXRHMQQ-CXOXHQNKSA-N
 M  END
 $MOL
 and19one[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:39:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:38
 InChIKey=XGUHPTGEXRHMQQ-CXOXHQNKSA-N
  48 51  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

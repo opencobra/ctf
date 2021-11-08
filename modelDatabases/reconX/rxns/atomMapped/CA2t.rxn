@@ -1,22 +1,21 @@
 $RXN
 CA2t
-
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:17:43
 ca2[e] -> ca2[c]
   1  1
 $MOL
 ca2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:15:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:49
 InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N
-  1  0  0  0  0  0  0  0  0  0999 V2000
-    1.0000    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  1  0  0
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   2
 M  END
 $MOL
 ca2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:15:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:49
 InChIKey=BHPQYMZQTOCNFJ-UHFFFAOYSA-N
-  1  0  0  0  0  0  0  0  0  0999 V2000
-    1.0000    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  1  0  0
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Ca  0  2  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   2
 M  END
-

@@ -5,7 +5,7 @@ bz[c] -> bz[r]
   1  1
 $MOL
 bz[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:09:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:01
 InChIKey=WPYMKLBDIGXBTP-UHFFFAOYSA-M
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40,7 +40,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 bz[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:09:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:01
 InChIKey=WPYMKLBDIGXBTP-UHFFFAOYSA-M
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

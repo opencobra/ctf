@@ -5,7 +5,7 @@ pd3[c] -> ts3[c]
   1  1
 $MOL
 pd3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:45:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:45
 InChIKey=YUGCAAVRZWBXEQ-QEYGBBHESA-N
  72 74  0  0  1  0  0  0  0  0999 V2000
    -3.1653   -4.3212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=YUGCAAVRZWBXEQ-QEYGBBHESA-N
    -2.2382   -1.4680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.4067   -0.9135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.9000   -2.9543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.8781   -3.1622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5909   -2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -157,7 +157,7 @@ InChIKey=YUGCAAVRZWBXEQ-QEYGBBHESA-N
 M  END
 $MOL
 ts3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:46:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:55:43
 InChIKey=YUGCAAVRZWBXEQ-FMCTZRJNSA-N
  72 74  0  0  1  0  0  0  0  0999 V2000
    -5.3249    0.5806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

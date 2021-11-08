@@ -5,7 +5,7 @@ xol7aone[c] -> xol7aone[r]
   1  1
 $MOL
 xol7aone[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:17:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:36
 InChIKey=IOIZWEJGGCZDOL-RQDYSCIWSA-N
  73 76  0  0  1  0  0  0  0  0999 V2000
    -2.6628    6.2923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -160,7 +160,7 @@ InChIKey=IOIZWEJGGCZDOL-RQDYSCIWSA-N
 M  END
 $MOL
 xol7aone[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:17:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:36
 InChIKey=IOIZWEJGGCZDOL-RQDYSCIWSA-N
  73 76  0  0  1  0  0  0  0  0999 V2000
    -2.6628    6.2923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ na1[c] + stcrn[c] -> na1[e] + stcrn[e]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 stcrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:10:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:42
 InChIKey=FNPHNLNTJNMAEE-UHFFFAOYSA-N
  79 78  0  0  1  0  0  0  0  0999 V2000
    14.5000   -6.0622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -177,7 +177,7 @@ M  CHG  2  26   1  28  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -185,7 +185,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 stcrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:10:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:42
 InChIKey=FNPHNLNTJNMAEE-UHFFFAOYSA-N
  79 78  0  0  1  0  0  0  0  0999 V2000
    14.5000   -6.0622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

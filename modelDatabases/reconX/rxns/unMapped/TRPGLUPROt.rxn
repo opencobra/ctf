@@ -5,15 +5,16 @@ h[e] + trpglupro[e] -> h[c] + trpglupro[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 trpglupro[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:41:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:53
 InChIKey=KDWZQYUTMJSYRJ-PVAVHDDUSA-M
  56 58  0  0  1  0  0  0  0  0999 V2000
    -6.8089   -0.1785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -134,15 +135,16 @@ M  CHG  1  27  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 trpglupro[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:41:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:53
 InChIKey=KDWZQYUTMJSYRJ-PVAVHDDUSA-M
  56 58  0  0  1  0  0  0  0  0999 V2000
    -6.8089   -0.1785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

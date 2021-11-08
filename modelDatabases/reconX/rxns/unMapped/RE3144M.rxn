@@ -5,7 +5,7 @@ o2[m] + nadph[m] + CE6027[m] -> h2o[m] + nadp[m] + cca_d3[m]
   3  3
 $MOL
 o2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:22
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 nadph[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:32:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:26
 InChIKey=ACFIXJIJDZMPPO-NCHANQSKSA-J
  74 78  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -173,7 +173,7 @@ M  CHG  4  32  -1  33  -1  34  -1  36  -1
 M  END
 $MOL
 CE6027[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:56:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:12:51
 InChIKey=AOVGFTJYESGAEA-VZEJBDIDSA-N
  60 62  0  0  1  0  0  0  0  0999 V2000
    -2.3904    1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -301,7 +301,7 @@ InChIKey=AOVGFTJYESGAEA-VZEJBDIDSA-N
 M  END
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -312,7 +312,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 nadp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:32:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:23
 InChIKey=XJLXINKUBYWONI-NNYOXOHSSA-K
  73 77  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -469,9 +469,9 @@ M  CHG  5  27   1  32  -1  34  -1  35  -1  39  -1
 M  END
 $MOL
 cca_d3[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:18:37
-InChIKey=MBLYZRMZFUWLOZ-ZTIKAOTBSA-N
- 61 63  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:26
+InChIKey=MBLYZRMZFUWLOZ-ZTIKAOTBSA-M
+ 60 62  0  0  1  0  0  0  0  0999 V2000
    -2.3904    1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5878   -0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -498,7 +498,7 @@ InChIKey=MBLYZRMZFUWLOZ-ZTIKAOTBSA-N
     6.9282   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     5.1962    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -3.6776    0.0454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.3175   -1.6488    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3175   -1.6488    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -2.0597    2.2220    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -3.4370    0.9820    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -3.1063    1.9996    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -532,7 +532,6 @@ InChIKey=MBLYZRMZFUWLOZ-ZTIKAOTBSA-N
     6.1229    2.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     6.9282   -0.9700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     6.0362    3.4850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.2340   -1.8436    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1 28  1  0  0  0  0
   1 29  1  0  0  0  0
   1 30  1  0  0  0  0
@@ -595,5 +594,5 @@ InChIKey=MBLYZRMZFUWLOZ-ZTIKAOTBSA-N
  23  3  1  1  0  0  0
  24 59  1  0  0  0  0
  25 60  1  0  0  0  0
- 27 61  1  0  0  0  0
+M  CHG  1  27  -1
 M  END

@@ -5,7 +5,7 @@ cholcoar[m] -> cholcoas[m]
   1  1
 $MOL
 cholcoar[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:21:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:01
 InChIKey=MNYDLIUNNOCPHG-SKVVJVTBSA-J
 155161  0  0  1  0  0  0  0  0999 V2000
    -1.7692   -5.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -328,7 +328,7 @@ M  CHG  4  59  -1  62  -1  64  -1  65  -1
 M  END
 $MOL
 cholcoas[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:22:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:04
 InChIKey=MNYDLIUNNOCPHG-WQJBCUCLSA-J
 155161  0  0  1  0  0  0  0  0999 V2000
    -1.7692   -5.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

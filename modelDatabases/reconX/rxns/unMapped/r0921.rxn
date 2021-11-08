@@ -5,7 +5,7 @@ thym[c] -> thym[m]
   1  1
 $MOL
 thym[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:33:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:45
 InChIKey=RWQNBRDOKXIBIV-UHFFFAOYSA-N
  15 15  0  0  0  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ InChIKey=RWQNBRDOKXIBIV-UHFFFAOYSA-N
 M  END
 $MOL
 thym[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:33:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:45
 InChIKey=RWQNBRDOKXIBIV-UHFFFAOYSA-N
  15 15  0  0  0  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

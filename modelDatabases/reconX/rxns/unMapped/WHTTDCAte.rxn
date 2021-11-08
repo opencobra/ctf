@@ -5,7 +5,7 @@ whttdca[e] -> whttdca[c]
   1  1
 $MOL
 whttdca[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:13:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:13
 InChIKey=JOSXCARTDOQGLV-UHFFFAOYSA-M
  44 43  0  0  0  0  0  0  0  0999 V2000
     4.3301   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,7 +99,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 whttdca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:13:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:13
 InChIKey=JOSXCARTDOQGLV-UHFFFAOYSA-M
  44 43  0  0  0  0  0  0  0  0999 V2000
     4.3301   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

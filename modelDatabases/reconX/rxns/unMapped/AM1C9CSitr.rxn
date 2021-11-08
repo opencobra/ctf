@@ -5,7 +5,7 @@ am1c9cs[r] -> am1c9cs[c]
   1  1
 $MOL
 am1c9cs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:35:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:02
 InChIKey=JAMYKWXSCJFSSX-OKJSGIQHSA-N
 198199  0  0  1  0  0  0  0  0999 V2000
    -0.0537    5.3788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -408,7 +408,7 @@ InChIKey=JAMYKWXSCJFSSX-OKJSGIQHSA-N
 M  END
 $MOL
 am1c9cs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:35:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:02
 InChIKey=JAMYKWXSCJFSSX-OKJSGIQHSA-N
 198199  0  0  1  0  0  0  0  0999 V2000
    -0.0537    5.3788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ ascb_L[c] + CE7122[c] -> avite2[c] + C01041[c]
   2  2
 $MOL
 ascb_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:57:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:22
 InChIKey=CIWBSHSKHKDKBQ-JLAZNSOCSA-M
  19 19  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 CE7122[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:04:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:16:31
 InChIKey=LALWPXWRMGORIU-UHFFFAOYSA-N
  74 75  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -206,7 +206,7 @@ M  RAD  1  28   2
 M  END
 $MOL
 avite2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:05:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:25
 InChIKey=RZFHLOLGZPDCHJ-XZXLULOTSA-N
  75 76  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -363,7 +363,7 @@ InChIKey=RZFHLOLGZPDCHJ-XZXLULOTSA-N
 M  END
 $MOL
 C01041[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:33:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:50:11
 InChIKey=LHFJOBMTAJJOTB-JLAZNSOCSA-M
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

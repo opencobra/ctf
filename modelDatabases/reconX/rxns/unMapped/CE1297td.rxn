@@ -5,7 +5,7 @@ CE1297[c] -> CE1297[e]
   1  1
 $MOL
 CE1297[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:56:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:53:52
 InChIKey=VUKORTMHZDZZFR-BXAZICILSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -158,7 +158,7 @@ InChIKey=VUKORTMHZDZZFR-BXAZICILSA-N
 M  END
 $MOL
 CE1297[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:56:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:53:52
 InChIKey=VUKORTMHZDZZFR-BXAZICILSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ fvscoa[c] -> fvscoa[x]
   1  1
 $MOL
 fvscoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:26:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:40
 InChIKey=ZGIRLJNRRFQQJQ-QDBORUFSSA-J
 135138  0  0  1  0  0  0  0  0999 V2000
    19.5152   -4.0783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -285,7 +285,7 @@ M  CHG  4  57  -1  61  -1  62  -1  63  -1
 M  END
 $MOL
 fvscoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:26:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:40
 InChIKey=ZGIRLJNRRFQQJQ-QDBORUFSSA-J
 135138  0  0  1  0  0  0  0  0999 V2000
    19.5152   -4.0783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

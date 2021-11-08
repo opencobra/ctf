@@ -5,7 +5,7 @@ C05300[c] -> C05300[e]
   1  1
 $MOL
 C05300[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:36:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:51:29
 InChIKey=WPOCIZJTELRQMF-QFXBJFAPSA-N
  43 46  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ InChIKey=WPOCIZJTELRQMF-QFXBJFAPSA-N
 M  END
 $MOL
 C05300[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:36:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:51:29
 InChIKey=WPOCIZJTELRQMF-QFXBJFAPSA-N
  43 46  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ HC01231[c] -> HC01231[m]
   1  1
 $MOL
 HC01231[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:07:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:43
 InChIKey=QSYCTARXWYLMOF-CBAPKCEASA-M
  42 41  0  0  1  0  0  0  0  0999 V2000
     5.3301    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 HC01231[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:07:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:43
 InChIKey=QSYCTARXWYLMOF-CBAPKCEASA-M
  42 41  0  0  1  0  0  0  0  0999 V2000
     5.3301    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

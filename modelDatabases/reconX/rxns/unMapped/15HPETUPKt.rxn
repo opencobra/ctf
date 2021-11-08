@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 15HPET[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:08:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:38:57
 InChIKey=BFWYTORDSFIVKP-VAEKSGALSA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 15HPET[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:08:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:38:57
 InChIKey=BFWYTORDSFIVKP-VAEKSGALSA-M
  55 54  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

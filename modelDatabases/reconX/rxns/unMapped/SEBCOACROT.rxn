@@ -5,7 +5,7 @@ crn[x] + sebcoa[x] -> coa[x] + c10dc[x]
   2  2
 $MOL
 crn[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:29:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:17
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,8 +63,8 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 sebcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:04:35
-InChIKey=JZXNELIZHJCEFA-CQDVDCODSA-I
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:48:44
+InChIKey=JZXNELIZHJCEFA-UHFFFAOYSA-I
 108110  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.4143   -5.0970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ InChIKey=JZXNELIZHJCEFA-CQDVDCODSA-I
    -5.8349   -2.6561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.1124   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.2424   -3.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.4487   -1.8364    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.4487   -1.8364    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     4.0834   -4.3539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -6.7485   -2.2493    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     8.4229   -4.7651    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -111,9 +111,9 @@ InChIKey=JZXNELIZHJCEFA-CQDVDCODSA-I
    -1.9875   -0.1151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     5.7776   -4.7140    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0510   -5.4801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9029   -2.6555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -265,7 +265,7 @@ InChIKey=JZXNELIZHJCEFA-CQDVDCODSA-I
  29 45  1  0  0  0  0
  30 38  1  0  0  0  0
  30 55  1  0  0  0  0
- 30102  1  1  0  0  0
+ 30102  1  0  0  0  0
  32103  1  0  0  0  0
  32104  1  0  0  0  0
  43105  1  0  0  0  0
@@ -288,7 +288,7 @@ M  CHG  5  39  -1  41  -1  45  -1  46  -1  47  -1
 M  END
 $MOL
 coa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:26:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -457,7 +457,7 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 c10dc[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:10:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:09
 InChIKey=GBFPILOKXGQZKW-UHFFFAOYSA-M
  54 53  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

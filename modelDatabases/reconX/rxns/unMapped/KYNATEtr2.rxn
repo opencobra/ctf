@@ -5,7 +5,7 @@ kynate[e] -> kynate[c]
   1  1
 $MOL
 kynate[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:13:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:29:52
 InChIKey=HCZHHEIFKROPDY-UHFFFAOYSA-M
  20 21  0  0  0  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 kynate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:13:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:29:52
 InChIKey=HCZHHEIFKROPDY-UHFFFAOYSA-M
  20 21  0  0  0  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ h2o[m] + fum[m] -> mal_L[m]
   2  1
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 fum[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:25:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:36
 InChIKey=VZCYOOQTPOCHFL-OWOJBTEDSA-L
  10  9  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42,11 +42,11 @@ M  CHG  2   6  -1   8  -1
 M  END
 $MOL
 mal_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:23:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:35:39
 InChIKey=BJEPYKJPYRNKOW-REOHCLBHSA-L
  13 12  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7321    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,15 +5,16 @@ h[e] + hisglugln[e] -> h[c] + hisglugln[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 hisglugln[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:41:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:24
 InChIKey=BQFGKVYHKCNEMF-OUAUKWLOSA-M
  52 52  0  0  1  0  0  0  0  0999 V2000
    -6.2459   -1.1329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -124,15 +125,16 @@ M  CHG  1  23  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 hisglugln[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:41:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:24
 InChIKey=BQFGKVYHKCNEMF-OUAUKWLOSA-M
  52 52  0  0  1  0  0  0  0  0999 V2000
    -6.2459   -1.1329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ atvacid[e] -> atvacid[c]
   1  1
 $MOL
 atvacid[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:03:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:11
 InChIKey=XUKUURHRXDUEBC-UHFFFAOYSA-M
  75 78  0  0  1  0  0  0  0  0999 V2000
    -1.1810    1.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ M  CHG  1  40  -1
 M  END
 $MOL
 atvacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:03:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:11
 InChIKey=XUKUURHRXDUEBC-UHFFFAOYSA-M
  75 78  0  0  1  0  0  0  0  0999 V2000
    -1.1810    1.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

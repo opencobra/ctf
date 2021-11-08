@@ -5,7 +5,7 @@ crglz[c] -> crglz[e]
   1  1
 $MOL
 crglz[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:28:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:11
 InChIKey=YMVFYTNFKBBPSY-UHFFFAOYSA-L
  41 43  0  0  1  0  0  0  0  0999 V2000
    -2.7195   -1.9795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -96,7 +96,7 @@ M  CHG  2  16  -1  20  -1
 M  END
 $MOL
 crglz[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:28:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:11
 InChIKey=YMVFYTNFKBBPSY-UHFFFAOYSA-L
  41 43  0  0  1  0  0  0  0  0999 V2000
    -2.7195   -1.9795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

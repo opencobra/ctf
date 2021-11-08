@@ -5,7 +5,7 @@ ppcoa[m] + q10[m] -> q10h2[m] + prpncoa[m]
   2  2
 $MOL
 ppcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:53:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:12
 InChIKey=QAQREVBBADEHPA-SSERFMASSA-J
  88 90  0  0  1  0  0  0  0  0999 V2000
    15.1795   -5.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ InChIKey=QAQREVBBADEHPA-SSERFMASSA-J
     2.9385    0.1939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.8948   -0.2219    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.4487   -1.8364    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.1246    0.9641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     3.1465    1.1720    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
@@ -190,7 +190,7 @@ M  CHG  4  32  -1  36  -1  37  -1  38  -1
 M  END
 $MOL
 q10[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:00:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:27
 InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 153153  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -502,7 +502,7 @@ InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 M  END
 $MOL
 q10h2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:00:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:29
 InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 155155  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -818,7 +818,7 @@ InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 M  END
 $MOL
 prpncoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:58:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:39
 InChIKey=POODSGUMUCVRTR-IEXPHMLFSA-J
  86 88  0  0  1  0  0  0  0  0999 V2000
    15.1795   -5.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -867,7 +867,7 @@ InChIKey=POODSGUMUCVRTR-IEXPHMLFSA-J
     2.9385    0.1939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.8948   -0.2219    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.4487   -1.8364    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.1246    0.9641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     3.1465    1.1720    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ udpglcur[r] + fvstet[r] -> h[r] + udp[r] + fvstetglu[r]
   2  3
 $MOL
 udpglcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:00:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:01
 InChIKey=HDYANYHVCAPMJV-LXQIFKJMSA-K
  56 58  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ M  CHG  3  18  -1  25  -1  27  -1
 M  END
 $MOL
 fvstet[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:26:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:45
 InChIKey=PAHZGPLSHOVXBS-UHFFFAOYSA-M
  35 36  0  0  0  0  0  0  0  0999 V2000
     6.1648   -0.9343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -204,15 +204,16 @@ M  CHG  2  21  -1  22   1
 M  END
 $MOL
 h[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 udp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:59:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:52
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -232,12 +233,12 @@ InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
     6.4903    0.9544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.6456   -1.4067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -0.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
     8.1303   -2.7290    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -292,7 +293,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 fvstetglu[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:27:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:47
 InChIKey=ZFNRHVXQJMQKJM-UHFFFAOYSA-M
  55 57  0  0  1  0  0  0  0  0999 V2000
     6.3163   -6.8900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

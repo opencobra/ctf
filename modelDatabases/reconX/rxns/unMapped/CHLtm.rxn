@@ -5,7 +5,7 @@ chol[c] -> chol[m]
   1  1
 $MOL
 chol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:20:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:47
 InChIKey=OEYIOHPDSNJKLS-UHFFFAOYSA-N
  21 20  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1   6   1
 M  END
 $MOL
 chol[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:20:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:47
 InChIKey=OEYIOHPDSNJKLS-UHFFFAOYSA-N
  21 20  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

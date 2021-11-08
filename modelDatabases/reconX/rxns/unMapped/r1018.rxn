@@ -5,7 +5,7 @@ dcholcoa[r] -> dcholcoa[c]
   1  1
 $MOL
 dcholcoa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:40:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:02:02
 InChIKey=IIWDDMINEZBCTG-MFYBFTTGSA-J
 145151  0  0  1  0  0  0  0  0999 V2000
    -1.7898   -4.3704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -308,7 +308,7 @@ M  CHG  4  55  -1  59  -1  60  -1  61  -1
 M  END
 $MOL
 dcholcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:40:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:02:02
 InChIKey=IIWDDMINEZBCTG-MFYBFTTGSA-J
 145151  0  0  1  0  0  0  0  0999 V2000
    -1.7898   -4.3704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

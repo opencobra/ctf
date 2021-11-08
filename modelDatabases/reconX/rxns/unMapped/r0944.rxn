@@ -5,7 +5,7 @@ spmd[c] -> spmd[e]
   1  1
 $MOL
 spmd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:10:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:29
 InChIKey=ATHGHQPFGPMSJY-UHFFFAOYSA-Q
  32 31  0  0  0  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ M  CHG  3   8   1   9   1  10   1
 M  END
 $MOL
 spmd[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:10:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:29
 InChIKey=ATHGHQPFGPMSJY-UHFFFAOYSA-Q
  32 31  0  0  0  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

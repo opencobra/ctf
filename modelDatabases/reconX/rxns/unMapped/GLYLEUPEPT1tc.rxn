@@ -5,15 +5,16 @@ h[e] + glyleu[e] -> h[c] + glyleu[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glyleu[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:06:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:42
 InChIKey=DKEXFJVMVGETOO-LURJTMIESA-N
  29 28  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -76,15 +77,16 @@ InChIKey=DKEXFJVMVGETOO-LURJTMIESA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 glyleu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:06:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:42
 InChIKey=DKEXFJVMVGETOO-LURJTMIESA-N
  29 28  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

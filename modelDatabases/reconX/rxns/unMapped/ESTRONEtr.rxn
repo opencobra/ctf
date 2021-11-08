@@ -5,7 +5,7 @@ estrone[r] -> estrone[c]
   1  1
 $MOL
 estrone[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:18:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:14
 InChIKey=DNXHEGUUPJUMQT-CBZIJGRNSA-N
  42 45  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ InChIKey=DNXHEGUUPJUMQT-CBZIJGRNSA-N
 M  END
 $MOL
 estrone[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:18:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:14
 InChIKey=DNXHEGUUPJUMQT-CBZIJGRNSA-N
  42 45  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

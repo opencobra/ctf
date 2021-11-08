@@ -5,7 +5,7 @@ M02760[c] -> prgstrn[c]
   1  1
 $MOL
 M02760[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:43:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:44:13
 InChIKey=MNRHZPCIEGLWGK-LEKSSAKUSA-N
  53 56  0  0  1  0  0  0  0  0999 V2000
    -2.7893    3.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -120,7 +120,7 @@ InChIKey=MNRHZPCIEGLWGK-LEKSSAKUSA-N
 M  END
 $MOL
 prgstrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:54:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:34
 InChIKey=RJKFOVLPORLFTN-LEKSSAKUSA-N
  53 56  0  0  1  0  0  0  0  0999 V2000
    -2.7893    3.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

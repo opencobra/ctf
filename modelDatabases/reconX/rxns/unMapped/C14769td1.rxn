@@ -5,7 +5,7 @@ C14769[c] -> C14769[e]
   1  1
 $MOL
 C14769[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:39:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:52:30
 InChIKey=DBWQSCSXHFNTMO-TYAUOURKSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     7.4282   -0.1340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -120,7 +120,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 C14769[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:39:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:52:30
 InChIKey=DBWQSCSXHFNTMO-TYAUOURKSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     7.4282   -0.1340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

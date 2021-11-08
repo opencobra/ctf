@@ -5,7 +5,7 @@ h2o[c] + 6melvst[c] -> h[c] + 6melvacid[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 6melvst[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:30:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:49:18
 InChIKey=CUFUDDFNKHOQEC-UHFFFAOYSA-N
  63 65  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -150,15 +150,16 @@ InChIKey=CUFUDDFNKHOQEC-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 6melvacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:30:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:49:16
 InChIKey=VOCGRWFQWIIZEJ-UHFFFAOYSA-M
  65 66  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

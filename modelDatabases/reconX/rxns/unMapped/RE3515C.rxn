@@ -5,7 +5,7 @@ C08276[c] -> ch4s[c] + acryl[c]
   1  2
 $MOL
 C08276[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:38:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:52:11
 InChIKey=CAOMCZAIALVUPA-UHFFFAOYSA-M
  14 13  0  0  0  0  0  0  0  0999 V2000
     3.4641   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 ch4s[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:19:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:38
 InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N
   6  5  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -56,7 +56,7 @@ InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N
 M  END
 $MOL
 acryl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:19:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:52
 InChIKey=NIXOWILDQLNWCW-UHFFFAOYSA-M
   8  7  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

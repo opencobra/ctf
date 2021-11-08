@@ -5,7 +5,7 @@ smv[c] -> smv[r]
   1  1
 $MOL
 smv[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:06:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:25
 InChIKey=RYMZZMVNJRMUDD-HGQWONQESA-N
  68 70  0  0  1  0  0  0  0  0999 V2000
     5.1962    5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -149,7 +149,7 @@ InChIKey=RYMZZMVNJRMUDD-HGQWONQESA-N
 M  END
 $MOL
 smv[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:06:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:25
 InChIKey=RYMZZMVNJRMUDD-HGQWONQESA-N
  68 70  0  0  1  0  0  0  0  0999 V2000
     5.1962    5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

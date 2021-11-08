@@ -5,7 +5,7 @@ acgbgbside_hs[c] -> acgbgbside_hs[g]
   1  1
 $MOL
 acgbgbside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:11:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:49:43
 InChIKey=JGSARLDLIJGVTE-MBNYWOFBSA-N
  41 43  0  0  1  0  0  0  0  0999 V2000
     1.0000    3.4049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -18,7 +18,7 @@ InChIKey=JGSARLDLIJGVTE-MBNYWOFBSA-N
     3.3801   -1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3461   -0.8966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.6730   -0.4483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -0.3090    1.9511    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    1.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ InChIKey=JGSARLDLIJGVTE-MBNYWOFBSA-N
 M  END
 $MOL
 acgbgbside_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:11:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:49:43
 InChIKey=JGSARLDLIJGVTE-MBNYWOFBSA-N
  41 43  0  0  1  0  0  0  0  0999 V2000
     1.0000    3.4049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -108,7 +108,7 @@ InChIKey=JGSARLDLIJGVTE-MBNYWOFBSA-N
     3.3801   -1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3461   -0.8966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.6730   -0.4483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -0.3090    1.9511    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    1.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0

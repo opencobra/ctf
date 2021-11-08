@@ -5,7 +5,7 @@ CE6205[c] -> CE6205[e]
   1  1
 $MOL
 CE6205[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:57:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:13:35
 InChIKey=QLWKTGDEPLRFAT-UHFFFAOYSA-N
  27 28  0  0  0  0  0  0  0  0999 V2000
     4.4152    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ InChIKey=QLWKTGDEPLRFAT-UHFFFAOYSA-N
 M  END
 $MOL
 CE6205[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:57:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:13:35
 InChIKey=QLWKTGDEPLRFAT-UHFFFAOYSA-N
  27 28  0  0  0  0  0  0  0  0999 V2000
     4.4152    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

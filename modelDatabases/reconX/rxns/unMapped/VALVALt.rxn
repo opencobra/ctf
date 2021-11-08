@@ -5,15 +5,16 @@ h[e] + valval[e] -> h[c] + valval[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 valval[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:10:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:55
 InChIKey=KRNYOVHEKOBTEF-SFYZADRCSA-N
  35 34  0  0  1  0  0  0  0  0999 V2000
    -4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -88,15 +89,16 @@ InChIKey=KRNYOVHEKOBTEF-SFYZADRCSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 valval[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:10:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:55
 InChIKey=KRNYOVHEKOBTEF-SFYZADRCSA-N
  35 34  0  0  1  0  0  0  0  0999 V2000
    -4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

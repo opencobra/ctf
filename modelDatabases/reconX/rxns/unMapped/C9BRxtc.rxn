@@ -5,7 +5,7 @@ dmnoncrn[x] -> dmnoncrn[c]
   1  1
 $MOL
 dmnoncrn[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:09:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:04:38
 InChIKey=DDTDJDZHDFMZED-OEMAIJDKSA-N
  58 57  0  0  1  0  0  0  0  0999 V2000
     7.5000    4.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -127,7 +127,7 @@ M  CHG  2  19   1  21  -1
 M  END
 $MOL
 dmnoncrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:09:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:04:38
 InChIKey=DDTDJDZHDFMZED-OEMAIJDKSA-N
  58 57  0  0  1  0  0  0  0  0999 V2000
     7.5000    4.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

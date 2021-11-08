@@ -5,7 +5,7 @@ tmdm5[c] -> tmdm5[r]
   1  1
 $MOL
 tmdm5[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:35:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:05
 InChIKey=HXAGNFCAUGAIIH-UHFFFAOYSA-L
  42 43  0  0  0  0  0  0  0  0999 V2000
     2.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -97,7 +97,7 @@ M  CHG  2  18  -1  22  -1
 M  END
 $MOL
 tmdm5[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:35:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:05
 InChIKey=HXAGNFCAUGAIIH-UHFFFAOYSA-L
  42 43  0  0  0  0  0  0  0  0999 V2000
     2.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

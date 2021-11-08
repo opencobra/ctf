@@ -5,7 +5,7 @@ xolest182_hs[e] -> xolest182_hs[c]
   1  1
 $MOL
 xolest182_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:19:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:45
 InChIKey=NAACPBBQTFFYQB-UHFFFAOYSA-N
 123126  0  0  1  0  0  0  0  0999 V2000
   -11.3837   -1.4318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -260,7 +260,7 @@ InChIKey=NAACPBBQTFFYQB-UHFFFAOYSA-N
 M  END
 $MOL
 xolest182_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:19:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:45
 InChIKey=NAACPBBQTFFYQB-UHFFFAOYSA-N
 123126  0  0  1  0  0  0  0  0999 V2000
   -11.3837   -1.4318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

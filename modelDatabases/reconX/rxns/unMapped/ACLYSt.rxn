@@ -5,7 +5,7 @@ aclys[c] -> aclys[e]
   1  1
 $MOL
 aclys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:16:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:10
 InChIKey=VEYYWZRYIYDQJM-ZETCQYMHSA-N
  29 28  0  0  1  0  0  0  0  0999 V2000
     1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -68,7 +68,7 @@ InChIKey=VEYYWZRYIYDQJM-ZETCQYMHSA-N
 M  END
 $MOL
 aclys[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:16:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:10
 InChIKey=VEYYWZRYIYDQJM-ZETCQYMHSA-N
  29 28  0  0  1  0  0  0  0  0999 V2000
     1.7321    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

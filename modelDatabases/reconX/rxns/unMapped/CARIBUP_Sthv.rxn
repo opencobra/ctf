@@ -5,7 +5,7 @@ caribup_s[c] -> caribup_s[e]
   1  1
 $MOL
 caribup_s[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:16:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:59
 InChIKey=DIVLBIVDYADZPL-UHFFFAOYSA-L
  31 31  0  0  1  0  0  0  0  0999 V2000
     0.8660    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=DIVLBIVDYADZPL-UHFFFAOYSA-L
    -0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    3.5000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
-    0.0000   -1.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
    -0.0000    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -74,7 +74,7 @@ M  CHG  2  15  -1  17  -1
 M  END
 $MOL
 caribup_s[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:16:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:59
 InChIKey=DIVLBIVDYADZPL-UHFFFAOYSA-L
  31 31  0  0  1  0  0  0  0  0999 V2000
     0.8660    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ InChIKey=DIVLBIVDYADZPL-UHFFFAOYSA-L
    -0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    3.5000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
-    0.0000   -1.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
    -0.0000    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,15 +5,16 @@ h[c] + ascb_L[c] + CE6445[c] -> h2o[c] + dhdascb[c] + CE6454[c]
   3  3
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 ascb_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:57:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:22
 InChIKey=CIWBSHSKHKDKBQ-JLAZNSOCSA-M
  19 19  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +59,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 CE6445[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:00:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:14:45
 InChIKey=OBPXZABJSFSQDQ-POXXLGPKSA-M
  59 60  0  0  1  0  0  0  0  0999 V2000
    -2.6145   -6.4685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -184,7 +185,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -195,7 +196,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dhdascb[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:06:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:40
 InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -237,8 +238,8 @@ InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
 M  END
 $MOL
 CE6454[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:00:49
-InChIKey=KSUMVDZATHWLCP-ZPMBFSNOSA-M
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:15:03
+InChIKey=KSUMVDZATHWLCP-TUHWPVMTSA-M
  58 58  0  0  1  0  0  0  0  0999 V2000
     7.6382    3.7690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.6437    3.8735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -257,7 +258,7 @@ InChIKey=KSUMVDZATHWLCP-ZPMBFSNOSA-M
    -0.2788    1.7601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8090   -0.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.8611    2.4646    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    1.3090    0.9511    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3090    0.9511    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     0.3090    0.9511    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     1.6180    0.0000    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -345,7 +346,7 @@ InChIKey=KSUMVDZATHWLCP-ZPMBFSNOSA-M
  18 12  1  0  0  0  0
  18 19  1  0  0  0  0
  18 20  1  0  0  0  0
- 18 54  1  1  0  0  0
+ 18 54  1  6  0  0  0
  19 15  1  0  0  0  0
  19 21  1  0  0  0  0
  19 55  1  6  0  0  0

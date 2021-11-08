@@ -5,7 +5,7 @@ lanost[r] -> lanost[c]
   1  1
 $MOL
 lanost[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:14:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:05
 InChIKey=CAHGCLMLTWQZNJ-BQNIITSRSA-N
  81 84  0  0  1  0  0  0  0  0999 V2000
     1.4598   -5.8836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -176,7 +176,7 @@ InChIKey=CAHGCLMLTWQZNJ-BQNIITSRSA-N
 M  END
 $MOL
 lanost[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:14:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:05
 InChIKey=CAHGCLMLTWQZNJ-BQNIITSRSA-N
  81 84  0  0  1  0  0  0  0  0999 V2000
     1.4598   -5.8836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

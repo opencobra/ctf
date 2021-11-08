@@ -5,7 +5,7 @@ tripvs[c] -> tripvs[e]
   1  1
 $MOL
 tripvs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:39:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:37
 InChIKey=OTLYYSVULBGQFJ-UHFFFAOYSA-M
  70 70  0  0  1  0  0  0  0  0999 V2000
     4.8301   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -152,7 +152,7 @@ M  CHG  2  29  -1  33   1
 M  END
 $MOL
 tripvs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:39:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:37
 InChIKey=OTLYYSVULBGQFJ-UHFFFAOYSA-M
  70 70  0  0  1  0  0  0  0  0999 V2000
     4.8301   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

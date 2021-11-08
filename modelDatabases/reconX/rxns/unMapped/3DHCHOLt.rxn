@@ -5,7 +5,7 @@ hco3[c] + 3dhchol[e] -> hco3[e] + 3dhchol[c]
   2  2
 $MOL
 hco3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:32:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:05
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 3dhchol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:16:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:42:33
 InChIKey=HIIZAGQWABAMRR-BYPYZUCNSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -70,7 +70,7 @@ InChIKey=HIIZAGQWABAMRR-BYPYZUCNSA-N
 M  END
 $MOL
 hco3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:32:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:05
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -86,7 +86,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 3dhchol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:16:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:42:33
 InChIKey=HIIZAGQWABAMRR-BYPYZUCNSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

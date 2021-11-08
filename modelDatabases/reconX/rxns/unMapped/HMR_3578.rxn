@@ -5,7 +5,7 @@ h2o[l] + M01475[l] -> h[l] + chsterol[l] + clpnd[l]
   2  3
 $MOL
 h2o[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 M01475[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:03:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:37:40
 InChIKey=XOLZNHXNFMEUGA-UHFFFAOYSA-N
 129132  0  0  1  0  0  0  0  0999 V2000
    13.1645   12.4934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -283,15 +283,16 @@ InChIKey=XOLZNHXNFMEUGA-UHFFFAOYSA-N
 M  END
 $MOL
 h[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 chsterol[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:22:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:09
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -448,7 +449,7 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 clpnd[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:24:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:25
 InChIKey=YUFFSWGQGVEMMI-AVVVFXBPSA-M
  57 56  0  0  0  0  0  0  0  0999 V2000
    11.2583   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -471,7 +472,7 @@ InChIKey=YUFFSWGQGVEMMI-AVVVFXBPSA-M
     2.5981   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0

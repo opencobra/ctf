@@ -5,7 +5,7 @@ hnifedipine[c] -> hnifedipine[e]
   1  1
 $MOL
 hnifedipine[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:46:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:01
 InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
  43 44  0  0  1  0  0  0  0  0999 V2000
    -0.7764    2.2414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
 M  END
 $MOL
 hnifedipine[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:46:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:01
 InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
  43 44  0  0  1  0  0  0  0  0999 V2000
    -0.7764    2.2414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

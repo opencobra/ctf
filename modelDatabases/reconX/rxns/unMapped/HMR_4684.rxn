@@ -5,15 +5,16 @@ h[c] + pacald[c] -> h[m] + pacald[m]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 pacald[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:39:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:47
 InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N
  17 17  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,15 +54,16 @@ InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 pacald[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:39:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:47
 InChIKey=DTUQWGWMVIHBKE-UHFFFAOYSA-N
  17 17  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

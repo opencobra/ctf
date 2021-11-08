@@ -5,7 +5,7 @@ h2o[c] + o2[c] + trypta[c] -> h2o2[c] + nh4[c] + id3acald[c]
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:22
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25,7 +25,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 trypta[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:46:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:55:41
 InChIKey=APJYDQYYACXCRM-UHFFFAOYSA-O
  25 26  0  0  0  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  1  11   1
 M  END
 $MOL
 h2o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:31:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:57
 InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -96,7 +96,7 @@ InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:33:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -112,7 +112,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 id3acald[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:02:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:57
 InChIKey=WHOOUMGHGSPMGR-UHFFFAOYSA-N
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

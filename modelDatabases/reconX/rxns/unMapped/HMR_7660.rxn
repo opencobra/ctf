@@ -5,7 +5,7 @@ apoC_Lys[c] -> apoC_Lys[e]
   1  1
 $MOL
 apoC_Lys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:42:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:58
 
  27 26  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -64,7 +64,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:42:28
 M  END
 $MOL
 apoC_Lys[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:42:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:58
 
  27 26  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0

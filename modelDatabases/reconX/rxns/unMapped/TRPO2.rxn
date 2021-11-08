@@ -5,7 +5,7 @@ o2[c] + trp_L[c] -> Lfmkynr[c]
   2  1
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:22
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 trp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:40:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:39
 InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
  27 28  0  0  1  0  0  0  0  0999 V2000
     2.6831   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
 M  END
 $MOL
 Lfmkynr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:19:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:19
 InChIKey=BYHJHXPTQMMKCA-QMMMGPOBSA-N
  29 29  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

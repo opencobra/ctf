@@ -5,7 +5,7 @@ cholate[x] -> cholate[c]
   1  1
 $MOL
 cholate[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:20:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:49
 InChIKey=BHQCQFFYRZLCQQ-YVVWZQNDSA-M
  68 71  0  0  1  0  0  0  0  0999 V2000
    -0.0014    1.9454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -151,7 +151,7 @@ M  CHG  1  29  -1
 M  END
 $MOL
 cholate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:20:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:49
 InChIKey=BHQCQFFYRZLCQQ-YVVWZQNDSA-M
  68 71  0  0  1  0  0  0  0  0999 V2000
    -0.0014    1.9454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,60 +1,59 @@
 $RXN
 CLOHtex2
-
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:40:16
 h2o[c] + 2 cl[e] -> h2o[e] + 2 cl[c]
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
-  3  2  0  0  0  0  0  0  0  0999 V2000
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
-    1.9700    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
-    0.5150    0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
+  3  2  0  0  0  0            999 V2000
+    0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+    2.1434    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
   1  2  1  0  0  0  0
-  1  3  1  0  0  0  0
+  2  3  1  0  0  0  0
 M  END
 $MOL
 cl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:23:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:21
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
-  1  0  0  0  0  0  0  0  0  0999 V2000
-    1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  4  0  0
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  4  0  0
 M  CHG  1   1  -1
 M  END
 $MOL
 cl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:23:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:21
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
-  1  0  0  0  0  0  0  0  0  0999 V2000
-    1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  5  0  0
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  5  0  0
 M  CHG  1   1  -1
 M  END
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
-  3  2  0  0  0  0  0  0  0  0999 V2000
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
-    1.9700    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
-    0.5150    0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
+  3  2  0  0  0  0            999 V2000
+    0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+    2.1434    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
   1  2  1  0  0  0  0
-  1  3  1  0  0  0  0
+  2  3  1  0  0  0  0
 M  END
 $MOL
 cl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:23:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:21
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
-  1  0  0  0  0  0  0  0  0  0999 V2000
-    1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  4  0  0
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  4  0  0
 M  CHG  1   1  -1
 M  END
 $MOL
 cl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:23:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:21
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
-  1  0  0  0  0  0  0  0  0  0999 V2000
-    1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  5  0  0
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  5  0  0
 M  CHG  1   1  -1
 M  END
-

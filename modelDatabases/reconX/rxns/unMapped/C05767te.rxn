@@ -5,7 +5,7 @@ C05767[c] -> C05767[e]
   1  1
 $MOL
 C05767[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:37:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:51:37
 InChIKey=DAFUFNRZWDWXJP-JRHDEHKPSA-F
  90 94  0  0  0  0  0  0  0  0999 V2000
     4.4373   -0.2605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -196,7 +196,7 @@ M  CHG  8  46  -1  48  -1  50  -1  52  -1  54  -1  56  -1  58  -1  60  -1
 M  END
 $MOL
 C05767[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:37:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:51:37
 InChIKey=DAFUFNRZWDWXJP-JRHDEHKPSA-F
  90 94  0  0  0  0  0  0  0  0999 V2000
     4.4373   -0.2605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

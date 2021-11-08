@@ -5,7 +5,7 @@ tetdeca511ac[c] -> tetdeca511ac[e]
   1  1
 $MOL
 tetdeca511ac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:17:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:52:08
 InChIKey=HXHZGHRLVRFQDR-AVQMFFATSA-M
  39 38  0  0  0  0  0  0  0  0999 V2000
    10.3923    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 tetdeca511ac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:17:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:52:08
 InChIKey=HXHZGHRLVRFQDR-AVQMFFATSA-M
  39 38  0  0  0  0  0  0  0  0999 V2000
    10.3923    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

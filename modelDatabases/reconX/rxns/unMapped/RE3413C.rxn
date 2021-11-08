@@ -5,7 +5,7 @@ CE2006[c] -> CE6506[c]
   1  1
 $MOL
 CE2006[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 08:03:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:54:47
 InChIKey=JVJFIQYAHPMBBX-FNORWQNLSA-N
  27 26  0  0  1  0  0  0  0  0999 V2000
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -64,7 +64,7 @@ InChIKey=JVJFIQYAHPMBBX-FNORWQNLSA-N
 M  END
 $MOL
 CE6506[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:02:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:15:36
 InChIKey=HEXGZHJMMROIQO-UHFFFAOYSA-N
  27 27  0  0  1  0  0  0  0  0999 V2000
     1.3660   -4.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

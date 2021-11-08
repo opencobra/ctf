@@ -5,7 +5,7 @@ h2o[c] + alltt[c] -> urea[c] + M03122[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 alltt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:32:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:32
 InChIKey=NUCLJNSWZCHRKL-UHFFFAOYSA-M
  19 18  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -60,7 +60,7 @@ M  CHG  1  10  -1
 M  END
 $MOL
 urea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:04:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:19
 InChIKey=XSQUKJJJFZCRTK-UHFFFAOYSA-N
   8  7  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -81,7 +81,7 @@ InChIKey=XSQUKJJJFZCRTK-UHFFFAOYSA-N
 M  END
 $MOL
 M03122[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:55:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:47:11
 InChIKey=NWZYYCVIOKVTII-SFOWXEAESA-M
  14 13  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

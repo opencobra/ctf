@@ -5,7 +5,7 @@ etoh[c] -> etoh[x]
   1  1
 $MOL
 etoh[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:19:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:32
 InChIKey=LFQSCWFLJHTTHZ-UHFFFAOYSA-N
   9  8  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28,7 +28,7 @@ InChIKey=LFQSCWFLJHTTHZ-UHFFFAOYSA-N
 M  END
 $MOL
 etoh[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:19:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:32
 InChIKey=LFQSCWFLJHTTHZ-UHFFFAOYSA-N
   9  8  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

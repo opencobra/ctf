@@ -5,7 +5,7 @@ pvs[c] -> pvs[r]
   1  1
 $MOL
 pvs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:59:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:10
 InChIKey=TUZYXOIXSAXUGO-PZAWKZKUSA-N
  66 67  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -144,7 +144,7 @@ InChIKey=TUZYXOIXSAXUGO-PZAWKZKUSA-N
 M  END
 $MOL
 pvs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:59:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:10
 InChIKey=TUZYXOIXSAXUGO-PZAWKZKUSA-N
  66 67  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

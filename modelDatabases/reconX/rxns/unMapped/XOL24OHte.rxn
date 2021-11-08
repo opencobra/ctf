@@ -5,7 +5,7 @@ xol24oh[c] -> xol24oh[e]
   1  1
 $MOL
 xol24oh[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:14:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:19
 InChIKey=IOWMKBFJCNLRTC-XWXSNNQWSA-N
  75 78  0  0  1  0  0  0  0  0999 V2000
    -5.8891    2.3377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -164,7 +164,7 @@ InChIKey=IOWMKBFJCNLRTC-XWXSNNQWSA-N
 M  END
 $MOL
 xol24oh[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:14:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:19
 InChIKey=IOWMKBFJCNLRTC-XWXSNNQWSA-N
  75 78  0  0  1  0  0  0  0  0999 V2000
    -5.8891    2.3377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

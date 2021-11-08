@@ -5,15 +5,16 @@ h[e] + argglupro[e] -> h[c] + argglupro[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 argglupro[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:53:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:56
 InChIKey=HPSVTWMFWCHKFN-OUAUKWLOSA-N
  56 56  0  0  1  0  0  0  0  0999 V2000
     1.7321   -4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -131,15 +132,16 @@ InChIKey=HPSVTWMFWCHKFN-OUAUKWLOSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 argglupro[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:53:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:56
 InChIKey=HPSVTWMFWCHKFN-OUAUKWLOSA-N
  56 56  0  0  1  0  0  0  0  0999 V2000
     1.7321   -4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

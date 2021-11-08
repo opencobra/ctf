@@ -5,7 +5,7 @@ leuktrE4[c] -> leuktrE4[x]
   1  1
 $MOL
 leuktrE4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:15:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:32
 InChIKey=OTZRAYGBFWZKMX-FRFVZSDQSA-M
  66 65  0  0  1  0  0  0  0  0999 V2000
    10.3923    5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -143,7 +143,7 @@ M  CHG  1  27  -1
 M  END
 $MOL
 leuktrE4[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:15:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:32
 InChIKey=OTZRAYGBFWZKMX-FRFVZSDQSA-M
  66 65  0  0  1  0  0  0  0  0999 V2000
    10.3923    5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

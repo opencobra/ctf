@@ -5,7 +5,7 @@ estradiol[e] -> estradiol[c]
   1  1
 $MOL
 estradiol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:17:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:06
 InChIKey=VOXZDWNPVJITMN-ZBRFXRBCSA-N
  44 47  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -102,7 +102,7 @@ InChIKey=VOXZDWNPVJITMN-ZBRFXRBCSA-N
 M  END
 $MOL
 estradiol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:17:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:06
 InChIKey=VOXZDWNPVJITMN-ZBRFXRBCSA-N
  44 47  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

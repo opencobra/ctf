@@ -5,7 +5,7 @@ docosac[e] -> docosac[c]
   1  1
 $MOL
 docosac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:10:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:01
 InChIKey=UKMSUNONTOPOIO-UHFFFAOYSA-M
  67 66  0  0  0  0  0  0  0  0999 V2000
    17.3205   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -145,7 +145,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 docosac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:10:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:01
 InChIKey=UKMSUNONTOPOIO-UHFFFAOYSA-M
  67 66  0  0  0  0  0  0  0  0999 V2000
    17.3205   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

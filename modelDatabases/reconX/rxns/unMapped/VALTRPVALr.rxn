@@ -5,7 +5,7 @@ VALTRPVALr
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 valtrpval[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:10:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:53
 InChIKey=KJFBXCFOPAKPTM-RCCFBDPRSA-N
  59 60  0  0  1  0  0  0  0  0999 V2000
     0.4112    5.9575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -152,7 +152,7 @@ InChIKey=KJFBXCFOPAKPTM-RCCFBDPRSA-N
 M  END
 $MOL
 trp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:40:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:39
 InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
  27 28  0  0  1  0  0  0  0  0999 V2000
     2.6831   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -213,7 +213,7 @@ InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
 M  END
 $MOL
 val_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:06:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:35
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -256,7 +256,7 @@ InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
 M  END
 $MOL
 val_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:06:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:35
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

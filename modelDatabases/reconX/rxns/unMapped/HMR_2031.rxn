@@ -5,7 +5,7 @@ o2[c] + h[c] + M00434[c] -> h2o[c] + for[c] + estradiol[c]
   3  3
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:22
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,15 +14,16 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 M00434[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:34:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:28:11
 InChIKey=TXNCGXATKOMEQC-KOUJMVCDSA-N
  48 51  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -127,7 +128,7 @@ InChIKey=TXNCGXATKOMEQC-KOUJMVCDSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -138,11 +139,11 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 for[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:21:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:08:13
 InChIKey=BDAGIHXWWSANSR-UHFFFAOYSA-M
   4  3  0  0  0  0  0  0  0  0999 V2000
     0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7321   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.8660   -1.5320    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  2  0  0  0  0
@@ -152,7 +153,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 estradiol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:17:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:06
 InChIKey=VOXZDWNPVJITMN-ZBRFXRBCSA-N
  44 47  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

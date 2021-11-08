@@ -5,15 +5,16 @@ h[m] + arg_L[m] -> co2[m] + agm[m]
   2  2
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 arg_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:50:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:36
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +74,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 co2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:25:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -84,7 +85,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 agm[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:27:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:40
 InChIKey=QYPPJABKJHAVHS-UHFFFAOYSA-P
  25 24  0  0  0  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ h2o[c] + atp[c] + arachdcoa[c] -> h[c] + adp[c] + pi[c] + arachdcoa[x]
   3  4
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:03:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -111,7 +111,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 arachdcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:48:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:27
 InChIKey=JDEPVTUUCBFJIW-CBDUQTIMSA-J
 131133  0  0  1  0  0  0  0  0999 V2000
    12.9127  -16.9652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -167,7 +167,7 @@ InChIKey=JDEPVTUUCBFJIW-CBDUQTIMSA-J
    -1.9875   -0.1151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     5.7776   -4.7140    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -177,7 +177,7 @@ InChIKey=JDEPVTUUCBFJIW-CBDUQTIMSA-J
    -0.4353   -4.1418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.3892   -3.9938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.9487   -2.7024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9770   -4.0678    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     0.3078   -4.8109    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
@@ -382,15 +382,16 @@ M  CHG  4  49  -1  53  -1  54  -1  55  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 adp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:23:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:11
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -477,7 +478,7 @@ M  CHG  3  18  -1  19  -1  21  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:52:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -495,7 +496,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 arachdcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:48:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:27
 InChIKey=JDEPVTUUCBFJIW-CBDUQTIMSA-J
 131133  0  0  1  0  0  0  0  0999 V2000
    12.9127  -16.9652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -551,7 +552,7 @@ InChIKey=JDEPVTUUCBFJIW-CBDUQTIMSA-J
    -1.9875   -0.1151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     5.7776   -4.7140    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -561,7 +562,7 @@ InChIKey=JDEPVTUUCBFJIW-CBDUQTIMSA-J
    -0.4353   -4.1418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.3892   -3.9938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.9487   -2.7024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9770   -4.0678    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     0.3078   -4.8109    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ udpglcur[r] + 2hatvacid[r] -> udp[r] + 2hatvacidgluc[r]
   2  2
 $MOL
 udpglcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:00:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:01
 InChIKey=HDYANYHVCAPMJV-LXQIFKJMSA-K
  56 58  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ M  CHG  3  18  -1  25  -1  27  -1
 M  END
 $MOL
 2hatvacid[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:11:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:40:40
 InChIKey=CZBPKFICAYVHHM-UHFFFAOYSA-M
  76 79  0  0  1  0  0  0  0  0999 V2000
    -1.1810    1.7226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -159,7 +159,7 @@ InChIKey=CZBPKFICAYVHHM-UHFFFAOYSA-M
     3.9334    3.9406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.2601   -1.2601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.1132   -2.1871    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
@@ -288,7 +288,7 @@ M  CHG  1  39  -1
 M  END
 $MOL
 udp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:59:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:52
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -308,12 +308,12 @@ InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
     6.4903    0.9544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.6456   -1.4067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -0.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
     8.1303   -2.7290    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -368,7 +368,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 2hatvacidgluc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:11:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:40:42
 InChIKey=XMAOEXNOMPWGAL-UHFFFAOYSA-M
  96100  0  0  1  0  0  0  0  0999 V2000
     5.3445   -2.4974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

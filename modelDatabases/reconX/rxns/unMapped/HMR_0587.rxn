@@ -5,7 +5,7 @@ clpn_hs[c] -> clpn_hs[m]
   1  1
 $MOL
 clpn_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:24:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:23
 
  54 53  0  0  1  0  0  0  0  0999 V2000
    -3.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -118,7 +118,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:24:00
 M  END
 $MOL
 clpn_hs[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:24:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:23
 
  54 53  0  0  1  0  0  0  0  0999 V2000
    -3.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

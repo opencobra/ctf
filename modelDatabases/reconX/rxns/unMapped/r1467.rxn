@@ -5,7 +5,7 @@ odecoa[c] -> odecoa[m]
   1  1
 $MOL
 odecoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:37:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:10
 InChIKey=XDUHQPOXLUAVEE-BPMMELMSSA-J
 131133  0  0  1  0  0  0  0  0999 V2000
    13.3552    5.9434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -276,7 +276,7 @@ M  CHG  4  47  -1  51  -1  52  -1  53  -1
 M  END
 $MOL
 odecoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:37:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:10
 InChIKey=XDUHQPOXLUAVEE-BPMMELMSSA-J
 131133  0  0  1  0  0  0  0  0999 V2000
    13.3552    5.9434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

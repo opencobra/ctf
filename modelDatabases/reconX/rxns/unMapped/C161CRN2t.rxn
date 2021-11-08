@@ -5,7 +5,7 @@ hdd2crn[c] -> hdd2crn[m]
   1  1
 $MOL
 hdd2crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:35:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:22
 InChIKey=SOYNLLDADLOGAM-ISLYRVAYSA-N
  71 70  0  0  1  0  0  0  0  0999 V2000
    13.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -153,7 +153,7 @@ M  CHG  2  24   1  26  -1
 M  END
 $MOL
 hdd2crn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:35:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:22
 InChIKey=SOYNLLDADLOGAM-ISLYRVAYSA-N
  71 70  0  0  1  0  0  0  0  0999 V2000
    13.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

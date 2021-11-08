@@ -5,7 +5,7 @@ eicostet[e] -> eicostet[c]
   1  1
 $MOL
 eicostet[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:16:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:44
 InChIKey=HQPCSDADVLFHHO-LTKCOYKYSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -117,7 +117,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 eicostet[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:16:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:44
 InChIKey=HQPCSDADVLFHHO-LTKCOYKYSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

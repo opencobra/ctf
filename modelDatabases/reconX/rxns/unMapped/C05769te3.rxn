@@ -5,7 +5,7 @@ hco3[c] + C05769[e] -> hco3[e] + C05769[c]
   2  2
 $MOL
 hco3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:32:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:05
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 C05769[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:37:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:51:39
 InChIKey=VORBHEGMEBOMMB-JRHDEHKPSA-J
  82 86  0  0  0  0  0  0  0  0999 V2000
     4.2443   -0.2163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -196,7 +196,7 @@ M  CHG  4  42  -1  44  -1  46  -1  48  -1
 M  END
 $MOL
 hco3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:32:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:05
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0  0  0  0  0999 V2000
    -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -212,7 +212,7 @@ M  CHG  1   3  -1
 M  END
 $MOL
 C05769[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:37:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:51:39
 InChIKey=VORBHEGMEBOMMB-JRHDEHKPSA-J
  82 86  0  0  0  0  0  0  0  0999 V2000
     4.2443   -0.2163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

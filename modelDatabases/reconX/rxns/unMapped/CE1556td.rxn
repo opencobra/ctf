@@ -5,7 +5,7 @@ CE1556[c] -> CE1556[e]
   1  1
 $MOL
 CE1556[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:58:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:54:06
 InChIKey=HXFOXFJUNFFYMO-BYPYZUCNSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
    -0.8660    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 CE1556[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 07:58:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:54:06
 InChIKey=HXFOXFJUNFFYMO-BYPYZUCNSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
    -0.8660    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ ethmalac[c] -> ethmalac[e]
   1  1
 $MOL
 ethmalac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:18:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:27
 InChIKey=UKFXDFUAPNAMPJ-UHFFFAOYSA-L
  15 14  0  0  0  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ M  CHG  2   7  -1   9  -1
 M  END
 $MOL
 ethmalac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 13:18:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:27
 InChIKey=UKFXDFUAPNAMPJ-UHFFFAOYSA-L
  15 14  0  0  0  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

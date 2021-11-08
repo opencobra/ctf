@@ -5,7 +5,7 @@ o2[c] + 2 h[c] + andrstndn[c] -> h2o[c] + M00431[c]
   4  2
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:35:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:22
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,23 +14,25 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:28:14
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 andrstndn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 11:39:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:42
 InChIKey=AEMFNILZOJDQLW-QAGGRKNESA-N
  47 50  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +135,7 @@ InChIKey=AEMFNILZOJDQLW-QAGGRKNESA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 14:30:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -144,7 +146,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 M00431[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 09:34:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:28:07
 InChIKey=ATRIVBMELCYOJK-OWFNXAGYSA-N
  48 51  0  0  1  0  0  0  0  0999 V2000
    -0.0003    1.0031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

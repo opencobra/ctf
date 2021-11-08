@@ -5,7 +5,7 @@ na1[c] + xol7ah3[c] -> na1[e] + xol7ah3[e]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 xol7ah3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:16:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:34
 InChIKey=OQIJRBFRXGIHMI-UGMUFZQESA-N
  78 81  0  0  1  0  0  0  0  0999 V2000
    -4.1260    5.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -178,7 +178,7 @@ InChIKey=OQIJRBFRXGIHMI-UGMUFZQESA-N
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 15:31:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -186,7 +186,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 xol7ah3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 17:16:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:34
 InChIKey=OQIJRBFRXGIHMI-UGMUFZQESA-N
  78 81  0  0  1  0  0  0  0  0999 V2000
    -4.1260    5.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

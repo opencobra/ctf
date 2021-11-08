@@ -5,7 +5,7 @@ crtsl[c] -> crtsl[r]
   1  1
 $MOL
 crtsl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:29:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:21
 InChIKey=JYGXADMDTFJGBT-VWUMJDOOSA-N
  56 59  0  0  1  0  0  0  0  0999 V2000
     3.3604   -0.9332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ InChIKey=JYGXADMDTFJGBT-VWUMJDOOSA-N
 M  END
 $MOL
 crtsl[r]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 12:29:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:21
 InChIKey=JYGXADMDTFJGBT-VWUMJDOOSA-N
  56 59  0  0  1  0  0  0  0  0999 V2000
     3.3604   -0.9332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

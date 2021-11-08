@@ -5,7 +5,7 @@ tetpent3[e] -> tetpent3[c]
   1  1
 $MOL
 tetpent3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:21:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:52:24
 InChIKey=NPTIBOCVSPURCS-UHFFFAOYSA-M
  63 62  0  0  0  0  0  0  0  0999 V2000
    19.0526   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ M  CHG  1  26  -1
 M  END
 $MOL
 tetpent3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 16:21:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:52:24
 InChIKey=NPTIBOCVSPURCS-UHFFFAOYSA-M
  63 62  0  0  0  0  0  0  0  0999 V2000
    19.0526   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

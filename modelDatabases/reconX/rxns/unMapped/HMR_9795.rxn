@@ -5,7 +5,7 @@ M03051[l] -> M03051[c]
   1  1
 $MOL
 M03051[l]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:52:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:46:16
 InChIKey=SZHOJFHSIKHZHA-UHFFFAOYSA-M
  40 39  0  0  0  0  0  0  0  0999 V2000
    10.3923   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ M  CHG  1  15  -1
 M  END
 $MOL
 M03051[c]
-COBRA Toolbox v3.0 - explicitH molecule - 19-Apr-2021 10:52:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:46:16
 InChIKey=SZHOJFHSIKHZHA-UHFFFAOYSA-M
  40 39  0  0  0  0  0  0  0  0999 V2000
    10.3923   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
