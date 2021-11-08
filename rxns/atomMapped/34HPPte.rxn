@@ -1,11 +1,11 @@
 $RXN
 34HPPte
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:31:14
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:27:13
 34hpp[e] -> 34hpp[c]
   1  1
 $MOL
 34hpp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:21:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:42:07
 InChIKey=KKADPXVIOXHVKN-UHFFFAOYSA-M
  20 20  0  0  0  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -52,7 +52,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 34hpp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:21:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:42:07
 InChIKey=KKADPXVIOXHVKN-UHFFFAOYSA-M
  20 20  0  0  0  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

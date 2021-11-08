@@ -1,11 +1,11 @@
 $RXN
 HDCAtr
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:28:50
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:22:09
 hdca[e] -> hdca[c]
   1  1
 $MOL
 hdca[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:55:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:10
 InChIKey=IPCSVZSSVZVIGE-UHFFFAOYSA-M
  49 48  0  0  0  0            999 V2000
     8.3605    6.1283    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -109,7 +109,7 @@ M  CHG  1  48  -1
 M  END
 $MOL
 hdca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:55:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:10
 InChIKey=IPCSVZSSVZVIGE-UHFFFAOYSA-M
  49 48  0  0  0  0            999 V2000
     8.3605    6.1283    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

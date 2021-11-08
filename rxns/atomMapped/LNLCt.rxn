@@ -1,11 +1,11 @@
 $RXN
 LNLCt
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 01:36:38
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:38:46
 lnlc[e] -> lnlc[c]
   1  1
 $MOL
 lnlc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:17:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:31:13
 InChIKey=OYHQOLUKZRVURQ-HZJYTTRNSA-M
  51 50  0  0  0  0            999 V2000
     0.8546    4.6184    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -113,7 +113,7 @@ M  CHG  1  50  -1
 M  END
 $MOL
 lnlc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:17:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:31:13
 InChIKey=OYHQOLUKZRVURQ-HZJYTTRNSA-M
  51 50  0  0  0  0            999 V2000
     0.8546    4.6184    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

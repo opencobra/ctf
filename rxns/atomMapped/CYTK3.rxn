@@ -1,11 +1,11 @@
 $RXN
 CYTK3
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:56:27
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:49:09
 gtp[c] + cmp[c] -> gdp[c] + cdp[c]
   2  2
 $MOL
 gtp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:42
 InChIKey=XKMLYUALXHKNFT-UUOKFMHZSA-J
  44 46  0  0  1  0            999 V2000
     1.3240    0.7071    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -102,7 +102,7 @@ M  CHG  4  15  -1  24  -1  25  -1  44  -1
 M  END
 $MOL
 cmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:32
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 45  0  0
@@ -176,7 +176,7 @@ M  CHG  2  24  -1  30  -1
 M  END
 $MOL
 gdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:39:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:12:52
 InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K
  40 42  0  0  1  0            999 V2000
     1.3240    0.7071    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -265,7 +265,7 @@ M  CHG  3  20  -1  21  -1  40  -1
 M  END
 $MOL
 cdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:28
 InChIKey=ZWIADYZPOWUWEW-XVFCMESISA-K
  37 38  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 45  0  0

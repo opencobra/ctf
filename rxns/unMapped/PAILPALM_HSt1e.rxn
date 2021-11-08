@@ -5,7 +5,7 @@ pailpalm_hs[e] -> pailpalm_hs[c]
   1  1
 $MOL
 pailpalm_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:11:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:10
 InChIKey=UOXRPRZMAROFPH-UHFFFAOYSA-M
  86 86  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ InChIKey=UOXRPRZMAROFPH-UHFFFAOYSA-M
    -3.4641   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321   -4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.5000   -2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -184,7 +184,7 @@ M  CHG  1  33  -1
 M  END
 $MOL
 pailpalm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:11:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:10
 InChIKey=UOXRPRZMAROFPH-UHFFFAOYSA-M
  86 86  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -218,7 +218,7 @@ InChIKey=UOXRPRZMAROFPH-UHFFFAOYSA-M
    -3.4641   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321   -4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.5000   -2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

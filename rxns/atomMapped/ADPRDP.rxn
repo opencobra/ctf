@@ -1,11 +1,11 @@
 $RXN
 ADPRDP
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 11:30:09
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:41:12
 h2o[c] + adprib[c] -> 2 h[c] + amp[c] + r5p[c]
   2  4
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 adprib[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:55:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:25
 InChIKey=SRNWOUGRCWSEMX-TYASJMOZSA-L
  57 60  0  0  1  0            999 V2000
    -3.7407  -10.4717    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -140,23 +140,23 @@ M  CHG  2  13  -1  17  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  4  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  3  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 amp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:59:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:34
 InChIKey=UDMBCSSLTHHNCD-KQYNXXCUSA-L
  35 37  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0 48  0  0
@@ -235,7 +235,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 r5p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:48:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:36
 InChIKey=KTVPXOYAKDPRHY-NEEWWZBLSA-L
  23 23  0  0  1  0            999 V2000
     1.2822    2.3518    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

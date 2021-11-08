@@ -5,11 +5,11 @@ asp_D[c] -> asp_D[e]
   1  1
 $MOL
 asp_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:42
 InChIKey=CKLJMWTZIZZHCS-UWTATZPHSA-M
  15 14  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7321    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,11 +41,11 @@ M  CHG  1   7  -1
 M  END
 $MOL
 asp_D[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:42
 InChIKey=CKLJMWTZIZZHCS-UWTATZPHSA-M
  15 14  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7321    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0

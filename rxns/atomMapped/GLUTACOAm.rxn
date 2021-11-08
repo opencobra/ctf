@@ -1,11 +1,11 @@
 $RXN
 GLUTACOAm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:04:02
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:55:16
 glutcoa[m] + fad[m] -> fadh2[m] + glutacoa[m]
   2  2
 $MOL
 glutcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:08
 InChIKey=SYKWLIJQEHRDNH-CKRMAKSASA-I
  93 95  0  0  1  0            999 V2000
     7.4579   -2.8243    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -200,7 +200,7 @@ M  CHG  5   6  -1  15  -1  36  -1  91  -1  92  -1
 M  END
 $MOL
 fad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:41
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0 94  0  0
@@ -380,7 +380,7 @@ M  CHG  2  10  -1  66  -1
 M  END
 $MOL
 fadh2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:43
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0 94  0  0
@@ -564,7 +564,7 @@ M  CHG  2  82  -1  85  -1
 M  END
 $MOL
 glutacoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:04
 InChIKey=URTLOTISFJPPOU-UHFFFAOYSA-I
  91 93  0  0  0  0            999 V2000
     7.4579   -2.8243    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

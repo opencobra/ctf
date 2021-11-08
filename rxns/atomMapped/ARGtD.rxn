@@ -1,11 +1,11 @@
 $RXN
 ARGtD
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:46:35
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:17:28
 arg_L[e] -> arg_L[c]
   1  1
 $MOL
 arg_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:36
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0            999 V2000
     2.9980    3.3809    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -65,7 +65,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 arg_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:36
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0            999 V2000
     2.9980    3.3809    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 56dthm[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:38:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:47:22
 InChIKey=NBAKTGXDIBVZOO-VKHMYHEASA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ InChIKey=NBAKTGXDIBVZOO-VKHMYHEASA-N
 M  END
 $MOL
 56dthm[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:38:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:47:22
 InChIKey=NBAKTGXDIBVZOO-VKHMYHEASA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
    -1.7321   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

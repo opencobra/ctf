@@ -1,11 +1,11 @@
 $RXN
 NACASPtm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:21:13
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:51:34
 Nacasp[m] -> Nacasp[c]
   1  1
 $MOL
 Nacasp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:28:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:47:50
 InChIKey=OTCCIMWXFLJLIA-BYPYZUCNSA-L
  19 18  0  0  1  0            999 V2000
     1.9520   -1.3480    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -49,7 +49,7 @@ M  CHG  2   9  -1  18  -1
 M  END
 $MOL
 Nacasp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:28:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:47:50
 InChIKey=OTCCIMWXFLJLIA-BYPYZUCNSA-L
  19 18  0  0  1  0            999 V2000
     1.9520   -1.3480    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

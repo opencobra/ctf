@@ -5,7 +5,7 @@ M01080[c] -> M01080[m]
   1  1
 $MOL
 M01080[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:33:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:34:54
 InChIKey=VDKSIHRRZLCAGD-UHFFFAOYSA-N
  78 81  0  0  1  0  0  0  0  0999 V2000
    -5.5866    2.9223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -170,7 +170,7 @@ InChIKey=VDKSIHRRZLCAGD-UHFFFAOYSA-N
 M  END
 $MOL
 M01080[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:33:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:34:54
 InChIKey=VDKSIHRRZLCAGD-UHFFFAOYSA-N
  78 81  0  0  1  0  0  0  0  0999 V2000
    -5.5866    2.9223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

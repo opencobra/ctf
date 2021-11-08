@@ -1,11 +1,11 @@
 $RXN
 GLYC_Rt
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:37:05
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 06:06:16
 glyc_R[c] -> glyc_R[e]
   1  1
 $MOL
 glyc_R[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:30
 InChIKey=RBNPOMFGQQGHHO-UWTATZPHSA-M
  12 11  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -35,7 +35,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 glyc_R[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:30
 InChIKey=RBNPOMFGQQGHHO-UWTATZPHSA-M
  12 11  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

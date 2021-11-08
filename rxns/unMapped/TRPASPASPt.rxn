@@ -5,7 +5,7 @@ h[e] + trpaspasp[e] -> h[c] + trpaspasp[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 trpaspasp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:45
 InChIKey=VEYXZZGMIBKXCN-KWCYVHTRSA-L
  51 52  0  0  1  0  0  0  0  0999 V2000
     2.6831   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -124,7 +124,7 @@ M  CHG  2  25  -1  27  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +133,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 trpaspasp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:45
 InChIKey=VEYXZZGMIBKXCN-KWCYVHTRSA-L
  51 52  0  0  1  0  0  0  0  0999 V2000
     2.6831   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

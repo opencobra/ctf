@@ -5,7 +5,7 @@ HMR_9608
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 lipoate[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:50:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:31:04
 InChIKey=AGBQKNBQESQNJD-SSDOTTSWSA-N
  26 26  0  0  1  0  0  0  0  0999 V2000
     0.1280    2.6736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,7 +79,7 @@ InChIKey=AGBQKNBQESQNJD-SSDOTTSWSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -87,7 +87,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 lipoate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:50:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:31:04
 InChIKey=AGBQKNBQESQNJD-SSDOTTSWSA-N
  26 26  0  0  1  0  0  0  0  0999 V2000
     0.1280    2.6736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

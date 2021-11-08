@@ -5,7 +5,7 @@ h2o[c] + pail345p_hs[c] -> pi[c] + pail45p_hs[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pail345p_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:10:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:51
 InChIKey=RQQIRMLGKSPXSE-UQPICLANSA-N
  62 62  0  0  1  0  0  0  0  0999 V2000
     7.9641    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -35,9 +35,9 @@ InChIKey=RQQIRMLGKSPXSE-UQPICLANSA-N
     6.4641   -1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.3660   -3.6340    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -5.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.3660   -5.3660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -49,7 +49,7 @@ InChIKey=RQQIRMLGKSPXSE-UQPICLANSA-N
     4.4641   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     6.4641    1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     6.4641   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ InChIKey=RQQIRMLGKSPXSE-UQPICLANSA-N
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -164,7 +164,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 pail45p_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:10:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:59
 InChIKey=JFDJYDKOBGSRRB-GWNZYFFWSA-I
 140140  0  0  1  0  0  0  0  0999 V2000
    -6.3923  -19.4641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

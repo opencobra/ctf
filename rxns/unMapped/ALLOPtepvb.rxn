@@ -5,7 +5,7 @@ allop[e] -> allop[c]
   1  1
 $MOL
 allop[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:13:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:28
 InChIKey=OFCNXPDARWKPPY-UHFFFAOYSA-N
  14 15  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40,7 +40,7 @@ InChIKey=OFCNXPDARWKPPY-UHFFFAOYSA-N
 M  END
 $MOL
 allop[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:13:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:28
 InChIKey=OFCNXPDARWKPPY-UHFFFAOYSA-N
  14 15  0  0  0  0  0  0  0  0999 V2000
    -0.0000   -1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

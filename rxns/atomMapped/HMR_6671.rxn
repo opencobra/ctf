@@ -1,11 +1,11 @@
 $RXN
 HMR_6671
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:59:18
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:03:06
 pmtcoa[c] + retinol_cis_11[c] -> coa[c] + M00292[c]
   2  2
 $MOL
 pmtcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:40:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:02
 InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J
 127129  0  0  1  0            999 V2000
     7.4579   -2.8243    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -268,7 +268,7 @@ M  CHG  4   6  -1  15  -1 125  -1 126  -1
 M  END
 $MOL
 retinol_cis_11[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:49:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:54
 InChIKey=FPIPGXGPPPQFEQ-IOUUIBBYSA-N
  51 51  0  0  0  0            999 V2000
     2.8579    7.4250    0.0000 H   0  0  0  0  0  0  0  0  0128  0  0
@@ -376,7 +376,7 @@ InChIKey=FPIPGXGPPPQFEQ-IOUUIBBYSA-N
 M  END
 $MOL
 coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:13:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0            999 V2000
    -1.2995  -10.4281    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -545,7 +545,7 @@ M  CHG  4   6  -1  15  -1  78  -1  79  -1
 M  END
 $MOL
 M00292[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:41:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:27:04
 InChIKey=VYGQUTWHTHXGQB-SXFSSFKVSA-N
  98 98  0  0  0  0            999 V2000
     1.4289   -4.1250    0.0000 H   0  0  0  0  0  0  0  0  0139  0  0

@@ -1,11 +1,11 @@
 $RXN
 HYXNt
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:27:01
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:44:56
 hxan[e] -> hxan[c]
   1  1
 $MOL
 hxan[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:01:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:31
 InChIKey=FDGQSTZJBFJUBT-UHFFFAOYSA-N
  14 15  0  0  0  0            999 V2000
     3.9934    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -40,7 +40,7 @@ InChIKey=FDGQSTZJBFJUBT-UHFFFAOYSA-N
 M  END
 $MOL
 hxan[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:01:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:31
 InChIKey=FDGQSTZJBFJUBT-UHFFFAOYSA-N
  14 15  0  0  0  0            999 V2000
     3.9934    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

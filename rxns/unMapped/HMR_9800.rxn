@@ -5,7 +5,7 @@ atp[c] + M03165[c] -> h[c] + adp[c] + M03166[c]
   2  3
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:02:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 M03165[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:47:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:47:38
 InChIKey=HAIWUXASLYEWLM-QTSLKERKSA-N
  28 28  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,15 +162,16 @@ InChIKey=HAIWUXASLYEWLM-QTSLKERKSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 adp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:54:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:11
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -257,7 +258,7 @@ M  CHG  3  18  -1  19  -1  21  -1
 M  END
 $MOL
 M03166[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:47:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:47:40
 InChIKey=JPTRNFAYXMBCLJ-SHUUEZRQSA-L
  31 30  0  0  1  0  0  0  0  0999 V2000
    -4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

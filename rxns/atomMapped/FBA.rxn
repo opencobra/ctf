@@ -1,11 +1,11 @@
 $RXN
 FBA
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 19:32:55
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:26:23
 fdp[c] -> dhap[c] + g3p[c]
   1  2
 $MOL
 fdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:34:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:47
 InChIKey=RNBGYGVWRKECFJ-VRPWFDPXSA-J
  30 30  0  0  1  0            999 V2000
     1.2822    2.3518    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -72,7 +72,7 @@ M  CHG  4  16  -1  17  -1  28  -1  29  -1
 M  END
 $MOL
 dhap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:24:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:26
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0            999 V2000
    -1.3184   -3.7125    0.0000 H   0  0  0  0  0  0  0  0  0 22  0  0
@@ -108,7 +108,7 @@ M  CHG  2  13  -1  14  -1
 M  END
 $MOL
 g3p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:37:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:57
 InChIKey=LXJXRIRHZLFYRP-VKHMYHEASA-L
  15 14  0  0  1  0            999 V2000
     0.8250   -3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

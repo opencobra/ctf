@@ -1,19 +1,20 @@
 $RXN
 URIt2r
-COBRA Toolbox v3.0 - Atom mapped - 17-Oct-2021 00:19:42
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:38:09
 h[e] + uri[e] -> h[c] + uri[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 uri[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:09:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:21
 InChIKey=DRTQHJPVMGBUCF-XVFCMESISA-N
  29 30  0  0  1  0            999 V2000
     1.4289    7.1786    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -78,15 +79,16 @@ InChIKey=DRTQHJPVMGBUCF-XVFCMESISA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 uri[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:09:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:21
 InChIKey=DRTQHJPVMGBUCF-XVFCMESISA-N
  29 30  0  0  1  0            999 V2000
     1.4289    7.1786    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

@@ -1,11 +1,11 @@
 $RXN
 PE_HStm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:26:29
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:16:25
 pe_hs[c] -> pe_hs[m]
   1  1
 $MOL
 pe_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:48:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:08
 InChIKey=LVNGJLRDBYCPGB-UHFFFAOYSA-O
 134133  0  0  0  0            999 V2000
    36.3730   14.6210    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -279,7 +279,7 @@ M  CHG  1  12   1
 M  END
 $MOL
 pe_hs[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:48:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:08
 InChIKey=LVNGJLRDBYCPGB-UHFFFAOYSA-O
 134133  0  0  0  0            999 V2000
    36.3730   14.6210    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

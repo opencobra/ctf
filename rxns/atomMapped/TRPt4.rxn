@@ -1,11 +1,11 @@
 $RXN
 TRPt4
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 23:32:01
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:03:32
 na1[e] + trp_L[e] -> na1[c] + trp_L[c]
   2  2
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:26:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 trp_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:04:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:39
 InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
  27 28  0  0  1  0            999 V2000
    -1.5371   -2.6646    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -74,7 +74,7 @@ InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:26:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -82,7 +82,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 trp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:04:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:39
 InChIKey=QIVBCDIJIAJPQS-VIFPVBQESA-N
  27 28  0  0  1  0            999 V2000
    -1.5371   -2.6646    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

@@ -1,11 +1,11 @@
 $RXN
 RNDR2
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 08:41:58
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:35:58
 gdp[c] + trdrd[c] -> h2o[c] + dgdp[c] + trdox[c]
   2  3
 $MOL
 gdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:42:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:12:52
 InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K
  40 42  0  0  1  0            999 V2000
     1.3240    0.7071    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -94,7 +94,7 @@ M  CHG  3  20  -1  21  -1  40  -1
 M  END
 $MOL
 trdrd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:03:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:25
 
  38 37  0  0  1  0            999 V2000
    -0.7893   -5.6201    0.0000 H   0  0  0  0  0  0  0  0  0 41  0  0
@@ -175,7 +175,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:03:43
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -186,7 +186,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dgdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:23:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:16
 InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K
  39 41  0  0  1  0            999 V2000
     0.6635    3.0451    0.0000 H   0  0  0  0  0  0  0  0  0 26  0  0
@@ -273,7 +273,7 @@ M  CHG  3  23  -1  24  -1  39  -1
 M  END
 $MOL
 trdox[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:03:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:54:23
 
  24 23  0  0  1  0            999 V2000
     0.9675   -2.1692    0.0000 H   0  0  0  0  0  0  0  0  0 68  0  0

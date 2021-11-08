@@ -5,7 +5,7 @@ CE0737[c] -> CE0737[e]
   1  1
 $MOL
 CE0737[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:50:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:53:02
 InChIKey=QWKKIZCNXSQQRD-UHFFFAOYSA-N
   8  7  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 CE0737[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:50:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:53:02
 InChIKey=QWKKIZCNXSQQRD-UHFFFAOYSA-N
   8  7  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0

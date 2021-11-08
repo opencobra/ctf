@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 5ohhexa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:41:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:48:28
 InChIKey=YDCRNMJQROAWFT-UHFFFAOYSA-M
  20 19  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 5ohhexa[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:41:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:48:28
 InChIKey=YDCRNMJQROAWFT-UHFFFAOYSA-M
  20 19  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 r0610
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:11:36
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:38:38
 ctp[c] + HC00664[c] -> h[c] + cdp[c] + HC01180[c]
   2  3
 $MOL
 ctp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:19:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:52
 InChIKey=PCDQPRRSZKQHHS-XVFCMESISA-J
  41 42  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -95,7 +95,7 @@ M  CHG  4  24  -1  30  -1  39  -1  40  -1
 M  END
 $MOL
 HC00664[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:35:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:14
 InChIKey=BGWGXPAPYGQALX-OEXCPVAWSA-L
  27 27  0  0  1  0            999 V2000
     2.1817    0.7712    0.0000 H   0  0  0  0  0  0  0  0  0 42  0  0
@@ -156,15 +156,15 @@ M  CHG  2  17  -1  18  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0 42  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 cdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:07:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:28
 InChIKey=ZWIADYZPOWUWEW-XVFCMESISA-K
  37 38  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -246,7 +246,7 @@ M  CHG  3  24  -1  35  -1  36  -1
 M  END
 $MOL
 HC01180[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:36:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:39
 InChIKey=RNBGYGVWRKECFJ-OEXCPVAWSA-J
  30 30  0  0  1  0            999 V2000
     1.2822    2.3518    0.0000 H   0  0  0  0  0  0  0  0  0 64  0  0

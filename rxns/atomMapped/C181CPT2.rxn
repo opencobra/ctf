@@ -1,11 +1,11 @@
 $RXN
 C181CPT2
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:50:24
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:32:04
 coa[m] + odecrn[m] -> crn[m] + odecoa[m]
   2  2
 $MOL
 coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0            999 V2000
    -1.2995  -10.4281    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -174,7 +174,7 @@ M  CHG  4   6  -1  15  -1  78  -1  79  -1
 M  END
 $MOL
 odecrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:13
 InChIKey=IPOLTUVFXFHAHI-WHIOSMTNSA-N
  77 76  0  0  1  0            999 V2000
     5.6645   -1.6204    0.0000 H   0  0  0  0  0  0  0  0  0 81  0  0
@@ -334,7 +334,7 @@ M  CHG  2  60  -1  65   1
 M  END
 $MOL
 crn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:17
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0            999 V2000
    -0.6039    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 24  0  0
@@ -392,7 +392,7 @@ M  CHG  2   9  -1  14   1
 M  END
 $MOL
 odecoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:10
 InChIKey=XDUHQPOXLUAVEE-BPMMELMSSA-J
 131133  0  0  1  0            999 V2000
     8.0861   -2.4163    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -5,7 +5,7 @@ h[e] + hislysthr[e] -> h[c] + hislysthr[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hislysthr[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:09:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:36
 InChIKey=BKOVCRUIXDIWFV-FOUMNBMASA-O
  56 56  0  0  1  0  0  0  0  0999 V2000
     1.7242   -6.8902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +133,7 @@ M  CHG  1  17   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -142,7 +142,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hislysthr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:09:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:36
 InChIKey=BKOVCRUIXDIWFV-FOUMNBMASA-O
  56 56  0  0  1  0  0  0  0  0999 V2000
     1.7242   -6.8902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

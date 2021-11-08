@@ -5,7 +5,7 @@ andrstrn[r] -> andrstrn[c]
   1  1
 $MOL
 andrstrn[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:15:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:44
 InChIKey=QGXBDMJGAMFCBF-HLUDHZFRSA-N
  51 54  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -116,7 +116,7 @@ InChIKey=QGXBDMJGAMFCBF-HLUDHZFRSA-N
 M  END
 $MOL
 andrstrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:15:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:44
 InChIKey=QGXBDMJGAMFCBF-HLUDHZFRSA-N
  51 54  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

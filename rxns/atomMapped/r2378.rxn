@@ -1,11 +1,11 @@
 $RXN
 r2378
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:10:43
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 01:49:24
 succ[c] + HC00342[m] -> succ[m] + HC00342[c]
   2  2
 $MOL
 succ[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:52:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:10
 InChIKey=KDYFGRWQOYBRFD-UHFFFAOYSA-L
  12 11  0  0  0  0            999 V2000
     0.8672   -0.0228    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -35,7 +35,7 @@ M  CHG  2   5  -1  11  -1
 M  END
 $MOL
 HC00342[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:26:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:05
 InChIKey=GTZCVFVGUGFEME-IWQZZHSRSA-K
  15 14  0  0  0  0            999 V2000
     1.2375   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0 13  0  0
@@ -71,7 +71,7 @@ M  CHG  3   4  -1   8  -1  14  -1
 M  END
 $MOL
 succ[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:52:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:10
 InChIKey=KDYFGRWQOYBRFD-UHFFFAOYSA-L
  12 11  0  0  0  0            999 V2000
     0.8672   -0.0228    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -101,7 +101,7 @@ M  CHG  2   5  -1  11  -1
 M  END
 $MOL
 HC00342[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:26:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:05
 InChIKey=GTZCVFVGUGFEME-IWQZZHSRSA-K
  15 14  0  0  0  0            999 V2000
     1.2375   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0 13  0  0

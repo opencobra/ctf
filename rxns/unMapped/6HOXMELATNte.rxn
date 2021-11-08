@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 6hoxmelatn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:42:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:49:08
 InChIKey=OMYMRCXOJJZYKE-UHFFFAOYSA-N
  34 35  0  0  0  0  0  0  0  0999 V2000
     0.9847   -3.4895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -19,7 +19,7 @@ InChIKey=OMYMRCXOJJZYKE-UHFFFAOYSA-N
     2.6831   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.6320   -2.9543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     2.6831    1.3090    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -80,7 +80,7 @@ InChIKey=OMYMRCXOJJZYKE-UHFFFAOYSA-N
 M  END
 $MOL
 6hoxmelatn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:42:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:49:08
 InChIKey=OMYMRCXOJJZYKE-UHFFFAOYSA-N
  34 35  0  0  0  0  0  0  0  0999 V2000
     0.9847   -3.4895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -94,7 +94,7 @@ InChIKey=OMYMRCXOJJZYKE-UHFFFAOYSA-N
     2.6831   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.6320   -2.9543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     2.6831    1.3090    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ mma[c] -> mma[e]
   1  1
 $MOL
 mma[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:24:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:30
 InChIKey=BAVYZALUXZFZLV-UHFFFAOYSA-O
   8  7  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ M  CHG  1   2   1
 M  END
 $MOL
 mma[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:24:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:30
 InChIKey=BAVYZALUXZFZLV-UHFFFAOYSA-O
   8  7  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

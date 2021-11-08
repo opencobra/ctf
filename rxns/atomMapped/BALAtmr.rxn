@@ -1,11 +1,11 @@
 $RXN
 BALAtmr
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:49:12
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:26:48
 ala_B[c] -> ala_B[m]
   1  1
 $MOL
 ala_B[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:08
 InChIKey=UCMIRNVEIXFBKS-UHFFFAOYSA-N
  13 12  0  0  0  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -36,7 +36,7 @@ InChIKey=UCMIRNVEIXFBKS-UHFFFAOYSA-N
 M  END
 $MOL
 ala_B[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:08
 InChIKey=UCMIRNVEIXFBKS-UHFFFAOYSA-N
  13 12  0  0  0  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 6csmv[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:42:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:48:47
 InChIKey=XKRMLBJLSDIWTC-UHFFFAOYSA-M
  67 69  0  0  1  0  0  0  0  0999 V2000
    -5.1962    5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -148,7 +148,7 @@ M  CHG  1  29  -1
 M  END
 $MOL
 6csmv[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:42:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:48:47
 InChIKey=XKRMLBJLSDIWTC-UHFFFAOYSA-M
  67 69  0  0  1  0  0  0  0  0999 V2000
    -5.1962    5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

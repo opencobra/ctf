@@ -1,11 +1,11 @@
 $RXN
 THBPT4ACAMDASE
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 10:58:02
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:58:22
 thbpt4acam[c] -> h2o[c] + dhbpt[c]
   1  2
 $MOL
 thbpt4acam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:00:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:52:47
 InChIKey=KJKIEFUPAPPGBC-XXKOCQOQSA-N
  33 34  0  0  1  0            999 V2000
     1.0164   -3.1895    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -78,7 +78,7 @@ InChIKey=KJKIEFUPAPPGBC-XXKOCQOQSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0 18  0  0
@@ -89,7 +89,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dhbpt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:24:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:28
 InChIKey=ZHQJVZLJDXWFFX-RPDRRWSUSA-N
  30 31  0  0  1  0            999 V2000
     0.7145   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

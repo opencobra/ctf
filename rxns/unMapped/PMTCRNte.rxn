@@ -5,7 +5,7 @@ na1[c] + pmtcrn[c] -> na1[e] + pmtcrn[e]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 pmtcrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:05
 InChIKey=XOMRRQXKHMYMOC-OAQYLSRUSA-N
  73 72  0  0  1  0  0  0  0  0999 V2000
    13.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ M  CHG  2  24   1  26  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -173,7 +173,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 pmtcrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:05
 InChIKey=XOMRRQXKHMYMOC-OAQYLSRUSA-N
  73 72  0  0  1  0  0  0  0  0999 V2000
    13.0000   -5.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

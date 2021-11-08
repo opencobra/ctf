@@ -5,7 +5,7 @@ M00743[x] -> thcholoylcoa[x]
   1  1
 $MOL
 M00743[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:24:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:31:46
 InChIKey=SZBMUAIJWNJARR-GEERDDCJSA-J
 155161  0  0  1  0  0  0  0  0999 V2000
    -1.7624   -5.3989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -328,7 +328,7 @@ M  CHG  4  59  -1  62  -1  64  -1  65  -1
 M  END
 $MOL
 thcholoylcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:40:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:52:49
 InChIKey=SZBMUAIJWNJARR-IJOXPXOYSA-J
 155161  0  0  1  0  0  0  0  0999 V2000
    -1.7624   -5.3989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

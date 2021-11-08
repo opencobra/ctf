@@ -1,11 +1,11 @@
 $RXN
 THYMDt1
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:35:28
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:00:43
 thymd[e] -> thymd[c]
   1  1
 $MOL
 thymd[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:47
 InChIKey=IQFYYKKMVGJFEH-XLPZGREQSA-N
  31 32  0  0  1  0            999 V2000
     1.4289    7.1786    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -74,7 +74,7 @@ InChIKey=IQFYYKKMVGJFEH-XLPZGREQSA-N
 M  END
 $MOL
 thymd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:47
 InChIKey=IQFYYKKMVGJFEH-XLPZGREQSA-N
  31 32  0  0  1  0            999 V2000
     1.4289    7.1786    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

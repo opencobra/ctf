@@ -1,27 +1,27 @@
 $RXN
 FORTHFC
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 20:03:06
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:49:43
 2 h[c] + 5forthf[c] -> nh4[c] + methf[c]
   3  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  2  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 5forthf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:29:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:47:55
 InChIKey=YCWUVLPMLLBDCU-YYZPVKLSSA-L
  56 58  0  0  1  0            999 V2000
     0.7145   -5.3625    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
@@ -142,7 +142,7 @@ M  CHG  2  38  -1  55  -1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:27:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
@@ -158,7 +158,7 @@ M  CHG  1   2   1
 M  END
 $MOL
 methf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:22:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:37
 InChIKey=MEANFMOQMXYMCT-OLZOCXBDSA-M
  53 56  0  0  1  0            999 V2000
     1.4045   -7.5445    0.0000 H   0  0  0  0  0  0  0  0  0 10  0  0

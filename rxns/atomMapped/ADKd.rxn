@@ -1,11 +1,11 @@
 $RXN
 ADKd
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:43:45
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:06:24
 damp[c] + datp[c] -> 2 dadp[c]
   2  2
 $MOL
 damp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:35:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:43
 InChIKey=KHWCHTKSEGGWEX-RRKCRQDMSA-L
  34 36  0  0  1  0            999 V2000
    -1.3220   -3.3793    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -82,7 +82,7 @@ M  CHG  2  18  -1  19  -1
 M  END
 $MOL
 datp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:35:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:45
 InChIKey=SUYVUBYJARFZHO-RRKCRQDMSA-J
  42 44  0  0  1  0            999 V2000
    -1.3220   -3.3793    0.0000 H   0  0  0  0  0  0  0  0  0 35  0  0
@@ -175,7 +175,7 @@ M  CHG  4  18  -1  22  -1  26  -1  27  -1
 M  END
 $MOL
 dadp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:35:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:36
 InChIKey=DAEAPNUQQAICNR-RRKCRQDMSA-K
  38 40  0  0  1  0            999 V2000
    -1.3220   -3.3793    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -260,7 +260,7 @@ M  CHG  3  18  -1  22  -1  23  -1
 M  END
 $MOL
 dadp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:35:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:36
 InChIKey=DAEAPNUQQAICNR-RRKCRQDMSA-K
  38 40  0  0  1  0            999 V2000
    -1.3220   -3.3793    0.0000 H   0  0  0  0  0  0  0  0  0 35  0  0

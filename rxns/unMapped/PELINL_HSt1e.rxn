@@ -5,7 +5,7 @@ pelinl_hs[e] -> pelinl_hs[c]
   1  1
 $MOL
 pelinl_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:16:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:23
 InChIKey=DBHKHNGBVGWQJE-UHFFFAOYSA-N
  76 75  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ InChIKey=DBHKHNGBVGWQJE-UHFFFAOYSA-N
 M  END
 $MOL
 pelinl_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:16:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:23
 InChIKey=DBHKHNGBVGWQJE-UHFFFAOYSA-N
  76 75  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,27 +1,29 @@
 $RXN
 GALt2_2
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 20:56:19
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:28:09
 2 h[e] + gal[e] -> 2 h[c] + gal[c]
   3  3
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  2  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 gal[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:39:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:10:09
 InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
  24 24  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
@@ -75,23 +77,25 @@ InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  2  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 gal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:39:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:10:09
 InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
  24 24  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0

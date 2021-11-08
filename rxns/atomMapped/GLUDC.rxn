@@ -1,19 +1,19 @@
 $RXN
 GLUDC
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 21:50:02
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:13:22
 h[c] + glu_L[c] -> co2[c] + 4abut[c]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 glu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:49:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:42
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -55,7 +55,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:13:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0
@@ -66,7 +66,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 4abut[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:23:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:09
 InChIKey=BTCSSZJGUNDROE-UHFFFAOYSA-N
  16 15  0  0  0  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

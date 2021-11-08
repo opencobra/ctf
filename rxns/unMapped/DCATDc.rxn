@@ -5,7 +5,7 @@ dca[e] -> dca[c]
   1  1
 $MOL
 dca[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:49
 InChIKey=GHVNFZFCNZKVNT-UHFFFAOYSA-M
  31 30  0  0  0  0  0  0  0  0999 V2000
     6.9282   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ M  CHG  1  12  -1
 M  END
 $MOL
 dca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:33:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:49
 InChIKey=GHVNFZFCNZKVNT-UHFFFAOYSA-M
  31 30  0  0  0  0  0  0  0  0999 V2000
     6.9282   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

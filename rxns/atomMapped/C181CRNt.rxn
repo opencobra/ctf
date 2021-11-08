@@ -1,11 +1,11 @@
 $RXN
 C181CRNt
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:50:34
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:32:10
 odecrn[c] -> odecrn[m]
   1  1
 $MOL
 odecrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:13
 InChIKey=IPOLTUVFXFHAHI-WHIOSMTNSA-N
  77 76  0  0  1  0            999 V2000
     5.6645   -1.6204    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -165,7 +165,7 @@ M  CHG  2  60  -1  65   1
 M  END
 $MOL
 odecrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:13
 InChIKey=IPOLTUVFXFHAHI-WHIOSMTNSA-N
  77 76  0  0  1  0            999 V2000
     5.6645   -1.6204    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

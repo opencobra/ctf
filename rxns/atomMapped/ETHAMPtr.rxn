@@ -1,11 +1,11 @@
 $RXN
 ETHAMPtr
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:31:55
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:29:57
 ethamp[e] -> ethamp[c]
   1  1
 $MOL
 ethamp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:25
 InChIKey=SUHOOTKUPISOBE-UHFFFAOYSA-M
  15 14  0  0  0  0            999 V2000
     2.4750   -2.8579    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -41,7 +41,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 ethamp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:25
 InChIKey=SUHOOTKUPISOBE-UHFFFAOYSA-M
  15 14  0  0  0  0            999 V2000
     2.4750   -2.8579    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

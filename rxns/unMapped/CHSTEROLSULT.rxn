@@ -5,7 +5,7 @@ paps[c] + chsterol[c] -> h[c] + pap[c] + chsterols[c]
   2  3
 $MOL
 paps[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:11:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:21
 InChIKey=WHTCPDAXWFLDIH-KQYNXXCUSA-J
  38 40  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -26,7 +26,7 @@ InChIKey=WHTCPDAXWFLDIH-KQYNXXCUSA-J
     3.2215    1.1160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.2795    1.4339    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.5093    2.6199    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.3232    1.8497    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -90,7 +90,7 @@ M  CHG  4  17  -1  18  -1  20  -1  21  -1
 M  END
 $MOL
 chsterol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:09
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -247,7 +247,7 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -256,7 +256,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 pap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:11:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:19
 InChIKey=WHTCPDAXWFLDIH-KQYNXXCUSA-J
  38 40  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -277,7 +277,7 @@ InChIKey=WHTCPDAXWFLDIH-KQYNXXCUSA-J
     3.2215    1.1160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.2795    1.4339    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.5093    2.6199    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.3232    1.8497    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -341,7 +341,7 @@ M  CHG  4  17  -1  18  -1  20  -1  21  -1
 M  END
 $MOL
 chsterols[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:11
 InChIKey=BHYOQNUELFTYRT-DPAQBDIFSA-M
  77 80  0  0  1  0  0  0  0  0999 V2000
   -10.2258   -0.5774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

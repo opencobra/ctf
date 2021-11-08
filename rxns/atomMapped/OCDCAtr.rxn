@@ -1,11 +1,11 @@
 $RXN
 OCDCAtr
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 03:59:06
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:03:09
 ocdca[e] -> ocdca[c]
   1  1
 $MOL
 ocdca[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:30:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:40
 InChIKey=QIQXTHQIDYTFRH-UHFFFAOYSA-M
  55 54  0  0  0  0            999 V2000
     9.5980    6.8427    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -121,7 +121,7 @@ M  CHG  1  54  -1
 M  END
 $MOL
 ocdca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:30:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:40
 InChIKey=QIQXTHQIDYTFRH-UHFFFAOYSA-M
  55 54  0  0  0  0            999 V2000
     9.5980    6.8427    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -1,11 +1,11 @@
 $RXN
 r1421
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:18:49
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:15:31
 fald[e] -> fald[c]
   1  1
 $MOL
 fald[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:34:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:45
 InChIKey=WSFSSNUMVMOOMR-UHFFFAOYSA-N
   4  3  0  0  0  0            999 V2000
     1.2375   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -18,7 +18,7 @@ InChIKey=WSFSSNUMVMOOMR-UHFFFAOYSA-N
 M  END
 $MOL
 fald[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:34:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:45
 InChIKey=WSFSSNUMVMOOMR-UHFFFAOYSA-N
   4  3  0  0  0  0            999 V2000
     1.2375   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -1,11 +1,11 @@
 $RXN
 GLYPROPRO1c
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 22:39:18
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:29:10
 h2o[c] + glypro[c] -> gly[c] + pro_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 glypro[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:51:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:49
 InChIKey=KZNQNBZMBZJQJO-YFKPBYRVSA-N
  24 24  0  0  1  0            999 V2000
    -0.1467    3.1768    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -70,7 +70,7 @@ InChIKey=KZNQNBZMBZJQJO-YFKPBYRVSA-N
 M  END
 $MOL
 gly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:50:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:20
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0            999 V2000
     2.4750   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -95,7 +95,7 @@ InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
 M  END
 $MOL
 pro_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:44:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:45
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0            999 V2000
    -0.1467    3.1768    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

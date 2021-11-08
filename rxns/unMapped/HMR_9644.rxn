@@ -5,7 +5,7 @@ M01881[c] -> M01881[e]
   1  1
 $MOL
 M01881[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:44:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:39:30
 
 106111  0  0  1  0  0  0  0  0999 V2000
     2.6750    3.0878    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -228,7 +228,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:44:32
 M  END
 $MOL
 M01881[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:44:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:39:30
 
 106111  0  0  1  0  0  0  0  0999 V2000
     2.6750    3.0878    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0

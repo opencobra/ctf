@@ -5,7 +5,7 @@ h2o[c] + pheleu[c] -> leu_L[c] + phe_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,12 +16,12 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pheleu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:06
 InChIKey=RFCVXVPWSPOMFJ-OLZOCXBDSA-N
  42 42  0  0  1  0  0  0  0  0999 V2000
     3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3301    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,7 +38,7 @@ InChIKey=RFCVXVPWSPOMFJ-OLZOCXBDSA-N
     1.7321    3.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    5.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.0000    4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.5375    2.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.3907    2.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     3.4641    1.9300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -106,7 +106,7 @@ InChIKey=RFCVXVPWSPOMFJ-OLZOCXBDSA-N
 M  END
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:48:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:09
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -155,7 +155,7 @@ InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:54
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -168,7 +168,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
    -0.8660    1.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.8660    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -3.0320    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7597   -2.0160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0

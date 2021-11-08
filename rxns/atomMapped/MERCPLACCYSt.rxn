@@ -1,11 +1,11 @@
 $RXN
 MERCPLACCYSt
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:19:51
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:46:08
 mercplaccys[c] -> mercplaccys[e]
   1  1
 $MOL
 mercplaccys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:45:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:19
 InChIKey=MAFDYIDMXCXBRB-WUCPZUCCSA-M
  24 23  0  0  1  0            999 V2000
     1.5691    2.5559    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -59,7 +59,7 @@ M  CHG  1  23  -1
 M  END
 $MOL
 mercplaccys[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:45:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:19
 InChIKey=MAFDYIDMXCXBRB-WUCPZUCCSA-M
  24 23  0  0  1  0            999 V2000
     1.5691    2.5559    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

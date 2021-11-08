@@ -5,7 +5,7 @@ mi14p[c] -> mi14p[n]
   1  1
 $MOL
 mi14p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:00:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:13
 InChIKey=PELZSPZCXGTUMR-RTPHHQFDSA-J
  30 30  0  0  1  0  0  0  0  0999 V2000
     1.0000    1.7321    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -72,7 +72,7 @@ M  CHG  4  11  -1  12  -1  14  -1  15  -1
 M  END
 $MOL
 mi14p[n]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:00:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:13
 InChIKey=PELZSPZCXGTUMR-RTPHHQFDSA-J
  30 30  0  0  1  0  0  0  0  0999 V2000
     1.0000    1.7321    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0

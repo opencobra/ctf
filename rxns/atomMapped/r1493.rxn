@@ -1,11 +1,11 @@
 $RXN
 r1493
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:51:29
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:19:22
 gthrd[c] -> gthrd[e]
   1  1
 $MOL
 gthrd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:41
 InChIKey=RWSXRVCMGQZWBV-WDSKDSINSA-M
  36 35  0  0  1  0            999 V2000
    -3.7638    4.4270    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -83,7 +83,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 gthrd[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:41
 InChIKey=RWSXRVCMGQZWBV-WDSKDSINSA-M
  36 35  0  0  1  0            999 V2000
    -3.7638    4.4270    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

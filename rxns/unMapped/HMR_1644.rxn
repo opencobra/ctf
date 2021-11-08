@@ -5,7 +5,7 @@ h2o[m] + cholcoads[m] -> HC01459[m]
   2  1
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cholcoads[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:55
 InChIKey=QVDPWQVOSKJUES-RVDYSSEFSA-J
 153159  0  0  1  0  0  0  0  0999 V2000
    -1.7692   -5.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -335,7 +335,7 @@ M  CHG  4  59  -1  62  -1  64  -1  65  -1
 M  END
 $MOL
 HC01459[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:50:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:18:33
 InChIKey=PXHZOQNODUPJKC-LUMBNAJFSA-J
 156162  0  0  1  0  0  0  0  0999 V2000
    -1.7783   -5.3398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

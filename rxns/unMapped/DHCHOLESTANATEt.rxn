@@ -5,7 +5,7 @@ na1[c] + dhcholestanate[c] -> na1[e] + dhcholestanate[e]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 dhcholestanate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:37:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:30
 InChIKey=ITZYGDKGRKKBSN-YJAJKCCHSA-M
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8471    3.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -175,7 +175,7 @@ M  CHG  1  31  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -183,7 +183,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 dhcholestanate[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:37:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:30
 InChIKey=ITZYGDKGRKKBSN-YJAJKCCHSA-M
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8471    3.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

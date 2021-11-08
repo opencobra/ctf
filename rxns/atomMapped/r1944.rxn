@@ -1,11 +1,11 @@
 $RXN
 r1944
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:04:51
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 01:07:43
 na1[e] + orn[c] + phe_L[e] -> na1[c] + orn[e] + phe_L[c]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 orn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -63,7 +63,7 @@ M  CHG  1  19   1
 M  END
 $MOL
 phe_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:48:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:54
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0 24  0  0
@@ -115,7 +115,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -123,7 +123,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 orn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -173,7 +173,7 @@ M  CHG  1  19   1
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:48:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:54
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0 24  0  0

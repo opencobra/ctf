@@ -1,11 +1,11 @@
 $RXN
 FADtx
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:02:17
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 20:20:27
 fad[c] -> fad[x]
   1  1
 $MOL
 fad[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:41
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -185,7 +185,7 @@ M  CHG  2  10  -1  66  -1
 M  END
 $MOL
 fad[x]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:41
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

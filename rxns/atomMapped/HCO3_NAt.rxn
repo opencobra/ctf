@@ -1,11 +1,11 @@
 $RXN
 HCO3_NAt
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:20:25
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 04:29:12
 hco3[e] + na1[e] -> hco3[c] + na1[c]
   2  2
 $MOL
 hco3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:05
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0            999 V2000
     2.0625    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -21,7 +21,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  6  0  0
@@ -29,7 +29,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hco3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:05
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0            999 V2000
     2.0625    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -45,7 +45,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  6  0  0

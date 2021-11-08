@@ -5,7 +5,7 @@ nfd[e] -> nfd[c]
   1  1
 $MOL
 nfd[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:04:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:41
 InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
  43 44  0  0  1  0  0  0  0  0999 V2000
    -0.7764    2.2414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
 M  END
 $MOL
 nfd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:04:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:41
 InChIKey=HYIMSNHJOBLJNT-UHFFFAOYSA-N
  43 44  0  0  1  0  0  0  0  0999 V2000
    -0.7764    2.2414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

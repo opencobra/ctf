@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 7dhchsterol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:43:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:49:42
 InChIKey=UCTLRSWJYQTBFZ-DDPQNLDTSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -158,7 +158,7 @@ InChIKey=UCTLRSWJYQTBFZ-DDPQNLDTSA-N
 M  END
 $MOL
 7dhchsterol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:43:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:49:42
 InChIKey=UCTLRSWJYQTBFZ-DDPQNLDTSA-N
  72 75  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

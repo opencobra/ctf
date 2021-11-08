@@ -1,11 +1,11 @@
 $RXN
 DOPAOQCYS
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:06:13
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 08:31:54
 cys_L[c] + CE5276[c] -> 5cysdopa[c]
   2  1
 $MOL
 cys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:04
 InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -38,7 +38,7 @@ InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
 M  END
 $MOL
 CE5276[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:26:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:06:26
 InChIKey=PQPXZWUZIOASKS-UHFFFAOYSA-O
  21 21  0  0  0  0            999 V2000
     0.7145    2.0625    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -87,7 +87,7 @@ M  CHG  1  18   1
 M  END
 $MOL
 5cysdopa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:23:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:47:42
 InChIKey=BZYHBWCVRKSWDB-ZETCQYMHSA-O
  35 35  0  0  1  0            999 V2000
     0.0000   -1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

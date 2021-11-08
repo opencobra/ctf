@@ -1,11 +1,11 @@
 $RXN
 HMR_6876
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:16:18
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:09:05
 2c23dh56dhoxin[c] + dopaqn[c] -> 34dhphe[c] + L_dpchrm[c]
   2  2
 $MOL
 2c23dh56dhoxin[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:19:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:40:07
 InChIKey=JDWYRSDDJVCWPB-LURJTMIESA-M
  22 23  0  0  1  0            999 V2000
    -1.4087   -1.4124    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -57,7 +57,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 dopaqn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:45
 InChIKey=AHMIDUVKSGCHAU-LURJTMIESA-N
  23 23  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0 23  0  0
@@ -109,7 +109,7 @@ InChIKey=AHMIDUVKSGCHAU-LURJTMIESA-N
 M  END
 $MOL
 34dhphe[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:21:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:42:03
 InChIKey=WTDRDQBEARUVNC-LURJTMIESA-N
  25 25  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -165,7 +165,7 @@ InChIKey=WTDRDQBEARUVNC-LURJTMIESA-N
 M  END
 $MOL
 L_dpchrm[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:27:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:14
 InChIKey=VJNCICVKUHKIIV-LURJTMIESA-M
  20 21  0  0  1  0            999 V2000
     0.8838    0.7541    0.0000 H   0  0  0  0  0  0  0  0  0 30  0  0

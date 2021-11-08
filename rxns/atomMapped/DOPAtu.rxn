@@ -1,11 +1,11 @@
 $RXN
 DOPAtu
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:59:53
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 20:08:12
 dopa[e] -> dopa[c]
   1  1
 $MOL
 dopa[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:38
 InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-O
  23 23  0  0  0  0            999 V2000
     1.4289    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -58,7 +58,7 @@ M  CHG  1  20   1
 M  END
 $MOL
 dopa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:38
 InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-O
  23 23  0  0  0  0            999 V2000
     1.4289    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

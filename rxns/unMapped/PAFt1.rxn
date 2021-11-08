@@ -5,7 +5,7 @@ paf_hs[e] -> paf_hs[c]
   1  1
 $MOL
 paf_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:10:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:49
 InChIKey=ZBOQHUSCQCEBGK-JLRCLJKCSA-N
  93 92  0  0  1  0  0  0  0  0999 V2000
   -13.2321   -5.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -197,7 +197,7 @@ M  CHG  2  29   1  32  -1
 M  END
 $MOL
 paf_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:10:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:49
 InChIKey=ZBOQHUSCQCEBGK-JLRCLJKCSA-N
  93 92  0  0  1  0  0  0  0  0999 V2000
   -13.2321   -5.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

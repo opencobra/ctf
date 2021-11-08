@@ -1,11 +1,11 @@
 $RXN
 HMR_0157
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:07:16
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 08:41:33
 btcoa[c] -> btcoa[m]
   1  1
 $MOL
 btcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:32:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:53
 InChIKey=CRFNGMNYKDXRTN-CITAKDKDSA-J
  91 93  0  0  1  0            999 V2000
     7.4579   -2.8243    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -196,7 +196,7 @@ M  CHG  4   6  -1  15  -1  89  -1  90  -1
 M  END
 $MOL
 btcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:32:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:53
 InChIKey=CRFNGMNYKDXRTN-CITAKDKDSA-J
  91 93  0  0  1  0            999 V2000
     7.4579   -2.8243    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

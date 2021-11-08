@@ -1,11 +1,11 @@
 $RXN
 UMPK
-COBRA Toolbox v3.0 - Atom mapped - 17-Oct-2021 00:02:38
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:37:37
 atp[c] + ump[c] -> adp[c] + udp[c]
   2  2
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:02:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -100,7 +100,7 @@ M  CHG  4  15  -1  19  -1  23  -1  24  -1
 M  END
 $MOL
 ump[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:08:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:07
 InChIKey=DJJCXFVJDGTHFX-XVFCMESISA-L
  32 33  0  0  1  0            999 V2000
     1.4289    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0
@@ -172,7 +172,7 @@ M  CHG  2  15  -1  29  -1
 M  END
 $MOL
 adp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:54:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:11
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -259,7 +259,7 @@ M  CHG  3  15  -1  19  -1  20  -1
 M  END
 $MOL
 udp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:07:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:52
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0            999 V2000
     1.4289    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0

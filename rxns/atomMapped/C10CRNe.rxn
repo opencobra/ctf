@@ -1,11 +1,11 @@
 $RXN
 C10CRNe
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:20:50
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 04:30:36
 c10crn[c] -> c10crn[e]
   1  1
 $MOL
 c10crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:32:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:07
 InChIKey=LZOSYCMHQXPBFU-OAHLLOKOSA-N
  55 54  0  0  1  0            999 V2000
     3.9336   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -121,7 +121,7 @@ M  CHG  2  38  -1  43   1
 M  END
 $MOL
 c10crn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:32:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:07
 InChIKey=LZOSYCMHQXPBFU-OAHLLOKOSA-N
  55 54  0  0  1  0            999 V2000
     3.9336   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -1,11 +1,11 @@
 $RXN
 ETHAt
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:46:44
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:17:59
 etha[e] -> etha[c]
   1  1
 $MOL
 etha[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:24
 InChIKey=HZAXFHJVJLSVMW-UHFFFAOYSA-O
  12 11  0  0  0  0            999 V2000
     2.4750   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -35,7 +35,7 @@ M  CHG  1   9   1
 M  END
 $MOL
 etha[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:24
 InChIKey=HZAXFHJVJLSVMW-UHFFFAOYSA-O
  12 11  0  0  0  0            999 V2000
     2.4750   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

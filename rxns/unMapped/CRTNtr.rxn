@@ -5,7 +5,7 @@ crtn[e] -> crtn[c]
   1  1
 $MOL
 crtn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:19
 InChIKey=DDRJAANPRJIHGJ-UHFFFAOYSA-N
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.9511   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ InChIKey=DDRJAANPRJIHGJ-UHFFFAOYSA-N
 M  END
 $MOL
 crtn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:19
 InChIKey=DDRJAANPRJIHGJ-UHFFFAOYSA-N
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.9511   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HMR_9495
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:07:57
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:38:20
 coa[c] + M02128[c] -> accoa[c] + M02127[c]
   2  2
 $MOL
 coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:13:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0            999 V2000
    -1.2995  -10.4281    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -174,7 +174,7 @@ M  CHG  4   6  -1  15  -1  78  -1  79  -1
 M  END
 $MOL
 M02128[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:44:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:40:35
 
  32 31  0  0  1  0            999 V2000
     0.5847    3.9493    0.0000 H   0  0  0  0  0  0  0  0  0 81  0  0
@@ -243,7 +243,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:44:30
 M  END
 $MOL
 accoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:50:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:49
 InChIKey=ZSLZBFCDCINBPY-ZSJPKINUSA-J
  85 87  0  0  1  0            999 V2000
     7.4579   -2.8243    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -422,7 +422,7 @@ M  CHG  4   6  -1  15  -1  83  -1  84  -1
 M  END
 $MOL
 M02127[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:44:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:40:34
 
  27 26  0  0  1  0            999 V2000
     2.6323    1.6499    0.0000 H   0  0  0  0  0  0  0  0  0106  0  0

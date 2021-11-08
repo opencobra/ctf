@@ -1,18 +1,18 @@
 $RXN
 TMDS
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 11:36:49
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:48:04
 mlthf[c] + dump[c] -> dhf[c] + dtmp[c]
   2  2
 $MOL
 mlthf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:24:10
-InChIKey=QYNUQALWYRSVHF-OLZOCXBDSA-L
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:28
+InChIKey=QYNUQALWYRSVHF-UEWDXFNNSA-L
  54 57  0  0  1  0            999 V2000
     4.3729   -4.8781    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
     3.6584   -4.4656    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
     2.9440   -4.8781    0.0000 C   0  0  0  0  0  0  0  0  0  3  0  0
     2.2295   -4.4656    0.0000 O   0  0  0  0  0  0  0  0  0  4  0  0
-    2.9440   -5.7031    0.0000 C   0  0  1  0  0  0  0  0  0  5  0  0
+    2.9440   -5.7031    0.0000 C   0  0  0  0  0  0  0  0  0  5  0  0
     2.2295   -5.2906    0.0000 H   0  0  0  0  0  0  0  0  0  6  0  0
     2.2295   -6.1156    0.0000 N   0  0  0  0  0  0  0  0  0  7  0  0
     2.2295   -6.9406    0.0000 H   0  0  0  0  0  0  0  0  0  8  0  0
@@ -48,7 +48,7 @@ InChIKey=QYNUQALWYRSVHF-OLZOCXBDSA-L
    -2.6486   -9.0595    0.0000 C   0  0  0  0  0  0  0  0  0 38  0  0
    -2.6006   -9.8831    0.0000 H   0  0  0  0  0  0  0  0  0 39  0  0
    -1.9593   -9.5129    0.0000 H   0  0  0  0  0  0  0  0  0 40  0  0
-   -2.2361   -8.3451    0.0000 C   0  0  2  0  0  0  0  0  0 41  0  0
+   -2.2361   -8.3451    0.0000 C   0  0  1  0  0  0  0  0  0 41  0  0
    -1.7511   -9.0125    0.0000 H   0  0  0  0  0  0  0  0  0 42  0  0
    -1.4291   -8.1735    0.0000 C   0  0  0  0  0  0  0  0  0 43  0  0
    -0.7547   -8.6487    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0
@@ -65,8 +65,8 @@ InChIKey=QYNUQALWYRSVHF-OLZOCXBDSA-L
   1  2  1  0  0  0  0
   2  3  1  0  0  0  0
   3  4  2  0  0  0  0
-  5  3  1  0  0  0  0
-  5  6  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
   5  7  1  0  0  0  0
   7  8  1  0  0  0  0
   7  9  1  0  0  0  0
@@ -105,7 +105,7 @@ InChIKey=QYNUQALWYRSVHF-OLZOCXBDSA-L
  38 40  1  0  0  0  0
  41 38  1  0  0  0  0
  41 25  1  0  0  0  0
- 41 42  1  6  0  0  0
+ 41 42  1  1  0  0  0
  41 43  1  0  0  0  0
  21 43  1  0  0  0  0
  43 44  1  0  0  0  0
@@ -123,7 +123,7 @@ M  CHG  2  35  -1  53  -1
 M  END
 $MOL
 dump[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:31:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:17
 InChIKey=JSRLJPSBLDHEIO-SHYZEUOFSA-L
  31 32  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 55  0  0
@@ -193,7 +193,7 @@ M  CHG  2  18  -1  28  -1
 M  END
 $MOL
 dhf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:24:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:46
 InChIKey=OZRNSSUDZOLUSN-LBPRGKRZSA-L
  51 53  0  0  1  0            999 V2000
     0.7145   -5.3625    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -304,7 +304,7 @@ M  CHG  2  33  -1  50  -1
 M  END
 $MOL
 dtmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:30:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:07
 InChIKey=GYOZYWVXFNDGLU-XLPZGREQSA-L
  34 35  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 55  0  0

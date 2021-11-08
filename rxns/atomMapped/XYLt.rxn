@@ -1,11 +1,11 @@
 $RXN
 XYLt
-COBRA Toolbox v3.0 - Atom mapped - 17-Oct-2021 00:43:23
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:48:15
 xyl_D[e] -> xyl_D[c]
   1  1
 $MOL
 xyl_D[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:11:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:59:23
 InChIKey=PYMYPHUHKUWMLA-VPENINKCSA-N
  20 19  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -50,7 +50,7 @@ InChIKey=PYMYPHUHKUWMLA-VPENINKCSA-N
 M  END
 $MOL
 xyl_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:11:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:59:23
 InChIKey=PYMYPHUHKUWMLA-VPENINKCSA-N
  20 19  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

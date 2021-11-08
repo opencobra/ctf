@@ -5,7 +5,7 @@ dodecanac[c] -> dodecanac[e]
   1  1
 $MOL
 dodecanac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:41:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:13
 InChIKey=TVIDDXQYHWJXFK-UHFFFAOYSA-L
  36 35  0  0  0  0  0  0  0  0999 V2000
     3.4641    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  2  14  -1  16  -1
 M  END
 $MOL
 dodecanac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:41:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:13
 InChIKey=TVIDDXQYHWJXFK-UHFFFAOYSA-L
  36 35  0  0  0  0  0  0  0  0999 V2000
     3.4641    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

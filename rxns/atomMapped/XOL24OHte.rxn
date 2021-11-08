@@ -1,11 +1,11 @@
 $RXN
 XOL24OHte
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:05:15
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 08:25:55
 xol24oh[c] -> xol24oh[e]
   1  1
 $MOL
 xol24oh[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:55:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:19
 InChIKey=IOWMKBFJCNLRTC-XWXSNNQWSA-N
  75 78  0  0  1  0            999 V2000
     7.8503    0.0320    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -164,7 +164,7 @@ InChIKey=IOWMKBFJCNLRTC-XWXSNNQWSA-N
 M  END
 $MOL
 xol24oh[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:55:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:19
 InChIKey=IOWMKBFJCNLRTC-XWXSNNQWSA-N
  75 78  0  0  1  0            999 V2000
     7.8503    0.0320    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

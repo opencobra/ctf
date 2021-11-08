@@ -1,11 +1,11 @@
 $RXN
 G6PDA
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 20:42:26
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:43:32
 h2o[c] + gam6p[c] -> nh4[c] + f6p[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 gam6p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:41:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:11:34
 InChIKey=XHMJOUIAFHJHBW-IVMDWMLBSA-M
  29 29  0  0  1  0            999 V2000
     1.4289    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -81,7 +81,7 @@ M  CHG  1  13  -1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:27:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 31  0  0
@@ -97,7 +97,7 @@ M  CHG  1   2   1
 M  END
 $MOL
 f6p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:34:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:39
 InChIKey=GSXOAOHZAIYLCY-HSUXUTPPSA-L
  27 26  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -124,8 +124,8 @@ InChIKey=GSXOAOHZAIYLCY-HSUXUTPPSA-L
     5.6771    2.5787    0.0000 H   0  0  0  0  0  0  0  0  0 12  0  0
     6.7618    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0 14  0  0
     7.4763    1.8414    0.0000 P   0  0  0  0  0  0  0  0  0 15  0  0
-    8.1908    2.2539    0.0000 O   0  5  0  0  0  0  0  0  0 16  0  0
-    7.8888    1.1270    0.0000 O   0  5  0  0  0  0  0  0  0 18  0  0
+    8.1908    2.2539    0.0000 O   0  5  0  0  0  0  0  0  0 18  0  0
+    7.8888    1.1270    0.0000 O   0  5  0  0  0  0  0  0  0 16  0  0
     7.0638    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0 17  0  0
   1  2  1  0  0  0  0
   2  3  1  0  0  0  0

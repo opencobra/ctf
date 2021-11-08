@@ -5,7 +5,7 @@ dctp[c] + dcdp[m] -> dcdp[c] + dctp[m]
   2  2
 $MOL
 dctp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:34:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:02:14
 InChIKey=RGWHQCVHVJXOKC-SHYZEUOFSA-J
  40 41  0  0  1  0  0  0  0  0999 V2000
    -4.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -31,7 +31,7 @@ InChIKey=RGWHQCVHVJXOKC-SHYZEUOFSA-J
     2.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0878   -3.6750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -2.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  4  14  -1  15  -1  16  -1  18  -1
 M  END
 $MOL
 dcdp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:34:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:58
 InChIKey=FTDHDKPUHBLBTL-SHYZEUOFSA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
    -6.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -173,7 +173,7 @@ M  CHG  3  14  -1  15  -1  16  -1
 M  END
 $MOL
 dcdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:34:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:58
 InChIKey=FTDHDKPUHBLBTL-SHYZEUOFSA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
    -6.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -253,7 +253,7 @@ M  CHG  3  14  -1  15  -1  16  -1
 M  END
 $MOL
 dctp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:34:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:02:14
 InChIKey=RGWHQCVHVJXOKC-SHYZEUOFSA-J
  40 41  0  0  1  0  0  0  0  0999 V2000
    -4.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -279,7 +279,7 @@ InChIKey=RGWHQCVHVJXOKC-SHYZEUOFSA-J
     2.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0878   -3.6750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -2.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 FACOAL181i
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 19:16:10
-atp[c] + coa[c] + ocdcea[c] -> ppi[c] + amp[c] + odecoa[c]
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 20:16:26
+atp[c] + coa[c] + ocdcea[c] -> amp[c] + ppi[c] + odecoa[c]
   3  3
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:02:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -100,7 +100,7 @@ M  CHG  4  15  -1  19  -1  23  -1  24  -1
 M  END
 $MOL
 coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:13:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0            999 V2000
    -1.2995  -10.4281    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0
@@ -269,7 +269,7 @@ M  CHG  4   6  -1  15  -1  78  -1  79  -1
 M  END
 $MOL
 ocdcea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:30:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:44
 InChIKey=ZQPPMHVWECSIRJ-KTKRTIGZSA-M
  53 52  0  0  0  0            999 V2000
     4.5226    2.7413    0.0000 H   0  0  0  0  0  0  0  0  0124  0  0
@@ -380,34 +380,8 @@ InChIKey=ZQPPMHVWECSIRJ-KTKRTIGZSA-M
 M  CHG  1  52  -1
 M  END
 $MOL
-ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:41:49
-InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
- 10  9  0  0  0  0            999 V2000
-   -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0 84  0  0
-   -0.6039   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0 83  0  0
-    0.1105   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0 81  0  0
-    0.5230   -1.9520    0.0000 O   0  5  0  0  0  0  0  0  0175  0  0
-   -0.3020   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0 82  0  0
-    0.8250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0 80  0  0
-    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0 22  0  0
-    0.8250    0.8250    0.0000 O   0  5  0  0  0  0  0  0  0 24  0  0
-    1.6500   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0 23  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 25  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  1  0  0  0  0
-  3  5  2  0  0  0  0
-  3  6  1  0  0  0  0
-  6  7  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7  9  1  0  0  0  0
-  7 10  2  0  0  0  0
-M  CHG  3   4  -1   8  -1   9  -1
-M  END
-$MOL
 amp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:59:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:34
 InChIKey=UDMBCSSLTHHNCD-KQYNXXCUSA-L
  35 37  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0116  0  0
@@ -485,8 +459,34 @@ InChIKey=UDMBCSSLTHHNCD-KQYNXXCUSA-L
 M  CHG  2  15  -1  16  -1
 M  END
 $MOL
+ppi[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
+InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
+ 10  9  0  0  0  0            999 V2000
+   -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0 84  0  0
+   -0.6039   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0 83  0  0
+    0.1105   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0 81  0  0
+    0.5230   -1.9520    0.0000 O   0  5  0  0  0  0  0  0  0175  0  0
+   -0.3020   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0 82  0  0
+    0.8250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0 80  0  0
+    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0 22  0  0
+    0.8250    0.8250    0.0000 O   0  5  0  0  0  0  0  0  0 24  0  0
+    1.6500   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0 23  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 25  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  CHG  3   4  -1   8  -1   9  -1
+M  END
+$MOL
 odecoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:30:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:10
 InChIKey=XDUHQPOXLUAVEE-BPMMELMSSA-J
 131133  0  0  1  0            999 V2000
     8.0861   -2.4163    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0

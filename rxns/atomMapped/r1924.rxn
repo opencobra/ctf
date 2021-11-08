@@ -1,11 +1,11 @@
 $RXN
 r1924
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:03:23
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 01:05:07
 na1[e] + orn[c] + gln_L[e] -> na1[c] + gln_L[c] + orn[e]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 orn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -63,7 +63,7 @@ M  CHG  1  19   1
 M  END
 $MOL
 gln_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:39:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:20
 InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
  20 19  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 24  0  0
@@ -108,7 +108,7 @@ InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -116,7 +116,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 gln_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:39:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:20
 InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
  20 19  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 24  0  0
@@ -161,7 +161,7 @@ InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
 M  END
 $MOL
 orn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

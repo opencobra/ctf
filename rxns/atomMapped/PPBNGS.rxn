@@ -1,11 +1,11 @@
 $RXN
 PPBNGS
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 05:07:00
-2 5aop[c] -> h[c] + 2 h2o[c] + ppbng[c]
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:33:54
+2 5aop[c] -> 2 h2o[c] + h[c] + ppbng[c]
   2  4
 $MOL
 5aop[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:28:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:47:40
 InChIKey=ZGXJTSGNIOSYLO-UHFFFAOYSA-N
  18 17  0  0  0  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -46,7 +46,7 @@ InChIKey=ZGXJTSGNIOSYLO-UHFFFAOYSA-N
 M  END
 $MOL
 5aop[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:28:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:47:40
 InChIKey=ZGXJTSGNIOSYLO-UHFFFAOYSA-N
  18 17  0  0  0  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 19  0  0
@@ -86,16 +86,8 @@ InChIKey=ZGXJTSGNIOSYLO-UHFFFAOYSA-N
  16 18  1  0  0  0  0
 M  END
 $MOL
-h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
-  1  0  0  0  0  0            999 V2000
-    0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0 36  0  0
-M  CHG  1   1   1
-M  END
-$MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  9  0  0
@@ -106,7 +98,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0 19  0  0
@@ -116,8 +108,16 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   2  3  1  0  0  0  0
 M  END
 $MOL
+h[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0 36  0  0
+M  CHG  1   1   1
+M  END
+$MOL
 ppbng[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:41:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:11
 InChIKey=QSHWIQZFGQKFMA-UHFFFAOYSA-M
  29 29  0  0  0  0            999 V2000
     1.9967    3.5893    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

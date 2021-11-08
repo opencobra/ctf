@@ -1,0 +1,21 @@
+$RXN
+It
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:31:16
+i[e] -> i[c]
+  1  1
+$MOL
+i[e]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:41
+InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1  -1
+M  END
+$MOL
+i[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:41
+InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1  -1
+M  END

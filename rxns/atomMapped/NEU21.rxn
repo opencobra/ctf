@@ -1,11 +1,11 @@
 $RXN
 NEU21
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 03:20:04
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 08:35:49
 h2o[c] + gd1a_hs[c] -> acnam[c] + gm1_hs[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 gd1a_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:41:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:11:56
 
 222227  0  0  1  0            999 V2000
     1.7244    5.4609    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -472,7 +472,7 @@ M  CHG  2 169  -1 204  -1
 M  END
 $MOL
 acnam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:52:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:23
 InChIKey=SQVRNKJHWKZAKO-PFQGKNLYSA-M
  39 39  0  0  1  0            999 V2000
     2.3394    0.9510    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
@@ -557,7 +557,7 @@ M  CHG  1  28  -1
 M  END
 $MOL
 gm1_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:51:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:59
 
 186190  0  0  1  0            999 V2000
    -6.9202   -3.1913    0.0000 H   0  0  0  0  0  0  0  0  0153  0  0

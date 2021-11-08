@@ -5,7 +5,7 @@ lnlncacrn[c] -> lnlncacrn[m]
   1  1
 $MOL
 lnlncacrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:44:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:31:26
 InChIKey=DFVGGGHKDAHYIU-UHMZJXMFSA-N
  73 72  0  0  1  0  0  0  0  0999 V2000
     6.9282   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -157,7 +157,7 @@ M  CHG  2  26   1  28  -1
 M  END
 $MOL
 lnlncacrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:44:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:31:26
 InChIKey=DFVGGGHKDAHYIU-UHMZJXMFSA-N
  73 72  0  0  1  0  0  0  0  0999 V2000
     6.9282   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

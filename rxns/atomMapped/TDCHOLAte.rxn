@@ -1,11 +1,11 @@
 $RXN
 TDCHOLAte
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 10:49:15
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:56:46
 tdchola[e] -> tdchola[c]
   1  1
 $MOL
 tdchola[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:59:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:44
 InChIKey=BHTRKEVKTKCXOH-BJLOMENOSA-N
  79 82  0  0  1  0            999 V2000
    -0.9025   -4.1049    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -172,7 +172,7 @@ InChIKey=BHTRKEVKTKCXOH-BJLOMENOSA-N
 M  END
 $MOL
 tdchola[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:59:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:44
 InChIKey=BHTRKEVKTKCXOH-BJLOMENOSA-N
  79 82  0  0  1  0            999 V2000
    -0.9025   -4.1049    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

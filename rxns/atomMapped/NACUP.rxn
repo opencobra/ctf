@@ -1,11 +1,11 @@
 $RXN
 NACUP
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 03:04:17
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:51:37
 nac[e] -> nac[c]
   1  1
 $MOL
 nac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:26:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:15
 InChIKey=PVNIIMVLHYAWGP-UHFFFAOYSA-M
  13 13  0  0  0  0            999 V2000
     0.7145    2.0625    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -38,7 +38,7 @@ M  CHG  1  12  -1
 M  END
 $MOL
 nac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:26:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:15
 InChIKey=PVNIIMVLHYAWGP-UHFFFAOYSA-M
  13 13  0  0  0  0            999 V2000
     0.7145    2.0625    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -1,11 +1,11 @@
 $RXN
 STS1
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 10:13:45
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:54:26
 h2o[c] + dheas[c] -> h[c] + dhea[c] + so4[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dheas[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:24:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:44
 InChIKey=CZWCKYRVOZZJNM-USOAJAOKSA-M
  52 55  0  0  1  0            999 V2000
     1.4978   -4.0998    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -130,15 +130,15 @@ M  CHG  1  11  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  3  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 dhea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:24:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:42
 InChIKey=FMGSKLZLMKYGDP-USOAJAOKSA-N
  49 52  0  0  1  0            999 V2000
     0.9533    0.2414    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -245,7 +245,7 @@ InChIKey=FMGSKLZLMKYGDP-USOAJAOKSA-N
 M  END
 $MOL
 so4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:55:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:31
 InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L
   5  4  0  0  0  0            999 V2000
     0.8250   -0.8250    0.0000 O   0  5  0  0  0  0  0  0  0 14  0  0

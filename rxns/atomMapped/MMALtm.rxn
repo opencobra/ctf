@@ -1,11 +1,11 @@
 $RXN
 MMALtm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:46:10
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:15:29
 HC00900[m] -> HC00900[c]
   1  1
 $MOL
 HC00900[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:26:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:26
 InChIKey=ZIYVHBGGAOATLY-UHFFFAOYSA-L
  12 11  0  0  0  0            999 V2000
     2.0625   -0.1105    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -35,7 +35,7 @@ M  CHG  2   8  -1  11  -1
 M  END
 $MOL
 HC00900[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:26:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:26
 InChIKey=ZIYVHBGGAOATLY-UHFFFAOYSA-L
  12 11  0  0  0  0            999 V2000
     2.0625   -0.1105    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

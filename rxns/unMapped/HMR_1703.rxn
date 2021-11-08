@@ -5,7 +5,7 @@ dhcholestancoa[x] -> M00617[x]
   1  1
 $MOL
 dhcholestancoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:37:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:32
 InChIKey=SBYLHTNKEWSLBA-CPRJDYHCSA-J
 154160  0  0  1  0  0  0  0  0999 V2000
    -1.7530   -5.4348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -326,7 +326,7 @@ M  CHG  4  58  -1  61  -1  63  -1  64  -1
 M  END
 $MOL
 M00617[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:22:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:30:51
 InChIKey=SBYLHTNKEWSLBA-IFJOXPFYSA-J
 154160  0  0  1  0  0  0  0  0999 V2000
    -1.7530   -5.4348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

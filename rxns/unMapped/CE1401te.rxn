@@ -5,7 +5,7 @@ CE1401[c] -> CE1401[e]
   1  1
 $MOL
 CE1401[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:53:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:54:00
 InChIKey=KIWQWJKWBHZMDT-VKHMYHEASA-O
  15 15  0  0  1  0  0  0  0  0999 V2000
     1.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42,7 +42,7 @@ M  CHG  1   5   1
 M  END
 $MOL
 CE1401[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:53:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:54:00
 InChIKey=KIWQWJKWBHZMDT-VKHMYHEASA-O
  15 15  0  0  1  0  0  0  0  0999 V2000
     1.3090   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

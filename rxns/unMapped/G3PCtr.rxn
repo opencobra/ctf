@@ -5,7 +5,7 @@ g3pc[e] -> g3pc[c]
   1  1
 $MOL
 g3pc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:51:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:58
 InChIKey=SUHOQUVVVLNYQR-MRVPVSSYSA-N
  36 35  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  2   9   1  13  -1
 M  END
 $MOL
 g3pc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:51:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:58
 InChIKey=SUHOQUVVVLNYQR-MRVPVSSYSA-N
  36 35  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

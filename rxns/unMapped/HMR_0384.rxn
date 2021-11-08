@@ -5,7 +5,7 @@ M00341[e] -> M00341[c]
   1  1
 $MOL
 M00341[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:13:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:27:28
 InChIKey=WBBQTNCISCKUMU-IUQGRGSQSA-M
  61 60  0  0  0  0  0  0  0  0999 V2000
    17.3205   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +133,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 M00341[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:13:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:27:28
 InChIKey=WBBQTNCISCKUMU-IUQGRGSQSA-M
  61 60  0  0  0  0  0  0  0  0999 V2000
    17.3205   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

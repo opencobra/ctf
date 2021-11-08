@@ -5,7 +5,7 @@ dhcholoylcoa[x] + h2o[x] -> thcholoylcoa[x]
   2  1
 $MOL
 dhcholoylcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:37:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:35
 InChIKey=SEBZZAWTQNNGPK-WBRVDZDVSA-J
 152158  0  0  1  0  0  0  0  0999 V2000
    -1.7530   -5.4348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -322,7 +322,7 @@ M  CHG  4  58  -1  61  -1  63  -1  64  -1
 M  END
 $MOL
 h2o[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -333,7 +333,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 thcholoylcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:40:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:52:49
 InChIKey=SZBMUAIJWNJARR-IJOXPXOYSA-J
 155161  0  0  1  0  0  0  0  0999 V2000
    -1.7624   -5.3989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,19 +1,19 @@
 $RXN
 MAN1PT2
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 02:12:56
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:31:02
 h[c] + gdp[c] + man1p[c] -> pi[c] + gdpmann[c]
   3  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 gdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:42:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:12:52
 InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K
  40 42  0  0  1  0            999 V2000
     1.3240    0.7071    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -102,7 +102,7 @@ M  CHG  3  20  -1  21  -1  40  -1
 M  END
 $MOL
 man1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:20:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:00
 InChIKey=HXXFSFRBOHSIMQ-JFNONXLTSA-L
  27 27  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0 42  0  0
@@ -163,7 +163,7 @@ M  CHG  2  13  -1  14  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:40:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0            999 V2000
     0.1105   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -181,7 +181,7 @@ M  CHG  2   4  -1   5  -1
 M  END
 $MOL
 gdpmann[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:42:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:12:58
 InChIKey=MVMSCBBUIHUTGJ-GDJBGNAASA-L
  62 65  0  0  1  0            999 V2000
    -6.3431    6.3905    0.0000 H   0  0  0  0  0  0  0  0  0 42  0  0

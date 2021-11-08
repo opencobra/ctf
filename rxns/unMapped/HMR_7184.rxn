@@ -5,7 +5,7 @@ sTn_antigen[c] -> sTn_antigen[e]
   1  1
 $MOL
 sTn_antigen[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:29:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:48:28
 
  88 90  0  0  1  0  0  0  0  0999 V2000
    -0.1589    1.2071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -189,7 +189,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:29:54
 M  END
 $MOL
 sTn_antigen[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:29:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:48:28
 
  88 90  0  0  1  0  0  0  0  0999 V2000
    -0.1589    1.2071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

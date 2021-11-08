@@ -5,7 +5,7 @@ gd1c_hs[c] -> gd1c_hs[g]
   1  1
 $MOL
 gd1c_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:54:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:12:15
 
 224229  0  0  1  0  0  0  0  0999 V2000
     4.7007    2.4768    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -464,7 +464,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:54:38
 M  END
 $MOL
 gd1c_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:54:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:12:15
 
 224229  0  0  1  0  0  0  0  0999 V2000
     4.7007    2.4768    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

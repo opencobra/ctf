@@ -5,7 +5,7 @@ gchola[e] + HC01787[e] -> gchola[c] + HC01787[c]
   2  2
 $MOL
 gchola[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:54:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:11:43
 InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -166,7 +166,7 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-N
 M  END
 $MOL
 HC01787[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:53:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:19:37
 InChIKey=ZGUYXYAGTSSIIA-DUQBLKLASA-M
  40 40  0  0  1  0  0  0  0  0999 V2000
     0.5000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -253,7 +253,7 @@ M  CHG  2  18  -1  23   1
 M  END
 $MOL
 gchola[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:54:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:11:43
 InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -414,7 +414,7 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-N
 M  END
 $MOL
 HC01787[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:53:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:19:37
 InChIKey=ZGUYXYAGTSSIIA-DUQBLKLASA-M
  40 40  0  0  1  0  0  0  0  0999 V2000
     0.5000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 PROD2
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 05:22:50
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:34:28
 fad[c] + pro_L[c] -> h[c] + fadh2[c] + 1pyr5c[c]
   2  3
 $MOL
 fad[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:34:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:41
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -185,7 +185,7 @@ M  CHG  2  10  -1  66  -1
 M  END
 $MOL
 pro_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:44:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:45
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0            999 V2000
    -0.1467    3.1768    0.0000 H   0  0  0  0  0  0  0  0  0 85  0  0
@@ -225,15 +225,15 @@ InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0 95  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 fadh2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:34:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:43
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -417,7 +417,7 @@ M  CHG  2  82  -1  85  -1
 M  END
 $MOL
 1pyr5c[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:03:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:39:36
 InChIKey=DWAKNKKXGALPNW-BYPYZUCNSA-M
  14 14  0  0  1  0            999 V2000
     2.0198    0.8843    0.0000 H   0  0  0  0  0  0  0  0  0 94  0  0

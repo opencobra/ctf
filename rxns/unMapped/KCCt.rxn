@@ -5,7 +5,7 @@ k[e] + cl[e] -> k[c] + cl[c]
   2  2
 $MOL
 k[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:43:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:24:00
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:21
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 k[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:43:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:24:00
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
@@ -29,7 +29,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:21
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0

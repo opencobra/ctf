@@ -1,11 +1,11 @@
 $RXN
 r1109
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:50:05
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:04:43
 cit[m] -> ac[m] + oaa[m]
   1  2
 $MOL
 cit[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:15
 InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
  18 17  0  0  0  0            999 V2000
    -0.6039    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -47,7 +47,7 @@ M  CHG  3   5  -1  11  -1  17  -1
 M  END
 $MOL
 ac[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:42
 InChIKey=QTBSBXVTEAMEQO-UHFFFAOYSA-M
   7  6  0  0  0  0            999 V2000
     1.9520    0.3020    0.0000 H   0  0  0  0  0  0  0  0  0 14  0  0
@@ -67,7 +67,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 oaa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:26
 InChIKey=KHPXUQMNIQBQEV-UHFFFAOYSA-L
  11 10  0  0  0  0            999 V2000
     0.8672   -0.0228    0.0000 H   0  0  0  0  0  0  0  0  0  9  0  0

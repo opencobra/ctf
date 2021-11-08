@@ -5,7 +5,7 @@ ch4s[c] -> ch4s[e]
   1  1
 $MOL
 ch4s[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:38
 InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N
   6  5  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -22,7 +22,7 @@ InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N
 M  END
 $MOL
 ch4s[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:38
 InChIKey=LSDPWZHWYPCBBB-UHFFFAOYSA-N
   6  5  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

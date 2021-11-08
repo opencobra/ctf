@@ -5,7 +5,7 @@ aicar[e] -> aicar[c]
   1  1
 $MOL
 aicar[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:11:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:50
 InChIKey=NOTGFIUVDGNKRI-UUOKFMHZSA-L
  35 36  0  0  1  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  2  16  -1  17  -1
 M  END
 $MOL
 aicar[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:11:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:50
 InChIKey=NOTGFIUVDGNKRI-UUOKFMHZSA-L
  35 36  0  0  1  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

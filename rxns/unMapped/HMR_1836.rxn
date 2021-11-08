@@ -5,7 +5,7 @@ CE1589[c] -> CE1589[x]
   1  1
 $MOL
 CE1589[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:53:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:54:09
 InChIKey=YTGXPYMXYISPEB-SIQRDODDSA-J
 145151  0  0  1  0  0  0  0  0999 V2000
    -3.2975   -4.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -308,7 +308,7 @@ M  CHG  4  55  -1  59  -1  60  -1  61  -1
 M  END
 $MOL
 CE1589[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:53:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:54:09
 InChIKey=YTGXPYMXYISPEB-SIQRDODDSA-J
 145151  0  0  1  0  0  0  0  0999 V2000
    -3.2975   -4.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

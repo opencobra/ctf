@@ -5,7 +5,7 @@ adpac[c] -> adpac[e]
   1  1
 $MOL
 adpac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:10:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:13
 InChIKey=WNLRTRBMVRJNCN-UHFFFAOYSA-L
  18 17  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ M  CHG  2   8  -1  10  -1
 M  END
 $MOL
 adpac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:10:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:13
 InChIKey=WNLRTRBMVRJNCN-UHFFFAOYSA-L
  18 17  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

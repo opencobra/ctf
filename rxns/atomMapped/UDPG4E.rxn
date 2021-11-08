@@ -1,11 +1,11 @@
 $RXN
 UDPG4E
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 23:58:41
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:37:34
 udpg[c] -> udpgal[c]
   1  1
 $MOL
 udpg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:07:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:56
 InChIKey=HSCJRCZFDFQWRP-JZMIEXBBSA-L
  58 60  0  0  1  0            999 V2000
     0.7145    6.1875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -130,7 +130,7 @@ M  CHG  2  18  -1  35  -1
 M  END
 $MOL
 udpgal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:07:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:59
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0            999 V2000
     0.7145    6.1875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

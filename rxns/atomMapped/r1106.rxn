@@ -1,11 +1,11 @@
 $RXN
 r1106
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:16:41
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:04:40
 ribflv[e] -> ribflv[c]
   1  1
 $MOL
 ribflv[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:50:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:48:06
 InChIKey=AUNGANRZJHBGPY-SCRDCRAPSA-N
  47 49  0  0  1  0            999 V2000
    -2.1434   -0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -107,7 +107,7 @@ InChIKey=AUNGANRZJHBGPY-SCRDCRAPSA-N
 M  END
 $MOL
 ribflv[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:50:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:48:06
 InChIKey=AUNGANRZJHBGPY-SCRDCRAPSA-N
  47 49  0  0  1  0            999 V2000
    -2.1434   -0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

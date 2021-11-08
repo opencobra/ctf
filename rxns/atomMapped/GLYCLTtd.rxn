@@ -1,11 +1,11 @@
 $RXN
 GLYCLTtd
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:37:10
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 06:06:27
 glyclt[c] -> glyclt[e]
   1  1
 $MOL
 glyclt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:34
 InChIKey=AEMRFAOFKBGASW-UHFFFAOYSA-M
   8  7  0  0  0  0            999 V2000
     1.2375    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -27,7 +27,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 glyclt[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:34
 InChIKey=AEMRFAOFKBGASW-UHFFFAOYSA-M
   8  7  0  0  0  0            999 V2000
     1.2375    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

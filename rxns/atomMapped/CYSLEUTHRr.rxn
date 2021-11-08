@@ -1,11 +1,11 @@
 $RXN
 CYSLEUTHRr
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:42:19
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 06:46:30
 2 h2o[c] + cysleuthr[c] -> cys_L[c] + thr_L[c] + leu_L[c]
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -27,7 +27,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cysleuthr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:22
 InChIKey=XZKJEOMFLDVXJG-DOLQZWNJSA-N
  47 46  0  0  1  0            999 V2000
    -4.1763    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  7  0  0
@@ -126,7 +126,7 @@ InChIKey=XZKJEOMFLDVXJG-DOLQZWNJSA-N
 M  END
 $MOL
 cys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:04
 InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0 22  0  0
@@ -159,7 +159,7 @@ InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
 M  END
 $MOL
 thr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:17
 InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
  17 16  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  7  0  0
@@ -198,7 +198,7 @@ InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
 M  END
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:43:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:09
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0 16  0  0

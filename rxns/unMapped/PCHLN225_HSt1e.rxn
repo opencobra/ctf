@@ -5,7 +5,7 @@ pcholn226_hs[e] -> pcholn226_hs[c]
   1  1
 $MOL
 pcholn226_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:13:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:13
 InChIKey=LSOWKZULVQWMLY-UHFFFAOYSA-O
  90 89  0  0  1  0  0  0  0  0999 V2000
   -18.5000  -12.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -191,7 +191,7 @@ M  CHG  1  31   1
 M  END
 $MOL
 pcholn226_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:13:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:13
 InChIKey=LSOWKZULVQWMLY-UHFFFAOYSA-O
  90 89  0  0  1  0  0  0  0  0999 V2000
   -18.5000  -12.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

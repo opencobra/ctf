@@ -1,19 +1,19 @@
 $RXN
 HMR_9549
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:09:42
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:43:06
 h[c] + ahcys[c] + M02700[c] -> amet[c] + M02699[c]
   3  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 ahcys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:55:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:46
 InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
  46 48  0  0  1  0            999 V2000
     6.3435    0.2681    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -113,7 +113,7 @@ InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
 M  END
 $MOL
 M02700[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:45:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:43:36
 InChIKey=YBMOTEQVMANKGX-JAMMHHFISA-O
  38 38  0  0  1  0            999 V2000
    -1.4009   -2.0248    0.0000 H   0  0  0  0  0  0  0  0  0 48  0  0
@@ -196,7 +196,7 @@ M  CHG  1  35   1
 M  END
 $MOL
 amet[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:58:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:30
 InChIKey=MEFKEPWMEQBLKI-AIRLBKTGSA-O
  50 52  0  0  1  0            999 V2000
     6.3435    0.2681    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -305,7 +305,7 @@ M  CHG  1  16   1
 M  END
 $MOL
 M02699[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:45:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:43:34
 InChIKey=CJCSNWWKPUXVRD-MLWJPKLSSA-N
  34 34  0  0  1  0            999 V2000
    -3.2726    0.0317    0.0000 H   0  0  0  0  0  0  0  0  0 81  0  0

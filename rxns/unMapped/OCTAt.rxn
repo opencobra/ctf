@@ -5,7 +5,7 @@ octa[e] -> octa[c]
   1  1
 $MOL
 octa[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:07:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:53
 InChIKey=WWZKQHOCKIZLMA-UHFFFAOYSA-M
  25 24  0  0  0  0  0  0  0  0999 V2000
     5.1962    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -61,7 +61,7 @@ M  CHG  1  10  -1
 M  END
 $MOL
 octa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:07:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:53
 InChIKey=WWZKQHOCKIZLMA-UHFFFAOYSA-M
  25 24  0  0  0  0  0  0  0  0999 V2000
     5.1962    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

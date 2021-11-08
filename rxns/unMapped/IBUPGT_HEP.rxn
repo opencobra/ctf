@@ -5,7 +5,7 @@ udpglcur[r] + ibup_S[r] -> udp[r] + ibupgluc[r]
   2  2
 $MOL
 udpglcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:01
 InChIKey=HDYANYHVCAPMJV-LXQIFKJMSA-K
  56 58  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ M  CHG  3  18  -1  25  -1  27  -1
 M  END
 $MOL
 ibup_S[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:37:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:47
 InChIKey=HEFNNWSXXWATRW-UHFFFAOYSA-M
  32 32  0  0  1  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -197,7 +197,7 @@ M  CHG  1  15  -1
 M  END
 $MOL
 udp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:52
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -217,12 +217,12 @@ InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
     6.4903    0.9544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.6456   -1.4067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -0.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
     8.1303   -2.7290    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -277,7 +277,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 ibupgluc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:38:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:51
 InChIKey=ABOLXXZAJIAUGR-UHFFFAOYSA-M
  52 53  0  0  1  0  0  0  0  0999 V2000
     5.1962   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

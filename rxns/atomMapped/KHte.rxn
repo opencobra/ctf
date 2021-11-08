@@ -1,11 +1,11 @@
 $RXN
 KHte
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:29:23
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:23:41
 h[c] + k[e] -> h[e] + k[c]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
@@ -14,7 +14,7 @@ M  ISO  1   1   1
 M  END
 $MOL
 k[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:43:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:24:00
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  2  0  0
@@ -22,7 +22,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
@@ -31,7 +31,7 @@ M  ISO  1   1   1
 M  END
 $MOL
 k[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:43:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:24:00
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  2  0  0

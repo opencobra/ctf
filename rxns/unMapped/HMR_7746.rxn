@@ -5,7 +5,7 @@ atp[c] + M01388[c] -> h[c] + adp[c] + M01389[c]
   2  3
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 M01388[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:38:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:36:50
 InChIKey=WQZGKKKJIJFFOK-VFUOTHLCSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -154,7 +154,7 @@ InChIKey=WQZGKKKJIJFFOK-VFUOTHLCSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -163,7 +163,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 adp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:10:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:11
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -250,13 +250,13 @@ M  CHG  3  18  -1  19  -1  21  -1
 M  END
 $MOL
 M01389[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:38:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:36:52
 InChIKey=NBSCHQHZLSJFNQ-VFUOTHLCSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     2.5000   -0.8660    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    3.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    4.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0000   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.0000   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     4.5000   -0.8660    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     4.0000   -1.7321    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
     2.5000    0.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -264,7 +264,7 @@ InChIKey=NBSCHQHZLSJFNQ-VFUOTHLCSA-L
     5.5000   -0.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.5000   -2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.0000   -1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -272,7 +272,7 @@ InChIKey=NBSCHQHZLSJFNQ-VFUOTHLCSA-L
     0.9650   -1.7927    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.0350   -1.7926    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.9650    0.0607    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    1.9300    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9300   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     3.4650    0.9267    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     5.0350    0.0607    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     5.0700   -1.7321    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 r2370
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:09:50
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 01:48:37
 2 na1[e] + ascb_L[e] -> 2 na1[c] + ascb_L[c]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  2  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 ascb_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:22
 InChIKey=CIWBSHSKHKDKBQ-JLAZNSOCSA-M
  19 19  0  0  1  0            999 V2000
    -1.1501   -0.7365    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
@@ -66,7 +66,7 @@ M  CHG  1   5  -1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -74,7 +74,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  2  0  0
@@ -82,7 +82,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 ascb_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:22
 InChIKey=CIWBSHSKHKDKBQ-JLAZNSOCSA-M
  19 19  0  0  1  0            999 V2000
    -1.1501   -0.7365    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0

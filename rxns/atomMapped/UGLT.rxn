@@ -1,11 +1,11 @@
 $RXN
 UGLT
-COBRA Toolbox v3.0 - Atom mapped - 17-Oct-2021 00:00:54
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:48:50
 udpg[c] + gal1p[c] -> udpgal[c] + g1p[c]
   2  2
 $MOL
 udpg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:07:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:56
 InChIKey=HSCJRCZFDFQWRP-JZMIEXBBSA-L
  58 60  0  0  1  0            999 V2000
     0.7145    6.1875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -130,7 +130,7 @@ M  CHG  2  18  -1  35  -1
 M  END
 $MOL
 gal1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:39:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:10:13
 InChIKey=HXXFSFRBOHSIMQ-FPRJBGLDSA-L
  27 27  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0 59  0  0
@@ -191,7 +191,7 @@ M  CHG  2  13  -1  14  -1
 M  END
 $MOL
 udpgal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:07:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:59
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0            999 V2000
     0.7145    6.1875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -316,7 +316,7 @@ M  CHG  2  18  -1  35  -1
 M  END
 $MOL
 g1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:37:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:51
 InChIKey=HXXFSFRBOHSIMQ-GASJEMHNSA-L
  27 27  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0 59  0  0

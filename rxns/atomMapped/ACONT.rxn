@@ -1,11 +1,11 @@
 $RXN
 ACONT
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 11:18:03
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:22:43
 cit[c] -> icit[c]
   1  1
 $MOL
 cit[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:10:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:15
 InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
  18 17  0  0  0  0            999 V2000
    -0.6039    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -47,7 +47,7 @@ M  CHG  3   5  -1  11  -1  17  -1
 M  END
 $MOL
 icit[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:02:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:55
 InChIKey=ODBLHEXUDAPZAU-UHFFFAOYSA-K
  18 17  0  0  0  0            999 V2000
     3.9039    3.0789    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

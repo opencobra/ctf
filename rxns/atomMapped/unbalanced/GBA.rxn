@@ -1,11 +1,11 @@
 $RXN
 GBA
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 21:04:01
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:04:55
 h2o[c] + gluside_hs[c] -> glc_D[c] + crm_hs[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 gluside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:49:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:02
 InChIKey=HHJTWTPUPVQKNA-KEVGHMQTSA-N
  79 79  0  0  1  0            999 V2000
   -12.1460    6.1875    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -180,7 +180,7 @@ InChIKey=HHJTWTPUPVQKNA-KEVGHMQTSA-N
 M  END
 $MOL
 glc_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:48:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:11
 InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
  24 24  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -234,7 +234,7 @@ InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
 M  END
 $MOL
 crm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:18:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:13
 
  60 59  0  0  1  0            999 V2000
     4.0441    4.8099    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

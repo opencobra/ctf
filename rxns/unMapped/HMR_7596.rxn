@@ -5,7 +5,7 @@ akgp_hs[c] -> akgp_hs[x]
   1  1
 $MOL
 akgp_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:12:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:06
 
  15 14  0  0  0  0  0  0  0  0999 V2000
    -3.0000    0.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ M  CHG  2  10  -1  11  -1
 M  END
 $MOL
 akgp_hs[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:12:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:06
 
  15 14  0  0  0  0  0  0  0  0999 V2000
    -3.0000    0.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

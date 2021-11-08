@@ -1,11 +1,11 @@
 $RXN
 r0570
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:10:10
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:39:15
 2dr1p[c] -> 2dr5p[c]
   1  1
 $MOL
 2dr1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:08:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:40:35
 InChIKey=KBDKAJNTYKVSEK-PYHARJCCSA-L
  22 22  0  0  1  0            999 V2000
    -0.1467    3.1768    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -56,7 +56,7 @@ M  CHG  2  13  -1  14  -1
 M  END
 $MOL
 2dr5p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:08:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:40:36
 InChIKey=KKZFLSZAWCYPOC-PYHARJCCSA-L
  22 22  0  0  1  0            999 V2000
     1.2822    2.3518    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

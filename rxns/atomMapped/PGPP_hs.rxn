@@ -1,11 +1,11 @@
 $RXN
 PGPP_hs
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:26:34
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:19:13
 h2o[c] + pgp_hs[c] -> pi[c] + pglyc_hs[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pgp_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:48:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:46
 
  36 35  0  0  0  0            999 V2000
    -0.4125   -5.0013    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -94,7 +94,7 @@ M  CHG  3  10  -1  11  -1  18  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0            999 V2000
     0.1105   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -112,7 +112,7 @@ M  CHG  2   4  -1   5  -1
 M  END
 $MOL
 pglyc_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:48:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:44
 
  33 32  0  0  0  0            999 V2000
    -2.4750   -4.2868    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0

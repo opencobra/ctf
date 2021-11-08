@@ -1,11 +1,11 @@
 $RXN
 SPRMTDe
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 09:55:49
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:26:37
 sprm[e] -> sprm[c]
   1  1
 $MOL
 sprm[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:55:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:31
 InChIKey=PFNFFQXMRSDOHW-UHFFFAOYSA-R
  44 43  0  0  0  0            999 V2000
     4.3461    4.2868    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -99,7 +99,7 @@ M  CHG  4   2   1  14   1  29   1  41   1
 M  END
 $MOL
 sprm[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:55:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:31
 InChIKey=PFNFFQXMRSDOHW-UHFFFAOYSA-R
  44 43  0  0  0  0            999 V2000
     4.3461    4.2868    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -5,7 +5,7 @@ h2o[c] + 2mcacn[c] -> micit[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 2mcacn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:11:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:41:26
 InChIKey=NUZLRKBHOBPTQV-ARJAWSKDSA-K
  18 17  0  0  0  0  0  0  0  0999 V2000
     0.0000   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +58,7 @@ M  CHG  3   9  -1  11  -1  13  -1
 M  END
 $MOL
 micit[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:23:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:24
 InChIKey=HHKPKXCSHMJWCF-WVBDSBKLSA-K
  21 20  0  0  1  0  0  0  0  0999 V2000
     1.3660   -0.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

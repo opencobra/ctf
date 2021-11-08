@@ -5,7 +5,7 @@ pcholn261_hs[e] -> pcholn261_hs[c]
   1  1
 $MOL
 pcholn261_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:18
 InChIKey=HHNUOPXCCKOIPL-UHFFFAOYSA-O
 112111  0  0  1  0  0  0  0  0999 V2000
   -21.5000  -14.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -235,7 +235,7 @@ M  CHG  1  35   1
 M  END
 $MOL
 pcholn261_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:18
 InChIKey=HHNUOPXCCKOIPL-UHFFFAOYSA-O
 112111  0  0  1  0  0  0  0  0999 V2000
   -21.5000  -14.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

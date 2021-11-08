@@ -5,7 +5,7 @@ cbl2[c] -> cbl2[m]
   1  1
 $MOL
 cbl2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:21
 InChIKey=ASARMUCNOOHMLO-DSRCUDDDSA-L
 179185  0  0  1  0  0  0  0  0999 V2000
    16.7775   -6.7242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -376,7 +376,7 @@ M  CHG  5  75   1  77  -1  78  -1  79  -1  91   2
 M  END
 $MOL
 cbl2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:21
 InChIKey=ASARMUCNOOHMLO-DSRCUDDDSA-L
 179185  0  0  1  0  0  0  0  0999 V2000
    16.7775   -6.7242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

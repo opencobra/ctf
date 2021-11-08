@@ -1,11 +1,11 @@
 $RXN
 TRPTHRILEt
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:41:22
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 06:36:43
 h[e] + trpthrile[e] -> h[c] + trpthrile[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
@@ -14,7 +14,7 @@ M  ISO  1   1   1
 M  END
 $MOL
 trpthrile[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:54:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:55:31
 InChIKey=WBZOZLNLXVBCNW-UHFFFAOYSA-N
  60 61  0  0  0  0            999 V2000
     7.5983   -1.5854    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -141,7 +141,7 @@ InChIKey=WBZOZLNLXVBCNW-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
@@ -150,7 +150,7 @@ M  ISO  1   1   1
 M  END
 $MOL
 trpthrile[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:54:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:55:31
 InChIKey=WBZOZLNLXVBCNW-UHFFFAOYSA-N
  60 61  0  0  0  0            999 V2000
     7.5983   -1.5854    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

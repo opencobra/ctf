@@ -1,11 +1,11 @@
 $RXN
 TAURCHAe
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:31:08
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:26:40
 taur[c] -> taur[e]
   1  1
 $MOL
 taur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:52:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:31
 InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
  14 13  0  0  0  0            999 V2000
     3.3000   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -38,7 +38,7 @@ InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
 M  END
 $MOL
 taur[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:52:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:31
 InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
  14 13  0  0  0  0            999 V2000
     3.3000   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

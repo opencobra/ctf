@@ -5,7 +5,7 @@ sprm[e] -> sprm[c]
   1  1
 $MOL
 sprm[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:55:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:31
 InChIKey=PFNFFQXMRSDOHW-UHFFFAOYSA-R
  44 43  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,7 +99,7 @@ M  CHG  4  11   1  12   1  13   1  14   1
 M  END
 $MOL
 sprm[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:55:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:31
 InChIKey=PFNFFQXMRSDOHW-UHFFFAOYSA-R
  44 43  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 ILETA
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:36:43
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:30:32
 akg[c] + ile_L[c] -> glu_L[c] + 3mop[c]
   2  2
 $MOL
 akg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:56:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:04
 InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  14 13  0  0  0  0            999 V2000
     3.5597    2.5787    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -39,7 +39,7 @@ M  CHG  2   5  -1  13  -1
 M  END
 $MOL
 ile_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:04:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:03
 InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N
  22 21  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -88,7 +88,7 @@ InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N
 M  END
 $MOL
 glu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:49:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:42
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -130,7 +130,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 3mop[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:20:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:44:39
 InChIKey=JVQYSWDUAOAHFM-BYPYZUCNSA-M
  18 17  0  0  1  0            999 V2000
    -0.6039    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0 35  0  0

@@ -5,7 +5,7 @@ M00021[e] -> M00021[c]
   1  1
 $MOL
 M00021[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:04:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:54
 InChIKey=HVGRZDASOHMCSK-HZJYTTRNSA-M
  63 62  0  0  0  0  0  0  0  0999 V2000
    12.1244   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 M00021[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:04:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:54
 InChIKey=HVGRZDASOHMCSK-HZJYTTRNSA-M
  63 62  0  0  0  0  0  0  0  0999 V2000
    12.1244   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

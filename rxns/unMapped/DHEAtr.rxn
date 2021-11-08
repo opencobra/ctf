@@ -5,7 +5,7 @@ dhea[r] -> dhea[c]
   1  1
 $MOL
 dhea[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:38:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:42
 InChIKey=FMGSKLZLMKYGDP-USOAJAOKSA-N
  49 52  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -112,7 +112,7 @@ InChIKey=FMGSKLZLMKYGDP-USOAJAOKSA-N
 M  END
 $MOL
 dhea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:38:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:42
 InChIKey=FMGSKLZLMKYGDP-USOAJAOKSA-N
  49 52  0  0  1  0  0  0  0  0999 V2000
     2.5073   -0.4461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

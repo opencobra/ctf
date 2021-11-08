@@ -5,7 +5,7 @@ hom_L[c] + met_L[e] -> met_L[c] + hom_L[e]
   2  2
 $MOL
 hom_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:10:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:03
 InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -44,7 +44,7 @@ InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N
 M  END
 $MOL
 met_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:58:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:27
 InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
     4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
 M  END
 $MOL
 met_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:58:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:27
 InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
     4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -134,7 +134,7 @@ InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
 M  END
 $MOL
 hom_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:10:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:03
 InChIKey=UKAUYVFTDYCKQA-VKHMYHEASA-N
  17 16  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

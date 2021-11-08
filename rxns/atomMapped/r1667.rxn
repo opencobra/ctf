@@ -1,11 +1,11 @@
 $RXN
 r1667
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:19:02
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:48:36
 orn[c] + arg_L[e] -> arg_L[c] + orn[e]
   2  2
 $MOL
 orn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:31:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -55,7 +55,7 @@ M  CHG  1  19   1
 M  END
 $MOL
 arg_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:01:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:36
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0            999 V2000
     2.9980    3.3809    0.0000 H   0  0  0  0  0  0  0  0  0 23  0  0
@@ -115,7 +115,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 arg_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:01:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:36
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0            999 V2000
     2.9980    3.3809    0.0000 H   0  0  0  0  0  0  0  0  0 23  0  0
@@ -175,7 +175,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 orn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:31:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

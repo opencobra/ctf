@@ -1,11 +1,11 @@
 $RXN
 HMR_9524
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:09:14
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:40:57
 M03085[c] -> M03087[c]
   1  1
 $MOL
 M03085[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:47:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:46:39
 
  76 79  0  0  1  0            999 V2000
    -3.1128   -1.5706    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -166,7 +166,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:47:15
 M  END
 $MOL
 M03087[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:47:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:46:44
 
  76 79  0  0  1  0            999 V2000
    -3.1128   -1.5706    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

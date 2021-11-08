@@ -1,11 +1,11 @@
 $RXN
 CRTSLtr
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:53:37
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:44:08
 crtsl[c] -> crtsl[r]
   1  1
 $MOL
 crtsl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:21
 InChIKey=JYGXADMDTFJGBT-VWUMJDOOSA-N
  56 59  0  0  1  0            999 V2000
     1.7171   -0.4548    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -126,7 +126,7 @@ InChIKey=JYGXADMDTFJGBT-VWUMJDOOSA-N
 M  END
 $MOL
 crtsl[r]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:21
 InChIKey=JYGXADMDTFJGBT-VWUMJDOOSA-N
  56 59  0  0  1  0            999 V2000
     1.7171   -0.4548    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

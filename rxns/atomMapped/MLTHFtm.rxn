@@ -1,11 +1,11 @@
 $RXN
 MLTHFtm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:46:05
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:15:23
 mlthf[c] -> mlthf[m]
   1  1
 $MOL
 mlthf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:45:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:28
 InChIKey=QYNUQALWYRSVHF-UEWDXFNNSA-L
  54 57  0  0  1  0            999 V2000
     4.3729   -4.8781    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -123,7 +123,7 @@ M  CHG  2  35  -1  53  -1
 M  END
 $MOL
 mlthf[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:45:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:28
 InChIKey=QYNUQALWYRSVHF-UEWDXFNNSA-L
  54 57  0  0  1  0            999 V2000
     4.3729   -4.8781    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

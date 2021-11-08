@@ -1,11 +1,11 @@
 $RXN
 r1291
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:50:27
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:11:03
 ppcoa[c] -> ppcoa[m]
   1  1
 $MOL
 ppcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:12
 InChIKey=QAQREVBBADEHPA-SSERFMASSA-J
  88 90  0  0  1  0            999 V2000
     8.0861   -2.4163    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -190,7 +190,7 @@ M  CHG  4   6  -1  15  -1  86  -1  87  -1
 M  END
 $MOL
 ppcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:12
 InChIKey=QAQREVBBADEHPA-SSERFMASSA-J
  88 90  0  0  1  0            999 V2000
     8.0861   -2.4163    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

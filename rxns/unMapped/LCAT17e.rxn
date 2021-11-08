@@ -5,7 +5,7 @@ chsterol[e] + pail_hs[e] -> xolest2_hs[e] + pailste_hs[e]
   2  2
 $MOL
 chsterol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:09
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 pail_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:10:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:06
 
  43 43  0  0  1  0  0  0  0  0999 V2000
    -3.0000    2.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -255,7 +255,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 xolest2_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:56:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:58
 
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.8469    0.4886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -416,7 +416,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:56:26
 M  END
 $MOL
 pailste_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:11:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:12
 InChIKey=MXAFDFDAIFZFET-UHFFFAOYSA-M
  92 92  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -452,7 +452,7 @@ InChIKey=MXAFDFDAIFZFET-UHFFFAOYSA-M
    -3.4641   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321   -4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.5000   -2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

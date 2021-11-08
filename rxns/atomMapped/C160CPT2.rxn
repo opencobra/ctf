@@ -1,11 +1,11 @@
 $RXN
 C160CPT2
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:49:58
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:31:04
 coa[m] + pmtcrn[m] -> crn[m] + pmtcoa[m]
   2  2
 $MOL
 coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0            999 V2000
    -1.2995  -10.4281    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -174,7 +174,7 @@ M  CHG  4   6  -1  15  -1  78  -1  79  -1
 M  END
 $MOL
 pmtcrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:05
 InChIKey=XOMRRQXKHMYMOC-OAQYLSRUSA-N
  73 72  0  0  1  0            999 V2000
     7.6461   -4.2868    0.0000 H   0  0  0  0  0  0  0  0  0 81  0  0
@@ -326,7 +326,7 @@ M  CHG  2  56  -1  61   1
 M  END
 $MOL
 crn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:17
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0            999 V2000
    -0.6039    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 24  0  0
@@ -384,7 +384,7 @@ M  CHG  2   9  -1  14   1
 M  END
 $MOL
 pmtcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:02
 InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J
 127129  0  0  1  0            999 V2000
     7.4579   -2.8243    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

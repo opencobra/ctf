@@ -1,11 +1,11 @@
 $RXN
 INSt
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:43:54
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:30:43
 ins[e] -> ins[c]
   1  1
 $MOL
 ins[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:05:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:37
 InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
  31 33  0  0  1  0            999 V2000
     3.9934    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -75,7 +75,7 @@ InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
 M  END
 $MOL
 ins[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:05:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:37
 InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
  31 33  0  0  1  0            999 V2000
     3.9934    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

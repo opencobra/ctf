@@ -5,15 +5,16 @@ h[c] + orot5p[c] -> co2[c] + ump[c]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 orot5p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:31:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:34
 InChIKey=KYOBSHFOBAOFBF-XVFCMESISA-K
  34 35  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34,9 +35,9 @@ InChIKey=KYOBSHFOBAOFBF-XVFCMESISA-K
     3.1337   -2.3862    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.5349   -3.4042    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     4.4903    0.9544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -0.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.6456   -1.4067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
@@ -89,7 +90,7 @@ M  CHG  3  13  -1  17  -1  19  -1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:13:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +101,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 ump[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:08:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:07
 InChIKey=DJJCXFVJDGTHFX-XVFCMESISA-L
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -118,7 +119,7 @@ InChIKey=DJJCXFVJDGTHFX-XVFCMESISA-L
     1.0934    0.6637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.2215    1.1160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.4903    0.9544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

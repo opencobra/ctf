@@ -5,7 +5,7 @@ oagd3_hs[c] -> oagd3_hs[g]
   1  1
 $MOL
 oagd3_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:34
 InChIKey=ODBNHBMRTCHJEH-UHFFFAOYSA-N
 184187  0  0  1  0  0  0  0  0999 V2000
     2.6690   19.5289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -382,7 +382,7 @@ InChIKey=ODBNHBMRTCHJEH-UHFFFAOYSA-N
 M  END
 $MOL
 oagd3_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:06:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:34
 InChIKey=ODBNHBMRTCHJEH-UHFFFAOYSA-N
 184187  0  0  1  0  0  0  0  0999 V2000
     2.6690   19.5289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

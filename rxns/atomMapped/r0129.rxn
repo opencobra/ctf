@@ -1,11 +1,11 @@
 $RXN
 r0129
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:39:08
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:19:14
 h2o[c] + gthrd[c] -> glu_L[c] + cgly[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 gthrd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:41
 InChIKey=RWSXRVCMGQZWBV-WDSKDSINSA-M
  36 35  0  0  1  0            999 V2000
    -3.7638    4.4270    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -94,7 +94,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 glu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:42
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 34  0  0
@@ -136,7 +136,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 cgly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:36
 InChIKey=ZUKPVRWZDMRIEO-VKHMYHEASA-N
  21 20  0  0  1  0            999 V2000
     3.3000    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

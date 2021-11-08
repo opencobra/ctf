@@ -1,11 +1,11 @@
 $RXN
 RETI1
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 08:13:32
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:37:19
 retinol[c] -> retinol_cis_11[c]
   1  1
 $MOL
 retinol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:49:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:49
 InChIKey=FPIPGXGPPPQFEQ-OVSJKPMPSA-N
  51 51  0  0  0  0            999 V2000
     5.7158    7.4250    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -113,7 +113,7 @@ InChIKey=FPIPGXGPPPQFEQ-OVSJKPMPSA-N
 M  END
 $MOL
 retinol_cis_11[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:49:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:54
 InChIKey=FPIPGXGPPPQFEQ-IOUUIBBYSA-N
  51 51  0  0  0  0            999 V2000
     2.8579    7.4250    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

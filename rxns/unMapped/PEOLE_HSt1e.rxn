@@ -5,7 +5,7 @@ peole_hs[e] -> peole_hs[c]
   1  1
 $MOL
 peole_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:17:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:30
 InChIKey=PYVRVRFVLRNJLY-UHFFFAOYSA-N
  78 77  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -166,7 +166,7 @@ InChIKey=PYVRVRFVLRNJLY-UHFFFAOYSA-N
 M  END
 $MOL
 peole_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:17:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:30
 InChIKey=PYVRVRFVLRNJLY-UHFFFAOYSA-N
  78 77  0  0  1  0  0  0  0  0999 V2000
    14.5000   -9.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

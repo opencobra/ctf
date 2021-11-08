@@ -5,7 +5,7 @@ his_L[e] + ile_L[c] -> his_L[c] + ile_L[e]
   2  2
 $MOL
 his_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:08:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:10
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 ile_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:39:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:03
 InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
     3.4641   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N
 M  END
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:08:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:10
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 ile_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:39:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:03
 InChIKey=AGPKZVBTJJNPAG-WHFBIAKZSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
     3.4641   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ nadph[x] -> nadp[x] + HC02113[x]
   1  2
 $MOL
 nadph[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:26
 InChIKey=ACFIXJIJDZMPPO-NCHANQSKSA-J
  74 78  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -164,7 +164,7 @@ M  CHG  4  32  -1  33  -1  34  -1  36  -1
 M  END
 $MOL
 nadp[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:23
 InChIKey=XJLXINKUBYWONI-NNYOXOHSSA-K
  73 77  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -321,7 +321,7 @@ M  CHG  5  27   1  32  -1  34  -1  35  -1  39  -1
 M  END
 $MOL
 HC02113[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:58:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:21:31
 InChIKey=ACFIXJIJDZMPPO-UHFFFAOYSA-N
  78 82  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -356,9 +356,9 @@ InChIKey=ACFIXJIJDZMPPO-UHFFFAOYSA-N
     3.1637    0.2274    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     6.8606    1.1256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    11.1394    4.6177    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.2780    6.1436    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.6748    6.3648    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.3237    3.1287    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

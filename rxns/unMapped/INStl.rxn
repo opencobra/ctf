@@ -5,7 +5,7 @@ ins[l] -> ins[c]
   1  1
 $MOL
 ins[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:41:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:37
 InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
  31 33  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -75,7 +75,7 @@ InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
 M  END
 $MOL
 ins[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:41:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:37
 InChIKey=UGQMRVRMYYASKQ-KQYNXXCUSA-N
  31 33  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

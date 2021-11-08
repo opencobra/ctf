@@ -5,7 +5,7 @@ h[e] + leuval[e] -> h[c] + leuval[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 leuval[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:44:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:52
 InChIKey=MDSUKZSLOATHMH-BDAKNGLRSA-N
  38 37  0  0  1  0  0  0  0  0999 V2000
     3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ InChIKey=MDSUKZSLOATHMH-BDAKNGLRSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -104,7 +104,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 leuval[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:44:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:52
 InChIKey=MDSUKZSLOATHMH-BDAKNGLRSA-N
  38 37  0  0  1  0  0  0  0  0999 V2000
     3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ M00117[l] -> M00117[c]
   1  1
 $MOL
 M00117[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:06:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:24:51
 InChIKey=ZVXDGKJSUPWREP-FPLPWBNLSA-M
  41 40  0  0  0  0  0  0  0  0999 V2000
     8.6603    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 M00117[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:06:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:24:51
 InChIKey=ZVXDGKJSUPWREP-FPLPWBNLSA-M
  41 40  0  0  0  0  0  0  0  0999 V2000
     8.6603    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

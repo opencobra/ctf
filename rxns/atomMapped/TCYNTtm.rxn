@@ -1,0 +1,29 @@
+$RXN
+TCYNTtm
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:56:44
+tcynt[m] -> tcynt[c]
+  1  1
+$MOL
+tcynt[m]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:40
+InChIKey=ZMZDMBWJUHKJPS-UHFFFAOYSA-M
+  3  2  0  0  0  0            999 V2000
+    1.6500   -0.0000    0.0000 S   0  5  0  0  0  0  0  0  0  1  0  0
+    2.4750   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  2  0  0
+    3.3000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  3  0  0
+  1  2  1  0  0  0  0
+  2  3  3  0  0  0  0
+M  CHG  1   1  -1
+M  END
+$MOL
+tcynt[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:40
+InChIKey=ZMZDMBWJUHKJPS-UHFFFAOYSA-M
+  3  2  0  0  0  0            999 V2000
+    1.6500   -0.0000    0.0000 S   0  5  0  0  0  0  0  0  0  1  0  0
+    2.4750   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  2  0  0
+    3.3000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  3  0  0
+  1  2  1  0  0  0  0
+  2  3  3  0  0  0  0
+M  CHG  1   1  -1
+M  END

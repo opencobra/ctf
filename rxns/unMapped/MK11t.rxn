@@ -5,7 +5,7 @@ mqn11[c] -> mqn11[e]
   1  1
 $MOL
 mqn11[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:02:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:48
 InChIKey=YYDMANIEKFAEJC-RYZSZPJESA-N
 164165  0  0  0  0  0  0  0  0999 V2000
    27.7128  -17.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -340,7 +340,7 @@ InChIKey=YYDMANIEKFAEJC-RYZSZPJESA-N
 M  END
 $MOL
 mqn11[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:02:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:48
 InChIKey=YYDMANIEKFAEJC-RYZSZPJESA-N
 164165  0  0  0  0  0  0  0  0999 V2000
    27.7128  -17.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

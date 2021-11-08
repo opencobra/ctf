@@ -1,11 +1,11 @@
 $RXN
 PYDAMtr
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 05:46:13
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:48:47
 pydam[e] -> pydam[c]
   1  1
 $MOL
 pydam[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:46:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:16
 InChIKey=NHZMQXZHNVQTQA-UHFFFAOYSA-O
  25 25  0  0  0  0            999 V2000
     1.4289    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -62,7 +62,7 @@ M  CHG  1  13   1
 M  END
 $MOL
 pydam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:46:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:16
 InChIKey=NHZMQXZHNVQTQA-UHFFFAOYSA-O
  25 25  0  0  0  0            999 V2000
     1.4289    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -1,11 +1,11 @@
 $RXN
 ACTHRtc
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:36:04
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:58:20
 acthr_L[m] -> acthr_L[c]
   1  1
 $MOL
 acthr_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:54
 InChIKey=PEDXUVCGOLSNLQ-UHFFFAOYSA-M
  21 20  0  0  0  0            999 V2000
     3.3000    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -53,7 +53,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 acthr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:54
 InChIKey=PEDXUVCGOLSNLQ-UHFFFAOYSA-M
  21 20  0  0  0  0            999 V2000
     3.3000    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

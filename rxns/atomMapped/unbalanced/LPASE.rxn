@@ -1,11 +1,11 @@
 $RXN
 LPASE
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 01:37:55
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:39:52
 h2o[c] + lpchol_hs[c] -> h[c] + Rtotal[c] + g3pc[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,12 +16,12 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 lpchol_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:18:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:31:37
 
- 39 38  0  0  0  0            999 V2000
+ 39 38  0  0  1  0            999 V2000
    -0.1914   -2.3645    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
     0.5230   -1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  5  0  0
-    0.5230   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  6  0  0
+    0.5230   -1.1270    0.0000 C   0  0  2  0  0  0  0  0  0  6  0  0
     1.2375   -1.5395    0.0000 H   0  0  0  0  0  0  0  0  0  7  0  0
     1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  8  0  0
     1.6078    0.0228    0.0000 H   0  0  0  0  0  0  0  0  0  9  0  0
@@ -59,8 +59,8 @@ COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:18:36
    -3.6508   -2.1420    0.0000 H   0  0  0  0  0  0  0  0  0 41  0  0
    -3.2678   -1.6384    0.0000 H   0  0  0  0  0  0  0  0  0 42  0  0
   1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  4  1  6  0  0  0
   3  5  1  0  0  0  0
   5  6  1  0  0  0  0
   5  7  1  0  0  0  0
@@ -100,15 +100,15 @@ M  CHG  1  27   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0 22  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 Rtotal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:48:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:04
 
   4  3  0  0  0  0            999 V2000
     1.2375    0.7145    0.0000 O   0  5  0  0  0  0  0  0  0 11  0  0
@@ -122,7 +122,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 g3pc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:37:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:58
 InChIKey=SUHOQUVVVLNYQR-MRVPVSSYSA-N
  36 35  0  0  1  0            999 V2000
    -3.4618   -4.9500    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

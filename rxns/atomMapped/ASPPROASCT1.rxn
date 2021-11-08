@@ -1,11 +1,11 @@
 $RXN
 ASPPROASCT1
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:28:24
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:19:18
 na1[e] + asp_L[e] + pro_L[c] -> na1[c] + asp_L[c] + pro_L[e]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 asp_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:44
 InChIKey=CKLJMWTZIZZHCS-REOHCLBHSA-M
  15 14  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -49,7 +49,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 pro_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:45
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0            999 V2000
    -0.1467    3.1768    0.0000 H   0  0  0  0  0  0  0  0  0 17  0  0
@@ -89,7 +89,7 @@ InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -97,7 +97,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 asp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:44
 InChIKey=CKLJMWTZIZZHCS-REOHCLBHSA-M
  15 14  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -133,7 +133,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 pro_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:45
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0            999 V2000
    -0.1467    3.1768    0.0000 H   0  0  0  0  0  0  0  0  0 17  0  0

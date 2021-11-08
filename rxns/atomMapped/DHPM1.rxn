@@ -1,11 +1,11 @@
 $RXN
 DHPM1
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 16:44:53
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:58:30
 h2o[c] + 56dura[c] -> h[c] + cala[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 56dura[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:27:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:47:23
 InChIKey=OIVLITBTBDPEFK-UHFFFAOYSA-N
  14 14  0  0  0  0            999 V2000
     0.0000   -1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -50,15 +50,15 @@ InChIKey=OIVLITBTBDPEFK-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  3  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 cala[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:05:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:51
 InChIKey=JSJWCHRYRHKBBW-UHFFFAOYSA-M
  16 15  0  0  0  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

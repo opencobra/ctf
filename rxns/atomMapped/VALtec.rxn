@@ -1,11 +1,11 @@
 $RXN
 VALtec
-COBRA Toolbox v3.0 - Atom mapped - 17-Oct-2021 00:31:26
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:12:08
 val_L[e] -> val_L[c]
   1  1
 $MOL
 val_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:09:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:35
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -48,7 +48,7 @@ InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
 M  END
 $MOL
 val_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:09:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:35
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

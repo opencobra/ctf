@@ -5,7 +5,7 @@ na1[e] + tchola[e] -> na1[c] + tchola[c]
   2  2
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 tchola[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:37:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:38
 InChIKey=WBWWGRHZICKQGZ-HZAMXZRMSA-N
  80 83  0  0  1  0  0  0  0  0999 V2000
     5.8623   -1.6923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -182,7 +182,7 @@ InChIKey=WBWWGRHZICKQGZ-HZAMXZRMSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -190,7 +190,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 tchola[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:37:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:38
 InChIKey=WBWWGRHZICKQGZ-HZAMXZRMSA-N
  80 83  0  0  1  0  0  0  0  0999 V2000
     5.8623   -1.6923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ coa[x] + HC10859[x] -> h[x] + crn[x] + malcoa[x]
   2  3
 $MOL
 coa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -174,7 +174,7 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 HC10859[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:02:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:08
 InChIKey=ZGNBLKBZJBJFDG-ZETCQYMHSA-N
  34 33  0  0  1  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -248,7 +248,7 @@ M  CHG  2  11   1  15  -1
 M  END
 $MOL
 h[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -257,7 +257,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 crn[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:17
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -315,7 +315,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 malcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:56:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:35:41
 InChIKey=LTYOQGRJFJAKNA-DVVLENMVSA-I
  87 89  0  0  1  0  0  0  0  0999 V2000
    -4.9564   -1.5320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -366,7 +366,7 @@ InChIKey=LTYOQGRJFJAKNA-DVVLENMVSA-I
    -0.1939   -2.9385    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5660   -1.3981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.8364   -2.4487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.3800   -2.1683    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
    -1.1720   -3.1465    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0

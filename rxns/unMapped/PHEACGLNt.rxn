@@ -5,7 +5,7 @@ pheacgln[c] -> pheacgln[e]
   1  1
 $MOL
 pheacgln[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:56
 InChIKey=JFLIEFSWGNOPJJ-JTQLQIEISA-N
  35 35  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -81,7 +81,7 @@ InChIKey=JFLIEFSWGNOPJJ-JTQLQIEISA-N
 M  END
 $MOL
 pheacgln[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:56
 InChIKey=JFLIEFSWGNOPJJ-JTQLQIEISA-N
  35 35  0  0  1  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

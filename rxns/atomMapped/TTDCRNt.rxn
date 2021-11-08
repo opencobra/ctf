@@ -1,11 +1,11 @@
 $RXN
 TTDCRNt
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:36:03
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:04:36
 ttdcrn[c] -> ttdcrn[m]
   1  1
 $MOL
 ttdcrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:54:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:06
 InChIKey=PSHXNVGSVNEJBD-LJQANCHMSA-N
  67 66  0  0  1  0            999 V2000
     6.4086   -3.5724    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -145,7 +145,7 @@ M  CHG  2  50  -1  55   1
 M  END
 $MOL
 ttdcrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:54:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:06
 InChIKey=PSHXNVGSVNEJBD-LJQANCHMSA-N
  67 66  0  0  1  0            999 V2000
     6.4086   -3.5724    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

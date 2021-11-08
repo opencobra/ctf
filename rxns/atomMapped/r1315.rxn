@@ -1,11 +1,11 @@
 $RXN
 r1315
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:18:23
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:11:42
 HC02098[c] -> h2o[c] + HC02099[c]
   1  2
 $MOL
 HC02098[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:38:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:21:21
 
  57 56  0  0  1  0            999 V2000
    10.6145    4.4783    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -124,7 +124,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:38:10
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  7  0  0
@@ -135,7 +135,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 HC02099[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:38:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:21:23
 
  54 53  0  0  0  0            999 V2000
     5.2816    5.5243    0.0000 H   0  0  0  0  0  0  0  0  0  6  0  0

@@ -5,7 +5,7 @@ lvstacid[c] -> lvstacid[r]
   1  1
 $MOL
 lvstacid[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:32:04
 InChIKey=HVNPYUAENVOWDV-UHFFFAOYSA-N
  68 69  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -150,7 +150,7 @@ M  CHG  1  28  -1
 M  END
 $MOL
 lvstacid[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:32:04
 InChIKey=HVNPYUAENVOWDV-UHFFFAOYSA-N
  68 69  0  0  1  0  0  0  0  0999 V2000
    -0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

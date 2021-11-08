@@ -1,19 +1,20 @@
 $RXN
 r1088
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:16:16
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:04:29
 h[e] + cit[e] -> h[c] + cit[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 cit[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:10:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:15
 InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
  18 17  0  0  0  0            999 V2000
    -0.6039    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -55,15 +56,16 @@ M  CHG  3   5  -1  11  -1  17  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 cit[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:10:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:15
 InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
  18 17  0  0  0  0            999 V2000
    -0.6039    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

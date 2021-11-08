@@ -5,7 +5,7 @@ egme[r] -> egme[c]
   1  1
 $MOL
 egme[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:45:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:37
 InChIKey=QIQNNBXHAYSQRY-ABIFROTESA-N
  31 32  0  0  1  0  0  0  0  0999 V2000
     0.7204   -0.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -74,7 +74,7 @@ InChIKey=QIQNNBXHAYSQRY-ABIFROTESA-N
 M  END
 $MOL
 egme[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:45:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:37
 InChIKey=QIQNNBXHAYSQRY-ABIFROTESA-N
  31 32  0  0  1  0  0  0  0  0999 V2000
     0.7204   -0.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

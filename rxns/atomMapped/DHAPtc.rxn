@@ -1,11 +1,11 @@
 $RXN
 DHAPtc
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:28:39
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:20:33
 dhap[m] -> dhap[c]
   1  1
 $MOL
 dhap[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:36:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:26
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0            999 V2000
    -1.3184   -3.7125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -41,7 +41,7 @@ M  CHG  2  13  -1  14  -1
 M  END
 $MOL
 dhap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:36:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:26
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0            999 V2000
    -1.3184   -3.7125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

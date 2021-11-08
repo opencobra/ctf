@@ -5,7 +5,7 @@ CE5947[c] -> CE5947[x]
   1  1
 $MOL
 CE5947[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:32:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:12:19
 InChIKey=BCZGHMCTSJAJRR-NSBXBVANSA-L
  56 55  0  0  1  0  0  0  0  0999 V2000
     6.9282   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -123,7 +123,7 @@ M  CHG  2  24  -1  26  -1
 M  END
 $MOL
 CE5947[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:32:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:12:19
 InChIKey=BCZGHMCTSJAJRR-NSBXBVANSA-L
  56 55  0  0  1  0  0  0  0  0999 V2000
     6.9282   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

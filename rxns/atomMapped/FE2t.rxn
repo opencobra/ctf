@@ -1,0 +1,21 @@
+$RXN
+FE2t
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 20:52:54
+fe2[e] -> fe2[c]
+  1  1
+$MOL
+fe2[e]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:49
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   2
+M  END
+$MOL
+fe2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:49
+InChIKey=CWYNVVGOOAEACU-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Fe  0  2  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   2
+M  END

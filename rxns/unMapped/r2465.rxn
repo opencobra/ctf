@@ -5,7 +5,7 @@ zn2[c] -> zn2[e]
   1  1
 $MOL
 zn2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:57:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:59:35
 InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   2
 M  END
 $MOL
 zn2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:57:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:59:35
 InChIKey=PTFCDOFLOPIGGS-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0

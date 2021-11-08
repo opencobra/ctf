@@ -5,7 +5,7 @@ ser_L[c] + orn[e] -> orn[c] + ser_L[e]
   2  2
 $MOL
 ser_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:31:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:03
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,7 +38,7 @@ InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
 M  END
 $MOL
 orn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -88,7 +88,7 @@ M  CHG  1   6   1
 M  END
 $MOL
 orn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -138,7 +138,7 @@ M  CHG  1   6   1
 M  END
 $MOL
 ser_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:31:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:03
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

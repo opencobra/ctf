@@ -1,11 +1,11 @@
 $RXN
 r0120
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 05:57:09
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:18:59
 h2o[c] + gtp[c] -> HC01651[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 gtp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:42
 InChIKey=XKMLYUALXHKNFT-UUOKFMHZSA-J
  44 46  0  0  1  0            999 V2000
     1.3240    0.7071    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -113,7 +113,7 @@ M  CHG  4  15  -1  24  -1  25  -1  44  -1
 M  END
 $MOL
 HC01651[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:37:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:19:24
 InChIKey=NDXMRXXKCCKQQV-UUOKFMHZSA-J
  47 48  0  0  1  0            999 V2000
     2.7512   -0.0616    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

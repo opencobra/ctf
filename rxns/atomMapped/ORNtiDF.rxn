@@ -1,11 +1,11 @@
 $RXN
 ORNtiDF
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:24:49
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:04:49
 orn[e] -> orn[c]
   1  1
 $MOL
 orn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -55,7 +55,7 @@ M  CHG  1  19   1
 M  END
 $MOL
 orn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -5,7 +5,7 @@ pcholet_hs[e] -> pcholet_hs[c]
   1  1
 $MOL
 pcholet_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:40
 InChIKey=XUDGAAFUMTTZCO-UHFFFAOYSA-O
  90 89  0  0  1  0  0  0  0  0999 V2000
   -17.0000  -11.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -191,7 +191,7 @@ M  CHG  1  29   1
 M  END
 $MOL
 pcholet_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:40
 InChIKey=XUDGAAFUMTTZCO-UHFFFAOYSA-O
  90 89  0  0  1  0  0  0  0  0999 V2000
   -17.0000  -11.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

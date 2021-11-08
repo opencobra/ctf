@@ -5,12 +5,12 @@ akg[m] + orn[m] -> glu_L[m] + glu5sa[m]
   2  2
 $MOL
 akg[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:04
 InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  14 13  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -4.3301   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -39,7 +39,7 @@ M  CHG  2   8  -1   9  -1
 M  END
 $MOL
 orn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -89,12 +89,12 @@ M  CHG  1   6   1
 M  END
 $MOL
 glu_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:42
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.7321   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7321    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -4.3301   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -131,7 +131,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 glu5sa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:40
 InChIKey=KABXUUFDPUOJMW-BYPYZUCNSA-N
  18 17  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

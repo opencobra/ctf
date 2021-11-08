@@ -5,7 +5,7 @@ h2o[c] + atp[c] + pcholole_hs[c] -> h[c] + adp[c] + pi[c] + pcholole_hs[e]
   3  4
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -111,9 +111,9 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 pcholole_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:26
-InChIKey=YAMUFBLWGFFICM-PTGWMXDISA-O
- 88 87  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:25
+InChIKey=YAMUFBLWGFFICM-PTGWMXDISA-N
+ 87 86  0  0  1  0  0  0  0  0999 V2000
    15.1244    8.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -144,7 +144,7 @@ InChIKey=YAMUFBLWGFFICM-PTGWMXDISA-O
     2.1340    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.7321    2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.5000   -0.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.1340   -0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1340   -0.5000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     3.8660    3.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.5000    0.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.8660    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -201,7 +201,6 @@ InChIKey=YAMUFBLWGFFICM-PTGWMXDISA-O
     4.7926    0.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.0733    2.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.2939    1.9850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2939   -0.0150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  5  1  0  0  0  0
   1 36  1  0  0  0  0
   1 37  1  0  0  0  0
@@ -286,14 +285,13 @@ InChIKey=YAMUFBLWGFFICM-PTGWMXDISA-O
  28 87  1  0  0  0  0
  30 35  2  0  0  0  0
  31 35  1  0  0  0  0
- 31 88  1  0  0  0  0
  33 35  1  0  0  0  0
  34 35  1  0  0  0  0
-M  CHG  1  27   1
+M  CHG  2  27   1  31  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -302,7 +300,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 adp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:10:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:11
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -389,7 +387,7 @@ M  CHG  3  18  -1  19  -1  21  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -407,9 +405,9 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 pcholole_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:26
-InChIKey=YAMUFBLWGFFICM-PTGWMXDISA-O
- 88 87  0  0  1  0  0  0  0  0999 V2000
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:25
+InChIKey=YAMUFBLWGFFICM-PTGWMXDISA-N
+ 87 86  0  0  1  0  0  0  0  0999 V2000
    15.1244    8.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -440,7 +438,7 @@ InChIKey=YAMUFBLWGFFICM-PTGWMXDISA-O
     2.1340    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.7321    2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.5000   -0.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.1340   -0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1340   -0.5000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     3.8660    3.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.5000    0.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.8660    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -497,7 +495,6 @@ InChIKey=YAMUFBLWGFFICM-PTGWMXDISA-O
     4.7926    0.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.0733    2.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.2939    1.9850    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2939   -0.0150    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  5  1  0  0  0  0
   1 36  1  0  0  0  0
   1 37  1  0  0  0  0
@@ -582,8 +579,7 @@ InChIKey=YAMUFBLWGFFICM-PTGWMXDISA-O
  28 87  1  0  0  0  0
  30 35  2  0  0  0  0
  31 35  1  0  0  0  0
- 31 88  1  0  0  0  0
  33 35  1  0  0  0  0
  34 35  1  0  0  0  0
-M  CHG  1  27   1
+M  CHG  2  27   1  31  -1
 M  END

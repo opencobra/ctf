@@ -1,11 +1,11 @@
 $RXN
 DOPAt4_2_r
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:59:39
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 20:08:03
 2 na1[e] + dopa[e] -> 2 na1[c] + dopa[c]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  2  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 dopa[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:38
 InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-O
  23 23  0  0  0  0            999 V2000
     1.4289    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
@@ -74,7 +74,7 @@ M  CHG  1  20   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -82,7 +82,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  2  0  0
@@ -90,7 +90,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 dopa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:38
 InChIKey=VYFYYTLLBUKUHU-UHFFFAOYSA-O
  23 23  0  0  0  0            999 V2000
     1.4289    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0

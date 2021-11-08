@@ -1,11 +1,11 @@
 $RXN
 G3PD2m
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:03:25
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:01:54
 fad[m] + glyc3p[c] -> fadh2[m] + dhap[c]
   2  2
 $MOL
 fad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:41
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -185,7 +185,7 @@ M  CHG  2  10  -1  66  -1
 M  END
 $MOL
 glyc3p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:29
 InChIKey=AWUCVROLDVIAJX-GSVOUGTGSA-L
  17 16  0  0  1  0            999 V2000
    -1.3184   -3.7125    0.0000 H   0  0  0  0  0  0  0  0  0 85  0  0
@@ -225,7 +225,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 fadh2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:43
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -409,7 +409,7 @@ M  CHG  2  82  -1  85  -1
 M  END
 $MOL
 dhap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:36:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:26
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0            999 V2000
    -1.3184   -3.7125    0.0000 H   0  0  0  0  0  0  0  0  0 85  0  0

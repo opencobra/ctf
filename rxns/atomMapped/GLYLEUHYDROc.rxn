@@ -1,11 +1,11 @@
 $RXN
 GLYLEUHYDROc
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 22:31:11
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:28:53
 h2o[c] + glyleu[c] -> gly[c] + leu_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 glyleu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:51:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:42
 InChIKey=DKEXFJVMVGETOO-LURJTMIESA-N
  29 28  0  0  1  0            999 V2000
     1.9520   -1.3480    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -79,7 +79,7 @@ InChIKey=DKEXFJVMVGETOO-LURJTMIESA-N
 M  END
 $MOL
 gly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:50:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:20
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0            999 V2000
     2.4750   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0 13  0  0
@@ -104,7 +104,7 @@ InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
 M  END
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:15:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:09
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

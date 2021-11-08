@@ -1,11 +1,11 @@
 $RXN
 r0407
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:43:05
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:28:59
 HC00361[c] -> dhap[c] + e4p[c]
   1  2
 $MOL
 HC00361[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:26:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:06
 InChIKey=OKHXOUGRECCASI-SHUUEZRQSA-J
  34 33  0  0  1  0            999 V2000
     3.9039    3.0789    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -79,7 +79,7 @@ M  CHG  4  12  -1  13  -1  32  -1  33  -1
 M  END
 $MOL
 dhap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:36:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:26
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0            999 V2000
    -1.3184   -3.7125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -115,7 +115,7 @@ M  CHG  2  13  -1  14  -1
 M  END
 $MOL
 e4p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:25
 InChIKey=NGHMDNPXVRFFGS-IUYQGCFVSA-L
  19 18  0  0  1  0            999 V2000
    -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0 22  0  0

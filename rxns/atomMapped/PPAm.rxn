@@ -1,11 +1,11 @@
 $RXN
 PPAm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:28:18
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:27:34
 h2o[m] + ppi[m] -> h[m] + 2 pi[m]
   2  3
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 ppi[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0            999 V2000
    -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -42,7 +42,7 @@ M  CHG  3   4  -1   8  -1   9  -1
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  3  0  0
@@ -50,7 +50,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 pi[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0            999 V2000
     0.1105   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -68,7 +68,7 @@ M  CHG  2   4  -1   5  -1
 M  END
 $MOL
 pi[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0            999 V2000
     0.1105   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

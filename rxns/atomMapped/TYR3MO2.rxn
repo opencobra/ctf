@@ -1,11 +1,11 @@
 $RXN
 TYR3MO2
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:36:08
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:04:58
 o2[c] + thbpt[c] + tyr_L[c] -> 34dhphe[c] + thbpt4acam[c]
   3  2
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:22
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 thbpt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:52:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:52:45
 InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
  32 33  0  0  1  0            999 V2000
     0.7145    1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
@@ -85,7 +85,7 @@ InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
 M  END
 $MOL
 tyr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:54:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:18
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0 35  0  0
@@ -139,7 +139,7 @@ InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
 M  END
 $MOL
 34dhphe[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:21:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:42:03
 InChIKey=WTDRDQBEARUVNC-LURJTMIESA-N
  25 25  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0 35  0  0
@@ -195,7 +195,7 @@ InChIKey=WTDRDQBEARUVNC-LURJTMIESA-N
 M  END
 $MOL
 thbpt4acam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:52:47
 InChIKey=KJKIEFUPAPPGBC-XXKOCQOQSA-N
  33 34  0  0  1  0            999 V2000
     1.0164   -3.1895    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0

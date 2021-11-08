@@ -1,11 +1,11 @@
 $RXN
 RE1915C
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:15:02
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 02:37:19
 cys_L[c] + dopaqn[c] -> CE1261[c]
   2  1
 $MOL
 cys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:04
 InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -38,7 +38,7 @@ InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
 M  END
 $MOL
 dopaqn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:45
 InChIKey=AHMIDUVKSGCHAU-LURJTMIESA-N
  23 23  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -90,7 +90,7 @@ InChIKey=AHMIDUVKSGCHAU-LURJTMIESA-N
 M  END
 $MOL
 CE1261[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:24:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:53:27
 InChIKey=SXISMOAILJWTID-RQJHMYQMSA-N
  37 37  0  0  1  0            999 V2000
     0.0000   -1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

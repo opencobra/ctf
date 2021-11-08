@@ -1,11 +1,11 @@
 $RXN
 CYStec
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:55:50
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:46:46
 cys_L[e] -> cys_L[c]
   1  1
 $MOL
 cys_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:04
 InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -38,7 +38,7 @@ InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
 M  END
 $MOL
 cys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:04
 InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

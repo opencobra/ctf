@@ -1,11 +1,11 @@
 $RXN
 CYTDt4
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 15:51:33
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:47:38
 na1[e] + cytd[e] -> na1[c] + cytd[c]
   2  2
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:26:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cytd[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:20:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:30
 InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
  30 31  0  0  1  0            999 V2000
     0.6078    1.1759    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -80,7 +80,7 @@ InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:26:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -88,7 +88,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cytd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:20:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:30
 InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
  30 31  0  0  1  0            999 V2000
     0.6078    1.1759    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

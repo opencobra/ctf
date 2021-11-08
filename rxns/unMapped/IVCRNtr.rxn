@@ -5,7 +5,7 @@ ivcrn[e] -> ivcrn[c]
   1  1
 $MOL
 ivcrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:42:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:58
 InChIKey=IGQBPDJNUXPEMT-UHFFFAOYSA-N
  40 39  0  0  1  0  0  0  0  0999 V2000
     4.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ M  CHG  2  13   1  15  -1
 M  END
 $MOL
 ivcrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:42:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:58
 InChIKey=IGQBPDJNUXPEMT-UHFFFAOYSA-N
  40 39  0  0  1  0  0  0  0  0999 V2000
     4.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

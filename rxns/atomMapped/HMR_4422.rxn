@@ -1,11 +1,11 @@
 $RXN
 HMR_4422
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:14:25
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 11:40:18
 h[e] + orn[e] -> ptrc[e] + co2[e]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 orn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -63,7 +63,7 @@ M  CHG  1  19   1
 M  END
 $MOL
 ptrc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:54
 InChIKey=KIDHWZJUCRJVML-UHFFFAOYSA-P
  20 19  0  0  0  0            999 V2000
    -0.6039    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0 21  0  0
@@ -109,7 +109,7 @@ M  CHG  2   2   1  17   1
 M  END
 $MOL
 co2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0

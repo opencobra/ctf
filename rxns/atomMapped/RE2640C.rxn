@@ -1,11 +1,11 @@
 $RXN
 RE2640C
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:16:28
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 03:03:28
 h2o[c] + C02712[c] -> ac[c] + met_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 C02712[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:24:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:50:42
 InChIKey=XUYPXLNMDZIRQH-LURJTMIESA-M
  24 23  0  0  1  0            999 V2000
     1.2375    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -70,7 +70,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 ac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:42
 InChIKey=QTBSBXVTEAMEQO-UHFFFAOYSA-M
   7  6  0  0  0  0            999 V2000
     1.9520    0.3020    0.0000 H   0  0  0  0  0  0  0  0  0 16  0  0
@@ -90,7 +90,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 met_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:45:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:27
 InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
  20 19  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

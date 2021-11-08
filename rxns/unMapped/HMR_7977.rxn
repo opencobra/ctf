@@ -5,7 +5,7 @@ aprgstrn[c] -> aprgstrn[e]
   1  1
 $MOL
 aprgstrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:16:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:04
 InChIKey=RWBRUCCWZPSBFC-RXRZZTMXSA-N
  55 58  0  0  1  0  0  0  0  0999 V2000
    -2.7893    3.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -124,7 +124,7 @@ InChIKey=RWBRUCCWZPSBFC-RXRZZTMXSA-N
 M  END
 $MOL
 aprgstrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:16:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:04
 InChIKey=RWBRUCCWZPSBFC-RXRZZTMXSA-N
  55 58  0  0  1  0  0  0  0  0999 V2000
    -2.7893    3.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

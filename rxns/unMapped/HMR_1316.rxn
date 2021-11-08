@@ -5,7 +5,7 @@ HC02180[c] -> HC02180[r]
   1  1
 $MOL
 HC02180[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:59:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:03
 InChIKey=XNRNNGPBEPRNAR-YLQJXANPSA-M
  59 59  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,7 +130,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 HC02180[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:59:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:03
 InChIKey=XNRNNGPBEPRNAR-YLQJXANPSA-M
  59 59  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

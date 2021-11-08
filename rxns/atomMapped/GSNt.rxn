@@ -1,11 +1,11 @@
 $RXN
 GSNt
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:01:33
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:18:07
 gsn[e] -> gsn[c]
   1  1
 $MOL
 gsn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:53:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:17:55
 InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
  33 35  0  0  1  0            999 V2000
     3.9934    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -79,7 +79,7 @@ InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
 M  END
 $MOL
 gsn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:53:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:17:55
 InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
  33 35  0  0  1  0            999 V2000
     3.9934    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

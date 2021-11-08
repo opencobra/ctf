@@ -5,7 +5,7 @@ met_L[l] -> met_L[c]
   1  1
 $MOL
 met_L[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:58:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:27
 InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
     4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
 M  END
 $MOL
 met_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:58:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:27
 InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
     4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

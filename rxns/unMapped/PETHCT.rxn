@@ -5,15 +5,16 @@ h[c] + ctp[c] + ethamp[c] -> ppi[c] + cdpea[c]
   3  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 ctp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:19:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:52
 InChIKey=PCDQPRRSZKQHHS-XVFCMESISA-J
  41 42  0  0  1  0  0  0  0  0999 V2000
    -7.7105   -0.2138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33,7 +34,7 @@ InChIKey=PCDQPRRSZKQHHS-XVFCMESISA-J
    -6.4903   -2.9544    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -3.0000   -2.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -2.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -103,7 +104,7 @@ M  CHG  4  15  -1  16  -1  17  -1  19  -1
 M  END
 $MOL
 ethamp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:33:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:25
 InChIKey=SUHOOTKUPISOBE-UHFFFAOYSA-M
  15 14  0  0  0  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -139,7 +140,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:41:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +166,7 @@ M  CHG  3   1  -1   2  -1   4  -1
 M  END
 $MOL
 cdpea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:08:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:34
 InChIKey=WVIMUEUQJFPNDK-PEBGCTIMSA-M
  47 48  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

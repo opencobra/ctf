@@ -5,7 +5,7 @@ CE0955[c] -> h2o[c] + prostgi2[c]
   1  2
 $MOL
 CE0955[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:51:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:53:17
 InChIKey=KFGOFTHODYBSGM-ZUNNJUQCSA-M
  59 59  0  0  1  0  0  0  0  0999 V2000
     6.4801    4.4524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,7 +130,7 @@ M  CHG  1  26  -1
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -141,7 +141,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 prostgi2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:25:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:31
 InChIKey=KAQKFAOMNZTLHT-IJCKSNOWSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
    -1.7354   -5.0498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

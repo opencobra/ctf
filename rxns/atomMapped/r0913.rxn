@@ -1,11 +1,11 @@
 $RXN
 r0913
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:48:56
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:57:46
 icit[m] + mal_L[c] -> mal_L[m] + icit[c]
   2  2
 $MOL
 icit[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:43:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:55
 InChIKey=ODBLHEXUDAPZAU-UHFFFAOYSA-K
  18 17  0  0  0  0            999 V2000
     3.9039    3.0789    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -47,7 +47,7 @@ M  CHG  3   6  -1  11  -1  17  -1
 M  END
 $MOL
 mal_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:45:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:35:39
 InChIKey=BJEPYKJPYRNKOW-REOHCLBHSA-L
  13 12  0  0  1  0            999 V2000
     0.5230   -0.5230    0.0000 H   0  0  0  0  0  0  0  0  0 19  0  0
@@ -79,7 +79,7 @@ M  CHG  2   6  -1  12  -1
 M  END
 $MOL
 mal_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:45:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:35:39
 InChIKey=BJEPYKJPYRNKOW-REOHCLBHSA-L
  13 12  0  0  1  0            999 V2000
     0.5230   -0.5230    0.0000 H   0  0  0  0  0  0  0  0  0 19  0  0
@@ -111,7 +111,7 @@ M  CHG  2   6  -1  12  -1
 M  END
 $MOL
 icit[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:43:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:55
 InChIKey=ODBLHEXUDAPZAU-UHFFFAOYSA-K
  18 17  0  0  0  0            999 V2000
     3.9039    3.0789    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

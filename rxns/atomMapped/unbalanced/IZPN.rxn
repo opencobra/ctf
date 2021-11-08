@@ -1,11 +1,11 @@
 $RXN
 IZPN
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 01:04:35
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:45:12
 h2o[c] + 4izp[c] -> h[c] + forglu[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 4izp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:25:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:47
 InChIKey=MYNHYKDPSRPBNZ-UHFFFAOYSA-M
  17 17  0  0  0  0            999 V2000
     0.5678    1.9393    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -57,15 +57,15 @@ M  CHG  2   6  -1  16  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0 21  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 forglu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:35:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:08:14
 InChIKey=NRXIKWMTVXPVEF-BYPYZUCNSA-L
  20 19  0  0  1  0            999 V2000
     0.3316    1.8414    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

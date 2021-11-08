@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 2425dhvitd3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:22:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:39:51
 InChIKey=FCKJYANJHNLEEP-XRWYNYHCSA-N
  74 76  0  0  1  0  0  0  0  0999 V2000
     3.4641    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ InChIKey=FCKJYANJHNLEEP-XRWYNYHCSA-N
     5.1962   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7213    0.4612    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.0622    0.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.7431    0.6691    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -161,7 +161,7 @@ InChIKey=FCKJYANJHNLEEP-XRWYNYHCSA-N
 M  END
 $MOL
 2425dhvitd3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:22:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:39:51
 InChIKey=FCKJYANJHNLEEP-XRWYNYHCSA-N
  74 76  0  0  1  0  0  0  0  0999 V2000
     3.4641    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -183,7 +183,7 @@ InChIKey=FCKJYANJHNLEEP-XRWYNYHCSA-N
     5.1962   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7213    0.4612    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     6.0622    0.5000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -0.7431    0.6691    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0

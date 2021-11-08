@@ -5,7 +5,7 @@ thf[c] -> thf[m]
   1  1
 $MOL
 thf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:06
 InChIKey=MSTNYGQPCMXVAQ-RYUDHWBXSA-L
  53 55  0  0  1  0  0  0  0  0999 V2000
     6.9282   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -120,7 +120,7 @@ M  CHG  2  28  -1  30  -1
 M  END
 $MOL
 thf[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:06
 InChIKey=MSTNYGQPCMXVAQ-RYUDHWBXSA-L
  53 55  0  0  1  0  0  0  0  0999 V2000
     6.9282   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

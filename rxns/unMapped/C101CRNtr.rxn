@@ -5,7 +5,7 @@ c101crn[e] -> c101crn[c]
   1  1
 $MOL
 c101crn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:23:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:05
 InChIKey=GOOOCIIXFLVRAG-UHFFFAOYSA-N
  53 52  0  0  1  0  0  0  0  0999 V2000
     8.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -117,7 +117,7 @@ M  CHG  2  18   1  20  -1
 M  END
 $MOL
 c101crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:23:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:05
 InChIKey=GOOOCIIXFLVRAG-UHFFFAOYSA-N
  53 52  0  0  1  0  0  0  0  0999 V2000
     8.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

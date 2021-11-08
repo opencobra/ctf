@@ -1,0 +1,37 @@
+$RXN
+HMR_6989
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:11:13
+na1[e] + i[e] -> na1[c] + i[c]
+  2  2
+$MOL
+na1[e]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+i[e]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:41
+InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  2  0  0
+M  CHG  1   1  -1
+M  END
+$MOL
+na1[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
+InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
+M  CHG  1   1   1
+M  END
+$MOL
+i[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:41
+InChIKey=XMBWDFGMSWQBCA-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  2  0  0
+M  CHG  1   1  -1
+M  END

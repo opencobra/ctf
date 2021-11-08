@@ -1,11 +1,11 @@
 $RXN
 r1590
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:54:42
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:27:09
 ser_L[e] + leu_L[c] -> ser_L[c] + leu_L[e]
   2  2
 $MOL
 ser_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:51:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:03
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -38,7 +38,7 @@ InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
 M  END
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:43:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:09
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -87,7 +87,7 @@ InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
 M  END
 $MOL
 ser_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:51:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:03
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -120,7 +120,7 @@ InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
 M  END
 $MOL
 leu_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:43:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:09
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0

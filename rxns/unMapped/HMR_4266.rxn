@@ -5,7 +5,7 @@ nmn[c] -> nmn[m]
   1  1
 $MOL
 nmn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:52
 InChIKey=DAYLJWODMCOQEW-TURQNECASA-M
  36 37  0  0  1  0  0  0  0  0999 V2000
     5.8916   -0.0636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ M  CHG  3  13   1  16  -1  18  -1
 M  END
 $MOL
 nmn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:52
 InChIKey=DAYLJWODMCOQEW-TURQNECASA-M
  36 37  0  0  1  0  0  0  0  0999 V2000
     5.8916   -0.0636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

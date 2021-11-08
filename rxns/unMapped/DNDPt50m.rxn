@@ -5,7 +5,7 @@ dcdp[m] + dttp[c] -> dcdp[c] + dttp[m]
   2  2
 $MOL
 dcdp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:34:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:58
 InChIKey=FTDHDKPUHBLBTL-SHYZEUOFSA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
    -6.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ M  CHG  3  14  -1  15  -1  16  -1
 M  END
 $MOL
 dttp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:44:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:13
 InChIKey=NHVNXKFIZYSCEB-XLPZGREQSA-J
  42 43  0  0  1  0  0  0  0  0999 V2000
    -3.4478    6.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -108,7 +108,7 @@ InChIKey=NHVNXKFIZYSCEB-XLPZGREQSA-J
     0.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000    3.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     3.0000    2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0878    3.6750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -177,7 +177,7 @@ M  CHG  4  14  -1  16  -1  17  -1  19  -1
 M  END
 $MOL
 dcdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:34:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:58
 InChIKey=FTDHDKPUHBLBTL-SHYZEUOFSA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
    -6.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -257,7 +257,7 @@ M  CHG  3  14  -1  15  -1  16  -1
 M  END
 $MOL
 dttp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:44:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:13
 InChIKey=NHVNXKFIZYSCEB-XLPZGREQSA-J
  42 43  0  0  1  0  0  0  0  0999 V2000
    -3.4478    6.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -280,7 +280,7 @@ InChIKey=NHVNXKFIZYSCEB-XLPZGREQSA-J
     0.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000    3.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     3.0000    2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0878    3.6750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

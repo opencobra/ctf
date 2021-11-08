@@ -5,7 +5,7 @@ h2o[c] + C14770[c] -> M00277[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 C14770[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:49:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:52:32
 InChIKey=DXOYQVHGIODESM-LZXKBWHHSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     6.1962    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -131,7 +131,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 M00277[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:11:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:26:56
 InChIKey=LRPPQRCHCPFBPE-KROJNAHFSA-M
  57 56  0  0  1  0  0  0  0  0999 V2000
    10.3923    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 r0641
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:12:08
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:40:49
 h2o[c] + leuktrC4[c] -> glu_L[c] + leuktrD4[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 leuktrC4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:15:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:27
 InChIKey=GWNVDXQDILPJIG-ISQRGXDUSA-L
  88 87  0  0  1  0            999 V2000
     1.0121   -0.2210    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -198,7 +198,7 @@ M  CHG  2  16  -1  87  -1
 M  END
 $MOL
 glu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:49:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:42
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 34  0  0
@@ -240,7 +240,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 leuktrD4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:16:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:29
 InChIKey=YEESKJGWJFYOOK-QLXUYSGYSA-M
  73 72  0  0  1  0            999 V2000
     2.9024   -3.4951    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

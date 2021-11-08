@@ -5,7 +5,7 @@ crn[c] + c8crn[x] -> crn[x] + c8crn[c]
   2  2
 $MOL
 crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:17
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +63,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 c8crn[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:24:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:45
 InChIKey=CXTATJFJDMJMIY-CYBMUJFWSA-N
  49 48  0  0  1  0  0  0  0  0999 V2000
     7.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -167,7 +167,7 @@ M  CHG  2  16   1  18  -1
 M  END
 $MOL
 crn[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:17
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -225,7 +225,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 c8crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:24:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:45
 InChIKey=CXTATJFJDMJMIY-CYBMUJFWSA-N
  49 48  0  0  1  0  0  0  0  0999 V2000
     7.0000   -1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ CE5249[c] -> CE5249[x]
   1  1
 $MOL
 CE5249[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:19:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:06:14
 InChIKey=XVPUMLOTNZVTSL-BLNOFITASA-N
  43 46  0  0  1  0  0  0  0  0999 V2000
     0.0003   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ InChIKey=XVPUMLOTNZVTSL-BLNOFITASA-N
 M  END
 $MOL
 CE5249[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:19:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:06:14
 InChIKey=XVPUMLOTNZVTSL-BLNOFITASA-N
  43 46  0  0  1  0  0  0  0  0999 V2000
     0.0003   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

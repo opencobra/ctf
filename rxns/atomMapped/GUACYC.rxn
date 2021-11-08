@@ -1,11 +1,11 @@
 $RXN
 GUACYC
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:10:17
-gtp[c] -> ppi[c] + 35cgmp[c]
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:19:57
+gtp[c] -> 35cgmp[c] + ppi[c]
   1  2
 $MOL
 gtp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:42
 InChIKey=XKMLYUALXHKNFT-UUOKFMHZSA-J
  44 46  0  0  1  0            999 V2000
     1.3240    0.7071    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -101,34 +101,8 @@ InChIKey=XKMLYUALXHKNFT-UUOKFMHZSA-J
 M  CHG  4  15  -1  24  -1  25  -1  44  -1
 M  END
 $MOL
-ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:41:49
-InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
- 10  9  0  0  0  0            999 V2000
-   -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0 21  0  0
-   -0.6039   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0 17  0  0
-    0.1105   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0 18  0  0
-    0.5230   -1.9520    0.0000 O   0  5  0  0  0  0  0  0  0 20  0  0
-   -0.3020   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0 19  0  0
-    0.8250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0 22  0  0
-    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0 23  0  0
-    0.8250    0.8250    0.0000 O   0  5  0  0  0  0  0  0  0 25  0  0
-    1.6500   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0 24  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 26  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  1  0  0  0  0
-  3  5  2  0  0  0  0
-  3  6  1  0  0  0  0
-  6  7  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7  9  1  0  0  0  0
-  7 10  2  0  0  0  0
-M  CHG  3   4  -1   8  -1   9  -1
-M  END
-$MOL
 35cgmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:14:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:42:09
 InChIKey=ZOOGRGPOEVQQDX-UUOKFMHZSA-M
  34 37  0  0  1  0            999 V2000
     1.3240    0.7071    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -203,4 +177,30 @@ InChIKey=ZOOGRGPOEVQQDX-UUOKFMHZSA-M
  25 33  1  0  0  0  0
  33 34  1  0  0  0  0
 M  CHG  1  34  -1
+M  END
+$MOL
+ppi[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
+InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
+ 10  9  0  0  0  0            999 V2000
+   -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0 21  0  0
+   -0.6039   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0 17  0  0
+    0.1105   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0 18  0  0
+    0.5230   -1.9520    0.0000 O   0  5  0  0  0  0  0  0  0 20  0  0
+   -0.3020   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0 19  0  0
+    0.8250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0 22  0  0
+    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0 23  0  0
+    0.8250    0.8250    0.0000 O   0  5  0  0  0  0  0  0  0 25  0  0
+    1.6500   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0 24  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 26  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  CHG  3   4  -1   8  -1   9  -1
 M  END

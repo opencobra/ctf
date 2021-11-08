@@ -5,7 +5,7 @@ M00003[l] -> M00003[c]
   1  1
 $MOL
 M00003[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:03:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:27
 InChIKey=GDTXICBNEOEPAZ-FPLPWBNLSA-M
  50 49  0  0  0  0  0  0  0  0999 V2000
    10.3923   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -111,7 +111,7 @@ M  CHG  1  19  -1
 M  END
 $MOL
 M00003[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:03:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:27
 InChIKey=GDTXICBNEOEPAZ-FPLPWBNLSA-M
  50 49  0  0  0  0  0  0  0  0999 V2000
    10.3923   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

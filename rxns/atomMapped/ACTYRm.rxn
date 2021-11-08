@@ -1,11 +1,11 @@
 $RXN
 ACTYRm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:03:17
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:51:39
 accoa[m] + tyr_L[m] -> h[m] + coa[m] + actyr[m]
   2  3
 $MOL
 accoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:49
 InChIKey=ZSLZBFCDCINBPY-ZSJPKINUSA-J
  85 87  0  0  1  0            999 V2000
     7.4579   -2.8243    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -184,7 +184,7 @@ M  CHG  4   6  -1  15  -1  83  -1  84  -1
 M  END
 $MOL
 tyr_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:54:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:18
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0 86  0  0
@@ -238,7 +238,7 @@ InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0 94  0  0
@@ -246,7 +246,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0            999 V2000
    -1.2995  -10.4281    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -415,7 +415,7 @@ M  CHG  4   6  -1  15  -1  78  -1  79  -1
 M  END
 $MOL
 actyr[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:56
 InChIKey=CAHKINHBCWCHCF-JTQLQIEISA-M
  28 28  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0 86  0  0

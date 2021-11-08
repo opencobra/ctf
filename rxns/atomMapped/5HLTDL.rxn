@@ -1,19 +1,19 @@
 $RXN
 5HLTDL
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 10:32:05
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 18:55:14
 h[c] + 5htrp[c] -> co2[c] + srtn[c]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 5htrp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:29:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:48:08
 InChIKey=LDCYZAJDBXYCGN-VIFPVBQESA-N
  28 29  0  0  1  0            999 V2000
    -2.5223    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -76,7 +76,7 @@ InChIKey=LDCYZAJDBXYCGN-VIFPVBQESA-N
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:13:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0
@@ -87,7 +87,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 srtn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:56:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:50:37
 InChIKey=QZAYGJVTTNCVMB-UHFFFAOYSA-O
  26 27  0  0  0  0            999 V2000
     2.7845   -0.1271    0.0000 H   0  0  0  0  0  0  0  0  0 25  0  0

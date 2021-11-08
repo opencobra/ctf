@@ -5,7 +5,7 @@ LYSLYSLYSr
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 lyslyslys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:54:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:32:19
 InChIKey=WBSCNDJQPKSPII-UHFFFAOYSA-Q
  69 68  0  0  1  0  0  0  0  0999 V2000
     2.5981    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -171,7 +171,7 @@ M  CHG  3  19   1  20   1  21   1
 M  END
 $MOL
 lys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:32:09
 InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -183,7 +183,7 @@ InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
     4.3301    3.5000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.6714    2.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.6715    0.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.3908    1.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -227,7 +227,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 lys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:32:09
 InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -239,7 +239,7 @@ InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
     4.3301    3.5000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.6714    2.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.6715    0.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.3908    1.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -283,7 +283,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 lys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:53:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:32:09
 InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
  25 24  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -295,7 +295,7 @@ InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
     4.3301    3.5000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.6714    2.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.6715    0.9650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.3908    1.4650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 HXPRT
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:24:11
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:44:50
 hxan[c] + prpp[c] -> ppi[c] + imp[c]
   2  2
 $MOL
 hxan[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:01:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:31
 InChIKey=FDGQSTZJBFJUBT-UHFFFAOYSA-N
  14 15  0  0  0  0            999 V2000
     3.9934    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -40,7 +40,7 @@ InChIKey=FDGQSTZJBFJUBT-UHFFFAOYSA-N
 M  END
 $MOL
 prpp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:44:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:41
 InChIKey=PQGCEDQWHSBAJP-TXICZTDVSA-I
  30 30  0  0  1  0            999 V2000
     0.0123    2.5492    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -107,7 +107,7 @@ M  CHG  5   9  -1  13  -1  14  -1  24  -1  25  -1
 M  END
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:41:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0            999 V2000
    -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0 14  0  0
@@ -133,7 +133,7 @@ M  CHG  3   4  -1   8  -1   9  -1
 M  END
 $MOL
 imp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:05:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:24
 InChIKey=GRSZFWQUAKGDAV-KQYNXXCUSA-L
  34 36  0  0  1  0            999 V2000
     1.3240    0.7071    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0

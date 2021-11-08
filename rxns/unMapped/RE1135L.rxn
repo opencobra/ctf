@@ -5,7 +5,7 @@ h2o[l] + prgnlones[l] -> h[l] + so4[l] + prgnlone[l]
   2  3
 $MOL
 h2o[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 prgnlones[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:32
 InChIKey=DIJBBUIOWGGQOP-QGVNFLHTSA-M
  58 61  0  0  1  0  0  0  0  0999 V2000
    -7.4099   -1.4775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -142,7 +142,7 @@ M  CHG  1  23  -1
 M  END
 $MOL
 h[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -151,7 +151,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 so4[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:32:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:31
 InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L
   5  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -167,7 +167,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 prgnlone[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:30
 InChIKey=ORNBQBCIOKFOEO-QGVNFLHTSA-N
  55 58  0  0  1  0  0  0  0  0999 V2000
    -2.7893    3.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

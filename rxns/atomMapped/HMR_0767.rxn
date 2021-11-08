@@ -1,11 +1,11 @@
 $RXN
 HMR_0767
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:53:15
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 09:13:04
 h2o[c] + crmp_hs[c] -> pi[c] + crm_hs[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 crmp_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:18:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:15
 
  63 62  0  0  1  0            999 V2000
     2.6151    2.3349    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -148,7 +148,7 @@ M  CHG  2  61  -1  62  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:40:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0            999 V2000
     0.1105   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -166,7 +166,7 @@ M  CHG  2   4  -1   5  -1
 M  END
 $MOL
 crm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:18:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:13
 
  60 59  0  0  1  0            999 V2000
     4.0441    4.8099    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0

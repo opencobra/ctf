@@ -5,7 +5,7 @@ arachd[c] -> arachd[n]
   1  1
 $MOL
 arachd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:25
 InChIKey=YZXBAPSDXZZRGB-DOFZRALJSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -117,7 +117,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 arachd[n]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:17:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:25
 InChIKey=YZXBAPSDXZZRGB-DOFZRALJSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

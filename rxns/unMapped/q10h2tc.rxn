@@ -5,7 +5,7 @@ q10h2[m] -> q10h2[c]
   1  1
 $MOL
 q10h2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:29
 InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 155155  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -321,7 +321,7 @@ InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 M  END
 $MOL
 q10h2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:29
 InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 155155  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

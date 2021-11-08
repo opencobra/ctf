@@ -1,11 +1,11 @@
 $RXN
 TDPDRE
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 10:53:03
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:47:52
 dtdp4d6dg[c] -> dtdp4d6dm[c]
   1  1
 $MOL
 dtdp4d6dg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:30:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:59
 InChIKey=PSXWNITXWWECNY-UCBTUHGZSA-L
  57 59  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -128,7 +128,7 @@ M  CHG  2  18  -1  50  -1
 M  END
 $MOL
 dtdp4d6dm[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:30:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:01
 InChIKey=PSXWNITXWWECNY-WPTIAVDBSA-L
  57 59  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

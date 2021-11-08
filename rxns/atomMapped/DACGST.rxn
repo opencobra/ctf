@@ -1,11 +1,11 @@
 $RXN
 DACGST
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:06:48
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 08:32:21
 gthrd[c] + 23dh1i56dio[c] -> 4glu56dihdind[c]
   2  1
 $MOL
 gthrd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:41
 InChIKey=RWSXRVCMGQZWBV-WDSKDSINSA-M
  36 35  0  0  1  0            999 V2000
    -3.7638    4.4270    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -83,7 +83,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 23dh1i56dio[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:19:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:39:43
 InChIKey=XDEURYRPQDIBSL-UHFFFAOYSA-N
  18 19  0  0  0  0            999 V2000
     0.8838    0.7541    0.0000 H   0  0  0  0  0  0  0  0  0 37  0  0
@@ -126,7 +126,7 @@ InChIKey=XDEURYRPQDIBSL-UHFFFAOYSA-N
 M  END
 $MOL
 4glu56dihdind[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:22:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:18
 InChIKey=OWLBFEJNNSEXED-ONGXEEELSA-M
  54 55  0  0  1  0            999 V2000
     0.7145    1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

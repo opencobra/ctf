@@ -5,7 +5,7 @@ prgnlone[c] -> prgnlone[r]
   1  1
 $MOL
 prgnlone[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:30
 InChIKey=ORNBQBCIOKFOEO-QGVNFLHTSA-N
  55 58  0  0  1  0  0  0  0  0999 V2000
    -2.7893    3.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -124,7 +124,7 @@ InChIKey=ORNBQBCIOKFOEO-QGVNFLHTSA-N
 M  END
 $MOL
 prgnlone[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:30
 InChIKey=ORNBQBCIOKFOEO-QGVNFLHTSA-N
  55 58  0  0  1  0  0  0  0  0999 V2000
    -2.7893    3.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

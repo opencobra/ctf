@@ -1,11 +1,11 @@
 $RXN
 EHGLAT
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 18:29:26
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:26:14
 akg[c] + e4hglu[c] -> glu_L[c] + 4h2oglt[c]
   2  2
 $MOL
 akg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:56:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:04
 InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  14 13  0  0  0  0            999 V2000
     3.5597    2.5787    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -39,7 +39,7 @@ M  CHG  2   5  -1  13  -1
 M  END
 $MOL
 e4hglu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:31:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:23
 InChIKey=HBDWQSHEVMSFGY-SCQFTWEKSA-M
  19 18  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -83,7 +83,7 @@ M  CHG  1  18  -1
 M  END
 $MOL
 glu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:49:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:42
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -125,7 +125,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 4h2oglt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:24:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:20
 InChIKey=WXSKVKPSMAHCSG-UHFFFAOYSA-L
  15 14  0  0  0  0            999 V2000
     3.9039    3.0789    0.0000 H   0  0  0  0  0  0  0  0  0 22  0  0

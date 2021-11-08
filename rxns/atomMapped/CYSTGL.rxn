@@ -1,11 +1,11 @@
 $RXN
 CYSTGL
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 15:47:55
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:24:53
 h2o[c] + cyst_L[c] -> nh4[c] + 2obut[c] + cys_L[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cyst_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:20:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:26
 InChIKey=ILRYLPWNYFXEMH-WHFBIAKZSA-N
  28 27  0  0  1  0            999 V2000
     1.5691    2.5559    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -77,7 +77,7 @@ InChIKey=ILRYLPWNYFXEMH-WHFBIAKZSA-N
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:27:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 26  0  0
@@ -93,7 +93,7 @@ M  CHG  1   2   1
 M  END
 $MOL
 2obut[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:11:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:41:35
 InChIKey=TYEYBOSBBBHJIV-UHFFFAOYSA-M
  12 11  0  0  0  0            999 V2000
     1.9520    1.7309    0.0000 H   0  0  0  0  0  0  0  0  0 18  0  0
@@ -123,7 +123,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 cys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:19:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:04
 InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

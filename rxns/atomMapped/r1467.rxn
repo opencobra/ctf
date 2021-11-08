@@ -1,11 +1,11 @@
 $RXN
 r1467
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:51:23
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:18:36
 odecoa[c] -> odecoa[m]
   1  1
 $MOL
 odecoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:10
 InChIKey=XDUHQPOXLUAVEE-BPMMELMSSA-J
 131133  0  0  1  0            999 V2000
     8.0861   -2.4163    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -276,7 +276,7 @@ M  CHG  4   6  -1  15  -1 129  -1 130  -1
 M  END
 $MOL
 odecoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:10
 InChIKey=XDUHQPOXLUAVEE-BPMMELMSSA-J
 131133  0  0  1  0            999 V2000
     8.0861   -2.4163    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -5,7 +5,7 @@ dlnlcg[l] -> dlnlcg[r]
   1  1
 $MOL
 dlnlcg[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:39:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:04:17
 InChIKey=HOBAELRKJCKHQD-QNEBEIHSSA-M
  55 54  0  0  0  0  0  0  0  0999 V2000
    -5.1962   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -121,7 +121,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 dlnlcg[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:39:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:04:17
 InChIKey=HOBAELRKJCKHQD-QNEBEIHSSA-M
  55 54  0  0  0  0  0  0  0  0999 V2000
    -5.1962   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

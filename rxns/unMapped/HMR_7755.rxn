@@ -5,7 +5,7 @@ atp[e] + dha[e] -> h[e] + adp[e] + dhap[e]
   2  3
 $MOL
 atp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 dha[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:37:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:24
 InChIKey=RXKJFZQQPQGTFL-UHFFFAOYSA-N
  12 11  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -129,7 +129,7 @@ InChIKey=RXKJFZQQPQGTFL-UHFFFAOYSA-N
 M  END
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -138,7 +138,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 adp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:10:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:11
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -225,7 +225,7 @@ M  CHG  3  18  -1  19  -1  21  -1
 M  END
 $MOL
 dhap[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:37:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:26
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -234,8 +234,8 @@ InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
     2.5981    0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.5981   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     0.8054    0.5350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0

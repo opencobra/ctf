@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 4aabutn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:36:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:07
 InChIKey=UZTFMUBKZQVKLK-UHFFFAOYSA-M
  20 19  0  0  0  0  0  0  0  0999 V2000
     4.3301   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 4aabutn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:36:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:07
 InChIKey=UZTFMUBKZQVKLK-UHFFFAOYSA-M
  20 19  0  0  0  0  0  0  0  0999 V2000
     4.3301   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

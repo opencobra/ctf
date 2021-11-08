@@ -5,7 +5,7 @@ h2o[l] + digalside_hs[l] -> galside_hs[l] + gal[l]
   2  2
 $MOL
 h2o[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 digalside_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:38:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:04:04
 InChIKey=YVBUQOZKCCPFCZ-VTAAUCPCSA-N
 151152  0  0  1  0  0  0  0  0999 V2000
    -8.6603   -9.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -325,7 +325,7 @@ InChIKey=YVBUQOZKCCPFCZ-VTAAUCPCSA-N
 M  END
 $MOL
 galside_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:53:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:11:27
 InChIKey=VJLLLMIZEJJZTE-DQVPDRNHSA-N
 126126  0  0  1  0  0  0  0  0999 V2000
    -7.7942  -13.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -583,7 +583,7 @@ InChIKey=VJLLLMIZEJJZTE-DQVPDRNHSA-N
 M  END
 $MOL
 gal[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:52:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:10:09
 InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

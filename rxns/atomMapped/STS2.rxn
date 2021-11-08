@@ -1,11 +1,11 @@
 $RXN
 STS2
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 10:14:09
-h2o[c] + estrones[c] -> h[c] + so4[c] + estrone[c]
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:54:40
+h2o[c] + estrones[c] -> h[c] + estrone[c] + so4[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 estrones[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:33:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:18
 InChIKey=JKKFKPJIXZFSSB-CBZIJGRNSA-M
  45 48  0  0  1  0            999 V2000
    -0.3492   -0.8011    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -116,31 +116,15 @@ M  CHG  1   6  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  3  0  0
 M  CHG  1   1   1
 M  END
 $MOL
-so4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:55:05
-InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L
-  5  4  0  0  0  0            999 V2000
-    0.8250   -0.8250    0.0000 O   0  5  0  0  0  0  0  0  0  9  0  0
-    0.8250    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  8  0  0
-    0.8250    0.8250    0.0000 O   0  5  0  0  0  0  0  0  0 11  0  0
-    1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 10  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  2  4  2  0  0  0  0
-  2  5  2  0  0  0  0
-M  CHG  2   1  -1   3  -1
-M  END
-$MOL
 estrone[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:33:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:14
 InChIKey=DNXHEGUUPJUMQT-CBZIJGRNSA-N
  42 45  0  0  1  0            999 V2000
     0.9533    0.2414    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -230,4 +214,20 @@ InChIKey=DNXHEGUUPJUMQT-CBZIJGRNSA-N
  41  8  1  0  0  0  0
  18 41  1  0  0  0  0
  41 42  1  1  0  0  0
+M  END
+$MOL
+so4[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:31
+InChIKey=QAOWNCQODCNURD-UHFFFAOYSA-L
+  5  4  0  0  0  0            999 V2000
+    0.8250   -0.8250    0.0000 O   0  5  0  0  0  0  0  0  0  9  0  0
+    0.8250    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  8  0  0
+    0.8250    0.8250    0.0000 O   0  5  0  0  0  0  0  0  0 11  0  0
+    1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 10  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+M  CHG  2   1  -1   3  -1
 M  END

@@ -1,11 +1,11 @@
 $RXN
 r0391
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:02:49
-ppi[c] + nicrnt[c] -> h[c] + prpp[c] + nac[c]
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:27:48
+ppi[c] + nicrnt[c] -> h[c] + nac[c] + prpp[c]
   2  3
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:41:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0            999 V2000
    -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -31,7 +31,7 @@ M  CHG  3   4  -1   8  -1   9  -1
 M  END
 $MOL
 nicrnt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:28:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:48
 InChIKey=JOUIQRNQJGXQDC-ZYUZMQFOSA-L
  34 35  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 11  0  0
@@ -107,15 +107,48 @@ M  CHG  4  14   1  25  -1  32  -1  33  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
+nac[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:15
+InChIKey=PVNIIMVLHYAWGP-UHFFFAOYSA-M
+ 13 13  0  0  0  0            999 V2000
+    0.7145    2.0625    0.0000 H   0  0  0  0  0  0  0  0  0 26  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0 25  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0 24  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0 32  0  0
+    2.1434   -0.4125    0.0000 H   0  0  0  0  0  0  0  0  0 33  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0 31  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0 29  0  0
+   -0.7145   -0.4125    0.0000 H   0  0  0  0  0  0  0  0  0 30  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0 27  0  0
+   -0.7145    1.2375    0.0000 H   0  0  0  0  0  0  0  0  0 28  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0 34  0  0
+    1.4289   -1.6500    0.0000 O   0  5  0  0  0  0  0  0  0 35  0  0
+   -0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0 36  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  CHG  1  12  -1
+M  END
+$MOL
 prpp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:44:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:41
 InChIKey=PQGCEDQWHSBAJP-TXICZTDVSA-I
  30 30  0  0  1  0            999 V2000
     0.0123    2.5492    0.0000 H   0  0  0  0  0  0  0  0  0 11  0  0
@@ -179,37 +212,4 @@ InChIKey=PQGCEDQWHSBAJP-TXICZTDVSA-I
  27 29  1  0  0  0  0
  29 30  1  0  0  0  0
 M  CHG  5   9  -1  13  -1  14  -1  24  -1  25  -1
-M  END
-$MOL
-nac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:26:58
-InChIKey=PVNIIMVLHYAWGP-UHFFFAOYSA-M
- 13 13  0  0  0  0            999 V2000
-    0.7145    2.0625    0.0000 H   0  0  0  0  0  0  0  0  0 26  0  0
-    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0 25  0  0
-    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0 24  0  0
-    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0 32  0  0
-    2.1434   -0.4125    0.0000 H   0  0  0  0  0  0  0  0  0 33  0  0
-    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0 31  0  0
-    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0 29  0  0
-   -0.7145   -0.4125    0.0000 H   0  0  0  0  0  0  0  0  0 30  0  0
-    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0 27  0  0
-   -0.7145    1.2375    0.0000 H   0  0  0  0  0  0  0  0  0 28  0  0
-    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0 34  0  0
-    1.4289   -1.6500    0.0000 O   0  5  0  0  0  0  0  0  0 35  0  0
-   -0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0 36  0  0
-  1  2  1  0  0  0  0
-  2  3  2  0  0  0  0
-  3  4  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4  6  2  0  0  0  0
-  6  7  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7  9  2  0  0  0  0
-  2  9  1  0  0  0  0
-  9 10  1  0  0  0  0
-  6 11  1  0  0  0  0
- 11 12  1  0  0  0  0
- 11 13  2  0  0  0  0
-M  CHG  1  12  -1
 M  END

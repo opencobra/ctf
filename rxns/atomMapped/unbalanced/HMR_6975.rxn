@@ -1,11 +1,11 @@
 $RXN
 HMR_6975
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:59:56
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:10:22
 amet[c] + peplys[c] -> ahcys[c] + M00213[c]
   2  2
 $MOL
 amet[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:58:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:30
 InChIKey=MEFKEPWMEQBLKI-AIRLBKTGSA-O
  50 52  0  0  1  0            999 V2000
     6.3435    0.2681    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -114,7 +114,7 @@ M  CHG  1  16   1
 M  END
 $MOL
 peplys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:35:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:36
 
  27 26  0  0  1  0            999 V2000
     2.6323    1.6499    0.0000 H   0  0  0  0  0  0  0  0  0 51  0  0
@@ -173,7 +173,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:35:46
 M  END
 $MOL
 ahcys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:55:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:46
 InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
  46 48  0  0  1  0            999 V2000
     6.3435    0.2681    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -273,7 +273,7 @@ InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
 M  END
 $MOL
 M00213[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:40:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:25:58
 
  30 29  0  0  1  0            999 V2000
     1.8222   -0.3769    0.0000 H   0  0  0  0  0  0  0  0  0 76  0  0

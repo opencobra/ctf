@@ -1,11 +1,11 @@
 $RXN
 C4CRNe
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:21:35
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 04:33:12
 c4crn[c] -> c4crn[e]
   1  1
 $MOL
 c4crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:32:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:30
 InChIKey=QWYFHHGCZUCMBN-SECBINFHSA-N
  37 36  0  0  1  0            999 V2000
     0.2211   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -85,7 +85,7 @@ M  CHG  2  20  -1  25   1
 M  END
 $MOL
 c4crn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:32:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:30
 InChIKey=QWYFHHGCZUCMBN-SECBINFHSA-N
  37 36  0  0  1  0            999 V2000
     0.2211   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

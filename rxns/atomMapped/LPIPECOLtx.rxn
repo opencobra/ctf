@@ -1,11 +1,11 @@
 $RXN
 LPIPECOLtx
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:37:38
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 06:09:01
 na1[c] + Lpipecol[c] -> Lpipecol[x] + na1[x]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 Lpipecol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:28:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:25
 InChIKey=HXEACLLIILLPRG-YFKPBYRVSA-N
  20 20  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -59,7 +59,7 @@ InChIKey=HXEACLLIILLPRG-YFKPBYRVSA-N
 M  END
 $MOL
 Lpipecol[x]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:28:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:25
 InChIKey=HXEACLLIILLPRG-YFKPBYRVSA-N
  20 20  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -105,7 +105,7 @@ InChIKey=HXEACLLIILLPRG-YFKPBYRVSA-N
 M  END
 $MOL
 na1[x]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0

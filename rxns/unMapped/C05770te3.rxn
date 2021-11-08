@@ -5,7 +5,7 @@ C05770[c] -> C05770[e]
   1  1
 $MOL
 C05770[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:48:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:51:41
 InChIKey=JWFCYWSMNRLXLX-UJJXFSCMSA-J
  82 86  0  0  0  0  0  0  0  0999 V2000
     4.2443   -0.2163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -180,7 +180,7 @@ M  CHG  4  42  -1  44  -1  46  -1  48  -1
 M  END
 $MOL
 C05770[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:48:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:51:41
 InChIKey=JWFCYWSMNRLXLX-UJJXFSCMSA-J
  82 86  0  0  0  0  0  0  0  0999 V2000
     4.2443   -0.2163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

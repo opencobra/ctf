@@ -1,11 +1,11 @@
 $RXN
 HMR_0769
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:09:01
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 09:13:09
 gluside_hs[c] -> gluside_hs[l]
   1  1
 $MOL
 gluside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:02
 InChIKey=HHJTWTPUPVQKNA-KEVGHMQTSA-N
  79 79  0  0  1  0            999 V2000
   -12.1460    6.1875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -169,7 +169,7 @@ InChIKey=HHJTWTPUPVQKNA-KEVGHMQTSA-N
 M  END
 $MOL
 gluside_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:02
 InChIKey=HHJTWTPUPVQKNA-KEVGHMQTSA-N
  79 79  0  0  1  0            999 V2000
   -12.1460    6.1875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

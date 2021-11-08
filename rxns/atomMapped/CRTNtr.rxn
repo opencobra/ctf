@@ -1,11 +1,11 @@
 $RXN
 CRTNtr
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:31:50
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:29:07
 crtn[e] -> crtn[c]
   1  1
 $MOL
 crtn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:19
 InChIKey=DDRJAANPRJIHGJ-UHFFFAOYSA-N
  15 15  0  0  0  0            999 V2000
     2.6329    0.3323    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -41,7 +41,7 @@ InChIKey=DDRJAANPRJIHGJ-UHFFFAOYSA-N
 M  END
 $MOL
 crtn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:19
 InChIKey=DDRJAANPRJIHGJ-UHFFFAOYSA-N
  15 15  0  0  0  0            999 V2000
     2.6329    0.3323    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

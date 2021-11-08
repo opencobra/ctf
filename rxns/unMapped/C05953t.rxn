@@ -5,11 +5,11 @@ lac_L[e] + HC02203[c] -> lac_L[c] + HC02203[e]
   2  2
 $MOL
 lac_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:43:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:00
 InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M
  11 10  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7321   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33,7 +33,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 HC02203[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:27:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:29
 InChIKey=MYHXHCUNDDAEOZ-JLGPIWRLSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -5.4280   -5.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,11 +146,11 @@ M  CHG  1  24  -1
 M  END
 $MOL
 lac_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:43:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:00
 InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M
  11 10  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7321   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -174,7 +174,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 HC02203[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:27:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:29
 InChIKey=MYHXHCUNDDAEOZ-JLGPIWRLSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -5.4280   -5.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

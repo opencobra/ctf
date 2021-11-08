@@ -1,11 +1,11 @@
 $RXN
 METTRANSc
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:34:55
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:54:50
 pyr[c] + met_L[c] -> ala_L[c] + 4mtob[c]
   2  2
 $MOL
 pyr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:50:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:25
 InChIKey=LCTONWCANYUPML-UHFFFAOYSA-M
   9  8  0  0  0  0            999 V2000
     1.5395    1.8414    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -29,7 +29,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 met_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:45:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:27
 InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
  20 19  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 10  0  0
@@ -74,7 +74,7 @@ InChIKey=FFEARJCKVFRZRR-BYPYZUCNSA-N
 M  END
 $MOL
 ala_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:11
 InChIKey=QNAYBMKLOCPYGJ-REOHCLBHSA-N
  13 12  0  0  1  0            999 V2000
     1.2375    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0 10  0  0
@@ -105,7 +105,7 @@ InChIKey=QNAYBMKLOCPYGJ-REOHCLBHSA-N
 M  END
 $MOL
 4mtob[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:22:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:54
 InChIKey=SXFSQZDSUWACKX-UHFFFAOYSA-M
  16 15  0  0  0  0            999 V2000
     2.1730    2.5559    0.0000 H   0  0  0  0  0  0  0  0  0 27  0  0

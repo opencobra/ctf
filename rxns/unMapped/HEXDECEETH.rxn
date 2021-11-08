@@ -5,7 +5,7 @@ h2o[e] + pe161_hs[e] -> pa_hs[e] + hexdeceeth[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pe161_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:15:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:57
 InChIKey=DSOWUEHXZJUNID-UHFFFAOYSA-N
  72 71  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ InChIKey=DSOWUEHXZJUNID-UHFFFAOYSA-N
 M  END
 $MOL
 pa_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:43
 
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -3.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -213,7 +213,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 hexdeceeth[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:07:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:46
 InChIKey=HXYVTAGFYLMHSO-UHFFFAOYSA-N
  58 57  0  0  0  0  0  0  0  0999 V2000
    12.1244   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

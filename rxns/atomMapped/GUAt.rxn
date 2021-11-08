@@ -1,11 +1,11 @@
 $RXN
 GUAt
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:11:38
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:41:09
 gua[e] -> gua[c]
   1  1
 $MOL
 gua[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:44
 InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N
  16 17  0  0  0  0            999 V2000
     3.9934    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -44,7 +44,7 @@ InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N
 M  END
 $MOL
 gua[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:44
 InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N
  16 17  0  0  0  0            999 V2000
     3.9934    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

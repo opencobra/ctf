@@ -5,7 +5,7 @@ h2o[c] + pchol_hs[c] -> h[c] + Rtotal2[c] + pcholn225_hs[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pchol_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:32
 
  40 39  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -102,7 +102,7 @@ M  CHG  2   2   1  10  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -111,7 +111,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 Rtotal2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:04:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:06
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 pcholn225_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:13:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:11
 InChIKey=BIEOSECQPGGZMF-UHFFFAOYSA-O
  92 91  0  0  1  0  0  0  0  0999 V2000
   -18.5000  -12.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

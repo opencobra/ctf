@@ -1,11 +1,11 @@
 $RXN
 HISCAT1
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:38:37
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:11:47
 his_L[c] -> his_L[e]
   1  1
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:58:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:10
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0            999 V2000
    -0.8612    4.4143    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -51,7 +51,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 his_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:58:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:10
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0            999 V2000
    -0.8612    4.4143    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

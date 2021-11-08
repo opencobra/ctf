@@ -1,11 +1,11 @@
 $RXN
 ACGAMPM
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 11:01:52
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:01:50
 acgam6p[c] -> acgam1p[c]
   1  1
 $MOL
 acgam6p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:51:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:49:41
 InChIKey=BRGMHAYQAZFZDJ-RTRLPJTCSA-L
  33 33  0  0  1  0            999 V2000
     1.4289    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -78,7 +78,7 @@ M  CHG  2  13  -1  29  -1
 M  END
 $MOL
 acgam1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:51:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:49:39
 InChIKey=FZLJPEPAYPUMMR-RTRLPJTCSA-L
  33 33  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

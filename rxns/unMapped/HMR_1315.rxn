@@ -5,7 +5,7 @@ h2o[r] + txa2[r] -> HC02180[r]
   2  1
 $MOL
 h2o[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 txa2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:49:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:10
 InChIKey=DSNBHJFQCNUKMA-UJIKMVLPSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
     3.4829    1.0054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -136,7 +136,7 @@ M  CHG  1  23  -1
 M  END
 $MOL
 HC02180[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:59:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:03
 InChIKey=XNRNNGPBEPRNAR-YLQJXANPSA-M
  59 59  0  0  1  0  0  0  0  0999 V2000
    -6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

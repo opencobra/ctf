@@ -1,11 +1,11 @@
 $RXN
 VALVALr
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:44:59
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:10:45
 h2o[c] + valval[c] -> 2 val_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 valval[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:55:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:55
 InChIKey=KRNYOVHEKOBTEF-SFYZADRCSA-N
  35 34  0  0  1  0            999 V2000
     3.3000    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -91,7 +91,7 @@ InChIKey=KRNYOVHEKOBTEF-SFYZADRCSA-N
 M  END
 $MOL
 val_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:55:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:35
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -134,7 +134,7 @@ InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
 M  END
 $MOL
 val_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:55:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:35
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0 13  0  0

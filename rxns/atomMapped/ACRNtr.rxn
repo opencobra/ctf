@@ -1,11 +1,11 @@
 $RXN
 ACRNtr
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:45:41
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:12:29
 acrn[e] -> acrn[c]
   1  1
 $MOL
 acrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:50
 InChIKey=RDHQFKQIGNGIED-MRVPVSSYSA-O
  32 31  0  0  1  0            999 V2000
     2.2539   -3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -75,7 +75,7 @@ M  CHG  1  20   1
 M  END
 $MOL
 acrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:50
 InChIKey=RDHQFKQIGNGIED-MRVPVSSYSA-O
  32 31  0  0  1  0            999 V2000
     2.2539   -3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

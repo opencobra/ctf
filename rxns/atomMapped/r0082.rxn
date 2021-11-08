@@ -1,19 +1,19 @@
 $RXN
 r0082
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 05:56:27
-h[c] + HC01434[c] -> co2[c] + akg[c]
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:38:31
+h[c] + HC01434[c] -> akg[c] + co2[c]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 HC01434[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:36:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:18:22
 InChIKey=UFSCUAXLTRFIDC-REOHCLBHSA-K
  16 15  0  0  1  0            999 V2000
     3.5597    2.5787    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -50,19 +50,8 @@ InChIKey=UFSCUAXLTRFIDC-REOHCLBHSA-K
 M  CHG  3   5  -1  10  -1  15  -1
 M  END
 $MOL
-co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:13:13
-InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
-  3  2  0  0  0  0            999 V2000
-    1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 12  0  0
-    2.4750   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0 10  0  0
-    3.3000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 11  0  0
-  1  2  2  0  0  0  0
-  2  3  2  0  0  0  0
-M  END
-$MOL
 akg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:56:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:04
 InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  14 13  0  0  0  0            999 V2000
     3.5597    2.5787    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -93,4 +82,15 @@ InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  12 13  1  0  0  0  0
  12 14  2  0  0  0  0
 M  CHG  2   5  -1  13  -1
+M  END
+$MOL
+co2[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
+InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
+  3  2  0  0  0  0            999 V2000
+    1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 12  0  0
+    2.4750   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0 10  0  0
+    3.3000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 11  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
 M  END

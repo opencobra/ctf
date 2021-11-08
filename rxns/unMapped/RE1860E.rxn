@@ -5,7 +5,7 @@ h2o[e] + 23cump[e] -> h[e] + 3ump[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 23cump[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:21:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:39:41
 InChIKey=HWDMHJDYMFRXOX-XVFCMESISA-M
  30 32  0  0  1  0  0  0  0  0999 V2000
    -4.3188    1.3665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ M  CHG  1  13  -1
 M  END
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -94,7 +94,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 3ump[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:35:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:45:55
 InChIKey=FOGRQMPFHUHIGU-XVFCMESISA-L
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.0255   -2.4364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -112,7 +112,7 @@ InChIKey=FOGRQMPFHUHIGU-XVFCMESISA-L
     6.4268   -1.4183    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.9875   -0.1151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.2622   -0.0093    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.9487   -2.7024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

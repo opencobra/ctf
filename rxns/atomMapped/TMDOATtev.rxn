@@ -1,11 +1,11 @@
 $RXN
 TMDOATtev
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:19:43
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 13:32:13
 cl[e] + tmd[c] -> cl[c] + tmd[e]
   2  2
 $MOL
 cl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:21
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 tmd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:59
 InChIKey=XNPQAJPIVCYYJY-UHFFFAOYSA-M
  43 44  0  0  0  0            999 V2000
     0.9059   -1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -107,7 +107,7 @@ M  CHG  1   5  -1
 M  END
 $MOL
 cl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:21
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  1  0  0
@@ -115,7 +115,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 tmd[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:59
 InChIKey=XNPQAJPIVCYYJY-UHFFFAOYSA-M
  43 44  0  0  0  0            999 V2000
     0.9059   -1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

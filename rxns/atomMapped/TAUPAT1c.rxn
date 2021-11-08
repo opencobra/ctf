@@ -1,11 +1,11 @@
 $RXN
 TAUPAT1c
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:27:30
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:16:17
 h[e] + taur[e] -> h[c] + taur[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
@@ -14,7 +14,7 @@ M  ISO  1   1   1
 M  END
 $MOL
 taur[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:52:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:31
 InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
  14 13  0  0  0  0            999 V2000
     3.3000   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -47,7 +47,7 @@ InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
@@ -56,7 +56,7 @@ M  ISO  1   1   1
 M  END
 $MOL
 taur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:52:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:31
 InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
  14 13  0  0  0  0            999 V2000
     3.3000   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

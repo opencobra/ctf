@@ -1,11 +1,11 @@
 $RXN
 ARACHCRNt
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:46:16
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:18:55
 arachcrn[c] -> arachcrn[m]
   1  1
 $MOL
 arachcrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:23
 InChIKey=SVJLJQBGUITFLI-UHFFFAOYSA-N
  85 84  0  0  0  0            999 V2000
    10.1211   -5.7158    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -181,7 +181,7 @@ M  CHG  2  68  -1  73   1
 M  END
 $MOL
 arachcrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:23
 InChIKey=SVJLJQBGUITFLI-UHFFFAOYSA-N
  85 84  0  0  0  0            999 V2000
    10.1211   -5.7158    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

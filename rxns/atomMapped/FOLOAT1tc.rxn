@@ -1,11 +1,11 @@
 $RXN
 FOLOAT1tc
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:32:30
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:32:51
 akg[c] + na1[e] + fol[e] -> na1[c] + akg[e] + fol[c]
   3  3
 $MOL
 akg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:04
 InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  14 13  0  0  0  0            999 V2000
     3.5597    2.5787    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -39,7 +39,7 @@ M  CHG  2   5  -1  13  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0 15  0  0
@@ -47,7 +47,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 fol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:08:11
 InChIKey=OVBPIULPVIDEAO-LBPRGKRZSA-M
  50 52  0  0  1  0            999 V2000
     0.7145   -5.3625    0.0000 H   0  0  0  0  0  0  0  0  0 16  0  0
@@ -156,7 +156,7 @@ M  CHG  1  49  -1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0 15  0  0
@@ -164,7 +164,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 akg[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:04
 InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  14 13  0  0  0  0            999 V2000
     3.5597    2.5787    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -198,7 +198,7 @@ M  CHG  2   5  -1  13  -1
 M  END
 $MOL
 fol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:08:11
 InChIKey=OVBPIULPVIDEAO-LBPRGKRZSA-M
  50 52  0  0  1  0            999 V2000
     0.7145   -5.3625    0.0000 H   0  0  0  0  0  0  0  0  0 16  0  0

@@ -1,11 +1,11 @@
 $RXN
 5MTAte
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 10:33:55
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:27:27
 5mta[e] -> 5mta[c]
   1  1
 $MOL
 5mta[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:30:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:48:20
 InChIKey=WUUGFSXJNOTRMR-IOSLPCCCSA-N
  35 37  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -83,7 +83,7 @@ InChIKey=WUUGFSXJNOTRMR-IOSLPCCCSA-N
 M  END
 $MOL
 5mta[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:30:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:48:20
 InChIKey=WUUGFSXJNOTRMR-IOSLPCCCSA-N
  35 37  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

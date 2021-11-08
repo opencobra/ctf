@@ -1,11 +1,11 @@
 $RXN
 HMR_3106
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:12:49
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 10:52:24
 accoa[c] -> accoa[x]
   1  1
 $MOL
 accoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:49
 InChIKey=ZSLZBFCDCINBPY-ZSJPKINUSA-J
  85 87  0  0  1  0            999 V2000
     7.4579   -2.8243    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -184,7 +184,7 @@ M  CHG  4   6  -1  15  -1  83  -1  84  -1
 M  END
 $MOL
 accoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:49
 InChIKey=ZSLZBFCDCINBPY-ZSJPKINUSA-J
  85 87  0  0  1  0            999 V2000
     7.4579   -2.8243    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

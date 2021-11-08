@@ -1,11 +1,11 @@
 $RXN
 SERGLYGLUr
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:43:52
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:02:01
 2 h2o[c] + serglyglu[c] -> glu_L[c] + gly[c] + ser_L[c]
   3  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -27,7 +27,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 serglyglu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:51:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:11
 InChIKey=MIJWOJAXARLEHA-PHDIDXHHSA-M
  36 35  0  0  1  0            999 V2000
     0.0000    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  7  0  0
@@ -105,7 +105,7 @@ M  CHG  1  15  -1
 M  END
 $MOL
 glu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:42
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 42  0  0
@@ -147,7 +147,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 gly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:20
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0            999 V2000
     2.4750   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
@@ -172,7 +172,7 @@ InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
 M  END
 $MOL
 ser_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:51:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:03
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0 28  0  0

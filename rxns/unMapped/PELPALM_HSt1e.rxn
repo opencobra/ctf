@@ -5,7 +5,7 @@ pepalm_hs[e] -> pepalm_hs[c]
   1  1
 $MOL
 pepalm_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:17:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:34
 InChIKey=YVYMBNSKXOXSKW-UHFFFAOYSA-N
  74 73  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -158,7 +158,7 @@ InChIKey=YVYMBNSKXOXSKW-UHFFFAOYSA-N
 M  END
 $MOL
 pepalm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:17:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:34
 InChIKey=YVYMBNSKXOXSKW-UHFFFAOYSA-N
  74 73  0  0  1  0  0  0  0  0999 V2000
    13.0000   -8.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

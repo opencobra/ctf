@@ -1,11 +1,11 @@
 $RXN
 TIGCRNe
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:25:11
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:07:32
 c51crn[c] -> c51crn[e]
   1  1
 $MOL
 c51crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:32:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:34
 InChIKey=WURBQCVBQNMUQT-RMKNXTFCSA-N
  38 37  0  0  0  0            999 V2000
    -2.0329   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -87,7 +87,7 @@ M  CHG  2  13  -1  18   1
 M  END
 $MOL
 c51crn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:32:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:57:34
 InChIKey=WURBQCVBQNMUQT-RMKNXTFCSA-N
  38 37  0  0  0  0            999 V2000
    -2.0329   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

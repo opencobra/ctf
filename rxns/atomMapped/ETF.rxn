@@ -1,11 +1,11 @@
 $RXN
 ETF
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:00:55
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 20:13:38
 fadh2[m] + etfox[m] -> fad[m] + etfrd[m]
   2  2
 $MOL
 fadh2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:43
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -189,14 +189,14 @@ M  CHG  2  82  -1  85  -1
 M  END
 $MOL
 etfox[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:20
 
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 A   0  0  0  0  0  0  0  0  0 87  0  0
 M  END
 $MOL
 fad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:41
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -376,7 +376,7 @@ M  CHG  2  10  -1  66  -1
 M  END
 $MOL
 etfrd[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:22
 
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0 12  0  0

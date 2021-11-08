@@ -5,7 +5,7 @@ atp[m] + amp[m] -> 2 adp[m]
   2  2
 $MOL
 atp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:32:04
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 amp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:34
 InChIKey=UDMBCSSLTHHNCD-KQYNXXCUSA-L
  35 37  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -120,7 +120,7 @@ InChIKey=UDMBCSSLTHHNCD-KQYNXXCUSA-L
     4.3092   -0.7681    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     1.0934    0.6637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.2215    1.1160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -179,7 +179,7 @@ M  CHG  2  18  -1  19  -1
 M  END
 $MOL
 adp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:11
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -266,7 +266,7 @@ M  CHG  3  18  -1  19  -1  21  -1
 M  END
 $MOL
 adp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:11
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

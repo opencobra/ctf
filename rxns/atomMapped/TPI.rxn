@@ -1,11 +1,11 @@
 $RXN
 TPI
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 23:21:46
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:37:21
 dhap[c] -> g3p[c]
   1  1
 $MOL
 dhap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:24:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:26
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0            999 V2000
    -1.3184   -3.7125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -41,7 +41,7 @@ M  CHG  2  13  -1  14  -1
 M  END
 $MOL
 g3p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:37:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:57
 InChIKey=LXJXRIRHZLFYRP-VKHMYHEASA-L
  15 14  0  0  1  0            999 V2000
     0.8250   -3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -1,11 +1,11 @@
 $RXN
 3SALACBOXL
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:41:02
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 18:52:04
 2 h[c] + 3sala[c] -> co2[c] + hyptaur[c]
   3  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  2  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 3sala[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:22:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:45:38
 InChIKey=ADVPTQAUNPRNPO-REOHCLBHSA-L
  14 13  0  0  1  0            999 V2000
     0.5230   -0.5230    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
@@ -55,7 +55,7 @@ M  CHG  2   7  -1  13  -1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 10  0  0
@@ -66,7 +66,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 hyptaur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:39
 InChIKey=VVIUBCNYACGLLV-UHFFFAOYSA-N
  13 12  0  0  0  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

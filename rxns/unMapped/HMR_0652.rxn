@@ -5,7 +5,7 @@ cdpea[c] -> cdpea[g]
   1  1
 $MOL
 cdpea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:34
 InChIKey=WVIMUEUQJFPNDK-PEBGCTIMSA-M
  47 48  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -107,7 +107,7 @@ M  CHG  1  18  -1
 M  END
 $MOL
 cdpea[g]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:34
 InChIKey=WVIMUEUQJFPNDK-PEBGCTIMSA-M
  47 48  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ hexc[e] -> hexc[c]
   1  1
 $MOL
 hexc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:07:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:32
 InChIKey=XMHIUKTWLZUKEX-UHFFFAOYSA-M
  79 78  0  0  0  0  0  0  0  0999 V2000
   -10.3923  -18.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ M  CHG  1  28  -1
 M  END
 $MOL
 hexc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:07:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:32
 InChIKey=XMHIUKTWLZUKEX-UHFFFAOYSA-M
  79 78  0  0  0  0  0  0  0  0999 V2000
   -10.3923  -18.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

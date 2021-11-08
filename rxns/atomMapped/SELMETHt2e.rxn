@@ -1,11 +1,11 @@
 $RXN
 SELMETHt2e
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:05:35
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 08:29:13
 selmeth[e] -> selmeth[c]
   1  1
 $MOL
 selmeth[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:51:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:48:54
 InChIKey=RJFAYQIBOAGBLC-BYPYZUCNSA-N
  20 19  0  0  1  0            999 V2000
     1.0461   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -50,7 +50,7 @@ InChIKey=RJFAYQIBOAGBLC-BYPYZUCNSA-N
 M  END
 $MOL
 selmeth[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:51:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:48:54
 InChIKey=RJFAYQIBOAGBLC-BYPYZUCNSA-N
  20 19  0  0  1  0            999 V2000
     1.0461   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

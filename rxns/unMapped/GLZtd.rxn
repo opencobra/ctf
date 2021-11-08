@@ -5,7 +5,7 @@ glz[e] -> glz[c]
   1  1
 $MOL
 glz[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:00:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:57
 InChIKey=BOVGTQGAOIONJV-UHFFFAOYSA-M
  42 44  0  0  1  0  0  0  0  0999 V2000
     4.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ M  CHG  1  19  -1
 M  END
 $MOL
 glz[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:00:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:57
 InChIKey=BOVGTQGAOIONJV-UHFFFAOYSA-M
  42 44  0  0  1  0  0  0  0  0999 V2000
     4.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

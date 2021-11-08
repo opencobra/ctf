@@ -5,7 +5,7 @@ leuktrA4[e] -> leuktrA4[c]
   1  1
 $MOL
 leuktrA4[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:48:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:19
 InChIKey=UFPQIRYSPUYQHK-WAQVJNLQSA-M
  52 52  0  0  1  0  0  0  0  0999 V2000
    -1.5981    7.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -116,7 +116,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 leuktrA4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:48:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:19
 InChIKey=UFPQIRYSPUYQHK-WAQVJNLQSA-M
  52 52  0  0  1  0  0  0  0  0999 V2000
    -1.5981    7.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

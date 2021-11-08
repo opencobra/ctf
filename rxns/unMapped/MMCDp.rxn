@@ -5,7 +5,7 @@ h[x] + mmcoa_S[x] -> co2[x] + ppcoa[x]
   2  2
 $MOL
 h[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 mmcoa_S[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:01:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:34
 InChIKey=MZFOKIKEPGUZEN-IBNUZSNCSA-I
  90 92  0  0  1  0  0  0  0  0999 V2000
    13.4853   -5.6261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -56,7 +56,7 @@ InChIKey=MZFOKIKEPGUZEN-IBNUZSNCSA-I
    14.9715   -6.9643    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    16.1305   -5.6772    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    15.5953   -4.0299    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.1683    1.3800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -203,7 +203,7 @@ M  CHG  5  33  -1  36  -1  38  -1  40  -1  41  -1
 M  END
 $MOL
 co2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -214,7 +214,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 ppcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:34
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:12
 InChIKey=QAQREVBBADEHPA-SSERFMASSA-J
  88 90  0  0  1  0  0  0  0  0999 V2000
    15.1795   -5.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -263,7 +263,7 @@ InChIKey=QAQREVBBADEHPA-SSERFMASSA-J
     2.9385    0.1939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.8948   -0.2219    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.4487   -1.8364    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.1246    0.9641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     3.1465    1.1720    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0

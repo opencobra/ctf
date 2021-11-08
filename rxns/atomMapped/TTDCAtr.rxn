@@ -1,11 +1,11 @@
 $RXN
 TTDCAtr
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 23:42:49
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:04:28
 ttdca[e] -> ttdca[c]
   1  1
 $MOL
 ttdca[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:04:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:02
 InChIKey=TUNFSRHWOTWDNC-UHFFFAOYSA-M
  43 42  0  0  0  0            999 V2000
     7.1230    5.4138    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -97,7 +97,7 @@ M  CHG  1  42  -1
 M  END
 $MOL
 ttdca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:04:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:02
 InChIKey=TUNFSRHWOTWDNC-UHFFFAOYSA-M
  43 42  0  0  0  0            999 V2000
     7.1230    5.4138    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

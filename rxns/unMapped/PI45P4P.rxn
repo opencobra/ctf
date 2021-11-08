@@ -5,7 +5,7 @@ h2o[c] + pail45p_hs[c] -> pi[c] + pail5p_hs[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pail45p_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:10:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:59
 InChIKey=JFDJYDKOBGSRRB-GWNZYFFWSA-I
 140140  0  0  1  0  0  0  0  0999 V2000
    -6.3923  -19.4641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -303,7 +303,7 @@ M  CHG  5  50  -1  51  -1  53  -1  54  -1  56  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -321,7 +321,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 pail5p_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:10:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:04
 
  46 46  0  0  1  0  0  0  0  0999 V2000
    -1.0000    2.4641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

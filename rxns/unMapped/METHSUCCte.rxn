@@ -5,7 +5,7 @@ methsucc[c] -> methsucc[e]
   1  1
 $MOL
 methsucc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:58:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:41
 InChIKey=WXUAQHNMJWJLTG-UHFFFAOYSA-L
  15 14  0  0  1  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ M  CHG  2   7  -1   9  -1
 M  END
 $MOL
 methsucc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:58:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:36:41
 InChIKey=WXUAQHNMJWJLTG-UHFFFAOYSA-L
  15 14  0  0  1  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

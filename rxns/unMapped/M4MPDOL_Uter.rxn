@@ -5,7 +5,7 @@ m4mpdol_U[c] -> m4mpdol_U[r]
   1  1
 $MOL
 m4mpdol_U[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:55:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:32:48
 InChIKey=HYYPTQKNNHAOBO-UHFFFAOYSA-L
 237243  0  0  1  0  0  0  0  0999 V2000
    14.5000    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -492,7 +492,7 @@ M  CHG  2  80  -1  81  -1
 M  END
 $MOL
 m4mpdol_U[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:55:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:32:48
 InChIKey=HYYPTQKNNHAOBO-UHFFFAOYSA-L
 237243  0  0  1  0  0  0  0  0999 V2000
    14.5000    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

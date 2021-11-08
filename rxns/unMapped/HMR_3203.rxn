@@ -5,7 +5,7 @@ h2o[m] + M00063[m] -> M00797[m]
   2  1
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 M00063[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:05:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:24:27
 InChIKey=GJSFKOVNQYGUGN-JQVZGLFNSA-J
  92 94  0  0  1  0  0  0  0  0999 V2000
    15.7147   -7.6335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,9 +57,9 @@ InChIKey=GJSFKOVNQYGUGN-JQVZGLFNSA-J
     0.2274   -3.1637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     5.9653   -3.5165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     7.3322   -1.2512    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.1683    1.3800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.3544    2.1502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     5.3107    1.7344    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -209,7 +209,7 @@ M  CHG  4  34  -1  38  -1  39  -1  40  -1
 M  END
 $MOL
 M00797[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:26:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:32:25
 InChIKey=YYGYPCRWZMLSGK-UHFFFAOYSA-J
  95 97  0  0  1  0  0  0  0  0999 V2000
    15.7147   -7.6335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

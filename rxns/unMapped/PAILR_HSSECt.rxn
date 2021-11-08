@@ -5,7 +5,7 @@ pailar_hs[c] -> pailar_hs[e]
   1  1
 $MOL
 pailar_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:10:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:08
 InChIKey=LXUGKKVCSTYZFK-UHFFFAOYSA-M
  90 90  0  0  1  0  0  0  0  0999 V2000
    16.0000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -192,7 +192,7 @@ M  CHG  1  37  -1
 M  END
 $MOL
 pailar_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:10:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:08
 InChIKey=LXUGKKVCSTYZFK-UHFFFAOYSA-M
  90 90  0  0  1  0  0  0  0  0999 V2000
    16.0000  -10.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

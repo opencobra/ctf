@@ -1,11 +1,11 @@
 $RXN
 HMR_0761
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:52:59
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 09:12:43
 crm_hs[c] + udpg[c] -> h[c] + udp[c] + gluside_hs[c]
   2  3
 $MOL
 crm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:18:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:13
 
  60 59  0  0  1  0            999 V2000
     4.0441    4.8099    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -130,7 +130,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:18:01
 M  END
 $MOL
 udpg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:07:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:56
 InChIKey=HSCJRCZFDFQWRP-JZMIEXBBSA-L
  58 60  0  0  1  0            999 V2000
     0.7145    6.1875    0.0000 H   0  0  0  0  0  0  0  0  0 61  0  0
@@ -255,15 +255,15 @@ M  CHG  2  18  -1  35  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0119  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 udp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:07:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:52
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0            999 V2000
     1.4289    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0102  0  0
@@ -343,7 +343,7 @@ M  CHG  3  20  -1  21  -1  33  -1
 M  END
 $MOL
 gluside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:49:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:02
 InChIKey=HHJTWTPUPVQKNA-KEVGHMQTSA-N
  79 79  0  0  1  0            999 V2000
   -12.1460    6.1875    0.0000 H   0  0  0  0  0  0  0  0  0 61  0  0

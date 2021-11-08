@@ -1,11 +1,11 @@
 $RXN
 ASPDTDe
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:28:19
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:19:15
 asp_D[c] -> asp_D[e]
   1  1
 $MOL
 asp_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:42
 InChIKey=CKLJMWTZIZZHCS-UWTATZPHSA-M
  15 14  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -41,7 +41,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 asp_D[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:42
 InChIKey=CKLJMWTZIZZHCS-UWTATZPHSA-M
  15 14  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

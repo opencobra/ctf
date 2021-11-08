@@ -1,11 +1,11 @@
 $RXN
 VALTA
-COBRA Toolbox v3.0 - Atom mapped - 17-Oct-2021 00:31:06
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:38:15
 akg[c] + val_L[c] -> glu_L[c] + 3mob[c]
   2  2
 $MOL
 akg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:56:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:04
 InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  14 13  0  0  0  0            999 V2000
     3.5597    2.5787    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -39,7 +39,7 @@ M  CHG  2   5  -1  13  -1
 M  END
 $MOL
 val_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:09:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:35
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -82,7 +82,7 @@ InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
 M  END
 $MOL
 glu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:49:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:42
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -124,7 +124,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 3mob[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:20:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:44:38
 InChIKey=QHKABHOOEWYVLI-UHFFFAOYSA-M
  15 14  0  0  0  0            999 V2000
     1.9520    0.3020    0.0000 H   0  0  0  0  0  0  0  0  0 29  0  0

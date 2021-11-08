@@ -1,11 +1,11 @@
 $RXN
 HMR_0155
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:07:12
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 08:41:22
 but[e] -> but[c]
   1  1
 $MOL
 but[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:32:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:57
 InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M
  13 12  0  0  0  0            999 V2000
     1.9520    1.7309    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -37,7 +37,7 @@ M  CHG  1  12  -1
 M  END
 $MOL
 but[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:32:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:57
 InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M
  13 12  0  0  0  0            999 V2000
     1.9520    1.7309    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

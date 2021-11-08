@@ -1,11 +1,11 @@
 $RXN
 PTHPS
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 05:36:42
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:33:33
 ahdt[c] -> pppi[c] + 6pthp[c]
   1  2
 $MOL
 ahdt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:55:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:48
 InChIKey=DGGUVLXVLHAAGT-XINAWCOVSA-J
  42 43  0  0  1  0            999 V2000
    -2.1434   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -97,7 +97,7 @@ M  CHG  4  16  -1  31  -1  40  -1  41  -1
 M  END
 $MOL
 pppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:42:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:27
 InChIKey=UNXRWKVEANCORM-UHFFFAOYSA-J
  14 13  0  0  0  0            999 V2000
     1.3480   -1.9520    0.0000 H   0  0  0  0  0  0  0  0  0 37  0  0
@@ -131,7 +131,7 @@ M  CHG  4   7  -1   8  -1  12  -1  13  -1
 M  END
 $MOL
 6pthp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:32:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:49:30
 InChIKey=WBJZXBUVECZHCE-UHFFFAOYSA-N
  28 29  0  0  0  0            999 V2000
     0.7145    1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

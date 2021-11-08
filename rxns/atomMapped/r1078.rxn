@@ -1,11 +1,11 @@
 $RXN
 r1078
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:49:50
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:04:23
 tyr_L[c] -> tyr_L[m]
   1  1
 $MOL
 tyr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:54:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:18
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -59,7 +59,7 @@ InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
 M  END
 $MOL
 tyr_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:54:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:18
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

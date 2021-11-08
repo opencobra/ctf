@@ -5,7 +5,7 @@ CE5349[c] -> CE5349[r]
   1  1
 $MOL
 CE5349[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:22:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:07:48
 InChIKey=MLZJFLKEKVDNAZ-GOSISDBHSA-M
  53 52  0  0  1  0  0  0  0  0999 V2000
    14.7224   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -117,7 +117,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 CE5349[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:22:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:07:48
 InChIKey=MLZJFLKEKVDNAZ-GOSISDBHSA-M
  53 52  0  0  1  0  0  0  0  0999 V2000
    14.7224   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

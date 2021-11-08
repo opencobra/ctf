@@ -5,7 +5,7 @@ arach[e] -> arach[c]
   1  1
 $MOL
 arach[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:16:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:18
 InChIKey=VKOBVWXKNCXXDE-UHFFFAOYSA-M
  61 60  0  0  0  0  0  0  0  0999 V2000
    15.5885   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +133,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 arach[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:16:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:18
 InChIKey=VKOBVWXKNCXXDE-UHFFFAOYSA-M
  61 60  0  0  0  0  0  0  0  0999 V2000
    15.5885   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ gchola[e] -> gchola[c]
   1  1
 $MOL
 gchola[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:54:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:11:43
 InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -166,7 +166,7 @@ InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-N
 M  END
 $MOL
 gchola[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:54:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:11:43
 InChIKey=RFDAIACWWDREDC-FRVQLJSFSA-N
  76 79  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ odecrn[e] -> odecrn[c]
   1  1
 $MOL
 odecrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:13
 InChIKey=IPOLTUVFXFHAHI-WHIOSMTNSA-N
  77 76  0  0  1  0  0  0  0  0999 V2000
    14.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ M  CHG  2  26   1  28  -1
 M  END
 $MOL
 odecrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:13
 InChIKey=IPOLTUVFXFHAHI-WHIOSMTNSA-N
  77 76  0  0  1  0  0  0  0  0999 V2000
    14.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

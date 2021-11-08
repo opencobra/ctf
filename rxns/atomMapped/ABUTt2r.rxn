@@ -1,19 +1,20 @@
 $RXN
 ABUTt2r
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 10:51:32
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:50:19
 h[e] + 4abut[e] -> h[c] + 4abut[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 4abut[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:23:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:09
 InChIKey=BTCSSZJGUNDROE-UHFFFAOYSA-N
  16 15  0  0  0  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -50,15 +51,16 @@ InChIKey=BTCSSZJGUNDROE-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 4abut[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:23:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:09
 InChIKey=BTCSSZJGUNDROE-UHFFFAOYSA-N
  16 15  0  0  0  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

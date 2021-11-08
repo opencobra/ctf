@@ -1,11 +1,11 @@
 $RXN
 ACRNte
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:33:55
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:38:19
 na1[c] + acrn[c] -> na1[e] + acrn[e]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 acrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:50
 InChIKey=RDHQFKQIGNGIED-MRVPVSSYSA-O
  32 31  0  0  1  0            999 V2000
     2.2539   -3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -83,7 +83,7 @@ M  CHG  1  20   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -91,7 +91,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 acrn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:50
 InChIKey=RDHQFKQIGNGIED-MRVPVSSYSA-O
  32 31  0  0  1  0            999 V2000
     2.2539   -3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

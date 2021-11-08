@@ -1,11 +1,11 @@
 $RXN
 ACALDt
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 10:57:25
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:49:25
 acald[e] -> acald[c]
   1  1
 $MOL
 acald[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:50:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:47
 InChIKey=IKHGUXGNUITLKF-UHFFFAOYSA-N
   7  6  0  0  0  0            999 V2000
     1.2375    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -24,7 +24,7 @@ InChIKey=IKHGUXGNUITLKF-UHFFFAOYSA-N
 M  END
 $MOL
 acald[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:50:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:47
 InChIKey=IKHGUXGNUITLKF-UHFFFAOYSA-N
   7  6  0  0  0  0            999 V2000
     1.2375    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

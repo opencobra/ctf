@@ -1,11 +1,11 @@
 $RXN
 TMDOATPtsc
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:19:32
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 13:32:08
 hco3[c] + tmd[e] -> hco3[e] + tmd[c]
   2  2
 $MOL
 hco3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:05
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0            999 V2000
     2.0625    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -21,7 +21,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 tmd[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:59
 InChIKey=XNPQAJPIVCYYJY-UHFFFAOYSA-M
  43 44  0  0  0  0            999 V2000
     0.9059   -1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  6  0  0
@@ -115,7 +115,7 @@ M  CHG  1   5  -1
 M  END
 $MOL
 hco3[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:05
 InChIKey=BVKZGUZCCUSVTD-UHFFFAOYSA-M
   5  4  0  0  0  0            999 V2000
     2.0625    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -131,7 +131,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 tmd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:59
 InChIKey=XNPQAJPIVCYYJY-UHFFFAOYSA-M
  43 44  0  0  0  0            999 V2000
     0.9059   -1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  6  0  0

@@ -5,7 +5,7 @@ adhap_hs[x] + M02114[x] -> hdca[x] + akgp_hs[x]
   2  2
 $MOL
 adhap_hs[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:09:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:00
 
  17 16  0  0  0  0  0  0  0  0999 V2000
    -3.0000    0.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ M  CHG  2  12  -1  13  -1
 M  END
 $MOL
 M02114[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:46:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:40:32
 InChIKey=BXWNKGSJHAJOGX-UHFFFAOYSA-N
  51 50  0  0  0  0  0  0  0  0999 V2000
    12.9904   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -152,7 +152,7 @@ InChIKey=BXWNKGSJHAJOGX-UHFFFAOYSA-N
 M  END
 $MOL
 hdca[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:06:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:10
 InChIKey=IPCSVZSSVZVIGE-UHFFFAOYSA-M
  49 48  0  0  0  0  0  0  0  0999 V2000
    12.1244    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -256,7 +256,7 @@ M  CHG  1  18  -1
 M  END
 $MOL
 akgp_hs[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:12:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:06
 
  15 14  0  0  0  0  0  0  0  0999 V2000
    -3.0000    0.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

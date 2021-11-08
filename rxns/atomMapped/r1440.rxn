@@ -1,11 +1,11 @@
 $RXN
 r1440
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:51:07
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:16:21
 thr_L[c] -> thr_L[m]
   1  1
 $MOL
 thr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:17
 InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
  17 16  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -44,7 +44,7 @@ InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
 M  END
 $MOL
 thr_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:17
 InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
  17 16  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -5,7 +5,7 @@ pcholdoc_hs[e] -> pcholdoc_hs[c]
   1  1
 $MOL
 pcholdoc_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:36
 InChIKey=GIGKZZCXYJVNSX-UHFFFAOYSA-O
 102101  0  0  1  0  0  0  0  0999 V2000
   -21.5000  -14.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -215,7 +215,7 @@ M  CHG  1  35   1
 M  END
 $MOL
 pcholdoc_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:36
 InChIKey=GIGKZZCXYJVNSX-UHFFFAOYSA-O
 102101  0  0  1  0  0  0  0  0999 V2000
   -21.5000  -14.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

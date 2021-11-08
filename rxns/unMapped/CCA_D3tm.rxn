@@ -5,7 +5,7 @@ cca_d3[m] -> cca_d3[c]
   1  1
 $MOL
 cca_d3[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:26
 InChIKey=MBLYZRMZFUWLOZ-ZTIKAOTBSA-M
  60 62  0  0  1  0  0  0  0  0999 V2000
    -2.3904    1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -134,7 +134,7 @@ M  CHG  1  27  -1
 M  END
 $MOL
 cca_d3[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:26
 InChIKey=MBLYZRMZFUWLOZ-ZTIKAOTBSA-M
  60 62  0  0  1  0  0  0  0  0999 V2000
    -2.3904    1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

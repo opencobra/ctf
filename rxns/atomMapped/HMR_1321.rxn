@@ -1,11 +1,11 @@
 $RXN
 HMR_1321
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:09:18
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 09:36:31
 h2o[c] + HC02203[c] -> prostge2[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 HC02203[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:27:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:29
 InChIKey=MYHXHCUNDDAEOZ-JLGPIWRLSA-M
  53 53  0  0  1  0            999 V2000
     0.0280   -3.6748    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -129,7 +129,7 @@ M  CHG  1  36  -1
 M  END
 $MOL
 prostge2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:25
 InChIKey=XEYBRNLFEZDVAW-BRNHSORCSA-M
  56 56  0  0  1  0            999 V2000
     0.0280   -3.6748    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

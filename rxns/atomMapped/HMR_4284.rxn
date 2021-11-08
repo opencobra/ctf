@@ -1,11 +1,11 @@
 $RXN
 HMR_4284
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:14:17
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 11:40:00
 thr_L[c] -> acald[c] + gly[c]
   1  2
 $MOL
 thr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:53:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:17
 InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
  17 16  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -44,7 +44,7 @@ InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
 M  END
 $MOL
 acald[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:47
 InChIKey=IKHGUXGNUITLKF-UHFFFAOYSA-N
   7  6  0  0  0  0            999 V2000
     1.2375    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0 11  0  0
@@ -63,7 +63,7 @@ InChIKey=IKHGUXGNUITLKF-UHFFFAOYSA-N
 M  END
 $MOL
 gly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:20
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0            999 V2000
     2.4750   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

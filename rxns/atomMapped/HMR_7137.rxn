@@ -1,11 +1,11 @@
 $RXN
 HMR_7137
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:05:31
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:25:51
 h2o[c] + selmeth[c] -> nh4[c] + 2obut[c] + M02469[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 selmeth[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:53:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:48:54
 InChIKey=RJFAYQIBOAGBLC-BYPYZUCNSA-N
  20 19  0  0  1  0            999 V2000
     1.0461   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -61,7 +61,7 @@ InChIKey=RJFAYQIBOAGBLC-BYPYZUCNSA-N
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:27:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 11  0  0
@@ -77,7 +77,7 @@ M  CHG  1   2   1
 M  END
 $MOL
 2obut[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:11:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:41:35
 InChIKey=TYEYBOSBBBHJIV-UHFFFAOYSA-M
  12 11  0  0  0  0            999 V2000
     1.9520    1.7309    0.0000 H   0  0  0  0  0  0  0  0  0 17  0  0
@@ -107,7 +107,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 M02469[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:44:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:42:18
 InChIKey=APKHDKJWSHYLEU-UHFFFAOYSA-N
   6  5  0  0  0  0            999 V2000
     1.2375   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  9  0  0

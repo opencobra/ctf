@@ -1,11 +1,11 @@
 $RXN
 r1665
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:57:51
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:33:52
 lys_L[e] + his_L[c] -> lys_L[c] + his_L[e]
   2  2
 $MOL
 lys_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:45:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:32:09
 InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
  25 24  0  0  1  0            999 V2000
     0.3316    1.8414    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -61,7 +61,7 @@ M  CHG  1  22   1
 M  END
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:10
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0            999 V2000
    -0.8612    4.4143    0.0000 H   0  0  0  0  0  0  0  0  0 26  0  0
@@ -107,7 +107,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 lys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:45:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:32:09
 InChIKey=KDXKERNSBIXSRK-YFKPBYRVSA-O
  25 24  0  0  1  0            999 V2000
     0.3316    1.8414    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -163,7 +163,7 @@ M  CHG  1  22   1
 M  END
 $MOL
 his_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:10
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0            999 V2000
    -0.8612    4.4143    0.0000 H   0  0  0  0  0  0  0  0  0 26  0  0

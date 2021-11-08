@@ -1,11 +1,11 @@
 $RXN
 HMR_4266
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:14:12
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 11:39:41
 nmn[c] -> nmn[m]
   1  1
 $MOL
 nmn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:52
 InChIKey=DAYLJWODMCOQEW-TURQNECASA-M
  36 37  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -85,7 +85,7 @@ M  CHG  3  14   1  25  -1  33  -1
 M  END
 $MOL
 nmn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:52
 InChIKey=DAYLJWODMCOQEW-TURQNECASA-M
  36 37  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

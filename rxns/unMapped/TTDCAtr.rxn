@@ -5,7 +5,7 @@ ttdca[e] -> ttdca[c]
   1  1
 $MOL
 ttdca[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:04:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:02
 InChIKey=TUNFSRHWOTWDNC-UHFFFAOYSA-M
  43 42  0  0  0  0  0  0  0  0999 V2000
    10.3923    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -97,7 +97,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 ttdca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:04:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:02
 InChIKey=TUNFSRHWOTWDNC-UHFFFAOYSA-M
  43 42  0  0  0  0  0  0  0  0999 V2000
    10.3923    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

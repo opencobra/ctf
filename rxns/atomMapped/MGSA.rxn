@@ -1,11 +1,11 @@
 $RXN
 MGSA
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 02:35:19
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:47:01
 dhap[c] -> pi[c] + mthgxl[c]
   1  2
 $MOL
 dhap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:24:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:26
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0            999 V2000
    -1.3184   -3.7125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -41,7 +41,7 @@ M  CHG  2  13  -1  14  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:40:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0            999 V2000
     0.1105   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  5  0  0
@@ -59,7 +59,7 @@ M  CHG  2   4  -1   5  -1
 M  END
 $MOL
 mthgxl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:25:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:00
 InChIKey=AIJULSRZWUXGPQ-UHFFFAOYSA-N
   9  8  0  0  0  0            999 V2000
     2.0625    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

@@ -5,7 +5,7 @@ coke[e] -> coke[c]
   1  1
 $MOL
 coke[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:48
 InChIKey=ZPUCINDJVBIVPJ-LJISPDSOSA-N
  43 45  0  0  1  0  0  0  0  0999 V2000
     0.4352   -0.7511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,7 +99,7 @@ InChIKey=ZPUCINDJVBIVPJ-LJISPDSOSA-N
 M  END
 $MOL
 coke[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:48
 InChIKey=ZPUCINDJVBIVPJ-LJISPDSOSA-N
  43 45  0  0  1  0  0  0  0  0999 V2000
     0.4352   -0.7511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

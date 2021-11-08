@@ -5,11 +5,11 @@ asp_L[c] + cbp[c] -> h[c] + pi[c] + cbasp[c]
   2  3
 $MOL
 asp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:20:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:44
 InChIKey=CKLJMWTZIZZHCS-REOHCLBHSA-M
  15 14  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7321    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     3.4641   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,16 +41,16 @@ M  CHG  1   7  -1
 M  END
 $MOL
 cbp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:24
 InChIKey=FFQKYPRQEYGKAF-UHFFFAOYSA-L
  10  9  0  0  0  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -1.7321    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     2.5000   -0.8660    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
     0.0155   -1.7321    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
    -1.4850    0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -67,7 +67,7 @@ M  CHG  2   3  -1   4  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -76,7 +76,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -94,14 +94,14 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 cbasp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:25:57
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:08
 InChIKey=HLKXYZVTANABHZ-REOHCLBHSA-L
  18 17  0  0  1  0  0  0  0  0999 V2000
-   -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660    1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -3.4641   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ pnto_R[e] -> pnto_R[c]
   1  1
 $MOL
 pnto_R[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:07
 InChIKey=GHOKWGTUZJEAQD-ZETCQYMHSA-M
  31 30  0  0  1  0  0  0  0  0999 V2000
     1.8660   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -73,7 +73,7 @@ M  CHG  1  13  -1
 M  END
 $MOL
 pnto_R[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:07
 InChIKey=GHOKWGTUZJEAQD-ZETCQYMHSA-M
  31 30  0  0  1  0  0  0  0  0999 V2000
     1.8660   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ aqcobal[e] -> aqcobal[c]
   1  1
 $MOL
 aqcobal[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:16:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:13
 InChIKey=YOZNUFWCRFCGIH-WZHZPDAFSA-L
 182187  0  0  1  0  0  0  0  0999 V2000
    16.7775   -6.7242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -381,7 +381,7 @@ M  CHG  5  75   1  77  -1  78  -1  79  -1  91   3
 M  END
 $MOL
 aqcobal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:16:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:13
 InChIKey=YOZNUFWCRFCGIH-WZHZPDAFSA-L
 182187  0  0  1  0  0  0  0  0999 V2000
    16.7775   -6.7242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

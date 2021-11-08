@@ -5,7 +5,7 @@ HC02205[e] -> HC02205[c]
   1  1
 $MOL
 HC02205[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:00:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:33
 InChIKey=PRFXRIUZNKLRHM-OSJNIVAESA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -5.4280   -5.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -118,7 +118,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 HC02205[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:00:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:33
 InChIKey=PRFXRIUZNKLRHM-OSJNIVAESA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -5.4280   -5.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

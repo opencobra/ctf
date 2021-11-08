@@ -1,19 +1,20 @@
 $RXN
 HPPPNte
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:12:06
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 06:07:42
 h[e] + 3hpppn[e] -> h[c] + 3hpppn[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 3hpppn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:19:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:43:54
 InChIKey=QVWAEZJXDYOKEH-UHFFFAOYSA-M
  21 21  0  0  0  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -62,15 +63,16 @@ M  CHG  1  15  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 3hpppn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:19:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:43:54
 InChIKey=QVWAEZJXDYOKEH-UHFFFAOYSA-M
  21 21  0  0  0  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

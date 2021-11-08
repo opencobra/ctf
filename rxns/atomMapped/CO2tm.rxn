@@ -1,11 +1,11 @@
 $RXN
 CO2tm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:52:50
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:41:27
 co2[c] -> co2[m]
   1  1
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 co2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0

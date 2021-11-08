@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 35dhpvs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:27:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:42:11
 InChIKey=SDAIAIOTBYGVNZ-UHFFFAOYSA-L
  67 67  0  0  1  0  0  0  0  0999 V2000
     4.8301   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ M  CHG  3  26  -1  29  -1  33   1
 M  END
 $MOL
 35dhpvs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:27:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:42:11
 InChIKey=SDAIAIOTBYGVNZ-UHFFFAOYSA-L
  67 67  0  0  1  0  0  0  0  0999 V2000
     4.8301   -6.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 MK8t
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 02:41:09
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:50:04
 mqn8[c] -> mqn8[e]
   1  1
 $MOL
 mqn8[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:25:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:53
 InChIKey=LXKDFTDVRVLXFY-WQWYCSGDSA-N
 125126  0  0  0  0            999 V2000
    -9.2881  -20.2125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -262,7 +262,7 @@ InChIKey=LXKDFTDVRVLXFY-WQWYCSGDSA-N
 M  END
 $MOL
 mqn8[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:25:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:53
 InChIKey=LXKDFTDVRVLXFY-WQWYCSGDSA-N
 125126  0  0  0  0            999 V2000
    -9.2881  -20.2125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

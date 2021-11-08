@@ -5,7 +5,7 @@ bilglcur[c] -> bilglcur[r]
   1  1
 $MOL
 bilglcur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:22:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:42
 InChIKey=ARBDURHEPGRPSR-JTCNQIQHSA-L
  97101  0  0  1  0  0  0  0  0999 V2000
    -8.4309   -2.5347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -210,7 +210,7 @@ M  CHG  2  45  -1  50  -1
 M  END
 $MOL
 bilglcur[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:22:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:42
 InChIKey=ARBDURHEPGRPSR-JTCNQIQHSA-L
  97101  0  0  1  0  0  0  0  0999 V2000
    -8.4309   -2.5347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ udpglcur[c] + CE2883[c] -> h[c] + udp[c] + CE2887[c]
   2  3
 $MOL
 udpglcur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:01
 InChIKey=HDYANYHVCAPMJV-LXQIFKJMSA-K
  56 58  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ M  CHG  3  18  -1  25  -1  27  -1
 M  END
 $MOL
 CE2883[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:05:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:59:24
 InChIKey=UOWZUVNAGUAEQC-UHFFFAOYSA-M
  29 30  0  0  0  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -192,7 +192,7 @@ M  CHG  1  18  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -201,7 +201,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 udp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:52
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -221,12 +221,12 @@ InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
     6.4903    0.9544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.6456   -1.4067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -0.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
     8.1303   -2.7290    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -281,7 +281,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 CE2887[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:05:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:59:32
 InChIKey=VXVBZMWOWMHXTQ-RHMUGHDZSA-L
  48 50  0  0  1  0  0  0  0  0999 V2000
     3.4641   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

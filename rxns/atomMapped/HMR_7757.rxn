@@ -1,11 +1,11 @@
 $RXN
 HMR_7757
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:16:38
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:33:11
 h[c] + succoa[c] -> h[m] + succoa[m]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
@@ -14,7 +14,7 @@ M  ISO  1   1   1
 M  END
 $MOL
 succoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:52:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:12
 InChIKey=VNOYUJKHFWYWIR-RJPVGMBJSA-I
  90 92  0  0  1  0            999 V2000
     8.0861   -2.4163    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -203,7 +203,7 @@ M  CHG  5   6  -1  15  -1  33  -1  88  -1  89  -1
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
@@ -212,7 +212,7 @@ M  ISO  1   1   1
 M  END
 $MOL
 succoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:52:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:12
 InChIKey=VNOYUJKHFWYWIR-RJPVGMBJSA-I
  90 92  0  0  1  0            999 V2000
     8.0861   -2.4163    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

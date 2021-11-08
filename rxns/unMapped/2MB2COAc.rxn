@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 2mb2coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:20:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:41:21
 InChIKey=PMWATMXOQQZNBX-SMRBIBNPSA-J
  92 94  0  0  1  0  0  0  0  0999 V2000
    14.9715   -6.9643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -198,7 +198,7 @@ M  CHG  4  34  -1  37  -1  39  -1  40  -1
 M  END
 $MOL
 2mb2coa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:20:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:41:21
 InChIKey=PMWATMXOQQZNBX-SMRBIBNPSA-J
  92 94  0  0  1  0  0  0  0  0999 V2000
    14.9715   -6.9643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

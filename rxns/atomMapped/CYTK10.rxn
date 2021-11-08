@@ -1,11 +1,11 @@
 $RXN
 CYTK10
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:56:18
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:47:53
 cmp[c] + dgtp[c] -> cdp[c] + dgdp[c]
   2  2
 $MOL
 cmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:32
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -79,7 +79,7 @@ M  CHG  2  24  -1  30  -1
 M  END
 $MOL
 dgtp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:36:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:22
 InChIKey=HAAZLUGHYHWQIW-KVQBGUIXSA-J
  43 45  0  0  1  0            999 V2000
     0.6635    3.0451    0.0000 H   0  0  0  0  0  0  0  0  0 34  0  0
@@ -174,7 +174,7 @@ M  CHG  4  18  -1  27  -1  28  -1  43  -1
 M  END
 $MOL
 cdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:28
 InChIKey=ZWIADYZPOWUWEW-XVFCMESISA-K
  37 38  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -256,7 +256,7 @@ M  CHG  3  24  -1  35  -1  36  -1
 M  END
 $MOL
 dgdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:36:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:16
 InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K
  39 41  0  0  1  0            999 V2000
     0.6635    3.0451    0.0000 H   0  0  0  0  0  0  0  0  0 34  0  0

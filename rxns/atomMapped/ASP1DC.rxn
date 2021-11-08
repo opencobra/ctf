@@ -1,19 +1,19 @@
 $RXN
 ASP1DC
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 12:42:32
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:23:35
 h[c] + asp_L[c] -> co2[c] + ala_B[c]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 asp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:02:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:44
 InChIKey=CKLJMWTZIZZHCS-REOHCLBHSA-M
  15 14  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -49,7 +49,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:13:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0
@@ -60,7 +60,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 ala_B[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:56:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:08
 InChIKey=UCMIRNVEIXFBKS-UHFFFAOYSA-N
  13 12  0  0  0  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

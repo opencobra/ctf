@@ -1,11 +1,11 @@
 $RXN
 10FTHFtm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:38:49
+COBRA Toolbox v3.0 - Atom mapped - 08-Nov-2021 09:29:57
 10fthf[c] -> 10fthf[m]
   1  1
 $MOL
 10fthf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:19:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:38:05
 InChIKey=AUFGTPPARQZWDO-YUZLPWPTSA-L
  55 57  0  0  1  0            999 V2000
     0.7145   -5.3625    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -124,7 +124,7 @@ M  CHG  2  41  -1  54  -1
 M  END
 $MOL
 10fthf[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:19:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:38:05
 InChIKey=AUFGTPPARQZWDO-YUZLPWPTSA-L
  55 57  0  0  1  0            999 V2000
     0.7145   -5.3625    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

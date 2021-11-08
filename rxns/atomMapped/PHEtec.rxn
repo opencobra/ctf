@@ -1,11 +1,11 @@
 $RXN
 PHEtec
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 04:39:11
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:20:26
 phe_L[e] -> phe_L[c]
   1  1
 $MOL
 phe_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:37:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:54
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -57,7 +57,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:37:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:54
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

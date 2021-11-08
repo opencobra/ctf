@@ -5,7 +5,7 @@ btcoa[m] + crn[c] -> crn[m] + btcoa[c]
   2  2
 $MOL
 btcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:22:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:53
 InChIKey=CRFNGMNYKDXRTN-CITAKDKDSA-J
  91 93  0  0  1  0  0  0  0  0999 V2000
    16.1305   -5.6772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -196,7 +196,7 @@ M  CHG  4  33  -1  37  -1  38  -1  39  -1
 M  END
 $MOL
 crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:17
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -254,7 +254,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 crn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:30:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:17
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -312,7 +312,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 btcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:22:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:53
 InChIKey=CRFNGMNYKDXRTN-CITAKDKDSA-J
  91 93  0  0  1  0  0  0  0  0999 V2000
    16.1305   -5.6772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

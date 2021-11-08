@@ -5,7 +5,7 @@ h2o[e] + pe224_hs[e] -> pa_hs[e] + docteteth[e]
   2  2
 $MOL
 h2o[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 pe224_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:16:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:04
 InChIKey=NJHKGJJIKOCCMZ-UHFFFAOYSA-N
  84 83  0  0  1  0  0  0  0  0999 V2000
    17.5000  -11.2583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -189,7 +189,7 @@ InChIKey=NJHKGJJIKOCCMZ-UHFFFAOYSA-N
 M  END
 $MOL
 pa_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:43
 
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -3.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -237,7 +237,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 docteteth[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:41:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:11
 InChIKey=FMVHVRYFQIXOAF-UHFFFAOYSA-N
  68 67  0  0  0  0  0  0  0  0999 V2000
    17.3205   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 GLCt1r
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:04:37
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:11:32
 glc_D[e] -> glc_D[c]
   1  1
 $MOL
 glc_D[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:39:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:11
 InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
  24 24  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -59,7 +59,7 @@ InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
 M  END
 $MOL
 glc_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:39:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:11
 InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
  24 24  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

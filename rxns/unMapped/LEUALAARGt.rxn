@@ -5,7 +5,7 @@ h[e] + leualaarg[e] -> h[c] + leualaarg[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 leualaarg[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:48:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:11
 InChIKey=LJHGALIOHLRRQN-HBNTYKKESA-O
  56 55  0  0  1  0  0  0  0  0999 V2000
     9.5263   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -132,7 +132,7 @@ M  CHG  1  16   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -141,7 +141,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 leualaarg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:48:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:11
 InChIKey=LJHGALIOHLRRQN-HBNTYKKESA-O
  56 55  0  0  1  0  0  0  0  0999 V2000
     9.5263   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

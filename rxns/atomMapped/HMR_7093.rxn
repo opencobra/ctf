@@ -1,11 +1,11 @@
 $RXN
 HMR_7093
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:04:08
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:23:50
 gthrd[c] + M00565[c] -> M02144[c] + M00566[c]
   2  2
 $MOL
 gthrd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:53:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:41
 InChIKey=RWSXRVCMGQZWBV-WDSKDSINSA-M
  36 35  0  0  1  0            999 V2000
    -3.7638    4.4270    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -83,7 +83,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 M00565[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:42:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:30:30
 InChIKey=QUWRSBQWJGCKIV-BQBZGAKWSA-M
  41 40  0  0  1  0            999 V2000
    -1.8118   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0 37  0  0
@@ -171,7 +171,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 M02144[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:44:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:40:39
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-N
   2  1  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0 76  0  0
@@ -180,7 +180,7 @@ InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-N
 M  END
 $MOL
 M00566[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:42:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:30:32
 InChIKey=QEJUVDVAWJBQIG-CYDGBPFRSA-L
  75 74  0  0  1  0            999 V2000
     6.5704    3.7934    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

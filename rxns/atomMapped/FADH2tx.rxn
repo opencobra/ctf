@@ -1,11 +1,11 @@
 $RXN
 FADH2tx
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:02:06
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 20:20:21
 fadh2[c] -> fadh2[x]
   1  1
 $MOL
 fadh2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:43
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -189,7 +189,7 @@ M  CHG  2  82  -1  85  -1
 M  END
 $MOL
 fadh2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:43
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0            999 V2000
     5.0013   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

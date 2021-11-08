@@ -1,19 +1,20 @@
 $RXN
 L_LACt2r
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 01:17:13
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:30:56
 h[e] + lac_L[e] -> h[c] + lac_L[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 lac_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:15:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:00
 InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M
  11 10  0  0  1  0            999 V2000
     0.8250   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -41,15 +42,16 @@ M  CHG  1   6  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
+M  ISO  1   1   1
 M  END
 $MOL
 lac_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:15:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:30:00
 InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M
  11 10  0  0  1  0            999 V2000
     0.8250   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

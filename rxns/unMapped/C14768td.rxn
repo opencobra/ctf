@@ -5,7 +5,7 @@ C14768[c] -> C14768[e]
   1  1
 $MOL
 C14768[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:49:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:52:28
 InChIKey=VBQNSZQZRAGRIX-QNEBEIHSSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     5.3301    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -120,7 +120,7 @@ M  CHG  1  22  -1
 M  END
 $MOL
 C14768[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:49:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:52:28
 InChIKey=VBQNSZQZRAGRIX-QNEBEIHSSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     5.3301    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

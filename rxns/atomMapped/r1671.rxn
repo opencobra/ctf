@@ -1,11 +1,11 @@
 $RXN
 r1671
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:58:21
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 00:34:20
 citr_L[c] + his_L[e] -> his_L[c] + citr_L[e]
   2  2
 $MOL
 citr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:19
 InChIKey=RHGKLRLOHDJJDR-BYPYZUCNSA-N
  25 24  0  0  1  0            999 V2000
     2.9980    3.3809    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -60,7 +60,7 @@ InChIKey=RHGKLRLOHDJJDR-BYPYZUCNSA-N
 M  END
 $MOL
 his_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:10
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0            999 V2000
    -0.8612    4.4143    0.0000 H   0  0  0  0  0  0  0  0  0 26  0  0
@@ -106,7 +106,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:10
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0            999 V2000
    -0.8612    4.4143    0.0000 H   0  0  0  0  0  0  0  0  0 26  0  0
@@ -152,7 +152,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 citr_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:19
 InChIKey=RHGKLRLOHDJJDR-BYPYZUCNSA-N
  25 24  0  0  1  0            999 V2000
     2.9980    3.3809    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -1,0 +1,62 @@
+$RXN
+CATr
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 08:40:41
+2 h2o2[r] -> 2 h2o[r] + o2[r]
+  2  3
+$MOL
+h2o2[r]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:57
+InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
+  4  3  0  0  0  0            999 V2000
+    1.2375   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0
+   -0.4125    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+$MOL
+h2o2[r]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:57
+InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
+  4  3  0  0  0  0            999 V2000
+    1.2375   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  5  0  0
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  6  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  7  0  0
+   -0.4125    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  8  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+$MOL
+h2o[r]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+  3  2  0  0  0  0            999 V2000
+    0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  6  0  0
+    2.1434    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  5  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+$MOL
+h2o[r]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+  3  2  0  0  0  0            999 V2000
+    0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  7  0  0
+    2.1434    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  8  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+$MOL
+o2[r]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:22
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+  1  2  2  0  0  0  0
+M  END

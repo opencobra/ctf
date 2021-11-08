@@ -1,11 +1,11 @@
 $RXN
 GLYPHEHYc
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 22:37:39
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:29:04
 h2o[c] + glyphe[c] -> gly[c] + phe_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 glyphe[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:51:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:47
 InChIKey=JBCLFWXMTIKCCB-UHFFFAOYSA-N
  30 30  0  0  0  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -82,7 +82,7 @@ InChIKey=JBCLFWXMTIKCCB-UHFFFAOYSA-N
 M  END
 $MOL
 gly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:50:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:14:20
 InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
  10  9  0  0  0  0            999 V2000
     2.4750   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0 13  0  0
@@ -107,7 +107,7 @@ InChIKey=DHMQDGOQFOQNFH-UHFFFAOYSA-N
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:37:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:54
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0            999 V2000
    -0.7145    4.5375    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

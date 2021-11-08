@@ -5,7 +5,7 @@ na1[c] + HC02191[c] -> na1[e] + HC02191[e]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 HC02191[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:59:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:07
 InChIKey=SMEROWZSTRWXGI-HVATVPOCSA-M
  66 69  0  0  1  0  0  0  0  0999 V2000
    -2.8016    3.7046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -155,7 +155,7 @@ M  CHG  1  27  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -163,7 +163,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 HC02191[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:59:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:07
 InChIKey=SMEROWZSTRWXGI-HVATVPOCSA-M
  66 69  0  0  1  0  0  0  0  0999 V2000
    -2.8016    3.7046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

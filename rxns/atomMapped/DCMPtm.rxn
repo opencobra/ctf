@@ -1,11 +1,11 @@
 $RXN
 DCMPtm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:20:09
+COBRA Toolbox v3.0 - Atom mapped - 08-Nov-2021 09:35:31
 dcmp[m] -> dcmp[c]
   1  1
 $MOL
 dcmp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:35:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:02:05
 InChIKey=NCMVOABPESMRCP-SHYZEUOFSA-L
  32 33  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -77,7 +77,7 @@ M  CHG  2  18  -1  32  -1
 M  END
 $MOL
 dcmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:35:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:02:05
 InChIKey=NCMVOABPESMRCP-SHYZEUOFSA-L
  32 33  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

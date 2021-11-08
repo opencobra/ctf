@@ -5,7 +5,7 @@ q10[m] + hxcoa[m] -> q10h2[m] + hx2coa[m]
   2  2
 $MOL
 q10[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:27
 InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 153153  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -317,7 +317,7 @@ InChIKey=ACTIUHUUMQJHFO-UPTCCGCDSA-N
 M  END
 $MOL
 hxcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:12:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:33
 InChIKey=OEXFMSFODMQEPE-HDRQGHTBSA-J
  97 99  0  0  1  0  0  0  0  0999 V2000
    13.1782   -3.2200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -361,7 +361,7 @@ InChIKey=OEXFMSFODMQEPE-HDRQGHTBSA-J
     4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0510   -5.4801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9029   -2.6555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -520,7 +520,7 @@ M  CHG  4  35  -1  39  -1  40  -1  41  -1
 M  END
 $MOL
 q10h2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:29
 InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 155155  0  0  0  0  0  0  0  0999 V2000
     0.0000  -30.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -836,7 +836,7 @@ InChIKey=QNTNKSLOFHEFPK-UPTCCGCDSA-N
 M  END
 $MOL
 hx2coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:11:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:27
 InChIKey=OINXHIBNZUUIMR-IXUYQXAASA-J
  95 97  0  0  1  0  0  0  0  0999 V2000
    13.1782   -3.2200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -880,7 +880,7 @@ InChIKey=OINXHIBNZUUIMR-IXUYQXAASA-J
     4.4993   -2.3976    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3613   -5.5541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0510   -5.4801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.9029   -2.6555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 NDPK6
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 03:14:53
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:32:10
 atp[c] + dudp[c] -> adp[c] + dutp[c]
   2  2
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:02:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -100,7 +100,7 @@ M  CHG  4  15  -1  19  -1  23  -1  24  -1
 M  END
 $MOL
 dudp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:30:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:15
 InChIKey=QHWZTVCCBMIIKE-SHYZEUOFSA-K
  35 36  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0
@@ -178,7 +178,7 @@ M  CHG  3  23  -1  24  -1  32  -1
 M  END
 $MOL
 adp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:54:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:11
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -265,7 +265,7 @@ M  CHG  3  15  -1  19  -1  20  -1
 M  END
 $MOL
 dutp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:31:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:21
 InChIKey=AHCYMLUZIRLXAA-SHYZEUOFSA-J
  39 40  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0

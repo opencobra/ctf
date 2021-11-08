@@ -1,11 +1,11 @@
 $RXN
 HC00342te
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:34:14
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:39:01
 3 na1[c] + HC00342[c] -> 3 na1[e] + HC00342[e]
   4  4
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  2  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  3  0  0
@@ -29,7 +29,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 HC00342[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:26:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:05
 InChIKey=GTZCVFVGUGFEME-IWQZZHSRSA-K
  15 14  0  0  0  0            999 V2000
     1.2375   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -65,7 +65,7 @@ M  CHG  3   4  -1   8  -1  14  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -73,7 +73,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  2  0  0
@@ -81,7 +81,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  3  0  0
@@ -89,7 +89,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 HC00342[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:26:23
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:17:05
 InChIKey=GTZCVFVGUGFEME-IWQZZHSRSA-K
  15 14  0  0  0  0            999 V2000
     1.2375   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

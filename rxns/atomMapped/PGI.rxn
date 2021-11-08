@@ -1,11 +1,11 @@
 $RXN
 PGI
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 04:31:33
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:33:04
 g6p[c] -> f6p[c]
   1  1
 $MOL
 g6p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:37:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:10:00
 InChIKey=NBSCHQHZLSJFNQ-GASJEMHNSA-L
  27 27  0  0  1  0            999 V2000
     1.4289    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -66,7 +66,7 @@ M  CHG  2  13  -1  14  -1
 M  END
 $MOL
 f6p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:34:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:39
 InChIKey=GSXOAOHZAIYLCY-HSUXUTPPSA-L
  27 26  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

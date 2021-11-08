@@ -5,7 +5,7 @@ h[m] + pa_hs[m] + ctp[m] -> ppi[m] + cdpdag_hs[m]
   3  2
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 pa_hs[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:43
 
  21 20  0  0  1  0  0  0  0  0999 V2000
    -1.5000   -3.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -62,7 +62,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 ctp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:31:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:52
 InChIKey=PCDQPRRSZKQHHS-XVFCMESISA-J
  41 42  0  0  1  0  0  0  0  0999 V2000
    -7.7105   -0.2138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -82,7 +82,7 @@ InChIKey=PCDQPRRSZKQHHS-XVFCMESISA-J
    -6.4903   -2.9544    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -3.0000   -2.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -2.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -152,7 +152,7 @@ M  CHG  4  15  -1  16  -1  17  -1  19  -1
 M  END
 $MOL
 ppi[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:21:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -178,7 +178,7 @@ M  CHG  3   1  -1   2  -1   4  -1
 M  END
 $MOL
 cdpdag_hs[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:35
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:32
 
  53 54  0  0  1  0  0  0  0  0999 V2000
    -4.8479   -2.9538    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

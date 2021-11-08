@@ -5,7 +5,7 @@ pcholpalm_hs[e] -> pcholpalm_hs[c]
   1  1
 $MOL
 pcholpalm_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:27
 InChIKey=ASWBNKHCZGQVJV-UHFFFAOYSA-O
  84 83  0  0  1  0  0  0  0  0999 V2000
   -14.0000   -9.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -179,7 +179,7 @@ M  CHG  1  25   1
 M  END
 $MOL
 pcholpalm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:14:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:27
 InChIKey=ASWBNKHCZGQVJV-UHFFFAOYSA-O
  84 83  0  0  1  0  0  0  0  0999 V2000
   -14.0000   -9.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

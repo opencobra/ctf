@@ -1,11 +1,11 @@
 $RXN
 ACGLUtd
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:35:43
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:58:03
 acglu[c] -> acglu[e]
   1  1
 $MOL
 acglu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:49:56
 InChIKey=RFMMMVDNIPUKGG-YFKPBYRVSA-L
  22 21  0  0  1  0            999 V2000
     1.2375    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -55,7 +55,7 @@ M  CHG  2   9  -1  21  -1
 M  END
 $MOL
 acglu[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:49:56
 InChIKey=RFMMMVDNIPUKGG-YFKPBYRVSA-L
  22 21  0  0  1  0            999 V2000
     1.2375    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

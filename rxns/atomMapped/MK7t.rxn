@@ -1,11 +1,11 @@
 $RXN
 MK7t
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 02:40:38
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:19:36
 mqn7[c] -> mqn7[e]
   1  1
 $MOL
 mqn7[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:25:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:51
 InChIKey=RAKQPZMEYJZGPI-LJWNYQGCSA-N
 112113  0  0  0  0            999 V2000
    -7.8592  -17.7375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -236,7 +236,7 @@ InChIKey=RAKQPZMEYJZGPI-LJWNYQGCSA-N
 M  END
 $MOL
 mqn7[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:25:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:51
 InChIKey=RAKQPZMEYJZGPI-LJWNYQGCSA-N
 112113  0  0  0  0            999 V2000
    -7.8592  -17.7375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

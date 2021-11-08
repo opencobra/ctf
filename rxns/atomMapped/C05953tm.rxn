@@ -1,11 +1,11 @@
 $RXN
 C05953tm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:36:33
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 06:00:29
 HC02203[m] -> HC02203[c]
   1  1
 $MOL
 HC02203[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:27:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:29
 InChIKey=MYHXHCUNDDAEOZ-JLGPIWRLSA-M
  53 53  0  0  1  0            999 V2000
     0.0280   -3.6748    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -118,7 +118,7 @@ M  CHG  1  36  -1
 M  END
 $MOL
 HC02203[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:27:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:22:29
 InChIKey=MYHXHCUNDDAEOZ-JLGPIWRLSA-M
  53 53  0  0  1  0            999 V2000
     0.0280   -3.6748    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

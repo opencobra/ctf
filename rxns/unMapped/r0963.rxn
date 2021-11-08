@@ -5,7 +5,7 @@ fol[e] -> fol[c]
   1  1
 $MOL
 fol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:08:11
 InChIKey=OVBPIULPVIDEAO-LBPRGKRZSA-M
  50 52  0  0  1  0  0  0  0  0999 V2000
     6.9282   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -114,7 +114,7 @@ M  CHG  1  28  -1
 M  END
 $MOL
 fol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:08:11
 InChIKey=OVBPIULPVIDEAO-LBPRGKRZSA-M
  50 52  0  0  1  0  0  0  0  0999 V2000
     6.9282   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

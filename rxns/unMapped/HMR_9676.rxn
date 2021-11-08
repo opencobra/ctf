@@ -5,7 +5,7 @@ ind3ac[m] -> ind3ac[c]
   1  1
 $MOL
 ind3ac[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:40:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:26
 InChIKey=SEOVTRFCIGRIMH-UHFFFAOYSA-M
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -55,7 +55,7 @@ M  CHG  1  13  -1
 M  END
 $MOL
 ind3ac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:40:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:26
 InChIKey=SEOVTRFCIGRIMH-UHFFFAOYSA-M
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

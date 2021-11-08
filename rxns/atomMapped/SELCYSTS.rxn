@@ -1,11 +1,11 @@
 $RXN
 SELCYSTS
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 09:18:10
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:44:26
 ser_L[c] + selhcys[c] -> h2o[c] + selcyst[c]
   2  2
 $MOL
 ser_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:53:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:03
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -38,7 +38,7 @@ InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
 M  END
 $MOL
 selhcys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:53:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:48:52
 InChIKey=RCWCGLALNCIQNM-VKHMYHEASA-N
  17 16  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -77,7 +77,7 @@ InChIKey=RCWCGLALNCIQNM-VKHMYHEASA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0 31  0  0
@@ -88,7 +88,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 selcyst[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:53:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:48:50
 InChIKey=ZNWYDQPOUQRDLY-WHFBIAKZSA-N
  28 27  0  0  1  0            999 V2000
     2.2836    2.9684    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

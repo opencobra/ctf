@@ -1,11 +1,11 @@
 $RXN
 GLU5SAtmc
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:28:56
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:22:10
 glu5sa[m] -> glu5sa[c]
   1  1
 $MOL
 glu5sa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:40
 InChIKey=KABXUUFDPUOJMW-BYPYZUCNSA-N
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -46,7 +46,7 @@ InChIKey=KABXUUFDPUOJMW-BYPYZUCNSA-N
 M  END
 $MOL
 glu5sa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:40
 InChIKey=KABXUUFDPUOJMW-BYPYZUCNSA-N
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

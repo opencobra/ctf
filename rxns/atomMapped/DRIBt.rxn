@@ -1,11 +1,11 @@
 $RXN
 DRIBt
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:00:15
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 20:09:29
 drib[e] -> drib[c]
   1  1
 $MOL
 drib[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:51
 InChIKey=PDWIQYODPROSQH-WISUUJSJSA-N
  19 19  0  0  1  0            999 V2000
    -0.1467    3.1768    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -49,7 +49,7 @@ InChIKey=PDWIQYODPROSQH-WISUUJSJSA-N
 M  END
 $MOL
 drib[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:20
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:51
 InChIKey=PDWIQYODPROSQH-WISUUJSJSA-N
  19 19  0  0  1  0            999 V2000
    -0.1467    3.1768    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

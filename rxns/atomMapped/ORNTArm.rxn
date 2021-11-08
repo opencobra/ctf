@@ -1,11 +1,11 @@
 $RXN
 ORNTArm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:24:39
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:04:43
 akg[m] + orn[m] -> glu_L[m] + glu5sa[m]
   2  2
 $MOL
 akg[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:04
 InChIKey=KPGXRSRHYNQIFN-UHFFFAOYSA-L
  14 13  0  0  0  0            999 V2000
     3.5597    2.5787    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -39,7 +39,7 @@ M  CHG  2   5  -1  13  -1
 M  END
 $MOL
 orn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:47:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:29
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0
@@ -89,7 +89,7 @@ M  CHG  1  19   1
 M  END
 $MOL
 glu_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:42
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 32  0  0
@@ -131,7 +131,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 glu5sa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:03
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:40
 InChIKey=KABXUUFDPUOJMW-BYPYZUCNSA-N
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0

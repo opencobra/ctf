@@ -1,11 +1,11 @@
 $RXN
 HISD
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:38:55
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:44:46
 his_L[c] -> nh4[c] + urcan[c]
   1  2
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:58:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:10
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0            999 V2000
    -0.8612    4.4143    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -51,7 +51,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:27:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -67,7 +67,7 @@ M  CHG  1   2   1
 M  END
 $MOL
 urcan[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:09:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:17
 InChIKey=LOIYMIARKYCTBW-OWOJBTEDSA-M
  15 15  0  0  0  0            999 V2000
     0.5678    1.9393    0.0000 H   0  0  0  0  0  0  0  0  0 20  0  0

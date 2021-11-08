@@ -1,11 +1,11 @@
 $RXN
 r2539
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:12:02
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 01:59:50
 L2aadp[m] + L2aadp6sa[c] -> L2aadp[c] + L2aadp6sa[m]
   2  2
 $MOL
 L2aadp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:27:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:10
 InChIKey=OYIFNHCXNCRBQI-BYPYZUCNSA-M
  21 20  0  0  1  0            999 V2000
     0.3316    1.8414    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -53,7 +53,7 @@ M  CHG  1  20  -1
 M  END
 $MOL
 L2aadp6sa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:27:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:12
 InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N
  21 20  0  0  1  0            999 V2000
     0.3316    1.8414    0.0000 H   0  0  0  0  0  0  0  0  0 22  0  0
@@ -100,7 +100,7 @@ InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N
 M  END
 $MOL
 L2aadp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:27:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:10
 InChIKey=OYIFNHCXNCRBQI-BYPYZUCNSA-M
  21 20  0  0  1  0            999 V2000
     0.3316    1.8414    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -148,7 +148,7 @@ M  CHG  1  20  -1
 M  END
 $MOL
 L2aadp6sa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:27:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:12
 InChIKey=GFXYTQPNNXGICT-YFKPBYRVSA-N
  21 20  0  0  1  0            999 V2000
     0.3316    1.8414    0.0000 H   0  0  0  0  0  0  0  0  0 22  0  0

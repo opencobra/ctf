@@ -1,11 +1,11 @@
 $RXN
 ACACtx
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:42:30
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:00:14
 acac[c] -> acac[x]
   1  1
 $MOL
 acac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:46
 InChIKey=WDJHALXBUFZDSR-UHFFFAOYSA-M
  12 11  0  0  0  0            999 V2000
     1.9520    1.7309    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -35,7 +35,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 acac[x]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:46
 InChIKey=WDJHALXBUFZDSR-UHFFFAOYSA-M
  12 11  0  0  0  0            999 V2000
     1.9520    1.7309    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

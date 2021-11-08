@@ -1,11 +1,11 @@
 $RXN
 RE1530C
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:13:58
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 02:23:34
 dgtp[c] + duri[c] -> h[c] + dgdp[c] + dump[c]
   2  3
 $MOL
 dgtp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:36:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:22
 InChIKey=HAAZLUGHYHWQIW-KVQBGUIXSA-J
  43 45  0  0  1  0            999 V2000
     0.6635    3.0451    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -100,7 +100,7 @@ M  CHG  4  18  -1  27  -1  28  -1  43  -1
 M  END
 $MOL
 duri[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:19
 InChIKey=MXHRCPNRJAMMIM-SHYZEUOFSA-N
  28 29  0  0  1  0            999 V2000
     1.4289    7.1786    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0
@@ -163,7 +163,7 @@ InChIKey=MXHRCPNRJAMMIM-SHYZEUOFSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0 64  0  0
@@ -171,7 +171,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 dgdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:36:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:16
 InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K
  39 41  0  0  1  0            999 V2000
     0.6635    3.0451    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -258,7 +258,7 @@ M  CHG  3  23  -1  24  -1  39  -1
 M  END
 $MOL
 dump[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:37:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:06:17
 InChIKey=JSRLJPSBLDHEIO-SHYZEUOFSA-L
  31 32  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 68  0  0

@@ -1,11 +1,11 @@
 $RXN
 ACILEte
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:38:33
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 06:12:16
 acile_L[c] -> acile_L[e]
   1  1
 $MOL
 acile_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:06
 InChIKey=JDTWZSUNGHMMJM-DSEUIKHZSA-M
  26 25  0  0  1  0            999 V2000
     1.9520   -1.3480    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -63,7 +63,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 acile_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:06
 InChIKey=JDTWZSUNGHMMJM-DSEUIKHZSA-M
  26 25  0  0  1  0            999 V2000
     1.9520   -1.3480    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

@@ -1,11 +1,11 @@
 $RXN
 CHSTEROLSte
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:05:20
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 08:26:13
 chsterols[c] -> chsterols[e]
   1  1
 $MOL
 chsterols[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:11
 InChIKey=BHYOQNUELFTYRT-DPAQBDIFSA-M
  77 80  0  0  1  0            999 V2000
    -3.3975    5.9744    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -169,7 +169,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 chsterols[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:11
 InChIKey=BHYOQNUELFTYRT-DPAQBDIFSA-M
  77 80  0  0  1  0            999 V2000
    -3.3975    5.9744    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

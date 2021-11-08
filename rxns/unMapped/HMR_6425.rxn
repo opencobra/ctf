@@ -5,7 +5,7 @@ avite2[c] -> avite2[r]
   1  1
 $MOL
 avite2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:25
 InChIKey=RZFHLOLGZPDCHJ-XZXLULOTSA-N
  75 76  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ InChIKey=RZFHLOLGZPDCHJ-XZXLULOTSA-N
 M  END
 $MOL
 avite2[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:21:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:25
 InChIKey=RZFHLOLGZPDCHJ-XZXLULOTSA-N
  75 76  0  0  1  0  0  0  0  0999 V2000
    -9.7488   -0.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

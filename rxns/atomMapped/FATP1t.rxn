@@ -1,11 +1,11 @@
 $RXN
 FATP1t
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:02:22
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 20:51:35
 na1[c] + hdca[c] -> na1[e] + hdca[e]
   2  2
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hdca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:10
 InChIKey=IPCSVZSSVZVIGE-UHFFFAOYSA-M
  49 48  0  0  0  0            999 V2000
     8.3605    6.1283    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -117,7 +117,7 @@ M  CHG  1  48  -1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:14
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -125,7 +125,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hdca[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:10
 InChIKey=IPCSVZSSVZVIGE-UHFFFAOYSA-M
  49 48  0  0  0  0            999 V2000
     8.3605    6.1283    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

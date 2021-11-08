@@ -1,11 +1,11 @@
 $RXN
 ADRNCRNt
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:44:23
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:07:47
 adrncrn[c] -> adrncrn[m]
   1  1
 $MOL
 adrncrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:32
 InChIKey=KRXOUZZWQXTUIB-IDERWEGCSA-N
  81 80  0  0  0  0            999 V2000
    -3.7638   -3.6020    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -173,7 +173,7 @@ M  CHG  2  64  -1  69   1
 M  END
 $MOL
 adrncrn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:32
 InChIKey=KRXOUZZWQXTUIB-IDERWEGCSA-N
  81 80  0  0  0  0            999 V2000
    -3.7638   -3.6020    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

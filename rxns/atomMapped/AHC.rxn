@@ -1,11 +1,11 @@
 $RXN
 AHC
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 11:36:26
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:50:13
 h2o[c] + ahcys[c] -> adn[c] + hcys_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 ahcys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:55:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:46
 InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
  46 48  0  0  1  0            999 V2000
     6.3435    0.2681    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -116,7 +116,7 @@ InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
 M  END
 $MOL
 adn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:54:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:02
 InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
  32 34  0  0  1  0            999 V2000
    -1.1495   -5.0203    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -188,7 +188,7 @@ InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
 M  END
 $MOL
 hcys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:55:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:08
 InChIKey=FFFHZYDWPBMWHY-VKHMYHEASA-N
  17 16  0  0  1  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

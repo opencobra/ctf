@@ -5,7 +5,7 @@ M03117[e] -> M03117[c]
   1  1
 $MOL
 M03117[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:01:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:47:09
 InChIKey=ZDPHROOEEOARMN-UHFFFAOYSA-M
  34 33  0  0  0  0  0  0  0  0999 V2000
     8.6603   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -79,7 +79,7 @@ M  CHG  1  13  -1
 M  END
 $MOL
 M03117[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:01:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:47:09
 InChIKey=ZDPHROOEEOARMN-UHFFFAOYSA-M
  34 33  0  0  0  0  0  0  0  0999 V2000
     8.6603   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

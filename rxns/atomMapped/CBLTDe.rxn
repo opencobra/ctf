@@ -1,11 +1,11 @@
 $RXN
 CBLTDe
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 13:43:05
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:09:30
 adocbl[c] -> adocbl[e]
   1  1
 $MOL
 adocbl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:54:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:07
 InChIKey=ZIHHMGTYZOSFRC-OUCXYWSSSA-L
 209217  0  0  1  0            999 V2000
     3.2727    5.8103    0.0000 Co  0  2  0  0  0  0  0  0  0  1  0  0
@@ -439,7 +439,7 @@ M  RAD  1  29   2
 M  END
 $MOL
 adocbl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:54:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:07
 InChIKey=ZIHHMGTYZOSFRC-OUCXYWSSSA-L
 209217  0  0  1  0            999 V2000
     3.2727    5.8103    0.0000 Co  0  2  0  0  0  0  0  0  0  1  0  0

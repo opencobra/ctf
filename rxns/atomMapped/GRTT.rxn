@@ -1,11 +1,11 @@
 $RXN
 GRTT
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:00:33
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:29:43
 ipdp[c] + grdp[c] -> ppi[c] + frdp[c]
   2  2
 $MOL
 ipdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:10:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:41
 InChIKey=NUHSROFQTUXZQQ-UHFFFAOYSA-K
  23 22  0  0  0  0            999 V2000
    -0.1914    0.1105    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -57,7 +57,7 @@ M  CHG  3  17  -1  21  -1  22  -1
 M  END
 $MOL
 grdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:53:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:17:53
 InChIKey=GVVPGTZRZFNKDS-JXMROGBWSA-K
  36 35  0  0  0  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0 24  0  0
@@ -135,7 +135,7 @@ M  CHG  3  26  -1  30  -1  31  -1
 M  END
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:41:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0            999 V2000
    -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0 11  0  0
@@ -161,7 +161,7 @@ M  CHG  3   4  -1   8  -1   9  -1
 M  END
 $MOL
 frdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:36:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:08:22
 InChIKey=VWFJDQUYCIWHTN-YFVJMOTDSA-K
  49 48  0  0  0  0            999 V2000
     4.5375    3.5724    0.0000 H   0  0  0  0  0  0  0  0  0 24  0  0

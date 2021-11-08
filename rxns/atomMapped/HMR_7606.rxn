@@ -1,11 +1,11 @@
 $RXN
 HMR_7606
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:06:18
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:30:05
 h2o[c] + M00223[c] -> h[c] + ethamp[c] + M00224[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 M00223[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:40:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:26:14
 
  31 30  0  0  1  0            999 V2000
     2.4750    2.8579    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -83,15 +83,15 @@ COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:40:53
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  3  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 ethamp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:33:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:25
 InChIKey=SUHOOTKUPISOBE-UHFFFAOYSA-M
  15 14  0  0  0  0            999 V2000
     2.4750   -2.8579    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -127,7 +127,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 M00224[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:40:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:26:16
 
  18 17  0  0  1  0            999 V2000
    -0.1914    0.1105    0.0000 H   0  0  0  0  0  0  0  0  0 24  0  0

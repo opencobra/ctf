@@ -1,11 +1,11 @@
 $RXN
 MALT
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 02:06:47
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:45:45
 h2o[c] + malt[c] -> 2 glc_D[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 malt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:19:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:35:43
 InChIKey=GUBGYTABKSRVRQ-DKBJLJRDSA-N
  45 46  0  0  1  0            999 V2000
    -1.4289    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -113,7 +113,7 @@ InChIKey=GUBGYTABKSRVRQ-DKBJLJRDSA-N
 M  END
 $MOL
 glc_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:48:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:11
 InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
  24 24  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0 36  0  0
@@ -167,7 +167,7 @@ InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
 M  END
 $MOL
 glc_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:48:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:11
 InChIKey=WQZGKKKJIJFFOK-GASJEMHNSA-N
  24 24  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

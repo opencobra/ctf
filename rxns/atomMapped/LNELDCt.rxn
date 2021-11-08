@@ -1,11 +1,11 @@
 $RXN
 LNELDCt
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:16:05
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:38:28
 lneldc[e] -> lneldc[c]
   1  1
 $MOL
 lneldc[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:44:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:31:06
 InChIKey=OYHQOLUKZRVURQ-AVQMFFATSA-M
  51 50  0  0  0  0            999 V2000
    -0.5743    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -113,7 +113,7 @@ M  CHG  1  50  -1
 M  END
 $MOL
 lneldc[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:44:11
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:31:06
 InChIKey=OYHQOLUKZRVURQ-AVQMFFATSA-M
  51 50  0  0  0  0            999 V2000
    -0.5743    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

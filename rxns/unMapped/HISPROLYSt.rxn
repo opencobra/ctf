@@ -5,7 +5,7 @@ h[e] + hisprolys[e] -> h[c] + hisprolys[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hisprolys[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:10:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:46
 InChIKey=PGXZHYYGOPKYKM-MGPQQGTHSA-O
  56 57  0  0  1  0  0  0  0  0999 V2000
    -4.5981    0.0149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ InChIKey=PGXZHYYGOPKYKM-MGPQQGTHSA-O
    -2.6418    0.4307    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -1.3546    1.5897    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -3.6710    2.8681    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.0238    2.3328    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -3.8821   -0.7803    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -134,7 +134,7 @@ M  CHG  1  18   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -143,7 +143,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hisprolys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:10:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:46
 InChIKey=PGXZHYYGOPKYKM-MGPQQGTHSA-O
  56 57  0  0  1  0  0  0  0  0999 V2000
    -4.5981    0.0149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -170,7 +170,7 @@ InChIKey=PGXZHYYGOPKYKM-MGPQQGTHSA-O
    -2.6418    0.4307    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -1.3546    1.5897    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.7321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -3.6710    2.8681    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -2.0238    2.3328    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -3.8821   -0.7803    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0

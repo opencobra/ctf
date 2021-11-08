@@ -5,7 +5,7 @@ M01197[l] -> M01197[c]
   1  1
 $MOL
 M01197[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:35:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:35:41
 InChIKey=NNNVXFKZMRGJPM-ZHACJKMWSA-M
  47 46  0  0  0  0  0  0  0  0999 V2000
    12.1244    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -105,7 +105,7 @@ M  CHG  1  18  -1
 M  END
 $MOL
 M01197[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:35:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:35:41
 InChIKey=NNNVXFKZMRGJPM-ZHACJKMWSA-M
  47 46  0  0  0  0  0  0  0  0999 V2000
    12.1244    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

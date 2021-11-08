@@ -5,8 +5,8 @@ fucfucgalacglcgalgluside_hs[g] -> fucfucgalacglcgalgluside_hs[c]
   1  1
 $MOL
 fucfucgalacglcgalgluside_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:50:15
-
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:09
+InChIKey=fucfucgalacglcgalgluside_hs
 190195  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -396,8 +396,8 @@ COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:50:15
 M  END
 $MOL
 fucfucgalacglcgalgluside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:50:15
-
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:09
+InChIKey=fucfucgalacglcgalgluside_hs
 190195  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ h2o[l] + dgmp[l] -> pi[l] + dgsn[l]
   2  2
 $MOL
 h2o[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dgmp[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:37:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:18
 InChIKey=LTFMZDNNPPEQNG-KVQBGUIXSA-L
  35 37  0  0  1  0  0  0  0  0999 V2000
     4.0388    0.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,7 +38,7 @@ InChIKey=LTFMZDNNPPEQNG-KVQBGUIXSA-L
     7.9690    3.1583    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.0878    1.6750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ M  CHG  2  17  -1  18  -1
 M  END
 $MOL
 pi[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:20:58
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -113,7 +113,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 dgsn[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:37:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:20
 InChIKey=YKBGVTZYEHREMT-KVQBGUIXSA-N
  32 34  0  0  1  0  0  0  0  0999 V2000
    -3.8601    0.5477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -124,11 +124,11 @@ InChIKey=YKBGVTZYEHREMT-KVQBGUIXSA-N
    -3.4533    1.4612    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -0.8660    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0739    2.4781    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.7321   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7321    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -2.4752    1.6691    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -6.7851    1.4493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

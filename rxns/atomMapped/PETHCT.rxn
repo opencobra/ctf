@@ -1,19 +1,19 @@
 $RXN
 PETHCT
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 04:29:45
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:18:02
 h[c] + ctp[c] + ethamp[c] -> ppi[c] + cdpea[c]
   3  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 ctp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:19:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:52
 InChIKey=PCDQPRRSZKQHHS-XVFCMESISA-J
  41 42  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -103,7 +103,7 @@ M  CHG  4  24  -1  30  -1  39  -1  40  -1
 M  END
 $MOL
 ethamp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:33:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:25
 InChIKey=SUHOOTKUPISOBE-UHFFFAOYSA-M
  15 14  0  0  0  0            999 V2000
     2.4750   -2.8579    0.0000 H   0  0  0  0  0  0  0  0  0 43  0  0
@@ -139,7 +139,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:41:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0            999 V2000
    -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0 43  0  0
@@ -165,7 +165,7 @@ M  CHG  3   4  -1   8  -1   9  -1
 M  END
 $MOL
 cdpea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:08:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:34
 InChIKey=WVIMUEUQJFPNDK-PEBGCTIMSA-M
  47 48  0  0  1  0            999 V2000
     1.4289   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

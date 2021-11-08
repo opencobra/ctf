@@ -5,7 +5,7 @@ h2o[c] + M00155[c] -> nh4[c] + ind3ac[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 M00155[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:07:12
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:25:03
 InChIKey=ZOAMBXDOGPRZLP-UHFFFAOYSA-N
  23 24  0  0  0  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -69,7 +69,7 @@ InChIKey=ZOAMBXDOGPRZLP-UHFFFAOYSA-N
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:04:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 ind3ac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:40:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:26
 InChIKey=SEOVTRFCIGRIMH-UHFFFAOYSA-M
  21 22  0  0  0  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,11 +1,11 @@
 $RXN
 GALt1r
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 20:56:02
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:04:13
 gal[e] -> gal[c]
   1  1
 $MOL
 gal[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:39:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:10:09
 InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
  24 24  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -59,7 +59,7 @@ InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
 M  END
 $MOL
 gal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:39:51
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:10:09
 InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
  24 24  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

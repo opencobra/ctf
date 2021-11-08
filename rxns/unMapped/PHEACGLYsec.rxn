@@ -5,7 +5,7 @@ pheacgly[c] -> pheacgly[e]
   1  1
 $MOL
 pheacgly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:58
 InChIKey=UTYVDVLMYQPLQB-UHFFFAOYSA-M
  24 24  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -60,7 +60,7 @@ M  CHG  1  12  -1
 M  END
 $MOL
 pheacgly[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:18:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:58
 InChIKey=UTYVDVLMYQPLQB-UHFFFAOYSA-M
  24 24  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

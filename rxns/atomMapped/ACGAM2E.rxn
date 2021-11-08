@@ -1,11 +1,11 @@
 $RXN
 ACGAM2E
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 11:00:56
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:49:05
 acgam[c] -> acmana[c]
   1  1
 $MOL
 acgam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:51:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:49:37
 InChIKey=OVRNDRQMDRJTHS-RTRLPJTCSA-N
  30 30  0  0  1  0            999 V2000
     0.7145    3.7125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -71,7 +71,7 @@ InChIKey=OVRNDRQMDRJTHS-RTRLPJTCSA-N
 M  END
 $MOL
 acmana[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:52:27
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:50:12
 InChIKey=OVRNDRQMDRJTHS-ZTVVOAFPSA-N
  30 30  0  0  1  0            999 V2000
     0.7145    3.7125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

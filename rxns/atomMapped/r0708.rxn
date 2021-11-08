@@ -1,11 +1,11 @@
 $RXN
 r0708
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:13:36
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:45:48
 h2o[c] + ahdt[c] -> HC01710[c]
   2  1
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 ahdt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:55:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:48
 InChIKey=DGGUVLXVLHAAGT-XINAWCOVSA-J
  42 43  0  0  1  0            999 V2000
    -2.1434   -2.8875    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -108,7 +108,7 @@ M  CHG  4  16  -1  31  -1  40  -1  41  -1
 M  END
 $MOL
 HC01710[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:37:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:19:33
 InChIKey=ZJYBJXKSWQPKFW-UHFFFAOYSA-J
  45 45  0  0  0  0            999 V2000
     3.5724    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0

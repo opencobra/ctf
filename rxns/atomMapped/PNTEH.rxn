@@ -1,11 +1,11 @@
 $RXN
 PNTEH
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 05:01:58
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 22:26:50
 h2o[c] + ptth[c] -> pnto_R[c] + cysam[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 ptth[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:46:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:46:56
 InChIKey=ZNXZGRMVNNHPCA-VIFPVBQESA-N
  40 39  0  0  1  0            999 V2000
     2.4750    2.8579    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -101,7 +101,7 @@ InChIKey=ZNXZGRMVNNHPCA-VIFPVBQESA-N
 M  END
 $MOL
 pnto_R[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:40:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:07
 InChIKey=GHOKWGTUZJEAQD-ZETCQYMHSA-M
  31 30  0  0  1  0            999 V2000
     0.8250   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0 25  0  0
@@ -169,7 +169,7 @@ M  CHG  1  12  -1
 M  END
 $MOL
 cysam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:19:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:08
 InChIKey=UFULAYFCSOUIOV-UHFFFAOYSA-O
  12 11  0  0  0  0            999 V2000
     2.4750   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0

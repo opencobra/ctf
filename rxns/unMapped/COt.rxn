@@ -5,7 +5,7 @@ co[c] -> co[e]
   1  1
 $MOL
 co[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:42
 InChIKey=UGFAIRIUMAVXCW-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0
@@ -15,7 +15,7 @@ M  CHG  2   1  -1   2   1
 M  END
 $MOL
 co[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:07
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:42
 InChIKey=UGFAIRIUMAVXCW-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  5  0  0  0  0  0  0  0  0  0  0

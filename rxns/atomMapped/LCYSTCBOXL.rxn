@@ -1,19 +1,19 @@
 $RXN
 LCYSTCBOXL
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 01:27:14
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:36:24
 h[c] + Lcyst[c] -> co2[c] + taur[c]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 Lcyst[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:39:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:23:16
 InChIKey=XVOYSCVBGLVSOL-REOHCLBHSA-M
  16 15  0  0  1  0            999 V2000
     2.4750    2.8579    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -51,7 +51,7 @@ M  CHG  1  15  -1
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:13:13
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:44
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     1.6500   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 17  0  0
@@ -62,7 +62,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 taur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:59:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:51:31
 InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
  14 13  0  0  0  0            999 V2000
     3.3000   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0

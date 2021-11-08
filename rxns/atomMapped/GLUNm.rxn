@@ -1,11 +1,11 @@
 $RXN
 GLUNm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:06:28
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:13:53
 h2o[m] + gln_L[m] -> glu_L[m] + nh4[m]
   2  2
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 gln_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:39:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:20
 InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
  20 19  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -61,7 +61,7 @@ InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
 M  END
 $MOL
 glu_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:40:08
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:42
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0            999 V2000
     1.7605    2.6664    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -103,7 +103,7 @@ M  CHG  1  17  -1
 M  END
 $MOL
 nh4[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 23  0  0

@@ -1,11 +1,11 @@
 $RXN
 HISTAtu
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:11:34
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:23:29
 hista[e] -> hista[c]
   1  1
 $MOL
 hista[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:48
 InChIKey=NTYJJOPFIAHURM-UHFFFAOYSA-O
  18 18  0  0  0  0            999 V2000
     0.5678    1.9393    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -48,7 +48,7 @@ M  CHG  1  15   1
 M  END
 $MOL
 hista[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:42:28
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:48
 InChIKey=NTYJJOPFIAHURM-UHFFFAOYSA-O
  18 18  0  0  0  0            999 V2000
     0.5678    1.9393    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

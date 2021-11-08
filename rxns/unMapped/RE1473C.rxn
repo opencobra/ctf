@@ -5,11 +5,11 @@ ala_L[c] + gthrd[c] -> cgly[c] + CE0469[c]
   2  2
 $MOL
 ala_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:12:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:52:11
 InChIKey=QNAYBMKLOCPYGJ-REOHCLBHSA-N
  13 12  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7321    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7321   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     0.8660    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     1.7321   -1.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
     0.8660    1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -36,7 +36,7 @@ InChIKey=QNAYBMKLOCPYGJ-REOHCLBHSA-N
 M  END
 $MOL
 gthrd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:04:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:41
 InChIKey=RWSXRVCMGQZWBV-WDSKDSINSA-M
  36 35  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -114,7 +114,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 cgly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:26:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:58:36
 InChIKey=ZUKPVRWZDMRIEO-VKHMYHEASA-N
  21 20  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -161,7 +161,7 @@ InChIKey=ZUKPVRWZDMRIEO-VKHMYHEASA-N
 M  END
 $MOL
 CE0469[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:50:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:52:50
 InChIKey=WQXXXVRAFAKQJM-CRCLSJGQSA-M
  28 27  0  0  1  0  0  0  0  0999 V2000
     5.1962   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ ditp[c] -> ditp[n]
   1  1
 $MOL
 ditp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:39:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:04:13
 InChIKey=UFJPAQSLHAGEBL-RRKCRQDMSA-J
  41 43  0  0  1  0  0  0  0  0999 V2000
    -2.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -96,7 +96,7 @@ M  CHG  4  16  -1  17  -1  18  -1  20  -1
 M  END
 $MOL
 ditp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:39:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:04:13
 InChIKey=UFJPAQSLHAGEBL-RRKCRQDMSA-J
  41 43  0  0  1  0  0  0  0  0999 V2000
    -2.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ ocdcea[l] -> ocdcea[r]
   1  1
 $MOL
 ocdcea[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:07:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:44
 InChIKey=ZQPPMHVWECSIRJ-KTKRTIGZSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
    11.2583    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -117,7 +117,7 @@ M  CHG  1  20  -1
 M  END
 $MOL
 ocdcea[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:07:14
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:39:44
 InChIKey=ZQPPMHVWECSIRJ-KTKRTIGZSA-M
  53 52  0  0  0  0  0  0  0  0999 V2000
    11.2583    4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

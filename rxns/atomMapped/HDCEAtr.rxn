@@ -1,11 +1,11 @@
 $RXN
 HDCEAtr
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:29:10
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:22:11
 hdcea[e] -> hdcea[c]
   1  1
 $MOL
 hdcea[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:55:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:12
 InChIKey=SECPZKHBENQXJG-FPLPWBNLSA-M
  47 46  0  0  0  0            999 V2000
     0.8546    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -105,7 +105,7 @@ M  CHG  1  27  -1
 M  END
 $MOL
 hdcea[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:55:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:12
 InChIKey=SECPZKHBENQXJG-FPLPWBNLSA-M
  47 46  0  0  0  0            999 V2000
     0.8546    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

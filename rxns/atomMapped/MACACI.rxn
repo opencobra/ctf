@@ -1,11 +1,11 @@
 $RXN
 MACACI
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 02:02:37
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:42:27
 4mlacac[c] -> 4fumacac[c]
   1  1
 $MOL
 4mlacac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:25:53
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:49
 InChIKey=GACSIVHAIFQKTC-UPHRSURJSA-L
  20 19  0  0  0  0            999 V2000
     0.3316   -1.8414    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -51,7 +51,7 @@ M  CHG  2  16  -1  19  -1
 M  END
 $MOL
 4fumacac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:24:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:16
 InChIKey=GACSIVHAIFQKTC-OWOJBTEDSA-L
  20 19  0  0  0  0            999 V2000
     1.0461   -0.6039    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

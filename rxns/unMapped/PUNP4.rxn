@@ -5,7 +5,7 @@ pi[c] + dgsn[c] -> 2dr1p[c] + gua[c]
   2  2
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:40:24
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:44:58
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -23,7 +23,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 dgsn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:23:38
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:20
 InChIKey=YKBGVTZYEHREMT-KVQBGUIXSA-N
  32 34  0  0  1  0  0  0  0  0999 V2000
    -3.8601    0.5477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -34,11 +34,11 @@ InChIKey=YKBGVTZYEHREMT-KVQBGUIXSA-N
    -3.4533    1.4612    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
    -0.8660    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.8660   -1.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -1.0739    2.4781    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.7321   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7321    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -2.4752    1.6691    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
    -6.7851    1.4493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ InChIKey=YKBGVTZYEHREMT-KVQBGUIXSA-N
 M  END
 $MOL
 2dr1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:08:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:40:35
 InChIKey=KBDKAJNTYKVSEK-PYHARJCCSA-L
  22 22  0  0  1  0  0  0  0  0999 V2000
     1.0933    1.7796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ M  CHG  2   8  -1   9  -1
 M  END
 $MOL
 gua[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:44
 InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N
  16 17  0  0  0  0  0  0  0  0999 V2000
     3.2709    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

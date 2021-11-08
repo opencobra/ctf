@@ -1,11 +1,11 @@
 $RXN
 RE1944C
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:30:40
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:47:47
 atp[c] + lipoate[c] -> ppi[c] + CE5656[c]
   2  2
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:02:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -100,7 +100,7 @@ M  CHG  4  15  -1  19  -1  23  -1  24  -1
 M  END
 $MOL
 lipoate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:17:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:31:04
 InChIKey=AGBQKNBQESQNJD-SSDOTTSWSA-N
  26 26  0  0  1  0            999 V2000
     1.7344   -2.9519    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0
@@ -158,7 +158,7 @@ InChIKey=AGBQKNBQESQNJD-SSDOTTSWSA-N
 M  END
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:41:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0            999 V2000
    -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0
@@ -184,7 +184,7 @@ M  CHG  3   4  -1   8  -1   9  -1
 M  END
 $MOL
 CE5656[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:35:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:08:57
 InChIKey=QWEGOCJRZOKSOE-NLJBGGCZSA-M
  59 62  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

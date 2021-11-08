@@ -1,11 +1,11 @@
 $RXN
 r2526
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:20:07
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 01:59:32
 ser_L[e] -> ser_L[c]
   1  1
 $MOL
 ser_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:53:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:03
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -38,7 +38,7 @@ InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
 M  END
 $MOL
 ser_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:53:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:49:03
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0            999 V2000
     2.0625   -2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

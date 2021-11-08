@@ -1,19 +1,19 @@
 $RXN
 r0280
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 06:00:24
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:23:45
 h[c] + pep[c] + dadp[c] -> pyr[c] + datp[c]
   3  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 pep[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:35:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:43:32
 InChIKey=DTBNBXWJWCWCIK-UHFFFAOYSA-K
  12 11  0  0  0  0            999 V2000
     2.4750    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -43,7 +43,7 @@ M  CHG  3   7  -1   8  -1  11  -1
 M  END
 $MOL
 dadp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:20:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:36
 InChIKey=DAEAPNUQQAICNR-RRKCRQDMSA-K
  38 40  0  0  1  0            999 V2000
    -1.3220   -3.3793    0.0000 H   0  0  0  0  0  0  0  0  0 14  0  0
@@ -128,7 +128,7 @@ M  CHG  3  18  -1  22  -1  23  -1
 M  END
 $MOL
 pyr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:47:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:25
 InChIKey=LCTONWCANYUPML-UHFFFAOYSA-M
   9  8  0  0  0  0            999 V2000
     1.5395    1.8414    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -152,7 +152,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 datp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:21:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:01:45
 InChIKey=SUYVUBYJARFZHO-RRKCRQDMSA-J
  42 44  0  0  1  0            999 V2000
    -1.3220   -3.3793    0.0000 H   0  0  0  0  0  0  0  0  0 14  0  0

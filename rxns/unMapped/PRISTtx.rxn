@@ -5,7 +5,7 @@ prist[x] -> prist[c]
   1  1
 $MOL
 prist[x]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:36
 InChIKey=PAHGJZDQXIOYTH-UHFFFAOYSA-M
  58 57  0  0  1  0  0  0  0  0999 V2000
     6.9282   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -127,7 +127,7 @@ M  CHG  1  21  -1
 M  END
 $MOL
 prist[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:22:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:36
 InChIKey=PAHGJZDQXIOYTH-UHFFFAOYSA-M
  58 57  0  0  1  0  0  0  0  0999 V2000
     6.9282   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

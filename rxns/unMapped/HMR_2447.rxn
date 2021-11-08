@@ -5,7 +5,7 @@ CE5528[c] + oh1[c] + ficytC[c] -> CE5922[c] + focytC[c]
   3  2
 $MOL
 CE5528[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:23:17
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:07:59
 
  56 56  0  0  1  0  0  0  0  0999 V2000
     1.3660    2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -124,7 +124,7 @@ M  CHG  1  23  -1
 M  END
 $MOL
 oh1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:08:26
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:15
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-M
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -134,7 +134,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 ficytC[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:48:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:55
 InChIKey=LJXGOQXYUKNTOR-VQGVYVAWSA-L
 111114  0  0  1  0  0  0  0  0999 V2000
    10.7431   -5.3419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -366,7 +366,7 @@ M  CHG  3  45  -1  52  -1  59   3
 M  END
 $MOL
 CE5922[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:31:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:11:31
 InChIKey=SZMWZFAMDRNPCL-BUHFOSPRSA-M
  54 54  0  0  1  0  0  0  0  0999 V2000
     4.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -481,7 +481,7 @@ M  CHG  1  20  -1
 M  END
 $MOL
 focytC[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:48:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:08:08
 InChIKey=WFVBWSTZNVJEAY-VQGVYVAWSA-L
 111114  0  0  1  0  0  0  0  0999 V2000
    10.7431   -5.3419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

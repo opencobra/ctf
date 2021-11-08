@@ -5,7 +5,7 @@ h[e] + iletrptyr[e] -> h[c] + iletrptyr[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 iletrptyr[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:40:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:19
 InChIKey=MITYXXNZSZLHGG-UHFFFAOYSA-N
  67 69  0  0  1  0  0  0  0  0999 V2000
    -3.0981   -6.0388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -156,7 +156,7 @@ InChIKey=MITYXXNZSZLHGG-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 iletrptyr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:40:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:23:19
 InChIKey=MITYXXNZSZLHGG-UHFFFAOYSA-N
  67 69  0  0  1  0  0  0  0  0999 V2000
    -3.0981   -6.0388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

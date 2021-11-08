@@ -5,7 +5,7 @@ h[e] + glnlystrp[e] -> h[c] + glnlystrp[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 glnlystrp[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:56:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:30
 InChIKey=AMHIFFIUJOJEKJ-SZMVWBNQSA-O
  66 67  0  0  1  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -29,7 +29,7 @@ InChIKey=AMHIFFIUJOJEKJ-SZMVWBNQSA-O
     1.6984    4.7985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3090    2.5691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.8541    7.3244    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     0.9511    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -154,7 +154,7 @@ M  CHG  1  23   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -163,7 +163,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 glnlystrp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:56:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:13:30
 InChIKey=AMHIFFIUJOJEKJ-SZMVWBNQSA-O
  66 67  0  0  1  0  0  0  0  0999 V2000
     2.6831    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -178,7 +178,7 @@ InChIKey=AMHIFFIUJOJEKJ-SZMVWBNQSA-O
     1.6984    4.7985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.3090    2.5691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -0.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
     0.9511    1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
    -1.8541    7.3244    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
     0.9511    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

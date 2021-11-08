@@ -5,7 +5,7 @@ pcholn205_hs[e] -> pcholn205_hs[c]
   1  1
 $MOL
 pcholn205_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:13:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:04
 InChIKey=PDIGSOAOQOXRDU-UHFFFAOYSA-O
  86 85  0  0  1  0  0  0  0  0999 V2000
   -17.0000  -11.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -183,7 +183,7 @@ M  CHG  1  29   1
 M  END
 $MOL
 pcholn205_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:13:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:42:04
 InChIKey=PDIGSOAOQOXRDU-UHFFFAOYSA-O
  86 85  0  0  1  0  0  0  0  0999 V2000
   -17.0000  -11.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

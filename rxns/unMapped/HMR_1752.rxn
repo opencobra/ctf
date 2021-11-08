@@ -5,7 +5,7 @@ M02977[m] -> M02977[c]
   1  1
 $MOL
 M02977[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:58:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:45:16
 InChIKey=FAYYTQMQTAKHRM-UHFFFAOYSA-N
  79 82  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -172,7 +172,7 @@ InChIKey=FAYYTQMQTAKHRM-UHFFFAOYSA-N
 M  END
 $MOL
 M02977[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:58:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:45:16
 InChIKey=FAYYTQMQTAKHRM-UHFFFAOYSA-N
  79 82  0  0  1  0  0  0  0  0999 V2000
    -0.0015    1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

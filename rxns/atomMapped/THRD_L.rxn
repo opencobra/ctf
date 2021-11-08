@@ -1,11 +1,11 @@
 $RXN
 THRD_L
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 11:13:43
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:48:00
 thr_L[c] -> nh4[c] + 2obut[c]
   1  2
 $MOL
 thr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:01:48
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:17
 InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
  17 16  0  0  1  0            999 V2000
     2.0625    2.1434    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -44,7 +44,7 @@ InChIKey=AYFVYJQAPQTCCC-GBXIJSLDSA-N
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:27:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 13  0  0
@@ -60,7 +60,7 @@ M  CHG  1   2   1
 M  END
 $MOL
 2obut[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:11:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:41:35
 InChIKey=TYEYBOSBBBHJIV-UHFFFAOYSA-M
  12 11  0  0  0  0            999 V2000
     1.9520    1.7309    0.0000 H   0  0  0  0  0  0  0  0  0 15  0  0

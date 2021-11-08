@@ -1,11 +1,11 @@
 $RXN
 DHAAt1r
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 01:58:11
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 19:56:49
 dhdascb[e] -> dhdascb[c]
   1  1
 $MOL
 dhdascb[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:36:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:40
 InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
  18 18  0  0  1  0            999 V2000
     0.5678    3.5893    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -47,7 +47,7 @@ InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
 M  END
 $MOL
 dhdascb[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:36:45
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:03:40
 InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
  18 18  0  0  1  0            999 V2000
     0.5678    3.5893    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

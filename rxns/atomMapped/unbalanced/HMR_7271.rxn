@@ -1,11 +1,11 @@
 $RXN
 HMR_7271
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 00:06:04
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:28:37
 gdpmann[c] + dolp_L[c] -> gdp[c] + dolmanp_L[c]
   2  2
 $MOL
 gdpmann[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:42:42
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:12:58
 InChIKey=MVMSCBBUIHUTGJ-GDJBGNAASA-L
  62 65  0  0  1  0            999 V2000
    -6.3431    6.3905    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -139,7 +139,7 @@ M  CHG  2  18  -1  42  -1
 M  END
 $MOL
 dolp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:29:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:33
 InChIKey=GYBNOAFGEKAZTA-QOLULZROSA-L
  73 72  0  0  0  0            999 V2000
    -8.0506    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0 63  0  0
@@ -291,7 +291,7 @@ M  CHG  2  59  -1  60  -1
 M  END
 $MOL
 gdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:42:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:12:52
 InChIKey=QGWNDRXFNXRZMB-UUOKFMHZSA-K
  40 42  0  0  1  0            999 V2000
     1.3240    0.7071    0.0000 H   0  0  0  0  0  0  0  0  0 46  0  0
@@ -380,7 +380,7 @@ M  CHG  3  20  -1  21  -1  40  -1
 M  END
 $MOL
 dolmanp_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:29:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:29
 InChIKey=AGLXCEGQRIYVRV-JJMCDSPESA-N
  96 96  0  0  1  0            999 V2000
   -10.0026    4.9500    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

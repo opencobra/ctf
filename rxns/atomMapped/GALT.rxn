@@ -1,19 +1,19 @@
 $RXN
 GALT
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 20:54:47
-h[c] + utp[c] + gal1p[c] -> ppi[c] + udpgal[c]
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 07:43:45
+h[c] + utp[c] + gal1p[c] -> udpgal[c] + ppi[c]
   3  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
 M  CHG  1   1   1
 M  END
 $MOL
 utp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:09:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:26
 InChIKey=PGAVKCOVUIYSFO-XVFCMESISA-J
  40 41  0  0  1  0            999 V2000
     1.4289    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
@@ -101,7 +101,7 @@ M  CHG  4  15  -1  24  -1  25  -1  37  -1
 M  END
 $MOL
 gal1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:39:56
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:10:13
 InChIKey=HXXFSFRBOHSIMQ-FPRJBGLDSA-L
  27 27  0  0  1  0            999 V2000
     0.0000    3.3000    0.0000 H   0  0  0  0  0  0  0  0  0 42  0  0
@@ -161,34 +161,8 @@ InChIKey=HXXFSFRBOHSIMQ-FPRJBGLDSA-L
 M  CHG  2  13  -1  14  -1
 M  END
 $MOL
-ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:41:49
-InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
- 10  9  0  0  0  0            999 V2000
-   -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
-   -0.6039   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0 18  0  0
-    0.1105   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0 19  0  0
-    0.5230   -1.9520    0.0000 O   0  5  0  0  0  0  0  0  0 21  0  0
-   -0.3020   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0 20  0  0
-    0.8250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0 23  0  0
-    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0 24  0  0
-    0.8250    0.8250    0.0000 O   0  5  0  0  0  0  0  0  0 26  0  0
-    1.6500   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0 25  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 27  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  1  0  0  0  0
-  3  5  2  0  0  0  0
-  3  6  1  0  0  0  0
-  6  7  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7  9  1  0  0  0  0
-  7 10  2  0  0  0  0
-M  CHG  3   4  -1   8  -1   9  -1
-M  END
-$MOL
 udpgal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:07:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:59
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0            999 V2000
     0.7145    6.1875    0.0000 H   0  0  0  0  0  0  0  0  0 42  0  0
@@ -310,4 +284,30 @@ InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  55 57  1  0  0  0  0
  57 58  1  0  0  0  0
 M  CHG  2  18  -1  35  -1
+M  END
+$MOL
+ppi[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
+InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
+ 10  9  0  0  0  0            999 V2000
+   -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+   -0.6039   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0 18  0  0
+    0.1105   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0 19  0  0
+    0.5230   -1.9520    0.0000 O   0  5  0  0  0  0  0  0  0 21  0  0
+   -0.3020   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0 20  0  0
+    0.8250   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0 23  0  0
+    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0 24  0  0
+    0.8250    0.8250    0.0000 O   0  5  0  0  0  0  0  0  0 26  0  0
+    1.6500   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0 25  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0 27  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  CHG  3   4  -1   8  -1   9  -1
 M  END

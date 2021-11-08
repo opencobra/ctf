@@ -1,11 +1,11 @@
 $RXN
 HMR_8475
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:16:48
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 12:34:35
 dcyt[c] -> dcyt[m]
   1  1
 $MOL
 dcyt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:35:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:02:16
 InChIKey=CKTSBUTUHBMZGZ-SHYZEUOFSA-N
  29 30  0  0  1  0            999 V2000
     0.6078    1.1759    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -70,7 +70,7 @@ InChIKey=CKTSBUTUHBMZGZ-SHYZEUOFSA-N
 M  END
 $MOL
 dcyt[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:35:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:02:16
 InChIKey=CKTSBUTUHBMZGZ-SHYZEUOFSA-N
  29 30  0  0  1  0            999 V2000
     0.6078    1.1759    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

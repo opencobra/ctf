@@ -1,11 +1,11 @@
 $RXN
 CE2028t
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:36:43
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 06:03:19
 CE2028[c] -> CE2028[e]
   1  1
 $MOL
 CE2028[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:24:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:54:54
 InChIKey=AXFYFNCPONWUHW-UHFFFAOYSA-M
  17 16  0  0  0  0            999 V2000
     0.8250    2.8579    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -45,7 +45,7 @@ M  CHG  1  16  -1
 M  END
 $MOL
 CE2028[e]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:24:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:54:54
 InChIKey=AXFYFNCPONWUHW-UHFFFAOYSA-M
  17 16  0  0  0  0            999 V2000
     0.8250    2.8579    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

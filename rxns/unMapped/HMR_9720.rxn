@@ -5,7 +5,7 @@ dolichol_L[c] -> dolichol_L[e]
   1  1
 $MOL
 dolichol_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:42:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:24
 InChIKey=KLGBTYNAYAZPFD-QOLULZROSA-N
  70 69  0  0  1  0  0  0  0  0999 V2000
    -6.0622   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -150,7 +150,7 @@ InChIKey=KLGBTYNAYAZPFD-QOLULZROSA-N
 M  END
 $MOL
 dolichol_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:42:21
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:05:24
 InChIKey=KLGBTYNAYAZPFD-QOLULZROSA-N
  70 69  0  0  1  0  0  0  0  0999 V2000
    -6.0622   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

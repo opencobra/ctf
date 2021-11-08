@@ -5,7 +5,7 @@ chsterol[e] + pchol_hs[e] -> lpchol_hs[e] + xolest204_hs[e]
   2  2
 $MOL
 chsterol[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:27:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:09
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 pchol_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:12:01
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:41:32
 
  40 39  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -248,7 +248,7 @@ M  CHG  2   2   1  10  -1
 M  END
 $MOL
 lpchol_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:52:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:31:37
 
  39 38  0  0  1  0  0  0  0  0999 V2000
     1.0000   -3.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -332,7 +332,7 @@ M  CHG  1  16   1
 M  END
 $MOL
 xolest204_hs[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:56:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:50
 InChIKey=IMXSFYNMSOULQS-UHFFFAOYSA-N
 125128  0  0  1  0  0  0  0  0999 V2000
    16.2851   -8.1347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

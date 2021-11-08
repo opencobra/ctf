@@ -5,7 +5,7 @@ h[e] + hislysala[e] -> h[c] + hislysala[c]
   2  2
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hislysala[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:09:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:30
 InChIKey=PGRPSOUCWRBWKZ-JLLWLGSASA-O
  52 52  0  0  1  0  0  0  0  0999 V2000
     4.5247    3.9334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ M  CHG  1  16   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -134,7 +134,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hislysala[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:09:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:21:30
 InChIKey=PGRPSOUCWRBWKZ-JLLWLGSASA-O
  52 52  0  0  1  0  0  0  0  0999 V2000
     4.5247    3.9334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

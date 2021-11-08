@@ -5,7 +5,7 @@ h2o[c] + 4fumacac[c] -> h[c] + acac[c] + fum[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 4fumacac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:24:19
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:46:16
 InChIKey=GACSIVHAIFQKTC-OWOJBTEDSA-L
  20 19  0  0  0  0  0  0  0  0999 V2000
    -4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -62,15 +62,16 @@ M  CHG  2  12  -1  14  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
 M  CHG  1   1   1
 M  END
 $MOL
 acac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:50:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:46
 InChIKey=WDJHALXBUFZDSR-UHFFFAOYSA-M
  12 11  0  0  0  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +101,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 fum[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:36:43
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:09:36
 InChIKey=VZCYOOQTPOCHFL-OWOJBTEDSA-L
  10  9  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

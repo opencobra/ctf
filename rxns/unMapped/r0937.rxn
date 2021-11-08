@@ -5,7 +5,7 @@ hdca[l] -> hdca[c]
   1  1
 $MOL
 hdca[l]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:06:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:10
 InChIKey=IPCSVZSSVZVIGE-UHFFFAOYSA-M
  49 48  0  0  0  0  0  0  0  0999 V2000
    12.1244    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,7 +109,7 @@ M  CHG  1  18  -1
 M  END
 $MOL
 hdca[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:06:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:20:10
 InChIKey=IPCSVZSSVZVIGE-UHFFFAOYSA-M
  49 48  0  0  0  0  0  0  0  0999 V2000
    12.1244    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

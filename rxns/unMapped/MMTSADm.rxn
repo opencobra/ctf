@@ -5,7 +5,7 @@ nad[m] + coa[m] + 2mop[m] -> h[m] + nadh[m] + mmcoa_R[m]
   3  3
 $MOL
 nad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:19
 InChIKey=BAWFJGJZGIEFAR-GJOYCFHWSA-M
  70 74  0  0  1  0  0  0  0  0999 V2000
    -6.5704    0.4028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -156,7 +156,7 @@ M  CHG  3  27   1  33  -1  37  -1
 M  END
 $MOL
 coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:29:16
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:46
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -325,7 +325,7 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 2mop[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:25:46
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:41:29
 InChIKey=VOKUMXABRRXHAR-UHFFFAOYSA-M
  12 11  0  0  1  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -355,7 +355,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -364,7 +364,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nadh[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:03:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:21
 InChIKey=BOPGDPNILDQYTO-NNYOXOHSSA-L
  71 75  0  0  1  0  0  0  0  0999 V2000
    -6.5704    0.4028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -517,7 +517,7 @@ M  CHG  2  33  -1  34  -1
 M  END
 $MOL
 mmcoa_R[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:01:10
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:37:32
 InChIKey=MZFOKIKEPGUZEN-AGCMQPJKSA-I
  90 92  0  0  1  0  0  0  0  0999 V2000
    13.4853   -5.6261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -559,7 +559,7 @@ InChIKey=MZFOKIKEPGUZEN-AGCMQPJKSA-I
    14.9715   -6.9643    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    16.1305   -5.6772    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    15.5953   -4.0299    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.1683    1.3800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

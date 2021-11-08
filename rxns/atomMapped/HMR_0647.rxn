@@ -1,11 +1,11 @@
 $RXN
 HMR_0647
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:08:04
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 09:08:59
 etha[c] -> nh4[c] + acald[c]
   1  2
 $MOL
 etha[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:38:06
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:07:24
 InChIKey=HZAXFHJVJLSVMW-UHFFFAOYSA-O
  12 11  0  0  0  0            999 V2000
     2.4750   -1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -35,7 +35,7 @@ M  CHG  1   9   1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 11  0  0
@@ -51,7 +51,7 @@ M  CHG  1   2   1
 M  END
 $MOL
 acald[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:29:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:48:47
 InChIKey=IKHGUXGNUITLKF-UHFFFAOYSA-N
   7  6  0  0  0  0            999 V2000
     1.2375    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  5  0  0

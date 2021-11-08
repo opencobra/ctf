@@ -5,7 +5,7 @@ r5p[c] -> r5p[r]
   1  1
 $MOL
 r5p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:36
 InChIKey=KTVPXOYAKDPRHY-NEEWWZBLSA-L
  23 23  0  0  1  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +58,7 @@ M  CHG  2   9  -1  10  -1
 M  END
 $MOL
 r5p[r]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:27:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:47:36
 InChIKey=KTVPXOYAKDPRHY-NEEWWZBLSA-L
  23 23  0  0  1  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

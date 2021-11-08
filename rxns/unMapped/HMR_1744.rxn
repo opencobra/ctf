@@ -5,7 +5,7 @@ M01077[c] -> M01077[m]
   1  1
 $MOL
 M01077[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:32:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:34:50
 InChIKey=DOMPIYLJQFTRGI-UHFFFAOYSA-N
  79 82  0  0  1  0  0  0  0  0999 V2000
    -4.7416    1.4604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -172,7 +172,7 @@ InChIKey=DOMPIYLJQFTRGI-UHFFFAOYSA-N
 M  END
 $MOL
 M01077[m]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 07:32:52
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:34:50
 InChIKey=DOMPIYLJQFTRGI-UHFFFAOYSA-N
  79 82  0  0  1  0  0  0  0  0999 V2000
    -4.7416    1.4604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

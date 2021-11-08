@@ -1,11 +1,11 @@
 $RXN
 HMR_3832
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 04:13:05
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 11:36:35
 h2o[c] + arg_L[c] -> nh4[c] + citr_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:59
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
     0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 arg_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:40
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:54:36
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0            999 V2000
     2.9980    3.3809    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
@@ -76,7 +76,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:46:39
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 30  0  0
@@ -92,7 +92,7 @@ M  CHG  1   2   1
 M  END
 $MOL
 citr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:33:47
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:59:19
 InChIKey=RHGKLRLOHDJJDR-BYPYZUCNSA-N
  25 24  0  0  1  0            999 V2000
     2.9980    3.3809    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0

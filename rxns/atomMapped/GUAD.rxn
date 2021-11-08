@@ -1,30 +1,30 @@
 $RXN
 GUAD
-COBRA Toolbox v3.0 - Atom mapped - 15-Oct-2021 23:10:34
-h[c] + h2o[c] + gua[c] -> nh4[c] + xan[c]
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:20:01
+h2o[c] + h[c] + gua[c] -> nh4[c] + xan[c]
   3  2
 $MOL
-h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:40
-InChIKey=GPRLSGONYQIRFK-UHFFFAOYSA-N
-  1  0  0  0  0  0            999 V2000
-    0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
-M  CHG  1   1   1
-M  END
-$MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:55
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0            999 V2000
-    0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
-    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0
-    2.1434    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
+    0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
+    2.1434    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
   1  2  1  0  0  0  0
   2  3  1  0  0  0  0
 M  END
 $MOL
+h[c]
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  4  0  0
+M  CHG  1   1   1
+M  END
+$MOL
 gua[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:54:15
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:44
 InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N
  16 17  0  0  0  0            999 V2000
     3.9934    2.4750    0.0000 H   0  0  0  0  0  0  0  0  0  5  0  0
@@ -63,14 +63,14 @@ InChIKey=UYTPUPDQBNUYGX-UHFFFAOYSA-N
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 08:27:55
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:38:45
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 11  0  0
     0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0 12  0  0
     0.0000    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0 13  0  0
-   -0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
-   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+   -0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
+   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
   1  2  1  0  0  0  0
   2  3  1  0  0  0  0
   2  4  1  0  0  0  0
@@ -79,11 +79,11 @@ M  CHG  1   2   1
 M  END
 $MOL
 xan[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:10:00
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:58:15
 InChIKey=LRFVTYWOQMYALW-UHFFFAOYSA-N
  15 16  0  0  0  0            999 V2000
-    2.7845   -0.1271    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
-    2.7845    0.6979    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0
+    2.7845   -0.1271    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    2.7845    0.6979    0.0000 O   0  0  0  0  0  0  0  0  0  2  0  0
     2.0701    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  9  0  0
     1.3556    0.6979    0.0000 N   0  0  0  0  0  0  0  0  0 10  0  0
     0.6411    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0 14  0  0

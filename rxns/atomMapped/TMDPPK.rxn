@@ -1,11 +1,11 @@
 $RXN
 TMDPPK
-COBRA Toolbox v3.0 - Atom mapped - 16-Oct-2021 11:36:29
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 23:01:35
 atp[c] + thmpp[c] -> adp[c] + thmtp[c]
   2  2
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 07:02:30
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:56:09
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -100,7 +100,7 @@ M  CHG  4  15  -1  19  -1  23  -1  24  -1
 M  END
 $MOL
 thmpp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:01:32
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:12
 InChIKey=AYEKOFBPNLCAJY-UHFFFAOYSA-L
  42 43  0  0  0  0            999 V2000
     3.4656    4.3527    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0
@@ -192,7 +192,7 @@ M  CHG  4  14   1  32  -1  36  -1  37  -1
 M  END
 $MOL
 adp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 06:54:44
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:11
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0            999 V2000
    -0.4820   -1.0995    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -279,7 +279,7 @@ M  CHG  3  15  -1  19  -1  20  -1
 M  END
 $MOL
 thmtp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 13-Oct-2021 09:01:37
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:53:14
 InChIKey=IWLROWZYZPNOFC-UHFFFAOYSA-K
  46 47  0  0  0  0            999 V2000
     3.4656    4.3527    0.0000 H   0  0  0  0  0  0  0  0  0 44  0  0

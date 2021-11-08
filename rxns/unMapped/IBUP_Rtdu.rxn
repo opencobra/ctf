@@ -5,7 +5,7 @@ ibup_R[e] -> ibup_R[c]
   1  1
 $MOL
 ibup_R[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:37:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:45
 InChIKey=HEFNNWSXXWATRW-UHFFFAOYSA-M
  32 32  0  0  1  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -76,7 +76,7 @@ M  CHG  1  15  -1
 M  END
 $MOL
 ibup_R[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:37:29
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:22:45
 InChIKey=HEFNNWSXXWATRW-UHFFFAOYSA-M
  32 32  0  0  1  0  0  0  0  0999 V2000
     1.7321    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

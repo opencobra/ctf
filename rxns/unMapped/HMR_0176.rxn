@@ -5,7 +5,7 @@ C01601[e] -> C01601[c]
   1  1
 $MOL
 C01601[e]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:45:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:50:21
 InChIKey=FBUKVWPVBMHYJY-UHFFFAOYSA-M
  28 27  0  0  0  0  0  0  0  0999 V2000
     6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -67,7 +67,7 @@ M  CHG  1  11  -1
 M  END
 $MOL
 C01601[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:45:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:50:21
 InChIKey=FBUKVWPVBMHYJY-UHFFFAOYSA-M
  28 27  0  0  0  0  0  0  0  0999 V2000
     6.9282   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

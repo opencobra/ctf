@@ -1,11 +1,11 @@
 $RXN
 GACMTRc
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 02:03:35
+COBRA Toolbox v3.0 - Atom mapped - 01-Nov-2021 21:02:47
 amet[c] + gudac[c] -> h[c] + ahcys[c] + creat[c]
   2  3
 $MOL
 amet[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:31:18
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:53:30
 InChIKey=MEFKEPWMEQBLKI-AIRLBKTGSA-O
  50 52  0  0  1  0            999 V2000
     6.3435    0.2681    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -114,7 +114,7 @@ M  CHG  1  16   1
 M  END
 $MOL
 gudac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:50
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:46
 InChIKey=BPMFZUMJYQTVII-UHFFFAOYSA-N
  15 14  0  0  0  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0 51  0  0
@@ -149,7 +149,7 @@ InChIKey=BPMFZUMJYQTVII-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:41:54
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0 59  0  0
@@ -157,7 +157,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 ahcys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:30:49
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:51:46
 InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
  46 48  0  0  1  0            999 V2000
     6.3435    0.2681    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -257,7 +257,7 @@ InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
 M  END
 $MOL
 creat[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:34:22
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:00:09
 InChIKey=CVSVTCORWBXHQV-UHFFFAOYSA-N
  18 17  0  0  0  0            999 V2000
    -0.9059    1.1270    0.0000 H   0  0  0  0  0  0  0  0  0 51  0  0

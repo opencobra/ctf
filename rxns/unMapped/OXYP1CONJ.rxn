@@ -5,7 +5,7 @@ oxyp[c] + udprib[c] -> h[c] + udp[c] + oxy1rb[c]
   2  3
 $MOL
 oxyp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:42
 InChIKey=HXNFUBHNUDHIGC-UHFFFAOYSA-N
  15 16  0  0  0  0  0  0  0  0999 V2000
     0.0000   -1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42,7 +42,7 @@ InChIKey=HXNFUBHNUDHIGC-UHFFFAOYSA-N
 M  END
 $MOL
 udprib[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:36
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:03
 InChIKey=KJGCRXUHSZITKQ-UHFFFAOYSA-L
  55 57  0  0  1  0  0  0  0  0999 V2000
    -5.8916    0.0636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -161,7 +161,7 @@ M  CHG  2  23  -1  24  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 09:05:05
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:19:52
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -170,7 +170,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 udp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:51:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:56:52
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -190,12 +190,12 @@ InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
     6.4903    0.9544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
    -0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
    -1.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
-   -0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.6456   -1.4067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
     0.0000    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
     2.0000   -0.0000    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
     8.1303   -2.7290    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -250,7 +250,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 oxy1rb[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:09:31
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:40:38
 InChIKey=BWVGSEWDQBNXTG-UHFFFAOYSA-N
  33 35  0  0  1  0  0  0  0  0999 V2000
     1.4013   -0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

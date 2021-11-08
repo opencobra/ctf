@@ -5,7 +5,7 @@ ascb_L[c] + CE6252[c] -> urate[c] + C01041[c]
   2  2
 $MOL
 ascb_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 08:19:25
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:55:22
 InChIKey=CIWBSHSKHKDKBQ-JLAZNSOCSA-M
  19 19  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 CE6252[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 06:37:02
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 17:14:25
 InChIKey=RKXSGLUFSIPOGU-UHFFFAOYSA-N
  15 16  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -87,7 +87,7 @@ InChIKey=RKXSGLUFSIPOGU-UHFFFAOYSA-N
 M  END
 $MOL
 urate[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 10:52:09
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:57:16
 InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
  16 17  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ InChIKey=LEHOTFFKMJEONL-UHFFFAOYSA-N
 M  END
 $MOL
 C01041[c]
-COBRA Toolbox v3.0 - explicitH molecule - 28-May-2021 05:44:41
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 16:50:11
 InChIKey=LHFJOBMTAJJOTB-JLAZNSOCSA-M
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

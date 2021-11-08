@@ -1,11 +1,11 @@
 $RXN
 PPItm
-COBRA Toolbox v3.0 - Atom mapped - 13-Oct-2021 03:30:53
+COBRA Toolbox v3.0 - Atom mapped - 02-Nov-2021 05:25:42
 ppi[c] -> ppi[m]
   1  1
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0            999 V2000
    -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
@@ -31,7 +31,7 @@ M  CHG  3   4  -1   8  -1   9  -1
 M  END
 $MOL
 ppi[m]
-COBRA Toolbox v3.0 - explicitH molecule - 12-Oct-2021 22:49:33
+COBRA Toolbox v3.0 - explicitH molecule - 17-Oct-2021 18:45:15
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0            999 V2000
    -1.3184   -1.2375    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
