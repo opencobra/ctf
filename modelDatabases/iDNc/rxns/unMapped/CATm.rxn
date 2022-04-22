@@ -1,0 +1,62 @@
+$RXN
+CATm
+
+2 h2o2[m] -> 2 h2o[m] + o2[m]
+  2  3
+$MOL
+h2o2[m]
+COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:27:00
+InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4850   -0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4850    0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+$MOL
+h2o2[m]
+COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:27:00
+InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4850   -0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4850    0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+$MOL
+h2o[m]
+COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:26:56
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9700    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5150    0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+$MOL
+h2o[m]
+COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:26:56
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+  3  2  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9700    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5150    0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+$MOL
+o2[m]
+COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:39:11
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+M  END

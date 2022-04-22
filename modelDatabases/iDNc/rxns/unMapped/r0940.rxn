@@ -1,0 +1,25 @@
+$RXN
+r0940
+
+HC00250[c] -> HC00250[e]
+  1  1
+$MOL
+HC00250[c]
+COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:58:56
+InChIKey=RWSOTUBLDIXVET-UHFFFAOYSA-M
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3600    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  CHG  1   1  -1
+M  END
+$MOL
+HC00250[e]
+COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:58:56
+InChIKey=RWSOTUBLDIXVET-UHFFFAOYSA-M
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3600    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  CHG  1   1  -1
+M  END

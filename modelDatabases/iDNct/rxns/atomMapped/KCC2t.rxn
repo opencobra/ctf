@@ -1,0 +1,53 @@
+$RXN
+KCC2t
+COBRA Toolbox v3.0 - Atom mapped - 16-Apr-2022 13:00:01
+nh4[e] + cl[e] -> nh4[c] + cl[c]
+  2  2
+$MOL
+nh4[e]
+COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:53
+InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
+  5  4  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  2  0  0
+    0.0000    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
+   -0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
+   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  5  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+$MOL
+cl[e]
+COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:29
+InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  6  0  0
+M  CHG  1   1  -1
+M  END
+$MOL
+nh4[c]
+COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:53
+InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
+  5  4  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
+    0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  2  0  0
+    0.0000    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
+   -0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
+   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  5  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+$MOL
+cl[c]
+COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:29
+InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
+  1  0  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  6  0  0
+M  CHG  1   1  -1
+M  END

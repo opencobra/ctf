@@ -1,0 +1,27 @@
+$RXN
+O2Stm
+COBRA Toolbox v3.0 - Atom mapped - 16-Apr-2022 13:21:29
+o2s[c] -> o2s[m]
+  1  1
+$MOL
+o2s[c]
+COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:20:37
+InChIKey=OUUQCZGPVNCOIJ-UHFFFAOYSA-M
+  2  1  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
+    0.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  2  0  0
+  1  2  1  0  0  0  0
+M  CHG  1   2  -1
+M  RAD  1   1   2
+M  END
+$MOL
+o2s[m]
+COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:20:37
+InChIKey=OUUQCZGPVNCOIJ-UHFFFAOYSA-M
+  2  1  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
+    0.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  2  0  0
+  1  2  1  0  0  0  0
+M  CHG  1   2  -1
+M  RAD  1   1   2
+M  END
