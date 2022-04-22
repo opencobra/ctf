@@ -9,6 +9,7 @@ Contains a metabolite and reaction databases from different genome-scale models 
 - **ecoliCore**
 - **iDopaNeuro1**
 - **AGORA2**
+- **ReconX**
 
 ### **mets** 
 Contains a set of metabolite structures from genome-scale models. The metabolite structures are saved in different formats: images, MDL MOL, SMILES, and InChI and InChIkey for molecules without an R group (see Formats) and sorted as follows:
