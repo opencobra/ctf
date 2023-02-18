@@ -5,7 +5,7 @@ acgal[c] -> acgal[e]
   1  1
 $MOL
 acgal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:05:22
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:42:00
 InChIKey=OVRNDRQMDRJTHS-KEWYIRBNSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ InChIKey=OVRNDRQMDRJTHS-KEWYIRBNSA-N
 M  END
 $MOL
 acgal[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:05:22
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:42:00
 InChIKey=OVRNDRQMDRJTHS-KEWYIRBNSA-N
  30 30  0  0  1  0  0  0  0  0999 V2000
     0.0000    4.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

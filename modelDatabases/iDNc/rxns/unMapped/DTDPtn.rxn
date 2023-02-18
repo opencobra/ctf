@@ -5,7 +5,7 @@ dtdp[c] -> dtdp[n]
   1  1
 $MOL
 dtdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:18:45
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:56:45
 InChIKey=UJLXYODCHAELLY-XLPZGREQSA-K
  38 39  0  0  1  0  0  0  0  0999 V2000
    -5.4478   -6.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ M  CHG  3  14  -1  16  -1  17  -1
 M  END
 $MOL
 dtdp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:18:45
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:56:45
 InChIKey=UJLXYODCHAELLY-XLPZGREQSA-K
  38 39  0  0  1  0  0  0  0  0999 V2000
    -5.4478   -6.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

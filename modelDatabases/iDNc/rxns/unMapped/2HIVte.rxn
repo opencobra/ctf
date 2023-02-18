@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 2hiv[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:43:24
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:22:37
 InChIKey=NGEWQZIDQIYUNV-UHFFFAOYSA-M
  17 16  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 2hiv[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:43:24
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:22:37
 InChIKey=NGEWQZIDQIYUNV-UHFFFAOYSA-M
  17 16  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

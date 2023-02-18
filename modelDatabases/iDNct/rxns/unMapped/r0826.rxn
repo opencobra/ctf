@@ -5,7 +5,7 @@ inost[c] -> inost[r]
   1  1
 $MOL
 inost[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:12:43
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:37:43
 InChIKey=CDAISMWEOUEBRE-GPIVLXJGSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=CDAISMWEOUEBRE-GPIVLXJGSA-N
 M  END
 $MOL
 inost[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:12:43
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:37:43
 InChIKey=CDAISMWEOUEBRE-GPIVLXJGSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0

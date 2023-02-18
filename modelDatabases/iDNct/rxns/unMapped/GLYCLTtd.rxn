@@ -5,7 +5,7 @@ glyclt[c] -> glyclt[e]
   1  1
 $MOL
 glyclt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:07:41
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:33:04
 InChIKey=AEMRFAOFKBGASW-UHFFFAOYSA-M
   8  7  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -27,7 +27,7 @@ M  CHG  1   5  -1
 M  END
 $MOL
 glyclt[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:07:41
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:33:04
 InChIKey=AEMRFAOFKBGASW-UHFFFAOYSA-M
   8  7  0  0  0  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ val_L[e] -> val_L[c]
   1  1
 $MOL
 val_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:33:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:59:37
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -48,7 +48,7 @@ InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
 M  END
 $MOL
 val_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:33:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:59:37
 InChIKey=KZSNJWFQEVHDMF-BYPYZUCNSA-N
  19 18  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

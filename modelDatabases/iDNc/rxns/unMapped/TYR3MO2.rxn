@@ -5,7 +5,7 @@ o2[c] + thbpt[c] + tyr_L[c] -> 34dhphe[c] + thbpt4acam[c]
   3  2
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:39:11
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:15:25
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 thbpt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:49:13
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:25:13
 InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
 M  END
 $MOL
 tyr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:51:42
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:27:27
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -139,7 +139,7 @@ InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
 M  END
 $MOL
 34dhphe[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:45:02
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:24:03
 InChIKey=WTDRDQBEARUVNC-LURJTMIESA-N
  25 25  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -195,7 +195,7 @@ InChIKey=WTDRDQBEARUVNC-LURJTMIESA-N
 M  END
 $MOL
 thbpt4acam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:49:18
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:25:19
 InChIKey=KJKIEFUPAPPGBC-XXKOCQOQSA-N
  33 34  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

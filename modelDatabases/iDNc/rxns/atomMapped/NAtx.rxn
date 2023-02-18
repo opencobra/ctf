@@ -1,11 +1,11 @@
 $RXN
 NAtx
-COBRA Toolbox v3.0 - Atom mapped - 17-Apr-2022 09:03:07
+Atom mapped with COBRA Toolbox wrap ReactionDecoder rdt-2.5.0-SNAPSHOT - 17-Feb-2023 03:00:40
 na1[c] -> na1[x]
   1  1
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:37:53
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:14:10
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:37:53
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:14:10
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0

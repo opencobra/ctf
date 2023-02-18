@@ -5,7 +5,7 @@ cit[m] -> cit[c]
   1  1
 $MOL
 cit[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:12:10
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:48:21
 InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
  18 17  0  0  0  0  0  0  0  0999 V2000
     1.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ M  CHG  3   8  -1  10  -1  12  -1
 M  END
 $MOL
 cit[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:12:10
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:48:21
 InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
  18 17  0  0  0  0  0  0  0  0999 V2000
     1.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

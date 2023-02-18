@@ -5,7 +5,7 @@ udpg[c] + gal1p[c] -> udpgal[c] + g1p[c]
   2  2
 $MOL
 udpg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:52:14
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:27:50
 InChIKey=HSCJRCZFDFQWRP-JZMIEXBBSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,7 +130,7 @@ M  CHG  2  19  -1  26  -1
 M  END
 $MOL
 gal1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:22:00
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:00:39
 InChIKey=HXXFSFRBOHSIMQ-FPRJBGLDSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     3.4641   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -191,7 +191,7 @@ M  CHG  2  11  -1  12  -1
 M  END
 $MOL
 udpgal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:52:20
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:27:56
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -316,7 +316,7 @@ M  CHG  2  19  -1  26  -1
 M  END
 $MOL
 g1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:21:20
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:59:48
 InChIKey=HXXFSFRBOHSIMQ-GASJEMHNSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     3.4641   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

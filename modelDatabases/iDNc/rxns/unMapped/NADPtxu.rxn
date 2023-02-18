@@ -5,7 +5,7 @@ nadp[x] -> nadp[c]
   1  1
 $MOL
 nadp[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:38:15
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:14:33
 InChIKey=XJLXINKUBYWONI-NNYOXOHSSA-K
  73 77  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -162,7 +162,7 @@ M  CHG  5  27   1  32  -1  34  -1  35  -1  39  -1
 M  END
 $MOL
 nadp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:38:15
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:14:33
 InChIKey=XJLXINKUBYWONI-NNYOXOHSSA-K
  73 77  0  0  1  0  0  0  0  0999 V2000
     9.6394    2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

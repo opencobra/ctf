@@ -5,7 +5,7 @@ CE2028[c] -> CE2028[e]
   1  1
 $MOL
 CE2028[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:38:44
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:54:22
 InChIKey=AXFYFNCPONWUHW-UHFFFAOYSA-M
  17 16  0  0  0  0  0  0  0  0999 V2000
     0.3660    1.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 CE2028[e]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:38:44
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:54:22
 InChIKey=AXFYFNCPONWUHW-UHFFFAOYSA-M
  17 16  0  0  0  0  0  0  0  0999 V2000
     0.3660    1.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

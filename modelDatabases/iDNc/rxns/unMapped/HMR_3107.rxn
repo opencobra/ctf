@@ -5,7 +5,7 @@ fad[m] + docoscoa[m] -> fadh2[m] + CE2242[m]
   2  2
 $MOL
 fad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:20:08
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:58:11
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -185,7 +185,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 docoscoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:17:46
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:55:21
 InChIKey=NDDZLVOCGALPLR-JEAMVCTESA-J
 145147  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -484,7 +484,7 @@ M  CHG  4  51  -1  55  -1  56  -1  57  -1
 M  END
 $MOL
 fadh2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:20:14
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:58:19
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -668,7 +668,7 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 CE2242[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:54:00
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:32:08
 InChIKey=KRTIFNFQCJTGMV-UHFFFAOYSA-J
 143145  0  0  1  0  0  0  0  0999 V2000
    22.4499    7.0773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

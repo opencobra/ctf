@@ -5,7 +5,7 @@ ppcoa[c] -> ppcoa[x]
   1  1
 $MOL
 ppcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:52
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:50:16
 InChIKey=QAQREVBBADEHPA-SSERFMASSA-J
  88 90  0  0  1  0  0  0  0  0999 V2000
    15.1795   -5.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -190,7 +190,7 @@ M  CHG  4  32  -1  36  -1  37  -1  38  -1
 M  END
 $MOL
 ppcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:52
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:50:16
 InChIKey=QAQREVBBADEHPA-SSERFMASSA-J
  88 90  0  0  1  0  0  0  0  0999 V2000
    15.1795   -5.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

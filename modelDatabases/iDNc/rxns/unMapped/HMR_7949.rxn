@@ -5,7 +5,7 @@ chsterols[c] -> chsterols[r]
   1  1
 $MOL
 chsterols[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:12:05
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:48:15
 InChIKey=BHYOQNUELFTYRT-DPAQBDIFSA-M
  77 80  0  0  1  0  0  0  0  0999 V2000
   -10.2258   -0.5774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ M  CHG  1  28  -1
 M  END
 $MOL
 chsterols[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:12:05
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:48:15
 InChIKey=BHYOQNUELFTYRT-DPAQBDIFSA-M
  77 80  0  0  1  0  0  0  0  0999 V2000
   -10.2258   -0.5774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

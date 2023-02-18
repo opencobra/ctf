@@ -5,7 +5,7 @@ HC02203[m] -> HC02203[c]
   1  1
 $MOL
 HC02203[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:00:53
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:38:47
 InChIKey=MYHXHCUNDDAEOZ-JLGPIWRLSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -5.4280   -5.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -118,7 +118,7 @@ M  CHG  1  24  -1
 M  END
 $MOL
 HC02203[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:00:53
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:38:47
 InChIKey=MYHXHCUNDDAEOZ-JLGPIWRLSA-M
  53 53  0  0  1  0  0  0  0  0999 V2000
    -5.4280   -5.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

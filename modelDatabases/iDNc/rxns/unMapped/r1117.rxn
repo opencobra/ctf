@@ -5,7 +5,7 @@ dtmp[c] -> dtmp[m]
   1  1
 $MOL
 dtmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:18:50
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:56:51
 InChIKey=GYOZYWVXFNDGLU-XLPZGREQSA-L
  34 35  0  0  1  0  0  0  0  0999 V2000
     5.4478    4.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -81,7 +81,7 @@ M  CHG  2  14  -1  16  -1
 M  END
 $MOL
 dtmp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:18:50
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:56:51
 InChIKey=GYOZYWVXFNDGLU-XLPZGREQSA-L
  34 35  0  0  1  0  0  0  0  0999 V2000
     5.4478    4.5306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ fad[r] -> fad[c]
   1  1
 $MOL
 fad[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:03:20
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:28:16
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -185,7 +185,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 fad[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:03:20
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:28:16
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

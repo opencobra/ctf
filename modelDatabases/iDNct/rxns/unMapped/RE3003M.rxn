@@ -5,7 +5,7 @@ CE5120[m] -> CE5119[m]
   1  1
 $MOL
 CE5120[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:42:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:00:43
 InChIKey=SLIJUARARQEXRE-FBBQIBSYSA-J
 117119  0  0  1  0  0  0  0  0999 V2000
    17.8140    1.9286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -248,7 +248,7 @@ M  CHG  4  43  -1  47  -1  48  -1  49  -1
 M  END
 $MOL
 CE5119[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:42:20
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:00:33
 InChIKey=IHYQVHHPNVFYHJ-ADYFAOKZSA-J
 117119  0  0  1  0  0  0  0  0999 V2000
    17.8140    1.9286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

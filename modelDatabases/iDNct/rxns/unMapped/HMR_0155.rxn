@@ -5,7 +5,7 @@ but[e] -> but[c]
   1  1
 $MOL
 but[e]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:53:45
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:17:24
 InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37,7 +37,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 but[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:53:45
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:17:24
 InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

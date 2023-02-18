@@ -5,7 +5,7 @@ adrnl[e] -> adrnl[c]
   1  1
 $MOL
 adrnl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:07:05
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:43:45
 InChIKey=UCTWMZQNUQWSLP-VIFPVBQESA-O
  27 27  0  0  1  0  0  0  0  0999 V2000
     3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ M  CHG  1  10   1
 M  END
 $MOL
 adrnl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:07:05
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:43:45
 InChIKey=UCTWMZQNUQWSLP-VIFPVBQESA-O
  27 27  0  0  1  0  0  0  0  0999 V2000
     3.4641    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

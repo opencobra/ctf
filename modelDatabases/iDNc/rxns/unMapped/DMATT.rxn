@@ -5,7 +5,7 @@ ipdp[c] + dmpp[c] -> ppi[c] + grdp[c]
   2  2
 $MOL
 ipdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:30:47
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:08:44
 InChIKey=NUHSROFQTUXZQQ-UHFFFAOYSA-K
  23 22  0  0  0  0  0  0  0  0999 V2000
    -2.5000    0.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ M  CHG  3   6  -1   7  -1   9  -1
 M  END
 $MOL
 dmpp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:17:35
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:55:03
 InChIKey=CBIDRCWHNCKSTO-UHFFFAOYSA-K
  23 22  0  0  0  0  0  0  0  0999 V2000
    -2.5000    0.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,7 +109,7 @@ M  CHG  3   6  -1   7  -1   9  -1
 M  END
 $MOL
 ppi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:43:00
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:19:43
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -135,7 +135,7 @@ M  CHG  3   1  -1   2  -1   4  -1
 M  END
 $MOL
 grdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:26:10
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:04:58
 InChIKey=GVVPGTZRZFNKDS-JXMROGBWSA-K
  36 35  0  0  0  0  0  0  0  0999 V2000
    -5.5000    0.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

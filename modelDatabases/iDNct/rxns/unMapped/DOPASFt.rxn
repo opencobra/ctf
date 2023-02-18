@@ -5,7 +5,7 @@ dopasf[c] -> dopasf[e]
   1  1
 $MOL
 dopasf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:01:15
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:26:31
 InChIKey=NZKRYJGNYPYXJZ-UHFFFAOYSA-N
  26 26  0  0  0  0  0  0  0  0999 V2000
     2.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +63,7 @@ InChIKey=NZKRYJGNYPYXJZ-UHFFFAOYSA-N
 M  END
 $MOL
 dopasf[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:01:15
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:26:31
 InChIKey=NZKRYJGNYPYXJZ-UHFFFAOYSA-N
  26 26  0  0  0  0  0  0  0  0999 V2000
     2.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

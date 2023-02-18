@@ -5,7 +5,7 @@ dhdascb[e] -> dhdascb[c]
   1  1
 $MOL
 dhdascb[e]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:59:27
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:24:16
 InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
 M  END
 $MOL
 dhdascb[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:59:27
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:24:16
 InChIKey=SBJKKFFYIZUCET-DUZGATOHSA-N
  18 18  0  0  1  0  0  0  0  0999 V2000
     1.9680    0.6994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

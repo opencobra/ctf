@@ -5,7 +5,7 @@ nad[m] + mlthf[m] -> nadh[m] + methf[m]
   2  2
 $MOL
 nad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:19
 InChIKey=BAWFJGJZGIEFAR-GJOYCFHWSA-M
  70 74  0  0  1  0  0  0  0  0999 V2000
    -6.5704    0.4028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -156,7 +156,7 @@ M  CHG  3  27   1  33  -1  37  -1
 M  END
 $MOL
 mlthf[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:18:57
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:42:37
 InChIKey=QYNUQALWYRSVHF-UEWDXFNNSA-L
  54 57  0  0  1  0  0  0  0  0999 V2000
     5.7709   -3.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -274,7 +274,7 @@ M  CHG  2  29  -1  31  -1
 M  END
 $MOL
 nadh[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:32
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:25
 InChIKey=BOPGDPNILDQYTO-NNYOXOHSSA-L
  71 75  0  0  1  0  0  0  0  0999 V2000
    -6.5704    0.4028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -427,7 +427,7 @@ M  CHG  2  33  -1  34  -1
 M  END
 $MOL
 methf[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:18:22
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:41:42
 InChIKey=MEANFMOQMXYMCT-OLZOCXBDSA-M
  53 56  0  0  1  0  0  0  0  0999 V2000
     5.7709   -3.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

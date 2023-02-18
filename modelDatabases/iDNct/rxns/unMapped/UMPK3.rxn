@@ -5,7 +5,7 @@ utp[c] + ump[c] -> 2 udp[c]
   2  2
 $MOL
 utp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:33:36
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:59:32
 InChIKey=PGAVKCOVUIYSFO-XVFCMESISA-J
  40 41  0  0  1  0  0  0  0  0999 V2000
    -7.7105   -0.2138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  4  12  -1  16  -1  17  -1  19  -1
 M  END
 $MOL
 ump[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:33:11
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:59:05
 InChIKey=DJJCXFVJDGTHFX-XVFCMESISA-L
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -165,7 +165,7 @@ M  CHG  2  12  -1  16  -1
 M  END
 $MOL
 udp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:32:49
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:35
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -245,7 +245,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 udp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:32:49
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:35
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

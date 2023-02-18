@@ -5,7 +5,7 @@ atp[c] + dgmp[c] -> adp[c] + dgdp[c]
   2  2
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:09:54
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:46:24
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 dgmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:15:39
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:52:48
 InChIKey=LTFMZDNNPPEQNG-KVQBGUIXSA-L
  35 37  0  0  1  0  0  0  0  0999 V2000
     4.0388    0.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -179,7 +179,7 @@ M  CHG  2  17  -1  18  -1
 M  END
 $MOL
 adp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:06:42
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:43:26
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -266,7 +266,7 @@ M  CHG  3  18  -1  19  -1  21  -1
 M  END
 $MOL
 dgdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:15:34
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:52:42
 InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
    -4.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

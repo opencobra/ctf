@@ -5,7 +5,7 @@ sphings[c] -> sphings[e]
   1  1
 $MOL
 sphings[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:46:49
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:22:51
 InChIKey=WWUZIQQURGPMPG-KRWOKUGFSA-O
  59 58  0  0  1  0  0  0  0  0999 V2000
    12.1244   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -129,7 +129,7 @@ M  CHG  1  19   1
 M  END
 $MOL
 sphings[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:46:49
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:22:51
 InChIKey=WWUZIQQURGPMPG-KRWOKUGFSA-O
  59 58  0  0  1  0  0  0  0  0999 V2000
    12.1244   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 4hpro_LT[e]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:33:46
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:47:31
 InChIKey=PMMYEEVYMWASQN-DMTCNVIQSA-N
  18 18  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ InChIKey=PMMYEEVYMWASQN-DMTCNVIQSA-N
 M  END
 $MOL
 4hpro_LT[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:33:46
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:47:31
 InChIKey=PMMYEEVYMWASQN-DMTCNVIQSA-N
  18 18  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

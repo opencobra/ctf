@@ -5,7 +5,7 @@ xu5p_D[c] + e4p[c] -> g3p[c] + f6p[c]
   2  2
 $MOL
 xu5p_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:34:51
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 02:00:36
 InChIKey=FNZLKVNUWIIPSJ-RFZPGFLSSA-L
  23 22  0  0  1  0  0  0  0  0999 V2000
     1.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -57,7 +57,7 @@ M  CHG  2  10  -1  11  -1
 M  END
 $MOL
 e4p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:02:16
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:27:27
 InChIKey=NGHMDNPXVRFFGS-IUYQGCFVSA-L
  19 18  0  0  1  0  0  0  0  0999 V2000
     2.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -101,7 +101,7 @@ M  CHG  2   8  -1   9  -1
 M  END
 $MOL
 g3p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:04:47
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:29:49
 InChIKey=LXJXRIRHZLFYRP-VKHMYHEASA-L
  15 14  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ M  CHG  2   6  -1   7  -1
 M  END
 $MOL
 f6p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:03:15
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:28:10
 InChIKey=GSXOAOHZAIYLCY-HSUXUTPPSA-L
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.0000    1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ dcyt[c] -> dcyt[n]
   1  1
 $MOL
 dcyt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:14:47
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:52:12
 InChIKey=CKTSBUTUHBMZGZ-SHYZEUOFSA-N
  29 30  0  0  1  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -70,7 +70,7 @@ InChIKey=CKTSBUTUHBMZGZ-SHYZEUOFSA-N
 M  END
 $MOL
 dcyt[n]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:14:47
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:52:12
 InChIKey=CKTSBUTUHBMZGZ-SHYZEUOFSA-N
  29 30  0  0  1  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

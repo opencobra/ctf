@@ -5,7 +5,7 @@ dhcrm_hs[c] + fad[c] -> crm_hs[c] + fadh2[c]
   2  2
 $MOL
 dhcrm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:59:22
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:24:09
 
  62 61  0  0  1  0  0  0  0  0999 V2000
    13.8564    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -134,7 +134,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:59:22
 M  END
 $MOL
 fad[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:03:20
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:28:16
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -314,7 +314,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 crm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:20:34
 
  60 59  0  0  1  0  0  0  0  0999 V2000
    12.9904   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -439,7 +439,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:59
 M  END
 $MOL
 fadh2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:03:25
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:28:22
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

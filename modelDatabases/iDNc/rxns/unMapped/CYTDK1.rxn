@@ -5,7 +5,7 @@ atp[c] + cytd[c] -> h[c] + adp[c] + cmp[c]
   2  3
 $MOL
 atp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:09:54
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:46:24
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 cytd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:13:37
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:50:42
 InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -167,7 +167,7 @@ InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:26:51
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:05:45
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -176,7 +176,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 adp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:06:42
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:43:26
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -263,7 +263,7 @@ M  CHG  3  18  -1  19  -1  21  -1
 M  END
 $MOL
 cmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:12:24
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:48:49
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

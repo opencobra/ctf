@@ -5,7 +5,7 @@ CREATt4_2_r
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 creat[e]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:54
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:20:27
 InChIKey=CVSVTCORWBXHQV-UHFFFAOYSA-N
  18 17  0  0  0  0  0  0  0  0999 V2000
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -62,7 +62,7 @@ InChIKey=CVSVTCORWBXHQV-UHFFFAOYSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -70,7 +70,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -78,7 +78,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 creat[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:54
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:20:27
 InChIKey=CVSVTCORWBXHQV-UHFFFAOYSA-N
  18 17  0  0  0  0  0  0  0  0999 V2000
     0.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

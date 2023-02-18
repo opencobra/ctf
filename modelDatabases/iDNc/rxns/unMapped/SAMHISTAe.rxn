@@ -5,7 +5,7 @@ hista[e] + amet[e] -> h[e] + ahcys[e] + mhista[e]
   2  3
 $MOL
 hista[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:28:47
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:07:08
 InChIKey=NTYJJOPFIAHURM-UHFFFAOYSA-O
  18 18  0  0  0  0  0  0  0  0999 V2000
     1.7601    0.2788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -48,7 +48,7 @@ M  CHG  1   6   1
 M  END
 $MOL
 amet[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:08:13
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:44:41
 InChIKey=MEFKEPWMEQBLKI-AIRLBKTGSA-O
  50 52  0  0  1  0  0  0  0  0999 V2000
     2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -157,7 +157,7 @@ M  CHG  1  27   1
 M  END
 $MOL
 h[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:26:51
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:05:45
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -166,7 +166,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 ahcys[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:07:10
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:43:50
 InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
  46 48  0  0  1  0  0  0  0  0999 V2000
    -3.9290    0.7283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -266,7 +266,7 @@ InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
 M  END
 $MOL
 mhista[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:36:53
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:13:03
 InChIKey=FHQDWPCFSJMNCT-UHFFFAOYSA-O
  21 21  0  0  0  0  0  0  0  0999 V2000
     2.5691    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

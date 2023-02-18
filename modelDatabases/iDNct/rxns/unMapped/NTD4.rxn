@@ -5,7 +5,7 @@ h2o[c] + cmp[c] -> pi[c] + cytd[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:00
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 cmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:34
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:19:46
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -90,7 +90,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:49:38
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -108,7 +108,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 cytd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:56:35
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:21:23
 InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

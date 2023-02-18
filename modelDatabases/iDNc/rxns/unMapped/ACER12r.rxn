@@ -5,7 +5,7 @@ h2o[r] + dhcrm_hs[r] -> sphgn[r] + Rtotal[r]
   2  2
 $MOL
 h2o[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:26:56
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:05:51
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dhcrm_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:16:18
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:53:35
 
  62 61  0  0  1  0  0  0  0  0999 V2000
    13.8564    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -145,7 +145,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:16:18
 M  END
 $MOL
 sphgn[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:46:44
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:22:45
 InChIKey=OTKJDMGTUTTYMP-ZWKOTPCHSA-O
  61 60  0  0  1  0  0  0  0  0999 V2000
    12.1244   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -273,7 +273,7 @@ M  CHG  1  19   1
 M  END
 $MOL
 Rtotal[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:04:05
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:40:52
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0

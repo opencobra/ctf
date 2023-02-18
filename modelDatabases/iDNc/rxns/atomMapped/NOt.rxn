@@ -1,11 +1,11 @@
 $RXN
 NOt
-COBRA Toolbox v3.0 - Atom mapped - 17-Apr-2022 09:08:18
+Atom mapped with COBRA Toolbox wrap ReactionDecoder rdt-2.5.0-SNAPSHOT - 17-Feb-2023 03:05:54
 no[e] -> no[c]
   1  1
 $MOL
 no[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:38:52
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:15:14
 InChIKey=MWUXSHHQAYIFBG-UHFFFAOYSA-N
   2  1  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -15,7 +15,7 @@ M  RAD  1   1   2
 M  END
 $MOL
 no[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:38:52
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:15:14
 InChIKey=MWUXSHHQAYIFBG-UHFFFAOYSA-N
   2  1  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  1  0  0

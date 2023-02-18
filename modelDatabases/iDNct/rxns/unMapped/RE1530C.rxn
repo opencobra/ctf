@@ -5,7 +5,7 @@ dgtp[c] + duri[c] -> h[c] + dgdp[c] + dump[c]
   2  3
 $MOL
 dgtp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:58:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:23:36
 InChIKey=HAAZLUGHYHWQIW-KVQBGUIXSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ M  CHG  4  17  -1  18  -1  19  -1  21  -1
 M  END
 $MOL
 duri[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:02:01
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:27:10
 InChIKey=MXHRCPNRJAMMIM-SHYZEUOFSA-N
  28 29  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -163,7 +163,7 @@ InChIKey=MXHRCPNRJAMMIM-SHYZEUOFSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -172,7 +172,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 dgdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:58:38
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:23:18
 InChIKey=CIKGWCTVFSRMJU-KVQBGUIXSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
    -4.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -259,7 +259,7 @@ M  CHG  3  17  -1  18  -1  19  -1
 M  END
 $MOL
 dump[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:01:56
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:27:05
 InChIKey=JSRLJPSBLDHEIO-SHYZEUOFSA-L
  31 32  0  0  1  0  0  0  0  0999 V2000
     6.5704    2.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

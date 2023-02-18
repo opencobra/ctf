@@ -5,7 +5,7 @@ nrpphr[e] -> nrpphr[c]
   1  1
 $MOL
 nrpphr[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:20:22
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:44:23
 InChIKey=SFLSHLFXELFNJZ-QMMMGPOBSA-O
  24 24  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -60,7 +60,7 @@ M  CHG  1   9   1
 M  END
 $MOL
 nrpphr[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:20:22
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:44:23
 InChIKey=SFLSHLFXELFNJZ-QMMMGPOBSA-O
  24 24  0  0  1  0  0  0  0  0999 V2000
    -1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ h2o[c] + leuleu[c] -> 2 leu_L[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:00
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 leuleu[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:14:41
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:39:24
 InChIKey=LCPYQJIKPJDLLB-UHFFFAOYSA-N
  41 40  0  0  1  0  0  0  0  0999 V2000
    -3.4641   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -103,7 +103,7 @@ InChIKey=LCPYQJIKPJDLLB-UHFFFAOYSA-N
 M  END
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:13:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:38:57
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -152,7 +152,7 @@ InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
 M  END
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:13:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:38:57
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

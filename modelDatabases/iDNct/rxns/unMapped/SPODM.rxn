@@ -1,0 +1,67 @@
+$RXN
+SPODM
+
+2 h[c] + 2 o2s[c] -> o2[c] + h2o2[c]
+  4  2
+$MOL
+h[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
+M  CHG  1   1   1
+M  END
+$MOL
+h[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
+InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+M  ISO  1   1   1
+M  CHG  1   1   1
+M  END
+$MOL
+o2s[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:44:32
+InChIKey=OUUQCZGPVNCOIJ-UHFFFAOYSA-M
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  1  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  RAD  1   2   2
+M  CHG  1   1  -1
+M  END
+$MOL
+o2s[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:44:32
+InChIKey=OUUQCZGPVNCOIJ-UHFFFAOYSA-M
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  1  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+M  RAD  1   2   2
+M  CHG  1   1  -1
+M  END
+$MOL
+o2[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:44:28
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+M  END
+$MOL
+h2o2[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:05
+InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4850   -0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4850    0.8400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+M  END

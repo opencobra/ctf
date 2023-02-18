@@ -5,7 +5,7 @@ glypro[c] -> glypro[e]
   1  1
 $MOL
 glypro[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:00
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:33:15
 InChIKey=KZNQNBZMBZJQJO-YFKPBYRVSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=KZNQNBZMBZJQJO-YFKPBYRVSA-N
 M  END
 $MOL
 glypro[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:00
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:33:15
 InChIKey=KZNQNBZMBZJQJO-YFKPBYRVSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

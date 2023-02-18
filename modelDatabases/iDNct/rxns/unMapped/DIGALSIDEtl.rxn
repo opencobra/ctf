@@ -5,7 +5,7 @@ digalside_hs[c] -> digalside_hs[l]
   1  1
 $MOL
 digalside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:59:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:24:35
 InChIKey=YVBUQOZKCCPFCZ-VTAAUCPCSA-N
 151152  0  0  1  0  0  0  0  0999 V2000
    -8.6603   -9.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -314,7 +314,7 @@ InChIKey=YVBUQOZKCCPFCZ-VTAAUCPCSA-N
 M  END
 $MOL
 digalside_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:59:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:24:35
 InChIKey=YVBUQOZKCCPFCZ-VTAAUCPCSA-N
 151152  0  0  1  0  0  0  0  0999 V2000
    -8.6603   -9.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

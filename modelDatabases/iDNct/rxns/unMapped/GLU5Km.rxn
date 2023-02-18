@@ -5,7 +5,7 @@ glu_L[m] + atp[m] -> adp[m] + glu5p[m]
   2  2
 $MOL
 glu_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:06:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:31:55
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 atp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:53:25
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:16:43
 InChIKey=ZKHQWZAMYRWXGA-KQYNXXCUSA-J
  43 45  0  0  1  0  0  0  0  0999 V2000
    -2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -142,7 +142,7 @@ M  CHG  4  18  -1  19  -1  21  -1  23  -1
 M  END
 $MOL
 adp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:49:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:12:20
 InChIKey=XTWYTFMLZFPYCI-KQYNXXCUSA-K
  39 41  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -229,7 +229,7 @@ M  CHG  3  18  -1  19  -1  21  -1
 M  END
 $MOL
 glu5p[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:06:16
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:31:44
 InChIKey=PJRXVIJAERNUIP-VKHMYHEASA-L
  22 21  0  0  1  0  0  0  0  0999 V2000
     3.0000    1.7321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

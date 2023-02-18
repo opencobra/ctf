@@ -5,7 +5,7 @@ hmgcoa[c] -> hmgcoa[m]
   1  1
 $MOL
 hmgcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:10:54
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:36:35
 InChIKey=CABVTRNMFUVUDM-VRHQGPGLSA-I
  97 99  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -208,7 +208,7 @@ M  CHG  5  35  -1  37  -1  41  -1  43  -1  44  -1
 M  END
 $MOL
 hmgcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:10:54
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:36:35
 InChIKey=CABVTRNMFUVUDM-VRHQGPGLSA-I
  97 99  0  0  1  0  0  0  0  0999 V2000
     4.3924   -5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ mev_R[c] -> mev_R[x]
   1  1
 $MOL
 mev_R[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:36:48
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:12:58
 InChIKey=KJTLQQUUPVSXIM-ZCFIWIBFSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 mev_R[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:36:48
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:12:58
 InChIKey=KJTLQQUUPVSXIM-ZCFIWIBFSA-M
  21 20  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

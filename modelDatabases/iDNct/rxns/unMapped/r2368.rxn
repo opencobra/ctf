@@ -5,7 +5,7 @@ prostgh2[e] -> prostgh2[c]
   1  1
 $MOL
 prostgh2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:25:37
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:51:22
 InChIKey=YIBNHAJFJUQSRA-RVEIBMIBSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
     3.3878    0.9780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -125,7 +125,7 @@ M  CHG  1  23  -1
 M  END
 $MOL
 prostgh2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:25:37
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:51:22
 InChIKey=YIBNHAJFJUQSRA-RVEIBMIBSA-M
  56 57  0  0  1  0  0  0  0  0999 V2000
     3.3878    0.9780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

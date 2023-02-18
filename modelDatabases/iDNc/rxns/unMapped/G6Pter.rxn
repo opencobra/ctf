@@ -5,7 +5,7 @@ g6p[c] -> g6p[r]
   1  1
 $MOL
 g6p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:21:35
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:00:07
 InChIKey=NBSCHQHZLSJFNQ-GASJEMHNSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -66,7 +66,7 @@ M  CHG  2  11  -1  12  -1
 M  END
 $MOL
 g6p[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:21:35
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:00:07
 InChIKey=NBSCHQHZLSJFNQ-GASJEMHNSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     1.5000   -0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

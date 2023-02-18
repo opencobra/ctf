@@ -5,7 +5,7 @@ fadh2[c] -> fadh2[x]
   1  1
 $MOL
 fadh2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:20:14
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:58:19
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -189,7 +189,7 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 fadh2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:20:14
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:58:19
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

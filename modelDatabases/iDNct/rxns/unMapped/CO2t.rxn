@@ -5,7 +5,7 @@ co2[e] -> co2[c]
   1  1
 $MOL
 co2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:39
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:20:02
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:39
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:20:02
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

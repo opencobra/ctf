@@ -5,7 +5,7 @@ fad[x] + dece4coa[x] -> fadh2[x] + dec24dicoa[x]
   2  2
 $MOL
 fad[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:20:08
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:58:11
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -185,7 +185,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 dece4coa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:15:27
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:52:34
 InChIKey=QTOYQSMKQWCWOX-CCVVLBLYSA-J
 107109  0  0  1  0  0  0  0  0999 V2000
    15.4961   -0.6457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -408,7 +408,7 @@ M  CHG  4  39  -1  43  -1  44  -1  45  -1
 M  END
 $MOL
 fadh2[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:20:14
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:58:19
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -592,7 +592,7 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 dec24dicoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:15:15
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:52:27
 InChIKey=FASAKYLWSRDQOH-IKZSJNQUSA-J
 105107  0  0  1  0  0  0  0  0999 V2000
    15.4961   -0.6457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

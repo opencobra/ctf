@@ -5,7 +5,7 @@ progly[c] -> progly[e]
   1  1
 $MOL
 progly[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:25:27
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:51:09
 InChIKey=RNKSNIBMTUYWSH-YFKPBYRVSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=RNKSNIBMTUYWSH-YFKPBYRVSA-N
 M  END
 $MOL
 progly[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:25:27
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:51:09
 InChIKey=RNKSNIBMTUYWSH-YFKPBYRVSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

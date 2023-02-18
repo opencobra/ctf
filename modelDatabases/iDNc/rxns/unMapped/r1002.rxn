@@ -5,7 +5,7 @@ crn[c] + lnlccrn[r] -> crn[r] + lnlccrn[c]
   2  2
 $MOL
 crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:13:08
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:50:02
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +63,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 lnlccrn[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:33:41
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:11:15
 InChIKey=MJLXQSQYKZWZCB-DQFWFXSYSA-N
  75 74  0  0  1  0  0  0  0  0999 V2000
    13.0000    3.4641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -219,7 +219,7 @@ M  CHG  2  26   1  28  -1
 M  END
 $MOL
 crn[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:13:08
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:50:02
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -277,7 +277,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 lnlccrn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:33:41
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:11:15
 InChIKey=MJLXQSQYKZWZCB-DQFWFXSYSA-N
  75 74  0  0  1  0  0  0  0  0999 V2000
    13.0000    3.4641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ h2o[c] + mi14p[c] -> pi[c] + mi1p_D[c]
   2  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:00
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 mi14p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:18:47
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:42:14
 InChIKey=PELZSPZCXGTUMR-RTPHHQFDSA-J
  30 30  0  0  1  0  0  0  0  0999 V2000
     1.0000    1.7321    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -83,7 +83,7 @@ M  CHG  4  11  -1  12  -1  14  -1  15  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:49:38
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -101,7 +101,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 mi1p_D[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:18:52
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:42:20
 InChIKey=INAPMGSXUVUWAF-UOTPTPDRSA-L
  27 27  0  0  1  0  0  0  0  0999 V2000
     2.5000    2.5981    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0

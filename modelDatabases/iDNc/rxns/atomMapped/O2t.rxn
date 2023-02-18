@@ -1,11 +1,11 @@
 $RXN
 O2t
-COBRA Toolbox v3.0 - Atom mapped - 17-Apr-2022 12:49:14
+Atom mapped with COBRA Toolbox wrap ReactionDecoder rdt-2.5.0-SNAPSHOT - 17-Feb-2023 06:13:47
 o2[e] -> o2[c]
   1  1
 $MOL
 o2[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:39:11
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:15:25
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:39:11
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:15:25
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0            999 V2000
     0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  1  0  0

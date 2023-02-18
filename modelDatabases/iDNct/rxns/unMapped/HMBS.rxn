@@ -5,7 +5,7 @@ h2o[c] + 4 ppbng[c] -> 4 nh4[c] + hmbil[c]
   5  5
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:00
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 ppbng[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:47
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:50:09
 InChIKey=QSHWIQZFGQKFMA-UHFFFAOYSA-M
  29 29  0  0  0  0  0  0  0  0999 V2000
     2.5691   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -81,7 +81,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 ppbng[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:47
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:50:09
 InChIKey=QSHWIQZFGQKFMA-UHFFFAOYSA-M
  29 29  0  0  0  0  0  0  0  0999 V2000
     2.5691   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -146,7 +146,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 ppbng[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:47
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:50:09
 InChIKey=QSHWIQZFGQKFMA-UHFFFAOYSA-M
  29 29  0  0  0  0  0  0  0  0999 V2000
     2.5691   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -211,7 +211,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 ppbng[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:47
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:50:09
 InChIKey=QSHWIQZFGQKFMA-UHFFFAOYSA-M
  29 29  0  0  0  0  0  0  0  0999 V2000
     2.5691   -0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -276,7 +276,7 @@ M  CHG  1  14  -1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:50
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -292,7 +292,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:50
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -308,7 +308,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:50
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -324,7 +324,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:50
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -340,7 +340,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 hmbil[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:10:48
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:36:29
 InChIKey=WDFJYRZCZIUBPR-UHFFFAOYSA-F
  99102  0  0  0  0  0  0  0  0999 V2000
   -10.4332   -1.5648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

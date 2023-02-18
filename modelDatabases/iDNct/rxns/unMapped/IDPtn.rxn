@@ -5,7 +5,7 @@ idp[c] -> idp[n]
   1  1
 $MOL
 idp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:11:47
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:37:22
 InChIKey=JPXZQMKKFWMMGK-KQYNXXCUSA-K
  38 40  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -90,7 +90,7 @@ M  CHG  3  17  -1  18  -1  19  -1
 M  END
 $MOL
 idp[n]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:11:47
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:37:22
 InChIKey=JPXZQMKKFWMMGK-KQYNXXCUSA-K
  38 40  0  0  1  0  0  0  0  0999 V2000
     2.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

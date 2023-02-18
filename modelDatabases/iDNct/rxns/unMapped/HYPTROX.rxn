@@ -5,7 +5,7 @@ o2[c] + 2 hyptaur[c] -> 2 taur[c]
   3  2
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:20:32
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:44:28
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 hyptaur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:11:27
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:37:12
 InChIKey=VVIUBCNYACGLLV-UHFFFAOYSA-N
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ InChIKey=VVIUBCNYACGLLV-UHFFFAOYSA-N
 M  END
 $MOL
 hyptaur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:11:27
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:37:12
 InChIKey=VVIUBCNYACGLLV-UHFFFAOYSA-N
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -76,7 +76,7 @@ InChIKey=VVIUBCNYACGLLV-UHFFFAOYSA-N
 M  END
 $MOL
 taur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:29:28
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:55:11
 InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
  14 13  0  0  0  0  0  0  0  0999 V2000
     1.5000    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -109,7 +109,7 @@ InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
 M  END
 $MOL
 taur[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:29:28
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:55:11
 InChIKey=XOAAWQZATWQOTB-UHFFFAOYSA-N
  14 13  0  0  0  0  0  0  0  0999 V2000
     1.5000    0.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,15 +1,15 @@
 $RXN
 r0838
-COBRA Toolbox v3.0 - Atom mapped - 16-Apr-2022 14:20:43
+Atom mapped with COBRA Toolbox wrap ReactionDecoder rdt-2.5.0-SNAPSHOT - 16-Feb-2023 03:01:18
 nh4[c] -> nh4[m]
   1  1
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:50
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
-    0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
-    0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  2  0  0
+    0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
+    0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  1  0  0
     0.0000    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
    -0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
    -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  5  0  0
@@ -21,11 +21,11 @@ M  CHG  1   2   1
 M  END
 $MOL
 nh4[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:50
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0            999 V2000
-    0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  1  0  0
-    0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  2  0  0
+    0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  2  0  0
+    0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  1  0  0
     0.0000    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  3  0  0
    -0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  4  0  0
    -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  5  0  0

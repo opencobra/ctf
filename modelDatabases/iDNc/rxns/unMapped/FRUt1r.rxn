@@ -5,7 +5,7 @@ fru[e] -> fru[c]
   1  1
 $MOL
 fru[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:21:11
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:59:37
 InChIKey=RFSUNEUAIZKAJO-ARQDHWQXSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     1.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=RFSUNEUAIZKAJO-ARQDHWQXSA-N
 M  END
 $MOL
 fru[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:21:11
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:59:37
 InChIKey=RFSUNEUAIZKAJO-ARQDHWQXSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     1.5878    0.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

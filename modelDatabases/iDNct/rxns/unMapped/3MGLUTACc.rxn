@@ -5,7 +5,7 @@ h2o[m] + 3mgcoa[m] -> h[m] + coa[m] + 3mglutac[m]
   2  3
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:00
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 3mgcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:31:27
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:45:20
 InChIKey=GXKSHRDAHFLWPN-RKYLSHMCSA-I
  94 96  0  0  1  0  0  0  0  0999 V2000
    12.5544   -6.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -213,7 +213,7 @@ M  CHG  5  35  -1  37  -1  41  -1  42  -1  43  -1
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -222,7 +222,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:43
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:20:09
 InChIKey=RGJOEKWQDUBAIZ-IBOSZNHHSA-J
  80 82  0  0  1  0  0  0  0  0999 V2000
    -1.5320    4.9564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -391,7 +391,7 @@ M  CHG  4  29  -1  32  -1  33  -1  34  -1
 M  END
 $MOL
 3mglutac[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:31:34
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:45:29
 InChIKey=WKRBKYFIJPGYQC-DUXPYHPUSA-L
  16 15  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

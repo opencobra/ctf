@@ -5,7 +5,7 @@ h2o[c] + h[c] + gsn[c] -> nh4[c] + xtsn[c]
   3  2
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:00
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -25,7 +25,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 gsn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:25
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:15
 InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
  33 35  0  0  1  0  0  0  0  0999 V2000
     5.5237    0.0909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,7 +99,7 @@ InChIKey=NYHBQMYGNKIUIF-UUOKFMHZSA-N
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:50
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -115,7 +115,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 xtsn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:34:46
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 02:00:31
 InChIKey=UBORTCNDUKBEOP-UUOKFMHZSA-N
  32 34  0  0  1  0  0  0  0  0999 V2000
     5.5237    0.0909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

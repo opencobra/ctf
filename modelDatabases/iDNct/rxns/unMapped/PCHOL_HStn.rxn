@@ -5,7 +5,7 @@ pchol_hs[c] -> pchol_hs[n]
   1  1
 $MOL
 pchol_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:22:49
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:47:23
 
  40 39  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ M  CHG  2   2   1  10  -1
 M  END
 $MOL
 pchol_hs[n]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:22:49
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:47:23
 
  40 39  0  0  1  0  0  0  0  0999 V2000
     1.0000   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

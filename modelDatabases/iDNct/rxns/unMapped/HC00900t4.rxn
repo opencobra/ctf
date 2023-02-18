@@ -5,7 +5,7 @@ pi[e] + HC00900[c] -> pi[c] + HC00900[e]
   2  2
 $MOL
 pi[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:49:38
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -23,7 +23,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 HC00900[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:43:21
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:02:34
 InChIKey=ZIYVHBGGAOATLY-UHFFFAOYSA-L
  12 11  0  0  0  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ M  CHG  2   6  -1   8  -1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:49:38
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 HC00900[e]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:43:21
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:02:34
 InChIKey=ZIYVHBGGAOATLY-UHFFFAOYSA-L
  12 11  0  0  0  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

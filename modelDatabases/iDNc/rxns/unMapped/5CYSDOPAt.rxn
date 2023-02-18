@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 5cysdopa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:49:40
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:28:29
 InChIKey=BZYHBWCVRKSWDB-ZETCQYMHSA-O
  35 35  0  0  1  0  0  0  0  0999 V2000
     0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -82,7 +82,7 @@ M  CHG  1  12   1
 M  END
 $MOL
 5cysdopa[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:49:40
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:28:29
 InChIKey=BZYHBWCVRKSWDB-ZETCQYMHSA-O
  35 35  0  0  1  0  0  0  0  0999 V2000
     0.0000    3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

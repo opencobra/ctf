@@ -5,7 +5,7 @@ lac_L[x] -> lac_L[c]
   1  1
 $MOL
 lac_L[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:13:28
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:38:35
 InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M
  11 10  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -33,7 +33,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 lac_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:13:28
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:38:35
 InChIKey=JVTAAEKCZFNVCJ-REOHCLBHSA-M
  11 10  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

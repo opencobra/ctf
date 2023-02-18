@@ -5,7 +5,7 @@ cys_L[c] + dopaqn[c] -> CE1261[c]
   2  1
 $MOL
 cys_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:56:18
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:21:11
 InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -38,7 +38,7 @@ InChIKey=XUJNEKJLAYXESH-REOHCLBHSA-N
 M  END
 $MOL
 dopaqn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:01:11
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:26:26
 InChIKey=AHMIDUVKSGCHAU-LURJTMIESA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
     0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -90,7 +90,7 @@ InChIKey=AHMIDUVKSGCHAU-LURJTMIESA-N
 M  END
 $MOL
 CE1261[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:38:05
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:53:57
 InChIKey=SXISMOAILJWTID-RQJHMYQMSA-N
  37 37  0  0  1  0  0  0  0  0999 V2000
     2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

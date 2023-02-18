@@ -5,7 +5,7 @@ k[c] -> k[e]
   1  1
 $MOL
 k[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:30:57
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:09:02
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 k[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:30:57
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:09:02
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0

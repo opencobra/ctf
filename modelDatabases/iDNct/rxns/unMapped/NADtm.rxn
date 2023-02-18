@@ -5,7 +5,7 @@ nad[c] -> nad[m]
   1  1
 $MOL
 nad[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:19
 InChIKey=BAWFJGJZGIEFAR-GJOYCFHWSA-M
  70 74  0  0  1  0  0  0  0  0999 V2000
    -6.5704    0.4028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -156,7 +156,7 @@ M  CHG  3  27   1  33  -1  37  -1
 M  END
 $MOL
 nad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:19
 InChIKey=BAWFJGJZGIEFAR-GJOYCFHWSA-M
  70 74  0  0  1  0  0  0  0  0999 V2000
    -6.5704    0.4028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

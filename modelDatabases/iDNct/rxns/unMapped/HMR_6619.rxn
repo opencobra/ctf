@@ -5,7 +5,7 @@ trdox[c] -> trdox[n]
   1  1
 $MOL
 trdox[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:30:56
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:57:43
 
  24 23  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -3.5000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +58,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:30:56
 M  END
 $MOL
 trdox[n]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:30:56
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:57:43
 
  24 23  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -3.5000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0

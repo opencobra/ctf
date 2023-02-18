@@ -5,7 +5,7 @@ pail45p_hs[c] -> pail45p_hs[n]
   1  1
 $MOL
 pail45p_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:22:11
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:46:39
 InChIKey=JFDJYDKOBGSRRB-GWNZYFFWSA-I
 140140  0  0  1  0  0  0  0  0999 V2000
    -6.3923  -19.4641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -292,7 +292,7 @@ M  CHG  5  50  -1  51  -1  53  -1  54  -1  56  -1
 M  END
 $MOL
 pail45p_hs[n]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:22:11
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:46:39
 InChIKey=JFDJYDKOBGSRRB-GWNZYFFWSA-I
 140140  0  0  1  0  0  0  0  0999 V2000
    -6.3923  -19.4641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

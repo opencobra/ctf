@@ -5,7 +5,7 @@ na1[e] + ser_L[e] -> na1[c] + ser_L[c]
   2  2
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 ser_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:27:42
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:53:36
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -46,7 +46,7 @@ InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 ser_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:27:42
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:53:36
 InChIKey=MTCFGRXMJLQNBG-REOHCLBHSA-N
  14 13  0  0  1  0  0  0  0  0999 V2000
     2.5981    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

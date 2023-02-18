@@ -5,7 +5,7 @@ pi[c] + adn[c] -> ade[c] + r1p[c]
   2  2
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:49:38
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -23,7 +23,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 adn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:49:21
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:12:11
 InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
  32 34  0  0  1  0  0  0  0  0999 V2000
    -1.6637   -0.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ InChIKey=OIRDTQYFTABQOQ-KQYNXXCUSA-N
 M  END
 $MOL
 ade[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:49:16
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:12:04
 InChIKey=GFFGJBXGBJISGV-UHFFFAOYSA-N
  15 16  0  0  0  0  0  0  0  0999 V2000
     2.4049   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -132,7 +132,7 @@ InChIKey=GFFGJBXGBJISGV-UHFFFAOYSA-N
 M  END
 $MOL
 r1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:26:31
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:52:22
 InChIKey=YXJDFQJKERBOBM-TXICZTDVSA-L
  23 23  0  0  1  0  0  0  0  0999 V2000
     3.4432   -1.7319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

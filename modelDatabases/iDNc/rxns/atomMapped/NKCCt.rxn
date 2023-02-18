@@ -1,11 +1,11 @@
 $RXN
 NKCCt
-COBRA Toolbox v3.0 - Atom mapped - 17-Apr-2022 09:06:44
+Atom mapped with COBRA Toolbox wrap ReactionDecoder rdt-2.5.0-SNAPSHOT - 17-Feb-2023 03:04:19
 na1[e] + k[e] + 2 cl[e] -> na1[c] + k[c] + 2 cl[c]
   4  4
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:37:53
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:14:10
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 k[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:30:57
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:09:02
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  2  0  0
@@ -21,7 +21,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:12:20
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:48:36
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  3  0  0
@@ -29,7 +29,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 cl[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:12:20
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:48:36
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  4  0  0
@@ -37,7 +37,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:37:53
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:14:10
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  1  0  0
@@ -45,7 +45,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 k[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:30:57
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:09:02
 InChIKey=NPYPAHLBTDXSSS-UHFFFAOYSA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 K   0  3  0  0  0  0  0  0  0  2  0  0
@@ -53,7 +53,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 cl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:12:20
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:48:36
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  3  0  0
@@ -61,7 +61,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 cl[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:12:20
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:48:36
 InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  4  0  0

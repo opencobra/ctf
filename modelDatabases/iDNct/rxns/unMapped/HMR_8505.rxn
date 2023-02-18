@@ -5,7 +5,7 @@ lald_L[c] -> lald_L[m]
   1  1
 $MOL
 lald_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:13:37
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:38:45
 InChIKey=BSABBBMNWQWLLU-VKHMYHEASA-N
  11 10  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -32,7 +32,7 @@ InChIKey=BSABBBMNWQWLLU-VKHMYHEASA-N
 M  END
 $MOL
 lald_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:13:37
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:38:45
 InChIKey=BSABBBMNWQWLLU-VKHMYHEASA-N
  11 10  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

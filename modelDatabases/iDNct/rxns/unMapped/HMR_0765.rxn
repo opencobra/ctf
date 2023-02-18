@@ -5,7 +5,7 @@ gluside_hs[r] + udpgal[r] -> h[r] + udp[r] + galgluside_hs[r]
   2  3
 $MOL
 gluside_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:06:50
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:32:06
 InChIKey=HHJTWTPUPVQKNA-KEVGHMQTSA-N
  79 79  0  0  1  0  0  0  0  0999 V2000
    14.7224   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -169,7 +169,7 @@ InChIKey=HHJTWTPUPVQKNA-KEVGHMQTSA-N
 M  END
 $MOL
 udpgal[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:33:00
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:53
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -294,7 +294,7 @@ M  CHG  2  19  -1  26  -1
 M  END
 $MOL
 h[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -303,7 +303,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 udp[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:32:49
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:35
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -383,7 +383,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 galgluside_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:05:07
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:30:28
 InChIKey=POQRWMRXUOPCLD-UHFFFAOYSA-N
 150150  0  0  1  0  0  0  0  0999 V2000
    12.9904   20.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

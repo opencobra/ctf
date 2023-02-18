@@ -5,7 +5,7 @@ dopa4sf[c] -> dopa4sf[e]
   1  1
 $MOL
 dopa4sf[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:18:20
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:56:13
 InChIKey=DEKNNWJXAQTLFA-UHFFFAOYSA-N
  26 26  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +63,7 @@ InChIKey=DEKNNWJXAQTLFA-UHFFFAOYSA-N
 M  END
 $MOL
 dopa4sf[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:18:20
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:56:13
 InChIKey=DEKNNWJXAQTLFA-UHFFFAOYSA-N
  26 26  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

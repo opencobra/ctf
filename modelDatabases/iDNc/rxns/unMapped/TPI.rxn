@@ -5,7 +5,7 @@ dhap[c] -> g3p[c]
   1  1
 $MOL
 dhap[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:15:54
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:53:06
 InChIKey=GNGACRATGGDKBX-UHFFFAOYSA-L
  15 14  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -41,7 +41,7 @@ M  CHG  2   6  -1   7  -1
 M  END
 $MOL
 g3p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:21:25
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:59:55
 InChIKey=LXJXRIRHZLFYRP-VKHMYHEASA-L
  15 14  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ galgluside_hs[r] -> galgluside_hs[c]
   1  1
 $MOL
 galgluside_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:22:05
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:00:46
 InChIKey=POQRWMRXUOPCLD-UHFFFAOYSA-N
 150150  0  0  1  0  0  0  0  0999 V2000
    12.9904   20.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -311,7 +311,7 @@ InChIKey=POQRWMRXUOPCLD-UHFFFAOYSA-N
 M  END
 $MOL
 galgluside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:22:05
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:00:46
 InChIKey=POQRWMRXUOPCLD-UHFFFAOYSA-N
 150150  0  0  1  0  0  0  0  0999 V2000
    12.9904   20.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

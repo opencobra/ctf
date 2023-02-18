@@ -5,7 +5,7 @@ dlnlcgcoa[c] -> dlnlcgcoa[r]
   1  1
 $MOL
 dlnlcgcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:00:19
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:24:57
 InChIKey=FJWJALRUNNZIBB-DDQUOPDJSA-J
 133135  0  0  1  0  0  0  0  0999 V2000
   -14.3371   -1.9328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -280,7 +280,7 @@ M  CHG  4  49  -1  53  -1  54  -1  55  -1
 M  END
 $MOL
 dlnlcgcoa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:00:19
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:24:57
 InChIKey=FJWJALRUNNZIBB-DDQUOPDJSA-J
 133135  0  0  1  0  0  0  0  0999 V2000
   -14.3371   -1.9328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

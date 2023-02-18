@@ -5,7 +5,7 @@ tyr_L[c] -> tyr_L[m]
   1  1
 $MOL
 tyr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:32:23
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:24
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
 M  END
 $MOL
 tyr_L[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:32:23
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:24
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ accoa[c] -> accoa[r]
   1  1
 $MOL
 accoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:47:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:10:02
 InChIKey=ZSLZBFCDCINBPY-ZSJPKINUSA-J
  85 87  0  0  1  0  0  0  0  0999 V2000
    14.4363   -5.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -184,7 +184,7 @@ M  CHG  4  32  -1  35  -1  36  -1  37  -1
 M  END
 $MOL
 accoa[r]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:47:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:10:02
 InChIKey=ZSLZBFCDCINBPY-ZSJPKINUSA-J
  85 87  0  0  1  0  0  0  0  0999 V2000
    14.4363   -5.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ h2o[c] + ethamp[c] -> nh4[c] + pi[c] + acald[c]
   2  3
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:26:56
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:05:51
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 ethamp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:19:59
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:57:52
 InChIKey=SUHOOTKUPISOBE-UHFFFAOYSA-M
  15 14  0  0  0  0  0  0  0  0999 V2000
    -1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -52,7 +52,7 @@ M  CHG  1   4  -1
 M  END
 $MOL
 nh4[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:38:31
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:14:53
 InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
   5  4  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
@@ -68,7 +68,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 pi[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:42:28
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:19:07
 InChIKey=NBIIXXVUZAFLBC-UHFFFAOYSA-L
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -86,7 +86,7 @@ M  CHG  2   1  -1   2  -1
 M  END
 $MOL
 acald[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:05:02
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:41:43
 InChIKey=IKHGUXGNUITLKF-UHFFFAOYSA-N
   7  6  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

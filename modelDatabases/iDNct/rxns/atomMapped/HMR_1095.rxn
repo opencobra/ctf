@@ -1,11 +1,11 @@
 $RXN
 HMR_1095
-COBRA Toolbox v3.0 - Atom mapped - 16-Apr-2022 17:34:18
+Atom mapped with COBRA Toolbox wrap ReactionDecoder rdt-2.5.0-SNAPSHOT - 16-Feb-2023 06:08:31
 h[c] -> h[n]
   1  1
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0
@@ -14,7 +14,7 @@ M  ISO  1   1   1
 M  END
 $MOL
 h[n]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0            999 V2000
     0.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  1  0  0

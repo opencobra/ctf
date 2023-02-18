@@ -5,7 +5,7 @@ o2[c] + thbpt[c] + phe_L[c] -> h2o[c] + dhbpt[c] + tyr_L[c]
   3  3
 $MOL
 o2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:20:32
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:44:28
 InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
   2  1  0  0  0  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
 M  END
 $MOL
 thbpt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:30:04
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:56:21
 InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
  32 33  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -85,7 +85,7 @@ InChIKey=FNKQXYHWGSIFBK-RPDRRWSUSA-N
 M  END
 $MOL
 phe_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:23:32
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:49:14
 InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
  23 23  0  0  1  0  0  0  0  0999 V2000
    -0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ InChIKey=COLNVLDHVKWLRT-QMMMGPOBSA-N
 M  END
 $MOL
 h2o[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:00
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -148,7 +148,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dhbpt[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:59:04
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:23:47
 InChIKey=ZHQJVZLJDXWFFX-RPDRRWSUSA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     5.1962    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -215,7 +215,7 @@ InChIKey=ZHQJVZLJDXWFFX-RPDRRWSUSA-N
 M  END
 $MOL
 tyr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:32:23
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:24
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

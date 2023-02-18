@@ -5,7 +5,7 @@ ametam[c] + spmd[c] -> h[c] + sprm[c] + 5mta[c]
   2  3
 $MOL
 ametam[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:50:51
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:14:27
 InChIKey=ZUNBITIXDCPNSD-LSRJEVITSA-O
  48 50  0  0  1  0  0  0  0  0999 V2000
    -2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -110,7 +110,7 @@ M  CHG  2  15   1  24   1
 M  END
 $MOL
 spmd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:28:33
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:54:10
 InChIKey=ATHGHQPFGPMSJY-UHFFFAOYSA-Q
  32 31  0  0  0  0  0  0  0  0999 V2000
     1.7321   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -180,7 +180,7 @@ M  CHG  3   8   1   9   1  10   1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -189,7 +189,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 sprm[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:28:38
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:54:16
 InChIKey=PFNFFQXMRSDOHW-UHFFFAOYSA-R
  44 43  0  0  0  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -283,7 +283,7 @@ M  CHG  4  11   1  12   1  13   1  14   1
 M  END
 $MOL
 5mta[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:35:20
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:49:12
 InChIKey=WUUGFSXJNOTRMR-IOSLPCCCSA-N
  35 37  0  0  1  0  0  0  0  0999 V2000
    -2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ but[c] + ppa[e] -> ppa[c] + but[e]
   2  2
 $MOL
 but[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:53:45
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:17:24
 InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -37,7 +37,7 @@ M  CHG  1   6  -1
 M  END
 $MOL
 ppa[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:42
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:50:04
 InChIKey=XBDQKXXYIPTUBI-UHFFFAOYSA-M
  10  9  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +63,7 @@ M  CHG  1   5  -1
 M  END
 $MOL
 ppa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:42
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:50:04
 InChIKey=XBDQKXXYIPTUBI-UHFFFAOYSA-M
  10  9  0  0  0  0  0  0  0  0999 V2000
     1.7321    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -89,7 +89,7 @@ M  CHG  1   5  -1
 M  END
 $MOL
 but[e]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:53:45
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:17:24
 InChIKey=FERIUCNNQQJTOY-UHFFFAOYSA-M
  13 12  0  0  0  0  0  0  0  0999 V2000
     1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

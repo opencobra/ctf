@@ -5,7 +5,7 @@ dhcrm_hs[c] -> dhcrm_hs[r]
   1  1
 $MOL
 dhcrm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:16:18
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:53:35
 
  62 61  0  0  1  0  0  0  0  0999 V2000
    13.8564    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -134,7 +134,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:16:18
 M  END
 $MOL
 dhcrm_hs[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:16:18
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:53:35
 
  62 61  0  0  1  0  0  0  0  0999 V2000
    13.8564    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

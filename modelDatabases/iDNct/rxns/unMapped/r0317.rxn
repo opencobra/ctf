@@ -5,7 +5,7 @@ cit[m] -> h2o[m] + HC00342[m]
   1  2
 $MOL
 cit[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:20
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:19:26
 InChIKey=KRKNYBCHXYNGOX-UHFFFAOYSA-K
  18 17  0  0  0  0  0  0  0  0999 V2000
     1.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ M  CHG  3   8  -1  10  -1  12  -1
 M  END
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:00
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +58,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 HC00342[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:42:57
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:01:54
 InChIKey=GTZCVFVGUGFEME-IWQZZHSRSA-K
  15 14  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

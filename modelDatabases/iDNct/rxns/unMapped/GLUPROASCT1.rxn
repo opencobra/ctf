@@ -5,7 +5,7 @@ na1[e] + glu_L[e] + pro_L[c] -> na1[c] + glu_L[c] + pro_L[e]
   3  3
 $MOL
 na1[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -13,7 +13,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 glu_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:06:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:31:55
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -55,7 +55,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 pro_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:25:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:51:04
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -95,7 +95,7 @@ InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
 M  END
 $MOL
 na1[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:09
 InChIKey=FKNQFGJONOIPTF-UHFFFAOYSA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
@@ -103,7 +103,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 glu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:06:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:31:55
 InChIKey=WHUUTDBJXJRKMK-VKHMYHEASA-M
  18 17  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -145,7 +145,7 @@ M  CHG  1   8  -1
 M  END
 $MOL
 pro_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:25:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:51:04
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

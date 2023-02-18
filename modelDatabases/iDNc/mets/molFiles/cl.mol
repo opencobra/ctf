@@ -1,0 +1,8 @@
+cl
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:48:36
+InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-M
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    1.0000    0.0000    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+M  CHG  1   1  -1
+M  END
+

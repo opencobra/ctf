@@ -5,7 +5,7 @@ orn[c] + arg_L[e] -> arg_L[c] + orn[e]
   2  2
 $MOL
 orn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:21:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:45:40
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -55,7 +55,7 @@ M  CHG  1   6   1
 M  END
 $MOL
 arg_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:51:52
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:15:55
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -115,7 +115,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 arg_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:51:52
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:15:55
 InChIKey=ODKSFYDXXFIFQN-BYPYZUCNSA-O
  27 26  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -175,7 +175,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 orn[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:21:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:45:40
 InChIKey=AHLPHDHHMVZTML-BYPYZUCNSA-O
  22 21  0  0  1  0  0  0  0  0999 V2000
     2.5981    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

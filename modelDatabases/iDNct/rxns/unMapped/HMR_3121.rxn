@@ -5,7 +5,7 @@ fad[m] + pmtcoa[m] -> fadh2[m] + hdd2coa[m]
   2  2
 $MOL
 fad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:03:20
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:28:16
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -185,7 +185,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 pmtcoa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:31
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:49:43
 InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J
 127129  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -448,7 +448,7 @@ M  CHG  4  45  -1  49  -1  50  -1  51  -1
 M  END
 $MOL
 fadh2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:03:25
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:28:22
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -632,7 +632,7 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 hdd2coa[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:09:39
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:54
 InChIKey=JUPAQFRKPHPXLD-MSHHSVQMSA-J
 125127  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

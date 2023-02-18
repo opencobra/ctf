@@ -5,7 +5,7 @@ datp[c] + cmp[c] -> dadp[c] + cdp[c]
   2  2
 $MOL
 datp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:14:03
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:51:03
 InChIKey=SUYVUBYJARFZHO-RRKCRQDMSA-J
  42 44  0  0  1  0  0  0  0  0999 V2000
    -2.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ M  CHG  4  17  -1  18  -1  20  -1  22  -1
 M  END
 $MOL
 cmp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:12:24
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:48:49
 InChIKey=IERHLVCPSMICTF-XVFCMESISA-L
  33 34  0  0  1  0  0  0  0  0999 V2000
     5.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -172,7 +172,7 @@ M  CHG  2  15  -1  16  -1
 M  END
 $MOL
 dadp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:13:46
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:50:48
 InChIKey=DAEAPNUQQAICNR-RRKCRQDMSA-K
  38 40  0  0  1  0  0  0  0  0999 V2000
    -4.0388   -2.3660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -257,7 +257,7 @@ M  CHG  3  17  -1  18  -1  20  -1
 M  END
 $MOL
 cdp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:11:22
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:47:28
 InChIKey=ZWIADYZPOWUWEW-XVFCMESISA-K
  37 38  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

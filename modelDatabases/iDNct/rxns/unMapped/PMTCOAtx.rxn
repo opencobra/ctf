@@ -5,7 +5,7 @@ pmtcoa[c] -> pmtcoa[x]
   1  1
 $MOL
 pmtcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:31
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:49:43
 InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J
 127129  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -268,7 +268,7 @@ M  CHG  4  45  -1  49  -1  50  -1  51  -1
 M  END
 $MOL
 pmtcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:31
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:49:43
 InChIKey=MNBKLUUYKPBKDU-BBECNAHFSA-J
 127129  0  0  1  0  0  0  0  0999 V2000
    18.9730    3.2158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

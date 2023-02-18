@@ -5,7 +5,7 @@ utp[c] + s7p[c] -> h[c] + udp[c] + HC00361[c]
   2  3
 $MOL
 utp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:33:36
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:59:32
 InChIKey=PGAVKCOVUIYSFO-XVFCMESISA-J
  40 41  0  0  1  0  0  0  0  0999 V2000
    -7.7105   -0.2138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ M  CHG  4  12  -1  16  -1  17  -1  19  -1
 M  END
 $MOL
 s7p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:27:27
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:53:14
 InChIKey=JDTUMPKOJBQPKX-GBNDHIKLSA-L
  31 30  0  0  1  0  0  0  0  0999 V2000
    -4.3301    1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -161,7 +161,7 @@ M  CHG  2  14  -1  15  -1
 M  END
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -170,7 +170,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 udp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:32:49
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:35
 InChIKey=XCCTYIAWTASOJW-XVFCMESISA-K
  36 37  0  0  1  0  0  0  0  0999 V2000
     7.7105   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -250,7 +250,7 @@ M  CHG  3  12  -1  16  -1  17  -1
 M  END
 $MOL
 HC00361[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:43:02
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:02:02
 InChIKey=OKHXOUGRECCASI-SHUUEZRQSA-J
  34 33  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

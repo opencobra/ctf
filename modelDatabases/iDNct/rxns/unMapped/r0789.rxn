@@ -5,7 +5,7 @@ amet[c] + HC01842[c] -> ahcys[c] + cholp[c]
   2  2
 $MOL
 amet[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:50:45
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:14:19
 InChIKey=MEFKEPWMEQBLKI-AIRLBKTGSA-O
  50 52  0  0  1  0  0  0  0  0999 V2000
     2.9508    0.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -114,7 +114,7 @@ M  CHG  1  27   1
 M  END
 $MOL
 HC01842[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:43:45
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:03:30
 InChIKey=BLHVJAAEHMLMOI-UHFFFAOYSA-L
  20 19  0  0  0  0  0  0  0  0999 V2000
     2.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -160,7 +160,7 @@ M  CHG  2   6  -1   7  -1
 M  END
 $MOL
 ahcys[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:49:40
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:13:11
 InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
  46 48  0  0  1  0  0  0  0  0999 V2000
    -3.9290    0.7283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -260,7 +260,7 @@ InChIKey=ZJUKTBDSGOFHSH-WFMPWKQPSA-N
 M  END
 $MOL
 cholp[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:04
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:19:03
 InChIKey=YHHSONZFOIEMCP-UHFFFAOYSA-M
  24 23  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

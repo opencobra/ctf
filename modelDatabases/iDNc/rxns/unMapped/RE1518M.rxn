@@ -5,7 +5,7 @@ fad[m] + CE0785[m] -> fadh2[m] + CE2432[m]
   2  2
 $MOL
 fad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:20:08
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:58:11
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -185,7 +185,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 CE0785[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:52:58
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:31:34
 InChIKey=MJBZUCVXTFUVFY-UHFFFAOYSA-J
 117119  0  0  1  0  0  0  0  0999 V2000
    17.8140    1.9286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -428,7 +428,7 @@ M  CHG  4  43  -1  47  -1  48  -1  49  -1
 M  END
 $MOL
 fadh2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:20:14
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:58:19
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -612,7 +612,7 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 CE2432[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:55:30
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:33:21
 InChIKey=JSDPYDDAJCNOIE-SXLWDNCISA-J
 115117  0  0  1  0  0  0  0  0999 V2000
    17.8140    1.9286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ urcan[c] -> urcan[e]
   1  1
 $MOL
 urcan[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:33:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:59:22
 InChIKey=LOIYMIARKYCTBW-OWOJBTEDSA-M
  15 15  0  0  0  0  0  0  0  0999 V2000
    -1.2601   -1.2601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -42,7 +42,7 @@ M  CHG  1  10  -1
 M  END
 $MOL
 urcan[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:33:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:59:22
 InChIKey=LOIYMIARKYCTBW-OWOJBTEDSA-M
  15 15  0  0  0  0  0  0  0  0999 V2000
    -1.2601   -1.2601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

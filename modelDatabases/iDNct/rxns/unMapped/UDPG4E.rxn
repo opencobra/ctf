@@ -5,7 +5,7 @@ udpg[c] -> udpgal[c]
   1  1
 $MOL
 udpg[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:32:54
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:47
 InChIKey=HSCJRCZFDFQWRP-JZMIEXBBSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,7 +130,7 @@ M  CHG  2  19  -1  26  -1
 M  END
 $MOL
 udpgal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:33:00
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:53
 InChIKey=HSCJRCZFDFQWRP-ABVWGUQPSA-L
  58 60  0  0  1  0  0  0  0  0999 V2000
    -5.7105    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

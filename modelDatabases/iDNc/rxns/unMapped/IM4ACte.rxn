@@ -5,7 +5,7 @@ im4ac[e] -> im4ac[c]
   1  1
 $MOL
 im4ac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:30:22
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:08:16
 InChIKey=PRJKNHOMHKJCEJ-UHFFFAOYSA-M
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -40,7 +40,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 im4ac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:30:22
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:08:16
 InChIKey=PRJKNHOMHKJCEJ-UHFFFAOYSA-M
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

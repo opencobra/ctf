@@ -5,7 +5,7 @@ CE2432[m] -> CE5117[m]
   1  1
 $MOL
 CE2432[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:40:01
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:57:00
 InChIKey=JSDPYDDAJCNOIE-SXLWDNCISA-J
 115117  0  0  1  0  0  0  0  0999 V2000
    17.8140    1.9286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -244,7 +244,7 @@ M  CHG  4  43  -1  47  -1  48  -1  49  -1
 M  END
 $MOL
 CE5117[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:42:07
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:00:09
 InChIKey=FXHAQFYRGXSRHS-VZIATHHHSA-J
 115117  0  0  1  0  0  0  0  0999 V2000
     7.5603   -0.4924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ Rtotal[e] -> Rtotal[c]
   1  1
 $MOL
 Rtotal[e]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:47:18
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:08:29
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -19,7 +19,7 @@ M  CHG  1   1  -1
 M  END
 $MOL
 Rtotal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:47:18
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:08:29
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ crn[m] -> crn[c]
   1  1
 $MOL
 crn[m]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:56:04
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:20:47
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +63,7 @@ M  CHG  2   8   1  11  -1
 M  END
 $MOL
 crn[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:56:04
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:20:47
 InChIKey=PHIQHXFUZVPYII-LURJTMIESA-N
  26 25  0  0  1  0  0  0  0  0999 V2000
     1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

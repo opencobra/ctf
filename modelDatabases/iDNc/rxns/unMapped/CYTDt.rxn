@@ -5,7 +5,7 @@ cytd[e] -> cytd[c]
   1  1
 $MOL
 cytd[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:13:37
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:50:42
 InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -72,7 +72,7 @@ InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
 M  END
 $MOL
 cytd[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:13:37
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:50:42
 InChIKey=UHDGCWIWMRVCDJ-XVFCMESISA-N
  30 31  0  0  1  0  0  0  0  0999 V2000
     1.7321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

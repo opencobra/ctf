@@ -5,7 +5,7 @@ hestratriol[c] -> hestratriol[l]
   1  1
 $MOL
 hestratriol[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:09:51
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:36:01
 InChIKey=QOZFCKXEVSGWGS-ZHIYBZGJSA-N
  45 48  0  0  1  0  0  0  0  0999 V2000
     0.0003   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -104,7 +104,7 @@ InChIKey=QOZFCKXEVSGWGS-ZHIYBZGJSA-N
 M  END
 $MOL
 hestratriol[l]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:09:51
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:36:01
 InChIKey=QOZFCKXEVSGWGS-ZHIYBZGJSA-N
  45 48  0  0  1  0  0  0  0  0999 V2000
     0.0003   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

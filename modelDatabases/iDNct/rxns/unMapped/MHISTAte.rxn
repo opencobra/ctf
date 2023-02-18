@@ -5,7 +5,7 @@ mhista[c] -> mhista[e]
   1  1
 $MOL
 mhista[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:18:38
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:41:53
 InChIKey=FHQDWPCFSJMNCT-UHFFFAOYSA-O
  21 21  0  0  0  0  0  0  0  0999 V2000
     2.5691    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ M  CHG  1   7   1
 M  END
 $MOL
 mhista[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:18:38
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:41:53
 InChIKey=FHQDWPCFSJMNCT-UHFFFAOYSA-O
  21 21  0  0  0  0  0  0  0  0999 V2000
     2.5691    0.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

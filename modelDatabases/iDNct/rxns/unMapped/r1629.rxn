@@ -5,7 +5,7 @@ pro_L[c] + tyr_L[e] -> tyr_L[c] + pro_L[e]
   2  2
 $MOL
 pro_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:25:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:51:04
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -45,7 +45,7 @@ InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
 M  END
 $MOL
 tyr_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:32:23
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:24
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,7 +99,7 @@ InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
 M  END
 $MOL
 tyr_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:32:23
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:58:24
 InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
     0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -153,7 +153,7 @@ InChIKey=OUYCCCASQSFEME-QMMMGPOBSA-N
 M  END
 $MOL
 pro_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:25:17
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:51:04
 InChIKey=ONIBWKKTOPOVIA-BYPYZUCNSA-N
  17 17  0  0  1  0  0  0  0  0999 V2000
     0.5000   -1.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

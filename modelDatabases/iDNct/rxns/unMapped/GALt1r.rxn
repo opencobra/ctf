@@ -5,7 +5,7 @@ gal[e] -> gal[c]
   1  1
 $MOL
 gal[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:04:57
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:30:16
 InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -59,7 +59,7 @@ InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
 M  END
 $MOL
 gal[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:04:57
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:30:16
 InChIKey=WQZGKKKJIJFFOK-PHYPRBDBSA-N
  24 24  0  0  1  0  0  0  0  0999 V2000
    -0.8660   -1.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

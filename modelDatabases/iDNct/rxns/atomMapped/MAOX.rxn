@@ -1,0 +1,89 @@
+$RXN
+MAOX
+Atom mapped with COBRA Toolbox wrap ReactionDecoder rdt-2.5.0-SNAPSHOT - 16-Feb-2023 01:39:51
+h2o[c] + o2[c] + mma[c] -> h2o2[c] + nh4[c] + fald[c]
+  3  3
+$MOL
+h2o[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:00
+InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
+  3  2  0  0  0  0            999 V2000
+    0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0 12  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0
+    2.1434    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0 13  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+$MOL
+o2[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:44:28
+InChIKey=MYMOFIZGZYHOMD-UHFFFAOYSA-N
+  2  1  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  4  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  5  0  0
+  1  2  2  0  0  0  0
+M  END
+$MOL
+mma[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:42:43
+InChIKey=BAVYZALUXZFZLV-UHFFFAOYSA-O
+  8  7  0  0  0  0            999 V2000
+    0.8250   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  6  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  2  0  0
+    1.6500   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  7  0  0
+    0.8250    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  8  0  0
+    0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  1  0  0
+    0.0000    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  9  0  0
+   -0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 10  0  0
+   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0 11  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  CHG  1   5   1
+M  END
+$MOL
+h2o2[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:05
+InChIKey=MHAJPDPJQMAIIY-UHFFFAOYSA-N
+  4  3  0  0  0  0            999 V2000
+    1.2375   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0 12  0  0
+    0.8250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  5  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  4  0  0
+   -0.4125    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0 13  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+$MOL
+nh4[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:50
+InChIKey=QGZKDVFQNNGYKY-UHFFFAOYSA-O
+  5  4  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0 10  0  0
+    0.0000    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  1  0  0
+    0.0000    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0 11  0  0
+   -0.8250    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  8  0  0
+   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  9  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+$MOL
+fald[c]
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:28:29
+InChIKey=WSFSSNUMVMOOMR-UHFFFAOYSA-N
+  4  3  0  0  0  0            999 V2000
+    1.2375   -0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  7  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  2  0  0
+    1.2375    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  6  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  3  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+M  END

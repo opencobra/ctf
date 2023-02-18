@@ -5,7 +5,7 @@ h[c] + his_L[c] -> co2[c] + hista[c]
   2  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 his_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:09:56
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:36:07
 InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
  20 20  0  0  1  0  0  0  0  0999 V2000
    -0.8090    1.5878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -60,7 +60,7 @@ InChIKey=HNDVDQJCIGZPNO-YFKPBYRVSA-N
 M  END
 $MOL
 co2[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:39
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:20:02
 InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
    -1.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -71,7 +71,7 @@ InChIKey=CURLTUGMZLYLDI-UHFFFAOYSA-N
 M  END
 $MOL
 hista[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:10:38
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:36:24
 InChIKey=NTYJJOPFIAHURM-UHFFFAOYSA-O
  18 18  0  0  0  0  0  0  0  0999 V2000
     1.7601    0.2788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

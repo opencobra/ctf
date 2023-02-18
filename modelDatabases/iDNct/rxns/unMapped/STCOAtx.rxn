@@ -5,7 +5,7 @@ stcoa[c] -> stcoa[x]
   1  1
 $MOL
 stcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:28:54
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:54:34
 InChIKey=SIARJEKBADXQJG-LFZQUHGESA-J
 133135  0  0  1  0  0  0  0  0999 V2000
    20.1320    4.5030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -280,7 +280,7 @@ M  CHG  4  47  -1  51  -1  52  -1  53  -1
 M  END
 $MOL
 stcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:28:54
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:54:34
 InChIKey=SIARJEKBADXQJG-LFZQUHGESA-J
 133135  0  0  1  0  0  0  0  0999 V2000
    20.1320    4.5030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

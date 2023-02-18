@@ -5,7 +5,7 @@ C05280[m] -> C05279[m]
   1  1
 $MOL
 C05280[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:52:06
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:31:07
 InChIKey=KEPSPLQXVPROMK-ASJCJLDXSA-J
 111113  0  0  1  0  0  0  0  0999 V2000
   -14.3038   -3.8930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -236,7 +236,7 @@ M  CHG  4  41  -1  45  -1  46  -1  47  -1
 M  END
 $MOL
 C05279[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 18:51:59
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 07:30:59
 InChIKey=BNPQDIKRZDRREL-GQUYLXGASA-J
 111113  0  0  1  0  0  0  0  0999 V2000
   -16.8246   -7.9664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

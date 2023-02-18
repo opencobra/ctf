@@ -5,7 +5,7 @@ h2o[m] + dutp[m] -> h[m] + ppi[m] + dump[m]
   2  3
 $MOL
 h2o[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:00
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 dutp[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:02:06
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:27:16
 InChIKey=AHCYMLUZIRLXAA-SHYZEUOFSA-J
  39 40  0  0  1  0  0  0  0  0999 V2000
    -4.5704   -4.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -102,7 +102,7 @@ M  CHG  4  13  -1  15  -1  16  -1  18  -1
 M  END
 $MOL
 h[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -111,7 +111,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 ppi[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:24:58
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:50:22
 InChIKey=XPPKVPWEQAFLFU-UHFFFAOYSA-K
  10  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    1.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
@@ -137,7 +137,7 @@ M  CHG  3   1  -1   2  -1   4  -1
 M  END
 $MOL
 dump[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:01:56
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:27:05
 InChIKey=JSRLJPSBLDHEIO-SHYZEUOFSA-L
  31 32  0  0  1  0  0  0  0  0999 V2000
     6.5704    2.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

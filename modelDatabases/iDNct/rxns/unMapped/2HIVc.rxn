@@ -5,7 +5,7 @@ h[c] + nadh[c] + 3mob[c] -> nad[c] + 2hiv[c]
   3  2
 $MOL
 h[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -14,7 +14,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 nadh[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:32
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:25
 InChIKey=BOPGDPNILDQYTO-NNYOXOHSSA-L
  71 75  0  0  1  0  0  0  0  0999 V2000
    -6.5704    0.4028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -167,7 +167,7 @@ M  CHG  2  33  -1  34  -1
 M  END
 $MOL
 3mob[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:31:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:45:42
 InChIKey=QHKABHOOEWYVLI-UHFFFAOYSA-M
  15 14  0  0  0  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -203,7 +203,7 @@ M  CHG  1   7  -1
 M  END
 $MOL
 nad[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:19:26
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:43:19
 InChIKey=BAWFJGJZGIEFAR-GJOYCFHWSA-M
  70 74  0  0  1  0  0  0  0  0999 V2000
    -6.5704    0.4028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -354,7 +354,7 @@ M  CHG  3  27   1  33  -1  37  -1
 M  END
 $MOL
 2hiv[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:28:39
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:41:21
 InChIKey=NGEWQZIDQIYUNV-UHFFFAOYSA-M
  17 16  0  0  1  0  0  0  0  0999 V2000
     3.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

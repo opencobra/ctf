@@ -5,7 +5,7 @@ fadh2[m] + etfox[m] -> fad[m] + etfrd[m]
   2  2
 $MOL
 fadh2[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:03:25
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:28:22
 InChIKey=YPZRHBJKEMOYQH-UYBVJOGSSA-L
  86 91  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -189,14 +189,14 @@ M  CHG  2  42  -1  43  -1
 M  END
 $MOL
 etfox[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:02:41
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:27:44
 
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0
 M  END
 $MOL
 fad[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:03:20
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:28:16
 InChIKey=VWWQXMAJTJZDQX-UYBVJOGSSA-L
  84 89  0  0  1  0  0  0  0  0999 V2000
    -7.5000    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -376,7 +376,7 @@ M  CHG  2  42  -1  44  -1
 M  END
 $MOL
 etfrd[m]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:02:46
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:27:49
 
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 *   0  0  0  0  0  0  0  0  0  0  0  0

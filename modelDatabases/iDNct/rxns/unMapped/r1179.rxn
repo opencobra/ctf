@@ -5,7 +5,7 @@ h2o[r] + HC02024[r] -> h[r] + chsterol[r] + lnlc[r]
   2  3
 $MOL
 h2o[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:35:00
 InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
   3  2  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -16,7 +16,7 @@ InChIKey=XLYOFNOQVPJJNP-UHFFFAOYSA-N
 M  END
 $MOL
 HC02024[r]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:44:09
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:03:58
 InChIKey=NAACPBBQTFFYQB-LJAITQKLSA-N
 123126  0  0  1  0  0  0  0  0999 V2000
   -11.3837   -1.4318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -271,7 +271,7 @@ InChIKey=NAACPBBQTFFYQB-LJAITQKLSA-N
 M  END
 $MOL
 h[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:08:55
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:34:55
 InChIKey=GPRLSGONYQIRFK-FTGQXOHASA-N
   1  0  0  0  0  0  0  0  0  0999 V2000
     1.0000    0.0000    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
@@ -280,7 +280,7 @@ M  CHG  1   1   1
 M  END
 $MOL
 chsterol[r]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:09
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:19:10
 InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
  74 77  0  0  1  0  0  0  0  0999 V2000
    -3.9926    6.3752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -437,7 +437,7 @@ InChIKey=HVYWMOMLDIMFJA-DPAQBDIFSA-N
 M  END
 $MOL
 lnlc[r]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:15:45
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:40:00
 InChIKey=OYHQOLUKZRVURQ-HZJYTTRNSA-M
  51 50  0  0  0  0  0  0  0  0999 V2000
    10.3923   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ arachcoa[c] -> arachcoa[x]
   1  1
 $MOL
 arachcoa[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:51:22
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:14:58
 InChIKey=JYLSVNBJLYCSSW-IBYUJNRCSA-J
 139141  0  0  1  0  0  0  0  0999 V2000
    21.2910    5.7901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -292,7 +292,7 @@ M  CHG  4  49  -1  53  -1  54  -1  55  -1
 M  END
 $MOL
 arachcoa[x]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:51:22
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:14:58
 InChIKey=JYLSVNBJLYCSSW-IBYUJNRCSA-J
 139141  0  0  1  0  0  0  0  0999 V2000
    21.2910    5.7901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

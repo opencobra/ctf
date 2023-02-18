@@ -5,7 +5,7 @@ galside_hs[c] -> galside_hs[l]
   1  1
 $MOL
 galside_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:05:14
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:30:36
 InChIKey=VJLLLMIZEJJZTE-DQVPDRNHSA-N
 126126  0  0  1  0  0  0  0  0999 V2000
    -7.7942  -13.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -263,7 +263,7 @@ InChIKey=VJLLLMIZEJJZTE-DQVPDRNHSA-N
 M  END
 $MOL
 galside_hs[l]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 00:05:14
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:30:36
 InChIKey=VJLLLMIZEJJZTE-DQVPDRNHSA-N
 126126  0  0  1  0  0  0  0  0999 V2000
    -7.7942  -13.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

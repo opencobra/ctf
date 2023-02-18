@@ -5,7 +5,7 @@ gln_L[e] + leu_L[c] -> gln_L[c] + leu_L[e]
   2  2
 $MOL
 gln_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:22:54
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:01:59
 InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -50,7 +50,7 @@ InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
 M  END
 $MOL
 leu_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:31:41
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:09:39
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -99,7 +99,7 @@ InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
 M  END
 $MOL
 gln_L[c]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:22:54
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:01:59
 InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
  20 19  0  0  1  0  0  0  0  0999 V2000
    -2.5981   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -144,7 +144,7 @@ InChIKey=ZDXPYRJPNDTMRX-VKHMYHEASA-N
 M  END
 $MOL
 leu_L[e]
-COBRA Toolbox v3.0 - explicitH molecule - 16-Apr-2022 19:31:41
+COBRA Toolbox - explicitH molecule - 16-Feb-2023 08:09:39
 InChIKey=ROHFNLRQFUQHCH-YFKPBYRVSA-N
  22 21  0  0  1  0  0  0  0  0999 V2000
    -3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -5,7 +5,7 @@ $RXN
   1  1
 $MOL
 2m3hvac[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:28:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:41:48
 InChIKey=NVIHALDXJWGLFD-UHFFFAOYSA-M
  20 19  0  0  1  0  0  0  0  0999 V2000
     3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -51,7 +51,7 @@ M  CHG  1   9  -1
 M  END
 $MOL
 2m3hvac[e]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:28:53
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:41:48
 InChIKey=NVIHALDXJWGLFD-UHFFFAOYSA-M
  20 19  0  0  1  0  0  0  0  0999 V2000
     3.4641    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

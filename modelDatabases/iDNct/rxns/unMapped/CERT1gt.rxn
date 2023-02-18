@@ -5,7 +5,7 @@ crm_hs[c] -> crm_hs[g]
   1  1
 $MOL
 crm_hs[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:20:34
 
  60 59  0  0  1  0  0  0  0  0999 V2000
    12.9904   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
@@ -130,7 +130,7 @@ COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:59
 M  END
 $MOL
 crm_hs[g]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:55:59
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 01:20:34
 
  60 59  0  0  1  0  0  0  0  0999 V2000
    12.9904   -1.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

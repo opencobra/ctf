@@ -5,7 +5,7 @@ MTRI
   1  1
 $MOL
 5mdr1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:35:11
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:48:59
 InChIKey=JTFITTQBRJDSTL-KVTDHHQDSA-L
  26 26  0  0  1  0  0  0  0  0999 V2000
    -3.9377   -2.9115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -64,7 +64,7 @@ M  CHG  2   9  -1  10  -1
 M  END
 $MOL
 5mdru1p[c]
-COBRA Toolbox v3.0 - explicitH molecule - 15-Apr-2022 23:35:16
+COBRA Toolbox - explicitH molecule - 15-Feb-2023 00:49:05
 InChIKey=CNSJRYUMVMWNMC-RITPCOANSA-L
  26 25  0  0  1  0  0  0  0  0999 V2000
     4.5000   -2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
